@@ -10,4 +10,5 @@ dependencies = [
     "icalendar==5.0.13",
     "python-dateutil==2.9.0",
     "pytz==2024.1",
+    "cloudscraper==1.2.71",
 ]

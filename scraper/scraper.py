@@ -10,7 +10,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import List, Dict
 
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import pytz
 
@@ -24,25 +24,21 @@ class LumitonScraper:
 
     def __init__(self):
         self.events = []
+        self.scraper = cloudscraper.create_scraper(
+            browser={
+                'browser': 'chrome',
+                'platform': 'windows',
+                'mobile': False
+            }
+        )
 
     def fetch_page(self) -> str:
         """Fetch the HTML content of the agenda page"""
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-            "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-            "Upgrade-Insecure-Requests": "1",
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "none",
-        }
         try:
-            response = requests.get(self.BASE_URL, headers=headers, timeout=10)
+            response = self.scraper.get(self.BASE_URL, timeout=30)
             response.raise_for_status()
             return response.text
-        except requests.RequestException as e:
+        except Exception as e:
             raise Exception(f"Failed to fetch page: {e}")
 
     def parse_events(self, html: str) -> List[Dict]:

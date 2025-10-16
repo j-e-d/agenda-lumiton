@@ -109,7 +109,7 @@ class CalendarGenerator:
         uid = f"{start_dt.strftime('%Y%m%d%H%M')}-{venue.replace(' ', '-')}-{title[:20].replace(' ', '-')}@lumiton.ar"
         event.add("uid", uid)
 
-        event.add("dtstamp", datetime.now(pytz.UTC))
+        event.add("dtstamp", start_dt.astimezone(pytz.UTC))
 
         event.add("status", "CONFIRMED")
 
