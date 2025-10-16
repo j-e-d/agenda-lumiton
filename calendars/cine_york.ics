@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DRÁCULA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251016T000000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251016T020000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510160000-Cine-York-DRÁCULA@lumiton.ar
 DESCRIPTION:El ancestral vampiro Conde Drácula llega a Inglaterra y comie
  nza a aprovecharse de Mina\, una virtuosa joven. Lanzada en los…\n\nVenu
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251017T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510171800-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
 DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
  s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251017T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510172030-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
 DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
  s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:FRANKENSTEIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251018T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510181800-Cine-York-FRANKENSTEIN@lumiton.ar
 DESCRIPTION:Un científico obsesivo crea una criatura viva con partes de c
  adáveres exhumados. Esta adaptación de la inmortal novela de Mary…\n\n
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:ESCALERA CARACOL (THE SPIRAL STAIRCASE)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251018T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510182030-Cine-York-ESCALERA-CARACOL-(TH@lumiton.ar
 DESCRIPTION:Proyección en fílmico 35 mm En 1916\, un asesino en serie at
  aca a mujeres con aflicciones. Una noche\, durante una…\n\nVenue: Cine Y
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:EL GABINETE DEL DR. CALIGARI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251019T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510191800-Cine-York-EL-GABINETE-DEL-DR.-@lumiton.ar
 DESCRIPTION:La película será proyectada en fílmico 35mm y musicalizada 
  en vivo por el ensamble musical El juego infinito. Uno de…\n\nVenue: Cin
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:EL GABINETE DEL DR. CALIGARI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251019T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510192030-Cine-York-EL-GABINETE-DEL-DR.-@lumiton.ar
 DESCRIPTION:La película será proyectada en fílmico 35mm y musicalizada 
  en vivo por el ensamble musical El juego infinito. Uno de…\n\nVenue: Cin
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:PSICOSIS (PSYCHO)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251022T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251022T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510221800-Cine-York-PSICOSIS-(PSYCHO)@lumiton.ar
 DESCRIPTION:Marion Crane\, una joven secretaria\, tras cometer el robo de 
  un dinero en su empresa\, huye de la ciudad y\,…\n\nVenue: Cine York\n\n
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:PSICOSIS (PSYCHO)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251022T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251022T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510222030-Cine-York-PSICOSIS-(PSYCHO)@lumiton.ar
 DESCRIPTION:Marion Crane\, una joven secretaria\, tras cometer el robo de 
  un dinero en su empresa\, huye de la ciudad y\,…\n\nVenue: Cine York\n\n
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:LA NOVIA DE FRANKENSTEIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251023T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510231800-Cine-York-LA-NOVIA-DE-FRANKENS@lumiton.ar
 DESCRIPTION:La primera secuela del film Frankenstein\, con Boris Karloff r
  epitiendo su rol\, narra los hechos ocurridos inmediatamente después del 
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:PESADILLA EN LO PROFUNDO DE LA NOCHE (A NIGHTMARE ON ELM STREET)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251023T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510232030-Cine-York-PESADILLA-EN-LO-PROF@lumiton.ar
 DESCRIPTION:Proyección en fílmico 35 mm Varias personas son perseguidas 
  por un cruel asesino en serie que mata a sus víctimas…\n\nVenue: Cine Y
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:TERROR EN LA ÓPERA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251024T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510241800-Cine-York-TERROR-EN-LA-ÓPERA@lumiton.ar
 DESCRIPTION:A Betty\, una joven cantante de ópera\, le ofrecen la oportun
  idad de debutar como protagonista en el Macbeth de Giuseppe…\n\nVenue: C
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:ROJO PROFUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251024T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510242030-Cine-York-ROJO-PROFUNDO@lumiton.ar
 DESCRIPTION:Marcus\, un músico británico instalado en Roma\, es testigo 
  del brutal asesinato de una médium. Con la ayuda de Gianna\,…\n\nVenue:
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:DE TROYA A MALVINAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251028T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251028T210000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510281900-Cine-York-DE-TROYA-A-MALVINAS@lumiton.ar
 DESCRIPTION:Entre los meses de diciembre de 2021 y abril de 2022 ocho Vete
  ranos de Malvinas trabajan en el proyecto teatral…\n\nVenue: Cine York\n
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:NADIE INQUIETÓ MÁS\, NARCISO IBAÑEZ MENTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251029T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510291800-Cine-York-NADIE-INQUIETÓ-MÁS\,-@lumiton.ar
 DESCRIPTION:Un tributo al gran actor asturiano Narciso Ibáñez Menta\, qu
  ien fue una leyenda como protagonista de historias de terror en…\n\nVenu
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:OTRA PELÍCULA MALDITA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251029T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510292030-Cine-York-OTRA-PELÍCULA-MALDIT@lumiton.ar
 DESCRIPTION:Historia del cine de terror argentino\, desde sus inicios en 1
  934 hasta la actualidad. Es un camino de derrotas\, calles…\n\nVenue: Ci
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:FINDE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251030T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510301800-Cine-York-FINDE@lumiton.ar
 DESCRIPTION:Agos y Santi (Malena Pichot\, Julián Lucero) son una pareja q
  ue\, estresada por el encierro de su monoambiente y la…\n\nVenue: Cine Y
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:EL VAMPIRO NEGRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251030T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510302030-Cine-York-EL-VAMPIRO-NEGRO@lumiton.ar
 DESCRIPTION:Proyección en fílmico 35 mm Esta reelaboración del clásico
   M\, el vampiro de Düsseldorf de Fritz Lang se centra en…\n\nVenue: Cin
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:INSISTIR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510311800-Cine-York-INSISTIR@lumiton.ar
 DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
  ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:LA HORA DE LA SIESTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510311800-Cine-York-LA-HORA-DE-LA-SIESTA@lumiton.ar
 DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
  ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:ENTRE ESPACIOS VACÍOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510311800-Cine-York-ENTRE-ESPACIOS-VACÍO@lumiton.ar
 DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
  ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:FUNCIÓN ESPECIAL: UNA LUZ EN LA VENTANA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202510312030-Cine-York-FUNCIÓN-ESPECIAL:-UN@lumiton.ar
 DESCRIPTION:Gracias al trabajo de Archivo Lumiton se remasterizó digitalm
  ente el primer film de terror argentino Una luz en la ventana…\n\nVenue:
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:ATERRADOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251101T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251101T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202511011800-Cine-York-ATERRADOS@lumiton.ar
 DESCRIPTION:Gente que desaparece. Muertos que vuelven de sus tumbas. Voces
   en los drenajes de agua. El comisario Maza\, será quien…\n\nVenue: Cin
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:VIVIR MATA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251101T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251101T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202511012030-Cine-York-VIVIR-MATA@lumiton.ar
 DESCRIPTION:A fines del siglo XIX un joven diplomático argentino es envia
  do a Europa para incentivar la inmigración a la joven…\n\nVenue: Cine Y
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:EL ESCUERZO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251102T200000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202511021800-Cine-York-EL-ESCUERZO@lumiton.ar
 DESCRIPTION:Argentina\, 1866. En un territorio serrano\, acechado por el m
  iedo y la escasez de una guerra lejana\, Venancio\, un joven…\n\nVenue: 
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:LA BESTIA DEBE MORIR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251102T223000
-DTSTAMP:20251016T212910Z
+DTSTAMP:20251016T221109Z
 UID:202511022030-Cine-York-LA-BESTIA-DEBE-MORIR@lumiton.ar
 DESCRIPTION:Proyección en fílmico 35 mmCuando su hijo es atropellado por
   un coche\, un escritor de novelas de suspenso está desesperado…\n\nVen
