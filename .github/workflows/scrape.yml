@@ -5,6 +5,9 @@ on:
     - cron: '42 11,23 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
