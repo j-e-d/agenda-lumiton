@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lumiton Agenda//lumiton.ar//
+X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Lumiton
+X-WR-CALNAME:Lumiton - Lumiton
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+SUMMARY:LA MUERTE CAMINA EN LA LLUVIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251018T190000
+DTSTAMP:20251016T212910Z
+UID:202510181700-Lumiton-LA-MUERTE-CAMINA-EN-@lumiton.ar
+DESCRIPTION:En una casona conviven una serie de personajes que comparten u
+ n secreto. Fuera de la casa\, un asesino suelto que…\n\nVenue: Lumiton\n
+ \nMore info: https://lumiton.ar/evento/la-muerte-camina-en-la-lluvia/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-muerte-camina-en-la-lluvia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUERA DE LA LEY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251029T170000
+DTSTAMP:20251016T212910Z
+UID:202510291500-Lumiton-FUERA-DE-LA-LEY@lumiton.ar
+DESCRIPTION:El comisario Robles (Luis Arata) tiene un hijo psicópata recl
+ uido en un reformatorio\, que al regresar al hogar reincide en…\n\nVenue
+ : Lumiton\n\nMore info: https://lumiton.ar/evento/fuera-de-la-ley-5/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fuera-de-la-ley-5/
+END:VEVENT
+END:VCALENDAR

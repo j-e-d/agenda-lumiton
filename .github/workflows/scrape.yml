@@ -1,0 +1,53 @@
+name: Daily Scraper
+
+on:
+  schedule:
+    - cron: '42 11,23 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: |
+          uv sync
+
+      - name: Run scraper
+        run: |
+          uv run scraper/run.py
+
+      - name: Update README timestamp
+        run: |
+          sed -i "s/\*\*Última actualización\*\*:.*/\*\*Última actualización\*\*: $(date -u +'%Y-%m-%d %H:%M UTC')/" README.md
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code data/ calendars/ README.md || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ calendars/ README.md
+          git commit -m "Update agenda data and calendars - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: No changes
+        if: steps.git-check.outputs.changed != 'true'
+        run: |
+          echo "No changes detected in agenda data"

@@ -1,0 +1,13 @@
+[project]
+name = "agenda-lumiton"
+version = "0.1.0"
+description = "Scraper para la agenda de proyecciones de Lumiton y generador de calendarios ICS"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests==2.31.0",
+    "beautifulsoup4==4.12.3",
+    "icalendar==5.0.13",
+    "python-dateutil==2.9.0",
+    "pytz==2024.1",
+]

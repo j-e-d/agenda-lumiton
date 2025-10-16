@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lumiton Agenda//lumiton.ar//
+X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
+ o
+X-WR-CALNAME:Lumiton - Centro Cultural Munro
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+SUMMARY:CENIZAS Y DIAMANTES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251016T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251016T020000
+DTSTAMP:20251016T212910Z
+UID:202510160000-Centro-Cultural-Munro-CENIZAS-Y-DIAMANTES@lumiton.ar
+DESCRIPTION:A fines de los 80’\, Don Cornelio y la Zona irrumpió en el 
+ escenario cultural y del rock argentino. Hoy\,…\n\nVenue: Centro Cultura
+ l Munro\n\nMore info: https://lumiton.ar/evento/cenizas-y-diamantes/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cenizas-y-diamantes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RODENCIA Y EL DIENTE DE LA PRINCESA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251019T183000
+DTSTAMP:20251016T212910Z
+UID:202510191630-Centro-Cultural-Munro-RODENCIA-Y-EL-DIENTE@lumiton.ar
+DESCRIPTION:Cuenta la historia de aventuras y amor del pequeño ratón Eda
+ m\, torpe aprendiz de mago\, y de la bella y…\n\nVenue: Centro Cultural 
+ Munro\n\nMore info: https://lumiton.ar/evento/rodencia-y-el-diente-de-la-p
+ rincesa/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rodencia-y-el-diente-de-la-princesa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUEN DÍA DÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251019T210000
+DTSTAMP:20251016T212910Z
+UID:202510191900-Centro-Cultural-Munro-BUEN-DÍA-DÍA@lumiton.ar
+DESCRIPTION:La película cuenta la vida y obra de Miguel Abuelo\, creador 
+ de Los Abuelos de la Nada. Sus canciones\, poemas…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/buen-dia-dia/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/buen-dia-dia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HÉROXS DEL 88
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251023T210000
+DTSTAMP:20251016T212910Z
+UID:202510231900-Centro-Cultural-Munro-HÉROXS-DEL-88@lumiton.ar
+DESCRIPTION:En el año 1988\, Chuchu Fasanelli y Walter Kolm\, dos jóvene
+ s de 24 y 20 años\, fundadores del sello Radio…\n\nVenue: Centro Cultur
+ al Munro\n\nMore info: https://lumiton.ar/evento/heroxs-del-88/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/heroxs-del-88/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HABANA DE FITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251030T210000
+DTSTAMP:20251016T212910Z
+UID:202510301900-Centro-Cultural-Munro-LA-HABANA-DE-FITO@lumiton.ar
+DESCRIPTION:A finales de la década de 1980\, el ícono del rock argentino
+  Fito Páez visitó por primera vez La Habana\,…\n\nVenue: Centro Cultur
+ al Munro\n\nMore info: https://lumiton.ar/evento/la-habana-de-fito/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-habana-de-fito/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DALIA Y EL LIBRO ROJO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251102T183000
+DTSTAMP:20251016T212910Z
+UID:202511021630-Centro-Cultural-Munro-DALIA-Y-EL-LIBRO-ROJ@lumiton.ar
+DESCRIPTION:Dalia\, la hija de un famoso escritor quien ha muerto reciente
+ mente\, hereda el legado de finalizar su libro. Para ello\,…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/dalia-y-el-li
+ bro-rojo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/dalia-y-el-libro-rojo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOS:DESCARTABLE EN VIVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251102T210000
+DTSTAMP:20251016T212910Z
+UID:202511021900-Centro-Cultural-Munro-WOS:DESCARTABLE-EN-V@lumiton.ar
+DESCRIPTION:Registro de la presentación del tercer álbum de estudio de W
+ OS\, "DESCARTABLE"\, en el estadio de Racing Club de Avellaneda\,…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/wosdesc
+ artable-en-vivo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/wosdescartable-en-vivo/
+END:VEVENT
+END:VCALENDAR

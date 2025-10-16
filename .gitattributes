@@ -1,0 +1,16 @@
+# Ensure consistent line endings across platforms
+* text=auto
+
+# Force LF for generated data files
+*.csv text eol=lf
+*.ics text eol=lf
+
+# Python files should use LF
+*.py text eol=lf
+
+# Shell scripts should use LF
+*.sh text eol=lf
+
+# YAML files should use LF
+*.yml text eol=lf
+*.yaml text eol=lf
