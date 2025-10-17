@@ -6,10 +6,10 @@ X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 SUMMARY:DRÁCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251016T000000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251016T020000
-DTSTAMP:20251016T030000Z
-UID:202510160000-Cine-York-DRÁCULA@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T020000
+DTSTAMP:20261016T030000Z
+UID:202610160000-Cine-York-DRÁCULA@lumiton.ar
 DESCRIPTION:El ancestral vampiro Conde Drácula llega a Inglaterra y comie
  nza a aprovecharse de Mina\, una virtuosa joven. Lanzada en los…\n\nVenu
  e: Cine York\n\nMore info: https://lumiton.ar/evento/dracula-2/
