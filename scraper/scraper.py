@@ -14,6 +14,8 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import pytz
 
+from imdb_helper import IMDbHelper
+
 
 class LumitonScraper:
     """Scrapes film events from Lumiton's agenda page"""
@@ -31,6 +33,7 @@ class LumitonScraper:
                 'mobile': False
             }
         )
+        self.imdb_helper = IMDbHelper()
 
     def fetch_page(self) -> str:
         """Fetch the HTML content of the agenda page"""
@@ -129,6 +132,9 @@ class LumitonScraper:
             if detail_time:
                 event["time"] = detail_time
 
+        event["rating"] = ""
+        event["duration"] = ""
+
         if event.get("title") and event.get("venue"):
             return event
 
@@ -193,6 +199,25 @@ class LumitonScraper:
                 print(f"Warning: Could not load existing CSV {filepath}: {e}")
         return existing_events
 
+    def _enrich_with_imdb(self, event: Dict) -> Dict:
+        """Enrich event with IMDb data if not already present"""
+        if event.get("rating") and event.get("duration"):
+            print(f"[IMDb] Using cached data for: {event['title']}")
+            return event
+
+        if not event.get("title"):
+            return event
+
+        print(f"[IMDb] Fetching data for: {event['title']}")
+        imdb_data = self.imdb_helper.get_movie_info(event["title"])
+
+        if not event.get("rating"):
+            event["rating"] = imdb_data.get("rating", "")
+        if not event.get("duration"):
+            event["duration"] = imdb_data.get("duration", "")
+
+        return event
+
     def save_to_csv(self, output_dir: Path):
         """Save events to CSV files, preserving historical events"""
         output_dir = Path(output_dir)
@@ -202,13 +227,21 @@ class LumitonScraper:
             print("No events to save")
             return
 
-        fieldnames = ["title", "date", "time", "venue", "url", "description"]
+        fieldnames = ["title", "date", "time", "venue", "url", "description", "rating", "duration"]
 
         combined_file = output_dir / "all_events.csv"
         existing_events = self._load_existing_csv(combined_file, fieldnames)
 
         for event in self.events:
             event_id = self._create_event_id(event)
+            if event_id in existing_events:
+                existing_event = existing_events[event_id]
+                if existing_event.get("rating"):
+                    event["rating"] = existing_event["rating"]
+                if existing_event.get("duration"):
+                    event["duration"] = existing_event["duration"]
+
+            event = self._enrich_with_imdb(event)
             existing_events[event_id] = event
 
         merged_events = list(existing_events.values())
@@ -222,6 +255,13 @@ class LumitonScraper:
             new_venue_events = [e for e in self.events if e.get("venue") == venue]
             for event in new_venue_events:
                 event_id = self._create_event_id(event)
+                if event_id in existing_venue_events:
+                    existing_event = existing_venue_events[event_id]
+                    if existing_event.get("rating"):
+                        event["rating"] = existing_event["rating"]
+                    if existing_event.get("duration"):
+                        event["duration"] = existing_event["duration"]
+
                 existing_venue_events[event_id] = event
 
             merged_venue_events = list(existing_venue_events.values())

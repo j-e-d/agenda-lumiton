@@ -11,4 +11,5 @@ dependencies = [
     "python-dateutil==2.9.0",
     "pytz==2024.1",
     "cloudscraper==1.2.71",
+    "imdbpy>=2024.5.0",
 ]

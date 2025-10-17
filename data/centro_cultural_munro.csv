@@ -1,7 +1,7 @@
-title,date,time,venue,url,description
-RODENCIA Y EL DIENTE DE LA PRINCESA,19/10,16:30,Centro Cultural Munro,https://lumiton.ar/evento/rodencia-y-el-diente-de-la-princesa/,"Cuenta la historia de aventuras y amor del pequeño ratón Edam, torpe aprendiz de mago, y de la bella y…"
-BUEN DÍA DÍA,19/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/buen-dia-dia/,"La película cuenta la vida y obra de Miguel Abuelo, creador de Los Abuelos de la Nada. Sus canciones, poemas…"
-HÉROXS DEL 88,23/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/heroxs-del-88/,"En el año 1988, Chuchu Fasanelli y Walter Kolm, dos jóvenes de 24 y 20 años, fundadores del sello Radio…"
-LA HABANA DE FITO,30/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/la-habana-de-fito/,"A finales de la década de 1980, el ícono del rock argentino Fito Páez visitó por primera vez La Habana,…"
-DALIA Y EL LIBRO ROJO,2/11,16:30,Centro Cultural Munro,https://lumiton.ar/evento/dalia-y-el-libro-rojo/,"Dalia, la hija de un famoso escritor quien ha muerto recientemente, hereda el legado de finalizar su libro. Para ello,…"
-WOS:DESCARTABLE EN VIVO,2/11,19:00,Centro Cultural Munro,https://lumiton.ar/evento/wosdescartable-en-vivo/,"Registro de la presentación del tercer álbum de estudio de WOS, ""DESCARTABLE"", en el estadio de Racing Club de Avellaneda,…"
+title,date,time,venue,url,description,rating,duration
+RODENCIA Y EL DIENTE DE LA PRINCESA,19/10,16:30,Centro Cultural Munro,https://lumiton.ar/evento/rodencia-y-el-diente-de-la-princesa/,"Cuenta la historia de aventuras y amor del pequeño ratón Edam, torpe aprendiz de mago, y de la bella y…",4.8,
+BUEN DÍA DÍA,19/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/buen-dia-dia/,"La película cuenta la vida y obra de Miguel Abuelo, creador de Los Abuelos de la Nada. Sus canciones, poemas…",7.6,
+HÉROXS DEL 88,23/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/heroxs-del-88/,"En el año 1988, Chuchu Fasanelli y Walter Kolm, dos jóvenes de 24 y 20 años, fundadores del sello Radio…",,
+LA HABANA DE FITO,30/10,19:00,Centro Cultural Munro,https://lumiton.ar/evento/la-habana-de-fito/,"A finales de la década de 1980, el ícono del rock argentino Fito Páez visitó por primera vez La Habana,…",6.1,
+DALIA Y EL LIBRO ROJO,2/11,16:30,Centro Cultural Munro,https://lumiton.ar/evento/dalia-y-el-libro-rojo/,"Dalia, la hija de un famoso escritor quien ha muerto recientemente, hereda el legado de finalizar su libro. Para ello,…",5.8,
+WOS:DESCARTABLE EN VIVO,2/11,19:00,Centro Cultural Munro,https://lumiton.ar/evento/wosdescartable-en-vivo/,"Registro de la presentación del tercer álbum de estudio de WOS, ""DESCARTABLE"", en el estadio de Racing Club de Avellaneda,…",,

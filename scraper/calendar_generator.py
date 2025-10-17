@@ -100,6 +100,17 @@ class CalendarGenerator:
         event.add("summary", title)
 
         description_parts = []
+
+        rating = event_data.get("rating", "")
+        duration = event_data.get("duration", "")
+        if rating or duration:
+            info_parts = []
+            if rating:
+                info_parts.append(f"IMDb: {rating}/10")
+            if duration:
+                info_parts.append(f"{duration} min")
+            description_parts.append(" | ".join(info_parts))
+
         if event_data.get("description"):
             description_parts.append(event_data["description"])
 
@@ -124,7 +135,17 @@ class CalendarGenerator:
         start_dt = self.parse_datetime(date_str, time_str)
         event.add("dtstart", start_dt)
 
-        end_dt = start_dt + timedelta(hours=2)
+        duration_minutes = 120
+        duration_str = event_data.get("duration", "")
+        if duration_str:
+            try:
+                duration_minutes = int(duration_str)
+            except (ValueError, TypeError):
+                pass
+
+        duration_minutes += 5
+
+        end_dt = start_dt + timedelta(minutes=duration_minutes)
         event.add("dtend", end_dt)
 
         uid = f"{start_dt.strftime('%Y%m%d%H%M')}-{venue.replace(' ', '-')}-{title[:20].replace(' ', '-')}@lumiton.ar"

@@ -7,12 +7,13 @@ X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 SUMMARY:LA MUERTE CAMINA EN LA LLUVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251018T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251018T190500
 DTSTAMP:20251018T200000Z
 UID:202510181700-Lumiton-LA-MUERTE-CAMINA-EN-@lumiton.ar
-DESCRIPTION:En una casona conviven una serie de personajes que comparten u
- n secreto. Fuera de la casa\, un asesino suelto que…\n\nVenue: Lumiton\n
- \nMore info: https://lumiton.ar/evento/la-muerte-camina-en-la-lluvia/
+DESCRIPTION:IMDb: 7.1/10\nEn una casona conviven una serie de personajes q
+ ue comparten un secreto. Fuera de la casa\, un asesino suelto que…\n\nVe
+ nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-muerte-camina-en-l
+ a-lluvia/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-camina-en-la-lluvia/
@@ -20,12 +21,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FUERA DE LA LEY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251029T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251029T170500
 DTSTAMP:20251029T180000Z
 UID:202510291500-Lumiton-FUERA-DE-LA-LEY@lumiton.ar
-DESCRIPTION:El comisario Robles (Luis Arata) tiene un hijo psicópata recl
- uido en un reformatorio\, que al regresar al hogar reincide en…\n\nVenue
- : Lumiton\n\nMore info: https://lumiton.ar/evento/fuera-de-la-ley-5/
+DESCRIPTION:IMDb: 4.8/10\nEl comisario Robles (Luis Arata) tiene un hijo p
+ sicópata recluido en un reformatorio\, que al regresar al hogar reincide 
+ en…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/fuera-de-l
+ a-ley-5/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/fuera-de-la-ley-5/
