@@ -434,4 +434,17 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-bestia-debe-morir/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL RESPLANDOR (THE SHINING)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251017T020000
+DTSTAMP:20251017T030000Z
+UID:202510170000-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
+DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
+ s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/el-resplandor-the-shining-11/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-resplandor-the-shining-11/
+END:VEVENT
 END:VCALENDAR
