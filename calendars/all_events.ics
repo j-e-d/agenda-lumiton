@@ -326,33 +326,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-vampiro-negro/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INSISTIR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000
-DTSTAMP:20251031T210000Z
-UID:202510311800-Cine-York-INSISTIR@lumiton.ar
-DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
- ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/insistir/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/insistir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA HORA DE LA SIESTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000
-DTSTAMP:20251031T210000Z
-UID:202510311800-Cine-York-LA-HORA-DE-LA-SIESTA@lumiton.ar
-DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
- ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/la-hora-de-la-sies
- ta/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-hora-de-la-siesta/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ENTRE ESPACIOS VACÍOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200000

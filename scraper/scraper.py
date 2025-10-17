@@ -140,8 +140,29 @@ class LumitonScraper:
         print(f"Found {len(self.events)} events")
         return self.events
 
+    def _create_event_id(self, event: Dict) -> str:
+        """Create unique event ID based on date, time, and venue"""
+        date = event.get("date", "")
+        time = event.get("time", "")
+        venue = event.get("venue", "")
+        return f"{date}|{time}|{venue}"
+
+    def _load_existing_csv(self, filepath: Path, fieldnames: List[str]) -> Dict[str, Dict]:
+        """Load existing CSV data into a dictionary keyed by event ID"""
+        existing_events = {}
+        if filepath.exists():
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        event_id = self._create_event_id(row)
+                        existing_events[event_id] = row
+            except Exception as e:
+                print(f"Warning: Could not load existing CSV {filepath}: {e}")
+        return existing_events
+
     def save_to_csv(self, output_dir: Path):
-        """Save events to CSV files"""
+        """Save events to CSV files, preserving historical events"""
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -152,15 +173,29 @@ class LumitonScraper:
         fieldnames = ["title", "date", "time", "venue", "url", "description"]
 
         combined_file = output_dir / "all_events.csv"
-        self._write_csv(combined_file, self.events, fieldnames)
-        print(f"Saved combined events to {combined_file}")
+        existing_events = self._load_existing_csv(combined_file, fieldnames)
+
+        for event in self.events:
+            event_id = self._create_event_id(event)
+            existing_events[event_id] = event
+
+        merged_events = list(existing_events.values())
+        self._write_csv(combined_file, merged_events, fieldnames)
+        print(f"Saved combined events to {combined_file} (total: {len(merged_events)}, new: {len(self.events)})")
 
         for venue in self.VENUES:
-            venue_events = [e for e in self.events if e.get("venue") == venue]
-            if venue_events:
-                venue_file = output_dir / f"{venue.lower().replace(' ', '_')}.csv"
-                self._write_csv(venue_file, venue_events, fieldnames)
-                print(f"Saved {len(venue_events)} events to {venue_file}")
+            venue_file = output_dir / f"{venue.lower().replace(' ', '_')}.csv"
+            existing_venue_events = self._load_existing_csv(venue_file, fieldnames)
+
+            new_venue_events = [e for e in self.events if e.get("venue") == venue]
+            for event in new_venue_events:
+                event_id = self._create_event_id(event)
+                existing_venue_events[event_id] = event
+
+            merged_venue_events = list(existing_venue_events.values())
+            if merged_venue_events:
+                self._write_csv(venue_file, merged_venue_events, fieldnames)
+                print(f"Saved {venue} events to {venue_file} (total: {len(merged_venue_events)}, new: {len(new_venue_events)})")
 
     def _write_csv(self, filepath: Path, events: List[Dict], fieldnames: List[str]):
         """Write events to CSV file with LF line endings"""

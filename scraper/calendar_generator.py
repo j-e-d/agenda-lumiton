@@ -19,6 +19,7 @@ class CalendarGenerator:
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
     VENUES = ["lumiton", "cine_york", "centro_cultural_munro"]
     CURRENT_YEAR = datetime.now().year
+    CALENDAR_RETENTION_DAYS = 30
 
     def __init__(self, data_dir: Path, output_dir: Path):
         self.data_dir = Path(data_dir)
@@ -38,6 +39,26 @@ class CalendarGenerator:
             events = list(reader)
 
         return events
+
+    def filter_events_by_date(self, events: List[Dict]) -> List[Dict]:
+        """Filter events to include only future events and recent past events"""
+        now = self.TIMEZONE.localize(datetime.now())
+        cutoff_date = now - timedelta(days=self.CALENDAR_RETENTION_DAYS)
+
+        filtered_events = []
+        for event_data in events:
+            date_str = event_data.get("date", "")
+            time_str = event_data.get("time", "20:00")
+
+            try:
+                event_dt = self.parse_datetime(date_str, time_str)
+                if event_dt >= cutoff_date:
+                    filtered_events.append(event_data)
+            except Exception as e:
+                print(f"Warning: Could not filter event with date '{date_str}': {e}")
+                filtered_events.append(event_data)
+
+        return filtered_events
 
     def parse_datetime(self, date_str: str, time_str: str) -> datetime:
         """Parse date and time strings into datetime object"""
@@ -146,21 +167,23 @@ class CalendarGenerator:
         """Generate all calendar files"""
         all_events_csv = self.data_dir / "all_events.csv"
         if all_events_csv.exists():
-            events = self.read_csv(all_events_csv)
-            if events:
-                cal = self.generate_calendar(events, "Lumiton - All Events")
+            all_events = self.read_csv(all_events_csv)
+            if all_events:
+                filtered_events = self.filter_events_by_date(all_events)
+                cal = self.generate_calendar(filtered_events, "Lumiton - All Events")
                 self.save_calendar(cal, self.output_dir / "all_events.ics")
-                print(f"Generated combined calendar with {len(events)} events")
+                print(f"Generated combined calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
 
         for venue_file in self.VENUES:
             csv_file = self.data_dir / f"{venue_file}.csv"
             if csv_file.exists():
-                events = self.read_csv(csv_file)
-                if events:
+                all_events = self.read_csv(csv_file)
+                if all_events:
+                    filtered_events = self.filter_events_by_date(all_events)
                     venue_name = venue_file.replace("_", " ").title()
-                    cal = self.generate_calendar(events, f"Lumiton - {venue_name}")
+                    cal = self.generate_calendar(filtered_events, f"Lumiton - {venue_name}")
                     self.save_calendar(cal, self.output_dir / f"{venue_file}.ics")
-                    print(f"Generated {venue_name} calendar with {len(events)} events")
+                    print(f"Generated {venue_name} calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
 
 
 def main():
