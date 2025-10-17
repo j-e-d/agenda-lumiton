@@ -61,6 +61,33 @@ class LumitonScraper:
 
         return events
 
+    def _fetch_time_from_detail_page(self, url: str) -> str:
+        """Fetch event detail page and extract time if available"""
+        if not url:
+            return None
+
+        try:
+            if url.startswith("/"):
+                url = "https://lumiton.ar" + url
+
+            print(f"Fetching time from detail page: {url}")
+            response = self.scraper.get(url, timeout=10)
+            response.raise_for_status()
+
+            soup = BeautifulSoup(response.text, "html.parser")
+
+            hora_elem = soup.find(class_="g-event-hora")
+            if hora_elem:
+                time_text = hora_elem.get_text(strip=True)
+                time_match = re.search(r"(\d{1,2}:\d{2})", time_text)
+                if time_match:
+                    return time_match.group(1)
+
+        except Exception as e:
+            print(f"Warning: Could not fetch time from detail page {url}: {e}")
+
+        return None
+
     def _extract_event_data(self, item) -> Dict:
         """Extract individual event data from HTML element"""
         event = {}
@@ -77,10 +104,10 @@ class LumitonScraper:
             except:
                 pass
 
-        time_elem = item.find(class_="g-event-fecha")
-        if time_elem:
-            time_text = time_elem.get_text()
-            time_match = re.search(r"(\d{1,2}:\d{2})\s*hs", time_text)
+        fecha_elem = item.find(class_="g-event-fecha")
+        if fecha_elem:
+            fecha_text = fecha_elem.get_text(strip=True)
+            time_match = re.search(r"(\d{1,2}:\d{2})", fecha_text)
             if time_match:
                 event["time"] = time_match.group(1)
 
@@ -96,6 +123,11 @@ class LumitonScraper:
         desc_elem = item.find("p", class_="line-clamp-3")
         if desc_elem:
             event["description"] = desc_elem.get_text(strip=True)
+
+        if not event.get("time") and event.get("url"):
+            detail_time = self._fetch_time_from_detail_page(event["url"])
+            if detail_time:
+                event["time"] = detail_time
 
         if event.get("title") and event.get("venue"):
             return event
