@@ -172,12 +172,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROJO PROFUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251024T223500
+DTEND;TZID=America/Argentina/Buenos_Aires:20251024T224200
 DTSTAMP:20251024T233000Z
 UID:202510242030-Cine-York-ROJO-PROFUNDO@lumiton.ar
-DESCRIPTION:Marcus\, un músico británico instalado en Roma\, es testigo 
- del brutal asesinato de una médium. Con la ayuda de Gianna\,…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/rojo-profundo-3/
+DESCRIPTION:IMDb: 7.5/10 | 127 min\nMarcus\, un músico británico instala
+ do en Roma\, es testigo del brutal asesinato de una médium. Con la ayuda 
+ de Gianna\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /rojo-profundo-3/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/rojo-profundo-3/
@@ -256,10 +257,10 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200500
 DTSTAMP:20251031T210000Z
 UID:202510311800-Cine-York-ENTRE-ESPACIOS-VACÍO@lumiton.ar
-DESCRIPTION:Se proyectarán las obras:• Entre espacios vacíos (Dir. Mel
- ina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía Mora\,…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/entre-espacios-vac
- ios/
+DESCRIPTION:IMDb: 5.7/10\nSe proyectarán las obras:• Entre espacios vac
+ íos (Dir. Melina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía 
+ Mora\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/entr
+ e-espacios-vacios/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/entre-espacios-vacios/
