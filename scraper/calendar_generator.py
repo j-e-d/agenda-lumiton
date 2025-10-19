@@ -68,12 +68,6 @@ class CalendarGenerator:
                 day, month = map(int, date_str.split("/"))
                 year = self.CURRENT_YEAR
 
-                current_month = datetime.now().month
-                if month < current_month or (
-                    month == current_month and day < datetime.now().day
-                ):
-                    year += 1
-
                 date_str = f"{day}/{month}/{year}"
 
             dt = datetime.strptime(date_str, "%d/%m/%Y")

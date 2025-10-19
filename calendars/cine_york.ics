@@ -6,10 +6,10 @@ X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 SUMMARY:DRÁCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T000000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T020500
-DTSTAMP:20261016T030000Z
-UID:202610160000-Cine-York-DRÁCULA@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251016T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251016T020500
+DTSTAMP:20251016T030000Z
+UID:202510160000-Cine-York-DRÁCULA@lumiton.ar
 DESCRIPTION:El ancestral vampiro Conde Drácula llega a Inglaterra y comie
  nza a aprovecharse de Mina\, una virtuosa joven. Lanzada en los…\n\nVenu
  e: Cine York\n\nMore info: https://lumiton.ar/evento/dracula-2/
@@ -19,10 +19,10 @@ URL:https://lumiton.ar/evento/dracula-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T200500
-DTSTAMP:20261017T210000Z
-UID:202610171800-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251017T200500
+DTSTAMP:20251017T210000Z
+UID:202510171800-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
 DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
  s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
  ork\n\nMore info: https://lumiton.ar/evento/el-resplandor-the-shining-10-2
@@ -33,10 +33,10 @@ URL:https://lumiton.ar/evento/el-resplandor-the-shining-10-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T223500
-DTSTAMP:20261017T233000Z
-UID:202610172030-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251017T223500
+DTSTAMP:20251017T233000Z
+UID:202510172030-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
 DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
  s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
  ork\n\nMore info: https://lumiton.ar/evento/el-resplandor-the-shining-11/
@@ -46,10 +46,10 @@ URL:https://lumiton.ar/evento/el-resplandor-the-shining-11/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FRANKENSTEIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261018T200500
-DTSTAMP:20261018T210000Z
-UID:202610181800-Cine-York-FRANKENSTEIN@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251018T200500
+DTSTAMP:20251018T210000Z
+UID:202510181800-Cine-York-FRANKENSTEIN@lumiton.ar
 DESCRIPTION:IMDb: 7.4/10\nUn científico obsesivo crea una criatura viva c
  on partes de cadáveres exhumados. Esta adaptación de la inmortal novela 
  de Mary…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fra
@@ -60,10 +60,10 @@ URL:https://lumiton.ar/evento/frankenstein/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESCALERA CARACOL (THE SPIRAL STAIRCASE)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261018T223500
-DTSTAMP:20261018T233000Z
-UID:202610182030-Cine-York-ESCALERA-CARACOL-(TH@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251018T223500
+DTSTAMP:20251018T233000Z
+UID:202510182030-Cine-York-ESCALERA-CARACOL-(TH@lumiton.ar
 DESCRIPTION:IMDb: 7.3/10\nProyección en fílmico 35 mm En 1916\, un asesi
  no en serie ataca a mujeres con aflicciones. Una noche\, durante una…\n\
  nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/escalera-caracol
@@ -335,10 +335,10 @@ URL:https://lumiton.ar/evento/la-bestia-debe-morir/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T000000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T020500
-DTSTAMP:20261017T030000Z
-UID:202610170000-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251017T020500
+DTSTAMP:20251017T030000Z
+UID:202510170000-Cine-York-EL-RESPLANDOR-(THE-S@lumiton.ar
 DESCRIPTION:Jack Torrance se traslada con su mujer y su hijo de siete año
  s al impresionante hotel Overlook\, en Colorado\, para…\n\nVenue: Cine Y
  ork\n\nMore info: https://lumiton.ar/evento/el-resplandor-the-shining-11/
