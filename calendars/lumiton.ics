@@ -6,10 +6,10 @@ X-WR-CALNAME:Lumiton - Lumiton
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 SUMMARY:LA MUERTE CAMINA EN LA LLUVIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251018T190500
-DTSTAMP:20251018T200000Z
-UID:202510181700-Lumiton-LA-MUERTE-CAMINA-EN-@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T190500
+DTSTAMP:20261018T200000Z
+UID:202610181700-Lumiton-LA-MUERTE-CAMINA-EN-@lumiton.ar
 DESCRIPTION:IMDb: 7.1/10\nEn una casona conviven una serie de personajes q
  ue comparten un secreto. Fuera de la casa\, un asesino suelto que…\n\nVe
  nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-muerte-camina-en-l

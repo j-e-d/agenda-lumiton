@@ -46,10 +46,10 @@ URL:https://lumiton.ar/evento/el-resplandor-the-shining-11/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FRANKENSTEIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251018T200500
-DTSTAMP:20251018T210000Z
-UID:202510181800-Cine-York-FRANKENSTEIN@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T200500
+DTSTAMP:20261018T210000Z
+UID:202610181800-Cine-York-FRANKENSTEIN@lumiton.ar
 DESCRIPTION:IMDb: 7.4/10\nUn científico obsesivo crea una criatura viva c
  on partes de cadáveres exhumados. Esta adaptación de la inmortal novela 
  de Mary…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fra
@@ -60,10 +60,10 @@ URL:https://lumiton.ar/evento/frankenstein/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESCALERA CARACOL (THE SPIRAL STAIRCASE)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251018T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251018T223500
-DTSTAMP:20251018T233000Z
-UID:202510182030-Cine-York-ESCALERA-CARACOL-(TH@lumiton.ar
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T223500
+DTSTAMP:20261018T233000Z
+UID:202610182030-Cine-York-ESCALERA-CARACOL-(TH@lumiton.ar
 DESCRIPTION:IMDb: 7.3/10\nProyección en fílmico 35 mm En 1916\, un asesi
  no en serie ataca a mujeres con aflicciones. Una noche\, durante una…\n\
  nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/escalera-caracol
