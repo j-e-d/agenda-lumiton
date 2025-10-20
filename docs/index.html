@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Suscribite a los calendarios de proyecciones de Lumiton, Cine York y Centro Cultural Munro">
+  <title>Agenda Lumiton - Suscripción a Calendarios</title>
+
+  <style>
+    /* Reset and base styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #333;
+      padding: 1rem;
+      background: #fff;
+    }
+
+    /* Container */
+    header, main, footer {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid #007bff;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #007bff;
+    }
+
+    .intro {
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .last-update {
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    /* Section headings */
+    h2 {
+      font-size: 1.5rem;
+      margin: 2rem 0 1rem 0;
+      color: #333;
+    }
+
+    /* Calendar items */
+    .calendars {
+      display: grid;
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .calendar-item {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1.5rem;
+      background: #f9f9f9;
+    }
+
+    .calendar-item h3 {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: #007bff;
+    }
+
+    .calendar-description {
+      color: #666;
+      margin-bottom: 1rem;
+    }
+
+    .url-container {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-top: 1rem;
+    }
+
+    .calendar-url {
+      font-family: monospace;
+      font-size: 0.9rem;
+      padding: 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: white;
+      cursor: pointer;
+    }
+
+    .calendar-url:focus {
+      outline: 2px solid #007bff;
+      outline-offset: 2px;
+    }
+
+    .copy-btn {
+      padding: 0.75rem 1.5rem;
+      min-height: 44px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.2s;
+      font-weight: 500;
+    }
+
+    .copy-btn:hover {
+      background: #0056b3;
+    }
+
+    .copy-btn.copied {
+      background: #28a745;
+    }
+
+    .copy-btn:focus {
+      outline: 2px solid #007bff;
+      outline-offset: 2px;
+    }
+
+    /* Instructions */
+    .instructions {
+      margin-top: 3rem;
+    }
+
+    .app-instructions {
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      background: #f9f9f9;
+      border-radius: 8px;
+      border-left: 4px solid #007bff;
+    }
+
+    .app-instructions h3 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: #007bff;
+    }
+
+    .app-instructions ol {
+      margin-left: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .app-instructions li {
+      margin-bottom: 0.5rem;
+    }
+
+    .app-instructions a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    .app-instructions a:hover {
+      text-decoration: underline;
+    }
+
+    .note {
+      font-size: 0.9rem;
+      color: #666;
+      font-style: italic;
+      margin-top: 1rem;
+    }
+
+    /* Footer */
+    footer {
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #ddd;
+      text-align: center;
+      color: #666;
+    }
+
+    footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    .disclaimer {
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+    }
+
+    /* Tablet and desktop */
+    @media (min-width: 768px) {
+      h1 {
+        font-size: 2.5rem;
+      }
+
+      .url-container {
+        flex-direction: row;
+        align-items: center;
+      }
+
+      .calendar-url {
+        flex: 1;
+      }
+
+      .copy-btn {
+        flex-shrink: 0;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .calendars {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Agenda Lumiton - Suscripción a Calendarios</h1>
+    <p class="intro">
+      Suscribite a los calendarios de proyecciones y mantenete actualizado
+      automáticamente sin hacer nada. Los calendarios se actualizan todos
+      los días a las 9:00 UTC.
+    </p>
+    <p class="last-update">
+      Última actualización de calendarios:
+      <time datetime="2025-10-19T14:24:18Z">2025-10-19 14:24 UTC</time>
+    </p>
+  </header>
+
+  <main>
+    <h2>Calendarios Disponibles</h2>
+
+    <section class="calendars">
+      <article class="calendar-item">
+        <h3>Todas las Proyecciones</h3>
+        <p class="calendar-description">
+          Incluye eventos de los 3 cines
+        </p>
+        <div class="url-container">
+          <input
+            type="text"
+            class="calendar-url"
+            readonly
+            value="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/all_events.ics"
+            aria-label="URL de suscripción: Todas las Proyecciones"
+            onclick="this.select()"
+          />
+          <button
+            class="copy-btn"
+            aria-label="Copiar URL: Todas las Proyecciones"
+            data-url="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/all_events.ics"
+          >
+            Copiar
+          </button>
+        </div>
+      </article>
+
+      <article class="calendar-item">
+        <h3>Cine York</h3>
+        <p class="calendar-description">
+          Proyecciones en Cine York (Juan Bautista Alberdi 895, Olivos)
+        </p>
+        <div class="url-container">
+          <input
+            type="text"
+            class="calendar-url"
+            readonly
+            value="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/cine_york.ics"
+            aria-label="URL de suscripción: Cine York"
+            onclick="this.select()"
+          />
+          <button
+            class="copy-btn"
+            aria-label="Copiar URL: Cine York"
+            data-url="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/cine_york.ics"
+          >
+            Copiar
+          </button>
+        </div>
+      </article>
+
+      <article class="calendar-item">
+        <h3>Centro Cultural Munro</h3>
+        <p class="calendar-description">
+          Proyecciones en Centro Cultural Munro (Vélez Sarsfield 4650, Munro)
+        </p>
+        <div class="url-container">
+          <input
+            type="text"
+            class="calendar-url"
+            readonly
+            value="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/centro_cultural_munro.ics"
+            aria-label="URL de suscripción: Centro Cultural Munro"
+            onclick="this.select()"
+          />
+          <button
+            class="copy-btn"
+            aria-label="Copiar URL: Centro Cultural Munro"
+            data-url="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/centro_cultural_munro.ics"
+          >
+            Copiar
+          </button>
+        </div>
+      </article>
+
+      <article class="calendar-item">
+        <h3>Lumiton</h3>
+        <p class="calendar-description">
+          Proyecciones en Lumiton (Sgto. Cabral 2354, Munro)
+        </p>
+        <div class="url-container">
+          <input
+            type="text"
+            class="calendar-url"
+            readonly
+            value="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/lumiton.ics"
+            aria-label="URL de suscripción: Lumiton"
+            onclick="this.select()"
+          />
+          <button
+            class="copy-btn"
+            aria-label="Copiar URL: Lumiton"
+            data-url="https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/lumiton.ics"
+          >
+            Copiar
+          </button>
+        </div>
+      </article>
+    </section>
+
+    <section class="instructions">
+      <h2>Cómo Suscribirse</h2>
+
+      <article class="app-instructions">
+        <h3>Google Calendar</h3>
+        <ol>
+          <li>Copiá la URL de suscripción que querés usar</li>
+          <li>Abrí <a href="https://calendar.google.com/" target="_blank" rel="noopener">Google Calendar</a></li>
+          <li>Hacé clic en el botón "+" al lado de "Otros calendarios"</li>
+          <li>Seleccioná <strong>Desde URL</strong></li>
+          <li>Pegá la URL del archivo ICS</li>
+          <li>Hacé clic en <strong>Agregar calendario</strong></li>
+        </ol>
+        <p class="note">
+          El calendario se actualiza automáticamente (Google Calendar sincroniza cada 24 horas aproximadamente).
+        </p>
+      </article>
+
+      <article class="app-instructions">
+        <h3>Apple Calendar (iPhone/iPad/Mac)</h3>
+        <p><strong>Desde Mac:</strong></p>
+        <ol>
+          <li>Abrí Calendar</li>
+          <li>Menú <strong>Archivo</strong> → <strong>Nueva suscripción de calendario</strong></li>
+          <li>Pegá la URL de suscripción que querés usar</li>
+          <li>Hacé clic en <strong>Suscribirse</strong></li>
+          <li>Configurá la frecuencia de actualización (recomendado: cada día)</li>
+        </ol>
+        <p><strong>Desde iPhone/iPad:</strong></p>
+        <ol>
+          <li>Abrí <strong>Ajustes</strong> → <strong>Calendario</strong> → <strong>Cuentas</strong></li>
+          <li>Tocá <strong>Agregar cuenta</strong> → <strong>Otra</strong> → <strong>Añadir calendario suscrito</strong></li>
+          <li>Pegá la URL de suscripción</li>
+          <li>Tocá <strong>Siguiente</strong> y <strong>Guardar</strong></li>
+        </ol>
+      </article>
+
+      <article class="app-instructions">
+        <h3>Outlook</h3>
+        <ol>
+          <li>Abrí Outlook</li>
+          <li>Hacé clic en <strong>Agregar calendario</strong> → <strong>Desde Internet</strong></li>
+          <li>Pegá la URL de suscripción</li>
+          <li>El calendario se agregará y se actualizará automáticamente</li>
+        </ol>
+      </article>
+
+      <article class="app-instructions">
+        <h3>Otros Calendarios</h3>
+        <p>
+          La mayoría de las aplicaciones de calendario modernas soportan suscripciones vía URL.
+          Buscá la opción "Suscribirse a calendario" o "Agregar calendario desde URL" en tu aplicación.
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      <a href="https://github.com/j-e-d/agenda-lumiton">Ver código en GitHub</a>
+    </p>
+    <p class="disclaimer">
+      Este proyecto es de código abierto y no está afiliado con Lumiton.
+    </p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const copyButtons = document.querySelectorAll('.copy-btn');
+
+      copyButtons.forEach(button => {
+        button.addEventListener('click', async () => {
+          const url = button.getAttribute('data-url');
+
+          try {
+            await navigator.clipboard.writeText(url);
+
+            // Visual feedback
+            const originalText = button.textContent;
+            button.textContent = '✓ Copiado';
+            button.classList.add('copied');
+
+            setTimeout(() => {
+              button.textContent = originalText;
+              button.classList.remove('copied');
+            }, 2000);
+
+          } catch (err) {
+            console.error('Failed to copy:', err);
+            // Fallback: let user manually select from input
+            alert('No se pudo copiar automáticamente. Seleccioná y copiá el texto del campo.');
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>
