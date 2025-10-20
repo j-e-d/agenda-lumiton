@@ -10,9 +10,17 @@ Este proyecto extrae automáticamente la agenda de proyecciones de películas de
 
 ## Suscripción a Calendarios
 
+### 🌐 Interfaz Web
+
+**[Hacé clic acá para suscribirte a los calendarios](https://j-e-d.github.io/agenda-lumiton/)**
+
+Página web con todos los calendarios disponibles y botones para copiar las URLs fácilmente.
+
+### URLs de Suscripción (Método Manual)
+
 Podés suscribirte directamente a las URLs de los archivos ICS para que tu calendario se actualice automáticamente todos los días sin que tengas que hacer nada.
 
-### URLs de Suscripción
+#### URLs de Suscripción
 
 Copiá la URL que prefieras y agregala a tu aplicación de calendario:
 
