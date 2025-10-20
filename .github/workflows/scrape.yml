@@ -2,7 +2,7 @@ name: Daily Scraper
 
 on:
   schedule:
-    - cron: '42 11,23 * * *'
+    - cron: '42 23 * * *'
   workflow_dispatch:
   push:
     branches:
