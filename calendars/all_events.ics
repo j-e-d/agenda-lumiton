@@ -337,13 +337,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ENTRE ESPACIOS VACÍOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251031T200500
+DTEND;TZID=America/Argentina/Buenos_Aires:20251031T192700
 DTSTAMP:20251031T210000Z
 UID:202510311800-Cine-York-ENTRE-ESPACIOS-VACÍO@lumiton.ar
-DESCRIPTION:IMDb: 5.7/10\nSe proyectarán las obras:• Entre espacios vac
- íos (Dir. Melina Kladniew\, 10 min)• La hora de la siesta (Dir. Sofía 
- Mora\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/entr
- e-espacios-vacios/
+DESCRIPTION:IMDb: 5.7/10 | 82 min\nSe proyectarán las obras:• Entre esp
+ acios vacíos (Dir. Melina Kladniew\, 10 min)• La hora de la siesta (Dir
+ . Sofía Mora\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
+ ento/entre-espacios-vacios/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/entre-espacios-vacios/
