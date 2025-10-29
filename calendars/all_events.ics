@@ -296,12 +296,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FINDE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251030T200500
+DTEND;TZID=America/Argentina/Buenos_Aires:20251030T193400
 DTSTAMP:20251030T210000Z
 UID:202510301800-Cine-York-FINDE@lumiton.ar
-DESCRIPTION:IMDb: 6.9/10\nAgos y Santi (Malena Pichot\, Julián Lucero) so
- n una pareja que\, estresada por el encierro de su monoambiente y la…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/finde/
+DESCRIPTION:IMDb: 6.9/10 | 89 min\nAgos y Santi (Malena Pichot\, Julián L
+ ucero) son una pareja que\, estresada por el encierro de su monoambiente y
+  la…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/finde/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/finde/
