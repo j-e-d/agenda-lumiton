@@ -32,4 +32,46 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/fuera-de-la-ley-5/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NOCHE DE LOS MUSEOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251108T213500
+DTSTAMP:20251108T223000Z
+UID:202511081930-Lumiton-LA-NOCHE-DE-LOS-MUSE@lumiton.ar
+DESCRIPTION:Cronograma de actividades19.30 h Apertura20:00 h Visita guiada
+ 21:00 h obra teatral “Sonoras y parlantes”22:00 h Visita guiada23:00 h
+  Música en…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/l
+ a-noche-de-los-museos-4/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-noche-de-los-museos-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOVIO\, MARIDO Y AMANTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251115T190500
+DTSTAMP:20251115T200000Z
+UID:202511151700-Lumiton-NOVIO\,-MARIDO-Y-AMAN@lumiton.ar
+DESCRIPTION:IMDb: 5.7/10\nNarra la historia de Rosalía\, una joven que se
+  une en matrimonio por capricho\, sin consumarlo\, a un hombre mucho…\n\
+ nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/novio-marido-y-ama
+ nte-2-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/novio-marido-y-amante-2-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL FABRICANTE DE ESTRELLAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251126T170500
+DTSTAMP:20251126T180000Z
+UID:202511261500-Lumiton-EL-FABRICANTE-DE-EST@lumiton.ar
+DESCRIPTION:IMDb: 6.2/10\nLuego de haber sido despedido por una vedette\, 
+ un representante de artistas conoce a un  jugador de fútbol que canta…
+ \n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/el-fabricante-d
+ e-estrellas-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-fabricante-de-estrellas-2/
+END:VEVENT
 END:VCALENDAR

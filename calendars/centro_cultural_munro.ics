@@ -88,4 +88,173 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/wosdescartable-en-vivo/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESAYUNO EN TIFFANY’S (BREAKFAST AT TIFFANY'S)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251106T203500
+DTSTAMP:20251106T213000Z
+UID:202511061830-Centro-Cultural-Munro-DESAYUNO-EN-TIFFANY’@lumiton.ar
+DESCRIPTION:IMDb: 7.5/10\nBasada libremente en la novela corta de Truman C
+ apote de 1958. Holly Golightly\, una glamorosa chica fiestera y miembro de
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/desayuno-en-tiffanys-breakfast-at-tiffanys/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/desayuno-en-tiffanys-breakfast-at-tiffanys/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL REINO DE KENSUKE (KENSUKE’S KINGDOM)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251109T183500
+DTSTAMP:20251109T193000Z
+UID:202511091630-Centro-Cultural-Munro-EL-REINO-DE-KENSUKE-@lumiton.ar
+DESCRIPTION:IMDb: 6.9/10\nTras emprender un viaje en barco junto a sus pad
+ res y ser arrastrado por una violenta tormenta\, el joven Michael…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-rein
+ o-de-kensuke-kensukes-kingdom/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-reino-de-kensuke-kensukes-kingdom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA RENGA: TOTALMENTE POSEÍDOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251109T203500
+DTSTAMP:20251109T213000Z
+UID:202511091830-Centro-Cultural-Munro-LA-RENGA:-TOTALMENTE@lumiton.ar
+DESCRIPTION:Cuenta la historia de un grupo de amigos que se lanzan a escri
+ bir las páginas de un diario que nunca…\n\nVenue: Centro Cultural Munro
+ \n\nMore info: https://lumiton.ar/evento/la-renga-totalmente-poseidos/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-renga-totalmente-poseidos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SABRINA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251113T203500
+DTSTAMP:20251113T213000Z
+UID:202511131830-Centro-Cultural-Munro-SABRINA@lumiton.ar
+DESCRIPTION:IMDb: 6.3/10\nLa joven Sabrina\, hija del chofer de los Larrab
+ ee\, está enamorada del hijo menor que coquetea con ella por puro…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/sabrin
+ a/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sabrina/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI AMIGO ROBOT (ROBOT DREAMS)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251116T183500
+DTSTAMP:20251116T193000Z
+UID:202511161630-Centro-Cultural-Munro-MI-AMIGO-ROBOT-(ROBO@lumiton.ar
+DESCRIPTION:DOG vive en Manhattan y está cansado de estar solo. Un día d
+ ecide comprarse un robot para que lo acompañe\,…\n\nVenue: Centro Cultu
+ ral Munro\n\nMore info: https://lumiton.ar/evento/mi-amigo-robot-robot-dre
+ ams/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-amigo-robot-robot-dreams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEMENTO\, EL DOCUMENTAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251116T203500
+DTSTAMP:20251116T213000Z
+UID:202511161830-Centro-Cultural-Munro-CEMENTO\,-EL-DOCUMENT@lumiton.ar
+DESCRIPTION:IMDb: 7.1/10\nHoy es un estacionamiento\, pero CEMENTO vivió 
+ durante diecinueve años que se extendieron a lo largo de tres décadas cl
+ aves…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/e
+ vento/cemento-el-documental/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cemento-el-documental/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI BELLA DAMA (MY FAIR LADY)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251120T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251120T203500
+DTSTAMP:20251120T213000Z
+UID:202511201830-Centro-Cultural-Munro-MI-BELLA-DAMA-(MY-FA@lumiton.ar
+DESCRIPTION:IMDb: 7.7/10\nHenry\, un excéntrico y sobrado profesor de lin
+ güística acepta una apuesta en la cual para ganar\, deberá tomar a una
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/mi-bella-dama-my-fair-lady/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-bella-dama-my-fair-lady/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÁNGELO EN EL BOSQUE MÁGICO (ANGELO\, DANS LA FORÊT MYSTÉRIEUSE
+ )
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251123T183500
+DTSTAMP:20251123T193000Z
+UID:202511231630-Centro-Cultural-Munro-ÁNGELO-EN-EL-BOSQUE-@lumiton.ar
+DESCRIPTION:Ángelo\, un niño de 10 años\, viaja con su familia a visita
+ r a su abuelita. Cuando sus distraídos padres lo…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/angelo-en-el-bosque-mag
+ ico-angelo-dans-la-foret-mysterieuse/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/angelo-en-el-bosque-magico-angelo-dans-la-fo
+ ret-mysterieuse/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUE SEA ROCK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251123T203500
+DTSTAMP:20251123T213000Z
+UID:202511231830-Centro-Cultural-Munro-QUE-SEA-ROCK@lumiton.ar
+DESCRIPTION:IMDb: 6.7/10\nEste documental musical completa una trilogía c
+ on dos clásicos de este género: "Hasta que se ponga el sol" (Anibal Uset
+ \,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/eve
+ nto/que-sea-rock/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/que-sea-rock/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PRINCESA QUE QUERÍA VIVIR (ROMAN HOLIDAY)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251127T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251127T203300
+DTSTAMP:20251127T213000Z
+UID:202511271830-Centro-Cultural-Munro-LA-PRINCESA-QUE-QUER@lumiton.ar
+DESCRIPTION:IMDb: 8.0/10 | 118 min\nTodo un clásico que relata la encanta
+ dora aventura romana y romántica entre una princesa moderna que detesta s
+ us obligaciones reales…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
+ tps://lumiton.ar/evento/la-princesa-que-queria-vivir-roman-holiday/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-princesa-que-queria-vivir-roman-holiday/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOLA FRIDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251130T183500
+DTSTAMP:20251130T193000Z
+UID:202511301630-Centro-Cultural-Munro-HOLA-FRIDA@lumiton.ar
+DESCRIPTION:IMDb: 6.8/10\nEsta es la historia de una niña diferente que p
+ roviene de Coyoacán\, Ciudad de México. Chispeante y vibrante\, todo le
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/hola-frida/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hola-frida/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARGENTINA BEAT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251130T201900
+DTSTAMP:20251130T213000Z
+UID:202511301830-Centro-Cultural-Munro-ARGENTINA-BEAT@lumiton.ar
+DESCRIPTION:IMDb: 7.5/10 | 104 min\nA partir de la segunda mitad de los a
+ ños 60\, el movimiento Beat y el primer Rock Nacional imponen códigos…
+ \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/a
+ rgentina-beat/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/argentina-beat/
+END:VEVENT
 END:VCALENDAR
