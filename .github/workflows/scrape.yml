@@ -53,7 +53,7 @@ jobs:
       - name: Update GitHub Pages timestamp
         if: steps.git-check.outputs.changed == 'true'
         run: |
-          TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
+          TIMESTAMP=$(TZ='America/Argentina/Buenos_Aires' date +'%Y-%m-%d %H:%M')
           DATETIME=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           sed -i "s|<time datetime=\"[^\"]*\">[^<]*</time>|<time datetime=\"$DATETIME\">$TIMESTAMP</time>|" docs/index.html
 
@@ -63,7 +63,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ calendars/ README.md docs/index.html
-          git commit -m "Update agenda data and calendars - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "Update agenda data and calendars - $(TZ='America/Argentina/Buenos_Aires' date +'%Y-%m-%d %H:%M')"
           git push
 
       - name: No changes
