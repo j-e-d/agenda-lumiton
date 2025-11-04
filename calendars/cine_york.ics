@@ -814,4 +814,85 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENDA INDIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251105T200500
+DTSTAMP:20251105T210000Z
+UID:202511051800-Cine-York-SENDA-INDIA@lumiton.ar
+DESCRIPTION:En el año 1991\, el joven wichí Miguel Ángel Lorenzo filma 
+ con una cámara de video Hi8\, con humor\, sensibilidad…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/senda-india/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/senda-india/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL SUEÑO DE EMMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251105T223500
+DTSTAMP:20251105T233000Z
+UID:202511052030-Cine-York-EL-SUEÑO-DE-EMMA@lumiton.ar
+DESCRIPTION:IMDb: 8.2/10\nEmma (16) y su papá Marcos (48) viven en una ca
+ sa humilde en el Delta del Tigre\, una zona de…\n\nVenue: Cine York\n\nM
+ ore info: https://lumiton.ar/evento/el-sueno-de-emma/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-sueno-de-emma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GATILLERO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251106T200500
+DTSTAMP:20251106T210000Z
+UID:202511061800-Cine-York-GATILLERO@lumiton.ar
+DESCRIPTION:IMDb: 6.7/10\nEl cine argentino muchas veces necesita de la fe
+ rocidad que respira en cada uno de sus segundos Gatillero: Isla Maciel\,
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/gatillero/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/gatillero/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO TE MUERAS SIN DECIRME ADONDE VAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251106T224500
+DTSTAMP:20251106T233000Z
+UID:202511062030-Cine-York-NO-TE-MUERAS-SIN-DEC@lumiton.ar
+DESCRIPTION:IMDb: 7.0/10 | 130 min\nProyección en fílmico 35 milímetros
+ Leopoldo es un proyectorista de un cine de barrio. Vive con su esposa en u
+ na casa…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-
+ te-mueras-sin-decirme-adonde-vas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-te-mueras-sin-decirme-adonde-vas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA LECCIÓN DE ANATOMÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251107T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251107T223500
+DTSTAMP:20251107T233000Z
+UID:202511072030-Cine-York-LA-LECCIÓN-DE-ANATOM@lumiton.ar
+DESCRIPTION:IMDb: 8.8/10\nUn documental sobre el fenómeno teatral de Carl
+ os Mathus En 1972\, Carlos Mathus presentó en Buenos Aires su provocadora
+  obra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-le
+ ccion-de-anatomia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-leccion-de-anatomia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUINOGRAFÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251108T200500
+DTSTAMP:20251108T210000Z
+UID:202511081800-Cine-York-QUINOGRAFÍA@lumiton.ar
+DESCRIPTION:IMDb: 7.2/10\nCon imágenes y testimonios inéditos\, exploram
+ os el lugar donde Quino forjó su creatividad. Junto a él descubrimos su 
+ trabajo\, sus…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
+ to/quinografia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/quinografia/
+END:VEVENT
 END:VCALENDAR
