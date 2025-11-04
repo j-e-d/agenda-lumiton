@@ -40,20 +40,22 @@ jobs:
         run: |
           uv run scraper/run.py
 
+      - name: Check for data changes
+        id: git-check
+        run: |
+          git diff --exit-code data/ calendars/ || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: Update README timestamp
+        if: steps.git-check.outputs.changed == 'true'
         run: |
           sed -i "s/\*\*Última actualización\*\*:.*/\*\*Última actualización\*\*: $(date -u +'%Y-%m-%d %H:%M UTC')/" README.md
 
       - name: Update GitHub Pages timestamp
+        if: steps.git-check.outputs.changed == 'true'
         run: |
           TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
           DATETIME=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           sed -i "s|<time datetime=\"[^\"]*\">[^<]*</time>|<time datetime=\"$DATETIME\">$TIMESTAMP</time>|" docs/index.html
-
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code data/ calendars/ README.md docs/index.html || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'

@@ -179,11 +179,17 @@ class LumitonScraper:
         return self.events
 
     def _create_event_id(self, event: Dict) -> str:
-        """Create unique event ID based on date, time, and venue"""
+        """Create unique event ID based on URL, date, time, and venue
+
+        URL is the primary identifier as it's stable even when titles change.
+        Date/time/venue are included to handle cases where the same film
+        is shown multiple times or at different venues.
+        """
+        url = event.get("url", "")
         date = event.get("date", "")
         time = event.get("time", "")
         venue = event.get("venue", "")
-        return f"{date}|{time}|{venue}"
+        return f"{url}|{date}|{time}|{venue}"
 
     def _load_existing_csv(self, filepath: Path, fieldnames: List[str]) -> Dict[str, Dict]:
         """Load existing CSV data into a dictionary keyed by event ID"""
