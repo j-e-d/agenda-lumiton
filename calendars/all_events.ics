@@ -5,19 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:DRÁCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251016T000000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251016T020500
-DTSTAMP:20251016T030000Z
-UID:202510160000-Cine-York-DRÁCULA@lumiton.ar
-DESCRIPTION:El ancestral vampiro Conde Drácula llega a Inglaterra y comie
- nza a aprovecharse de Mina\, una virtuosa joven. Lanzada en los…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/dracula-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/dracula-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR (THE SHINING)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251017T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251017T200500
