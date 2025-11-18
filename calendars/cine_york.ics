@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:EL GABINETE DEL DR. CALIGARI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251019T200500
-DTSTAMP:20251019T210000Z
-UID:202510191800-Cine-York-EL-GABINETE-DEL-DR.-@lumiton.ar
-DESCRIPTION:La película será proyectada en fílmico 35mm y musicalizada 
- en vivo por el ensamble musical El juego infinito. Uno de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/el-gabinete-del-dr-caligari
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gabinete-del-dr-caligari/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL GABINETE DEL DR. CALIGARI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251019T223500
-DTSTAMP:20251019T233000Z
-UID:202510192030-Cine-York-EL-GABINETE-DEL-DR.-@lumiton.ar
-DESCRIPTION:La película será proyectada en fílmico 35mm y musicalizada 
- en vivo por el ensamble musical El juego infinito. Uno de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/el-gabinete-del-dr-caligari
- -2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gabinete-del-dr-caligari-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSICOSIS (PSYCHO)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251022T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251022T200500
