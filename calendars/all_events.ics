@@ -5,32 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:PSICOSIS (PSYCHO)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251022T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251022T200500
-DTSTAMP:20251022T210000Z
-UID:202510221800-Cine-York-PSICOSIS-(PSYCHO)@lumiton.ar
-DESCRIPTION:IMDb: 4.6/10\nMarion Crane\, una joven secretaria\, tras comet
- er el robo de un dinero en su empresa\, huye de la ciudad y\,…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/psicosis-psycho-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/psicosis-psycho-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSICOSIS (PSYCHO)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251022T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251022T223500
-DTSTAMP:20251022T233000Z
-UID:202510222030-Cine-York-PSICOSIS-(PSYCHO)@lumiton.ar
-DESCRIPTION:IMDb: 4.6/10\nMarion Crane\, una joven secretaria\, tras comet
- er el robo de un dinero en su empresa\, huye de la ciudad y\,…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/psicosis-psycho-6/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/psicosis-psycho-6/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA NOVIA DE FRANKENSTEIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251023T200500
