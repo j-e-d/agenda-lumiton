@@ -6,19 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:HÉROXS DEL 88
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251023T210500
-DTSTAMP:20251023T220000Z
-UID:202510231900-Centro-Cultural-Munro-HÉROXS-DEL-88@lumiton.ar
-DESCRIPTION:En el año 1988\, Chuchu Fasanelli y Walter Kolm\, dos jóvene
- s de 24 y 20 años\, fundadores del sello Radio…\n\nVenue: Centro Cultur
- al Munro\n\nMore info: https://lumiton.ar/evento/heroxs-del-88/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/heroxs-del-88/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA HABANA DE FITO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251030T210500

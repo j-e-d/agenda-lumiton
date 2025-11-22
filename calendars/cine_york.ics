@@ -5,35 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:LA NOVIA DE FRANKENSTEIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251023T200500
-DTSTAMP:20251023T210000Z
-UID:202510231800-Cine-York-LA-NOVIA-DE-FRANKENS@lumiton.ar
-DESCRIPTION:IMDb: 7.3/10\nLa primera secuela del film Frankenstein\, con B
- oris Karloff repitiendo su rol\, narra los hechos ocurridos inmediatamente
-  después del fin…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
- evento/la-novia-de-frankenstein/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-novia-de-frankenstein/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PESADILLA EN LO PROFUNDO DE LA NOCHE (A NIGHTMARE ON ELM STREET)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251023T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251023T220600
-DTSTAMP:20251023T233000Z
-UID:202510232030-Cine-York-PESADILLA-EN-LO-PROF@lumiton.ar
-DESCRIPTION:IMDb: 7.4/10 | 91 min\nProyección en fílmico 35 mm Varias pe
- rsonas son perseguidas por un cruel asesino en serie que mata a sus vícti
- mas…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pesadil
- la-en-lo-profundo-de-la-noche-a-nightmare-on-elm-street/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pesadilla-en-lo-profundo-de-la-noche-a-night
- mare-on-elm-street/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TERROR EN LA ÓPERA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251024T195200
