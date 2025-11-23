@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:TERROR EN LA ÓPERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251024T195200
-DTSTAMP:20251024T210000Z
-UID:202510241800-Cine-York-TERROR-EN-LA-ÓPERA@lumiton.ar
-DESCRIPTION:IMDb: 6.9/10 | 107 min\nA Betty\, una joven cantante de ópera
- \, le ofrecen la oportunidad de debutar como protagonista en el Macbeth de
-  Giuseppe…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/t
- error-en-la-opera-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/terror-en-la-opera-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROJO PROFUNDO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251024T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251024T224200
-DTSTAMP:20251024T233000Z
-UID:202510242030-Cine-York-ROJO-PROFUNDO@lumiton.ar
-DESCRIPTION:IMDb: 7.5/10 | 127 min\nMarcus\, un músico británico instala
- do en Roma\, es testigo del brutal asesinato de una médium. Con la ayuda 
- de Gianna\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
- /rojo-profundo-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/rojo-profundo-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DE TROYA A MALVINAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251028T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251028T210500
