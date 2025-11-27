@@ -5,19 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:DE TROYA A MALVINAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251028T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251028T210500
-DTSTAMP:20251028T220000Z
-UID:202510281900-Cine-York-DE-TROYA-A-MALVINAS@lumiton.ar
-DESCRIPTION:Entre los meses de diciembre de 2021 y abril de 2022 ocho Vete
- ranos de Malvinas trabajan en el proyecto teatral…\n\nVenue: Cine York\n
- \nMore info: https://lumiton.ar/evento/de-troya-a-malvinas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/de-troya-a-malvinas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FUERA DE LA LEY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251029T170500
