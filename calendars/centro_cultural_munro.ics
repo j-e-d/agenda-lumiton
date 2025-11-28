@@ -217,4 +217,100 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/argentina-beat/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MANHATTAN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251204T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251204T203500
+DTSTAMP:20251204T213000Z
+UID:202512041830-Centro-Cultural-Munro-MANHATTAN@lumiton.ar
+DESCRIPTION:En el clásico de Woody Allen\, Keaton encarna una melancolía
+  urbana sofisticada\, un rostro que parece observar la ciudad con…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/manhatt
+ an/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/manhattan/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CLUB DE LAS DIVORCIADAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251211T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251211T203500
+DTSTAMP:20251211T213000Z
+UID:202512111830-Centro-Cultural-Munro-EL-CLUB-DE-LAS-DIVOR@lumiton.ar
+DESCRIPTION:En esta comedia con trasfondo serio\, Keaton se ríe de los mo
+ ldes\, se ríe de ella misma\, y lo hace…\n\nVenue: Centro Cultural Munr
+ o\n\nMore info: https://lumiton.ar/evento/el-club-de-las-divorciadas/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-club-de-las-divorciadas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLOW
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251214T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251214T183500
+DTSTAMP:20251214T193000Z
+UID:202512141630-Centro-Cultural-Munro-FLOW@lumiton.ar
+DESCRIPTION:En la ganadora del Oscar e independiente Flow\, el realizador 
+ letón Gints Zilbalodis construye una miau-fábula ecológica hipnótica y
+  sin…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/e
+ vento/flow/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/flow/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALGUIEN TIENE QUE CEDER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251214T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251214T203500
+DTSTAMP:20251214T213000Z
+UID:202512141830-Centro-Cultural-Munro-ALGUIEN-TIENE-QUE-CE@lumiton.ar
+DESCRIPTION:En esta etapa más madura de su carrera\, Keaton demuestra que
+  su encanto no se desvanece con el tiempo: al…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/alguien-tiene-que-ceder/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alguien-tiene-que-ceder/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALLER DE CINE “EL MATE”: MUESTRA DE FIN DE AÑO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251218T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251218T203500
+DTSTAMP:20251218T213000Z
+UID:202512181830-Centro-Cultural-Munro-TALLER-DE-CINE-“EL-M@lumiton.ar
+DESCRIPTION:A lo largo del año\, en los distintos talleres de la escuela\
+ , se preparan los proyectos\, pasando por cada una…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/taller-de-cine-el-mate
+ -muestra-de-fin-de-ano/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/taller-de-cine-el-mate-muestra-de-fin-de-ano
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEMORIAS DE UN CARACOL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251221T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251221T183500
+DTSTAMP:20251221T193000Z
+UID:202512211630-Centro-Cultural-Munro-MEMORIAS-DE-UN-CARAC@lumiton.ar
+DESCRIPTION:En Memorias de un caracol\, el australiano Adam Elliot —gana
+ dor del Oscar por Harvie Krumpet— regresa al stop motion con…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/memorias-d
+ e-un-caracol/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/memorias-de-un-caracol/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANNIE HALL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251221T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251221T203500
+DTSTAMP:20251221T213000Z
+UID:202512211830-Centro-Cultural-Munro-ANNIE-HALL@lumiton.ar
+DESCRIPTION:Aquí Keaton no sólo actúa: crea un personaje que se convier
+ te en ícono de libertad estilística y de pensamiento. Su…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/annie-hall/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/annie-hall/
+END:VEVENT
 END:VCALENDAR

@@ -5,20 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Lumiton
 X-WR-CALNAME:Lumiton - Lumiton
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:FUERA DE LA LEY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251029T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251029T170500
-DTSTAMP:20251029T180000Z
-UID:202510291500-Lumiton-FUERA-DE-LA-LEY@lumiton.ar
-DESCRIPTION:IMDb: 4.8/10\nEl comisario Robles (Luis Arata) tiene un hijo p
- sicópata recluido en un reformatorio\, que al regresar al hogar reincide 
- en…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/fuera-de-l
- a-ley-5/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fuera-de-la-ley-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA NOCHE DE LOS MUSEOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T193000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251108T213500
@@ -59,5 +45,32 @@ DESCRIPTION:IMDb: 6.2/10\nLuego de haber sido despedido por una vedette\,
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-fabricante-de-estrellas-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VUELTA DE ROCHA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251213T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251213T200500
+DTSTAMP:20251213T210000Z
+UID:202512131800-Lumiton-LA-VUELTA-DE-ROCHA@lumiton.ar
+DESCRIPTION:Musical tanguero con todos los ingredientes del género. Un of
+ icial de marina se compadece de una cancionista provinciana que trata…\n
+ \nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vuelta-de-roch
+ a-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vuelta-de-rocha-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIDA ES UN TANGO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251217T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251217T200500
+DTSTAMP:20251217T210000Z
+UID:202512171800-Lumiton-LA-VIDA-ES-UN-TANGO@lumiton.ar
+DESCRIPTION:Una joven y un muchacho\, hijos de artistas que buscan triunfa
+ r con el tango viven un  romance\, con sus rupturas…\n\nVenue: Lumiton\
+ n\nMore info: https://lumiton.ar/evento/la-vida-es-un-tango-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 END:VCALENDAR
