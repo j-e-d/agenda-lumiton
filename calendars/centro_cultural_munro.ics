@@ -6,20 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:LA HABANA DE FITO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251030T210500
-DTSTAMP:20251030T220000Z
-UID:202510301900-Centro-Cultural-Munro-LA-HABANA-DE-FITO@lumiton.ar
-DESCRIPTION:IMDb: 6.1/10\nA finales de la década de 1980\, el ícono del 
- rock argentino Fito Páez visitó por primera vez La Habana\,…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-habana-d
- e-fito/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-habana-de-fito/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DALIA Y EL LIBRO ROJO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251102T183500

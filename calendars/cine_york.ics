@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:FINDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251030T193400
-DTSTAMP:20251030T210000Z
-UID:202510301800-Cine-York-FINDE@lumiton.ar
-DESCRIPTION:IMDb: 6.9/10 | 89 min\nAgos y Santi (Malena Pichot\, Julián L
- ucero) son una pareja que\, estresada por el encierro de su monoambiente y
-  la…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/finde/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/finde/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL VAMPIRO NEGRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251030T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251030T223500
-DTSTAMP:20251030T233000Z
-UID:202510302030-Cine-York-EL-VAMPIRO-NEGRO@lumiton.ar
-DESCRIPTION:IMDb: 7.4/10\nProyección en fílmico 35 mm Esta reelaboració
- n del clásico M\, el vampiro de Düsseldorf de Fritz Lang se centra en…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-vampiro-ne
- gro/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-vampiro-negro/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ENTRE ESPACIOS VACÍOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251031T192700
