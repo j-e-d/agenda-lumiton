@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:ENTRE ESPACIOS VACÍOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251031T192700
-DTSTAMP:20251031T210000Z
-UID:202510311800-Cine-York-ENTRE-ESPACIOS-VACÍO@lumiton.ar
-DESCRIPTION:IMDb: 5.7/10 | 82 min\nSe proyectarán las obras:• Entre esp
- acios vacíos (Dir. Melina Kladniew\, 10 min)• La hora de la siesta (Dir
- . Sofía Mora\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
- ento/entre-espacios-vacios/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/entre-espacios-vacios/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUNCIÓN ESPECIAL: UNA LUZ EN LA VENTANA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251031T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251031T223500
-DTSTAMP:20251031T233000Z
-UID:202510312030-Cine-York-FUNCIÓN-ESPECIAL:-UN@lumiton.ar
-DESCRIPTION:IMDb: 6.1/10\nGracias al trabajo de Archivo Lumiton se remaste
- rizó digitalmente el primer film de terror argentino Una luz en la ventan
- a…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/funcion-e
- special-una-luz-en-la-ventana/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/funcion-especial-una-luz-en-la-ventana/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ATERRADOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251101T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251101T200500
