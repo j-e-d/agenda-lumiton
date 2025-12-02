@@ -6,34 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:DALIA Y EL LIBRO ROJO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251102T183500
-DTSTAMP:20251102T193000Z
-UID:202511021630-Centro-Cultural-Munro-DALIA-Y-EL-LIBRO-ROJ@lumiton.ar
-DESCRIPTION:IMDb: 5.8/10\nDalia\, la hija de un famoso escritor quien ha m
- uerto recientemente\, hereda el legado de finalizar su libro. Para ello\,
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/dalia-y-el-libro-rojo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/dalia-y-el-libro-rojo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WOS:DESCARTABLE EN VIVO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251102T210500
-DTSTAMP:20251102T220000Z
-UID:202511021900-Centro-Cultural-Munro-WOS:DESCARTABLE-EN-V@lumiton.ar
-DESCRIPTION:Registro de la presentación del tercer álbum de estudio de W
- OS\, "DESCARTABLE"\, en el estadio de Racing Club de Avellaneda\,…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/wosdesc
- artable-en-vivo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/wosdescartable-en-vivo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DESAYUNANDO EN TIFFANY’S (BREAKFAST AT TIFFANY'S)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251106T203500
