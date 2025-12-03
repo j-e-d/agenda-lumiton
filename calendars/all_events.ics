@@ -1143,11 +1143,11 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/lo-que-nos-queda-por-contar/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TALLER DE CINE “EL MATE”: MUESTRA DE FIN DE AÑO
+SUMMARY:Selección de cortos realizados en el Taller de cine El Mate
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251218T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251218T203500
 DTSTAMP:20251218T213000Z
-UID:202512181830-Centro-Cultural-Munro-TALLER-DE-CINE-“EL-M@lumiton.ar
+UID:202512181830-Centro-Cultural-Munro-Selección-de-cortos-@lumiton.ar
 DESCRIPTION:A lo largo del año\, en los distintos talleres de la escuela\
  , se preparan los proyectos\, pasando por cada una…\n\nVenue: Centro Cul
  tural Munro\n\nMore info: https://lumiton.ar/evento/taller-de-cine-el-mate
@@ -1276,5 +1276,20 @@ DESCRIPTION:En su obra maestra\, Chaplin interpreta a un solitario buscado
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MADRES: HAXAN CON MÚSICA EN VIVO POR BOTOX FATAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251219T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251219T220500
+DTSTAMP:20251219T230000Z
+UID:202512192000-Centro-Cultural-Munro-MADRES:-HAXAN-CON-MÚ@lumiton.ar
+DESCRIPTION:El viernes 19 de diciembre\, el Centro Cultural Munro recibe u
+ na nueva y electrizante función de Madres\, el ciclo dirigido…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/madres-hax
+ an-con-musica-en-vivo-por-botox-fatal/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
+ tal/
 END:VEVENT
 END:VCALENDAR
