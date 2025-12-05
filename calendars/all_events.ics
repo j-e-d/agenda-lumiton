@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:INSIDE ME
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251105T190500
-DTSTAMP:20251105T210000Z
-UID:202511051800-Cine-York-INSIDE-ME@lumiton.ar
-DESCRIPTION:IMDb: 7.2/10 | 60 min\nUna decisión clara rodeada de sentimie
- ntos encontrados. Una joven relata su experiencia con el aborto. Cortometr
- aje realizado por Filmuniversität |…\n\nVenue: Cine York\n\nMore info: 
- https://lumiton.ar/evento/inside-me/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/inside-me/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAFARI CLUB
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251105T223500
-DTSTAMP:20251105T233000Z
-UID:202511052030-Cine-York-SAFARI-CLUB@lumiton.ar
-DESCRIPTION:IMDb: 8.2/10\nEn el Safari Club\, puedes soltarte\, volverte l
- oco y salvaje. Ella se está preparando para ir de caza\, sin esperar…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/safari-club/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/safari-club/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THROWN AWAY BOOK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251106T200500
@@ -683,32 +656,6 @@ DESCRIPTION:El festival más libre y mutante de la animación desembarca e
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SENDA INDIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251105T200500
-DTSTAMP:20251105T210000Z
-UID:202511051800-Cine-York-SENDA-INDIA@lumiton.ar
-DESCRIPTION:En el año 1991\, el joven wichí Miguel Ángel Lorenzo filma 
- con una cámara de video Hi8\, con humor\, sensibilidad…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/senda-india/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/senda-india/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL SUEÑO DE EMMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251105T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251105T223500
-DTSTAMP:20251105T233000Z
-UID:202511052030-Cine-York-EL-SUEÑO-DE-EMMA@lumiton.ar
-DESCRIPTION:IMDb: 8.2/10\nEmma (16) y su papá Marcos (48) viven en una ca
- sa humilde en el Delta del Tigre\, una zona de…\n\nVenue: Cine York\n\nM
- ore info: https://lumiton.ar/evento/el-sueno-de-emma/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-sueno-de-emma/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GATILLERO
