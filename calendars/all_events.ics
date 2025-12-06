@@ -5,47 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:THROWN AWAY BOOK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T200500
-DTSTAMP:20251106T210000Z
-UID:202511061800-Cine-York-THROWN-AWAY-BOOK@lumiton.ar
-DESCRIPTION:IMDb: 6.7/10\nEs una historia sobre la pérdida y cómo lidiar
-  con la soledad. Un día\, Toni y Levi encuentran un misterioso…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/thrown-away-book/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/thrown-away-book/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESAYUNANDO EN TIFFANY’S (BREAKFAST AT TIFFANY'S)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T203500
-DTSTAMP:20251106T213000Z
-UID:202511061830-Centro-Cultural-Munro-DESAYUNANDO-EN-TIFFA@lumiton.ar
-DESCRIPTION:IMDb: 7.5/10\nBasada libremente en la novela corta de Truman C
- apote de 1958. Holly Golightly\, una glamorosa chica fiestera y miembro de
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/desayunando-en-tiffanys-breakfast-at-tiffanys/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desayunando-en-tiffanys-breakfast-at-tiffany
- s/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GREEN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T224500
-DTSTAMP:20251106T233000Z
-UID:202511062030-Cine-York-GREEN@lumiton.ar
-DESCRIPTION:IMDb: 7.0/10 | 130 min\nLa vegetación al borde de la carreter
- a es tierra de nadie. Fue creada para ser atravesada\, no para estar en…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/green/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/green/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TUYA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251107T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251107T200500
@@ -656,33 +615,6 @@ DESCRIPTION:El festival más libre y mutante de la animación desembarca e
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GATILLERO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T200500
-DTSTAMP:20251106T210000Z
-UID:202511061800-Cine-York-GATILLERO@lumiton.ar
-DESCRIPTION:IMDb: 6.7/10\nEl cine argentino muchas veces necesita de la fe
- rocidad que respira en cada uno de sus segundos Gatillero: Isla Maciel\,
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/gatillero/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/gatillero/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NO TE MUERAS SIN DECIRME ADONDE VAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T224500
-DTSTAMP:20251106T233000Z
-UID:202511062030-Cine-York-NO-TE-MUERAS-SIN-DEC@lumiton.ar
-DESCRIPTION:IMDb: 7.0/10 | 130 min\nProyección en fílmico 35 milímetros
- Leopoldo es un proyectorista de un cine de barrio. Vive con su esposa en u
- na casa…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-
- te-mueras-sin-decirme-adonde-vas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/no-te-mueras-sin-decirme-adonde-vas/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA LECCIÓN DE ANATOMÍA

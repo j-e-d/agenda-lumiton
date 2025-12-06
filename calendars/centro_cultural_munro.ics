@@ -6,21 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:DESAYUNANDO EN TIFFANY’S (BREAKFAST AT TIFFANY'S)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251106T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251106T203500
-DTSTAMP:20251106T213000Z
-UID:202511061830-Centro-Cultural-Munro-DESAYUNANDO-EN-TIFFA@lumiton.ar
-DESCRIPTION:IMDb: 7.5/10\nBasada libremente en la novela corta de Truman C
- apote de 1958. Holly Golightly\, una glamorosa chica fiestera y miembro de
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/desayunando-en-tiffanys-breakfast-at-tiffanys/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desayunando-en-tiffanys-breakfast-at-tiffany
- s/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL REINO DE KENSUKE (KENSUKE’S KINGDOM)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251109T183500
