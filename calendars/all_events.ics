@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:TUYA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251107T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251107T200500
-DTSTAMP:20251107T210000Z
-UID:202511071800-Cine-York-TUYA@lumiton.ar
-DESCRIPTION:IMDb: 5.2/10\nBasada en la novela “Tuya” de Claudia Piñei
- ro. Inés descubre una carta de amor dirigida a su marido\, Ernesto\, y…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/tuya/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tuya/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA PROPIEDAD DEL NOMBRE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251107T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251107T223500
-DTSTAMP:20251107T233000Z
-UID:202511072030-Cine-York-LA-PROPIEDAD-DEL-NOM@lumiton.ar
-DESCRIPTION:IMDb: 8.8/10\nLa propiedad del nombre es un cortometraje-ensay
- o cuya intención es analizar el concepto de los nombres propios\, un brev
- e estudio…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/l
- a-propiedad-del-nombre/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-propiedad-del-nombre/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEADPRICKLES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251108T200500
@@ -615,20 +588,6 @@ DESCRIPTION:El festival más libre y mutante de la animación desembarca e
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA LECCIÓN DE ANATOMÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251107T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251107T223500
-DTSTAMP:20251107T233000Z
-UID:202511072030-Cine-York-LA-LECCIÓN-DE-ANATOM@lumiton.ar
-DESCRIPTION:IMDb: 8.8/10\nUn documental sobre el fenómeno teatral de Carl
- os Mathus En 1972\, Carlos Mathus presentó en Buenos Aires su provocadora
-  obra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-le
- ccion-de-anatomia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-leccion-de-anatomia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QUINOGRAFÍA
