@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:HEADPRICKLES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251108T200500
-DTSTAMP:20251108T210000Z
-UID:202511081800-Cine-York-HEADPRICKLES@lumiton.ar
-DESCRIPTION:IMDb: 7.3/10\nLa película consta de más de una docena de epi
- sodios animados conectados por el motivo de estar atrapados en un…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/headprickles/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/headprickles/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS POETAS VISITAN A JUANA BIGNOZZI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251108T223500
-DTSTAMP:20251108T233000Z
-UID:202511082030-Cine-York-LAS-POETAS-VISITAN-A@lumiton.ar
-DESCRIPTION:IMDb: 7.0/10\nUna poeta muere. Otra\, más joven\, recibe como
-  herencia el mandato de hacer conocer su obra. A esa tarea se…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/las-poetas-visitan-a-ju
- ana-bignozzi-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-poetas-visitan-a-juana-bignozzi-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANIMAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251109T200500
@@ -391,20 +364,6 @@ DESCRIPTION:El festival más libre y mutante de la animación desembarca e
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUINOGRAFÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251108T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251108T200500
-DTSTAMP:20251108T210000Z
-UID:202511081800-Cine-York-QUINOGRAFÍA@lumiton.ar
-DESCRIPTION:IMDb: 7.2/10\nCon imágenes y testimonios inéditos\, exploram
- os el lugar donde Quino forjó su creatividad. Junto a él descubrimos su 
- trabajo\, sus…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
- to/quinografia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/quinografia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIROSHIMA MON AMOUR
