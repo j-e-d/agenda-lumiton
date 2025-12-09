@@ -6,33 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:EL REINO DE KENSUKE (KENSUKE’S KINGDOM)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251109T183500
-DTSTAMP:20251109T193000Z
-UID:202511091630-Centro-Cultural-Munro-EL-REINO-DE-KENSUKE-@lumiton.ar
-DESCRIPTION:IMDb: 6.9/10\nTras emprender un viaje en barco junto a sus pad
- res y ser arrastrado por una violenta tormenta\, el joven Michael…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-rein
- o-de-kensuke-kensukes-kingdom/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-reino-de-kensuke-kensukes-kingdom/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA RENGA: TOTALMENTE POSEÍDOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251109T203500
-DTSTAMP:20251109T213000Z
-UID:202511091830-Centro-Cultural-Munro-LA-RENGA:-TOTALMENTE@lumiton.ar
-DESCRIPTION:Cuenta la historia de un grupo de amigos que se lanzan a escri
- bir las páginas de un diario que nunca…\n\nVenue: Centro Cultural Munro
- \n\nMore info: https://lumiton.ar/evento/la-renga-totalmente-poseidos/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-renga-totalmente-poseidos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SABRINA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251113T203500

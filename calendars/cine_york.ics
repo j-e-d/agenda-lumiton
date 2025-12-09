@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:ANIMAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251109T200500
-DTSTAMP:20251109T210000Z
-UID:202511091800-Cine-York-ANIMAL@lumiton.ar
-DESCRIPTION:IMDb: 8.2/10\nEl hotel griego donde transcurre la melancólica
-  y nerviosa Animal de Sofia Exarchou se convierte en un jaula. Sí\, habla
- mos…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/animal/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/animal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEONORA IN THE MORNING LIGHT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251109T223500
-DTSTAMP:20251109T233000Z
-UID:202511092030-Cine-York-LEONORA-IN-THE-MORNI@lumiton.ar
-DESCRIPTION:IMDb: 8.2/10\nLa coproducción de Thor Klein y Lena Vurma narr
- a instantes de la vida de Leonora Carrington\, una figura con el…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/leonora-in-the-morni
- ng-light/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/leonora-in-the-morning-light/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS PASOS PERDIDOS (LES PAS PERDUS)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251112T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251112T200500
