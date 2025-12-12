@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:LOS PASOS PERDIDOS (LES PAS PERDUS)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251112T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251112T200500
-DTSTAMP:20251112T210000Z
-UID:202511121800-Cine-York-LOS-PASOS-PERDIDOS-(@lumiton.ar
-DESCRIPTION:IMDb: 6.9/10\nEl juzgado abre sus puertas. En la llamada “ha
- bitación de los pasos perdidos”\, antesala de las salas de audiencia\, 
- se…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-paso
- s-perdidos-les-pas-perdus/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-pasos-perdidos-les-pas-perdus/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFRICA STAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251112T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251112T223500
-DTSTAMP:20251112T233000Z
-UID:202511122030-Cine-York-AFRICA-STAR@lumiton.ar
-DESCRIPTION:IMDb: 8.0/10\nAfrica Star sigue a tres generaciones de mujeres
-  chipriotas -madre\, hija y nieta- cuyas vidas se vieron trágicamente alt
- eradas por…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- africa-star/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/africa-star/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TERAPIA FAMILIAR (ODREŠITEV ZA ZAČETNIKE)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251113T200500
