@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:TERAPIA FAMILIAR (ODREŠITEV ZA ZAČETNIKE)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251113T200500
-DTSTAMP:20251113T210000Z
-UID:202511131800-Cine-York-TERAPIA-FAMILIAR-(OD@lumiton.ar
-DESCRIPTION:IMDb: 5.8/10\nEn una reinvención humorística y tragicómica 
- del Teorema de Pasolini: un joven extraño entra en una familia eslovena '
- nouveau riche'…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
- nto/terapia-familiar-odresitev-za-zacetnike/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/terapia-familiar-odresitev-za-zacetnike/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOTEL PULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251113T223500
-DTSTAMP:20251113T233000Z
-UID:202511132030-Cine-York-HOTEL-PULA@lumiton.ar
-DESCRIPTION:IMDb: 6.2/10\nUn refugiado bosnio y una joven croata intentan 
- amarse en la difícil y conflictiva situación de la región en 1995.El…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hotel-pula/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hotel-pula/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JE’VIDA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251114T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251114T200500

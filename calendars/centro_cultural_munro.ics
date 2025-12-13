@@ -6,20 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:SABRINA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251113T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251113T203500
-DTSTAMP:20251113T213000Z
-UID:202511131830-Centro-Cultural-Munro-SABRINA@lumiton.ar
-DESCRIPTION:IMDb: 6.3/10\nLa joven Sabrina\, hija del chofer de los Larrab
- ee\, está enamorada del hijo menor que coquetea con ella por puro…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/sabrin
- a/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sabrina/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MI AMIGO ROBOT (ROBOT DREAMS)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251116T183500
