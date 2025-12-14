@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:JE’VIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251114T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251114T200500
-DTSTAMP:20251114T210000Z
-UID:202511141800-Cine-York-JE’VIDA@lumiton.ar
-DESCRIPTION:IMDb: 7.2/10\nLida\, una anciana skolt sami que ha abandonado 
- su pasado bajo presión\, atraviesa tres épocas históricas diferentes pa
- ra examinar el…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
- nto/jevida/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jevida/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOKES & CIGARETTES (SABEN AQUELL)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251114T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251114T223500
-DTSTAMP:20251114T233000Z
-UID:202511142030-Cine-York-JOKES-&-CIGARETTES-(@lumiton.ar
-DESCRIPTION:IMDb: 7.2/10\nBarcelona\, finales de los 60. Eugenio\, un jove
- n joyero\, conoce a Conchita y juntos inician una carrera musical. Pero un
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/jokes-ciga
- rettes-saben-aquell/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jokes-cigarettes-saben-aquell/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡GLORIA!
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251115T200500
