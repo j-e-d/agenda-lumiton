@@ -5,49 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:NOVIO\, MARIDO Y AMANTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T190500
-DTSTAMP:20251115T200000Z
-UID:202511151700-Lumiton-NOVIO\,-MARIDO-Y-AMAN@lumiton.ar
-DESCRIPTION:IMDb: 5.7/10\nNarra la historia de Rosalía\, una joven que se
-  une en matrimonio por capricho\, sin consumarlo\, a un hombre mucho…\n\
- nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/novio-marido-y-ama
- nte-2-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/novio-marido-y-amante-2-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡GLORIA!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T200500
-DTSTAMP:20251115T210000Z
-UID:202511151800-Cine-York-¡GLORIA!@lumiton.ar
-DESCRIPTION:IMDb: 7.1/10\nCorre el año 1800\; el lugar\, el Colegio Sant 
- Ignazio\, un viejo y decrépito instituto musical para niñas\, en algún
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/gloria-6/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/gloria-6/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRES KILÓMETROS AL FIN DEL MUNDO (TREI KILOMETRI PÂNĂ LA CAPĂT
- UL LUMII)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T223500
-DTSTAMP:20251115T233000Z
-UID:202511152030-Cine-York-TRES-KILÓMETROS-AL-F@lumiton.ar
-DESCRIPTION:Adi\, de 17 años\, pasa el verano en su pueblo natal\, en el 
- delta del Danubio. Una noche\, sufre un…\n\nVenue: Cine York\n\nMore inf
- o: https://lumiton.ar/evento/tres-kilometros-al-fin-del-mundo-trei-kilomet
- ri-pana-la-capatul-lumii/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tres-kilometros-al-fin-del-mundo-trei-kilome
- tri-pana-la-capatul-lumii/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MI AMIGO ROBOT (ROBOT DREAMS)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251116T183500

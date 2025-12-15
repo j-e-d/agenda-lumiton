@@ -5,35 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:¡GLORIA!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T200500
-DTSTAMP:20251115T210000Z
-UID:202511151800-Cine-York-¡GLORIA!@lumiton.ar
-DESCRIPTION:IMDb: 7.1/10\nCorre el año 1800\; el lugar\, el Colegio Sant 
- Ignazio\, un viejo y decrépito instituto musical para niñas\, en algún
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/gloria-6/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/gloria-6/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRES KILÓMETROS AL FIN DEL MUNDO (TREI KILOMETRI PÂNĂ LA CAPĂT
- UL LUMII)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T223500
-DTSTAMP:20251115T233000Z
-UID:202511152030-Cine-York-TRES-KILÓMETROS-AL-F@lumiton.ar
-DESCRIPTION:Adi\, de 17 años\, pasa el verano en su pueblo natal\, en el 
- delta del Danubio. Una noche\, sufre un…\n\nVenue: Cine York\n\nMore inf
- o: https://lumiton.ar/evento/tres-kilometros-al-fin-del-mundo-trei-kilomet
- ri-pana-la-capatul-lumii/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tres-kilometros-al-fin-del-mundo-trei-kilome
- tri-pana-la-capatul-lumii/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FAVORITEN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251116T200500

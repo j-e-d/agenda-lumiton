@@ -5,20 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Lumiton
 X-WR-CALNAME:Lumiton - Lumiton
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:NOVIO\, MARIDO Y AMANTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251115T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251115T190500
-DTSTAMP:20251115T200000Z
-UID:202511151700-Lumiton-NOVIO\,-MARIDO-Y-AMAN@lumiton.ar
-DESCRIPTION:IMDb: 5.7/10\nNarra la historia de Rosalía\, una joven que se
-  une en matrimonio por capricho\, sin consumarlo\, a un hombre mucho…\n\
- nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/novio-marido-y-ama
- nte-2-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/novio-marido-y-amante-2-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL FABRICANTE DE ESTRELLAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251126T170500
