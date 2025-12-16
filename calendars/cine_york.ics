@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:FAVORITEN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251116T200500
-DTSTAMP:20251116T210000Z
-UID:202511161800-Cine-York-FAVORITEN@lumiton.ar
-DESCRIPTION:IMDb: 7.7/10\nDurante tres años\, Ruth Beckermann siguió a u
- na clase de alumnos de entre siete y diez años en una escuela…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/favoriten/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/favoriten/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA ÚLTIMA CARRERA (POSLEDNÍ ZÁVOD)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251116T223500
-DTSTAMP:20251116T233000Z
-UID:202511162030-Cine-York-LA-ÚLTIMA-CARRERA-(P@lumiton.ar
-DESCRIPTION:IMDb: 4.7/10\nEn marzo de 1913\, durante una carrera de esquí
-  en los Montes de los Gigantes\, una tormenta de nieve transforma…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/la-ultima-carrera-p
- osledni-zavod/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-ultima-carrera-posledni-zavod/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL CONFORMISTA (IL CONFORMISTA)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251119T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251119T195800
