@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:EL CONFORMISTA (IL CONFORMISTA)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251119T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251119T195800
-DTSTAMP:20251119T210000Z
-UID:202511191800-Cine-York-EL-CONFORMISTA-(IL-C@lumiton.ar
-DESCRIPTION:IMDb: 7.9/10 | 113 min\nEn la Italia fascista de 1938\, Marcel
- lo Clerici está ansioso por ser aceptado en los círculos sociales del r
- égimen\, hacia…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
- ento/el-conformista-il-conformista/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-conformista-il-conformista/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FELLINI 8½
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251119T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251119T223500
-DTSTAMP:20251119T233000Z
-UID:202511192030-Cine-York-FELLINI-8½@lumiton.ar
-DESCRIPTION:IMDb: 8.0/10\nGuido es un director de cine\, tratando de plane
- ar su próxima película después de un éxito rotundo. Mientras piensa\, 
- comienza…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fe
- llini-8%c2%bd/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fellini-8%c2%bd/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROCCO Y SUS HERMANOS (ROCCO E I SUOI FRATELLI)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251120T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251120T200500
