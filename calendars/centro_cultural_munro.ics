@@ -6,20 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:MI BELLA DAMA (MY FAIR LADY)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251120T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251120T203500
-DTSTAMP:20251120T213000Z
-UID:202511201830-Centro-Cultural-Munro-MI-BELLA-DAMA-(MY-FA@lumiton.ar
-DESCRIPTION:IMDb: 7.7/10\nHenry\, un excéntrico y sobrado profesor de lin
- güística acepta una apuesta en la cual para ganar\, deberá tomar a una
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/mi-bella-dama-my-fair-lady/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-bella-dama-my-fair-lady/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÁNGELO EN EL BOSQUE MÁGICO (ANGELO\, DANS LA FORÊT MYSTÉRIEUSE
  )
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T163000
