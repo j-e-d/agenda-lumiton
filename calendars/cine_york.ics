@@ -5,20 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:EL GATOPARDO (IL GATTOPARDO)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251122T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251122T190500
-DTSTAMP:20251122T210000Z
-UID:202511221800-Cine-York-EL-GATOPARDO-(IL-GAT@lumiton.ar
-DESCRIPTION:IMDb: 7.5/10 | 60 min\nLa vida de Don Fabrizio y toda su famil
- ia se ve alterada tras la invasión a Sicilia de las tropas…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/el-gatopardo-il-gattopard
- o/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gatopardo-il-gattopardo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS INÚTILES (I VITELLONI)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251123T200500
