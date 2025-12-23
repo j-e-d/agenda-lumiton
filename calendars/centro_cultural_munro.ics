@@ -6,36 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:ÁNGELO EN EL BOSQUE MÁGICO (ANGELO\, DANS LA FORÊT MYSTÉRIEUSE
- )
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T183500
-DTSTAMP:20251123T193000Z
-UID:202511231630-Centro-Cultural-Munro-ÁNGELO-EN-EL-BOSQUE-@lumiton.ar
-DESCRIPTION:Ángelo\, un niño de 10 años\, viaja con su familia a visita
- r a su abuelita. Cuando sus distraídos padres lo…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/angelo-en-el-bosque-mag
- ico-angelo-dans-la-foret-mysterieuse/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/angelo-en-el-bosque-magico-angelo-dans-la-fo
- ret-mysterieuse/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUE SEA ROCK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T203500
-DTSTAMP:20251123T213000Z
-UID:202511231830-Centro-Cultural-Munro-QUE-SEA-ROCK@lumiton.ar
-DESCRIPTION:IMDb: 6.7/10\nEste documental musical completa una trilogía c
- on dos clásicos de este género: "Hasta que se ponga el sol" (Anibal Uset
- \,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/eve
- nto/que-sea-rock/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/que-sea-rock/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA PRINCESA QUE QUERÍA VIVIR (ROMAN HOLIDAY)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251127T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251127T203300

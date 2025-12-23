@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:LOS INÚTILES (I VITELLONI)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T200500
-DTSTAMP:20251123T210000Z
-UID:202511231800-Cine-York-LOS-INÚTILES-(I-VITE@lumiton.ar
-DESCRIPTION:Cinco hombres\, hijos no tan jóvenes de padres de clase media
- \, permanecen en un limbo postadolescente\, soñando con aventuras y…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-inutiles-i-v
- itelloni/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-inutiles-i-vitelloni/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAMMA ROMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T222100
-DTSTAMP:20251123T233000Z
-UID:202511232030-Cine-York-MAMMA-ROMA@lumiton.ar
-DESCRIPTION:IMDb: 7.8/10 | 106 min\nEn la Roma de la posguerra\, Mamma qui
- ere dejar su vida como trabajadora sexual y que su hijo Ettore se…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/mamma-roma-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mamma-roma-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROCCO Y SUS HERMANOS (ROCCO E I SUOI FRATELLI)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251126T200500

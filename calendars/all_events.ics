@@ -5,63 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:ÁNGELO EN EL BOSQUE MÁGICO (ANGELO\, DANS LA FORÊT MYSTÉRIEUSE
- )
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T183500
-DTSTAMP:20251123T193000Z
-UID:202511231630-Centro-Cultural-Munro-ÁNGELO-EN-EL-BOSQUE-@lumiton.ar
-DESCRIPTION:Ángelo\, un niño de 10 años\, viaja con su familia a visita
- r a su abuelita. Cuando sus distraídos padres lo…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/angelo-en-el-bosque-mag
- ico-angelo-dans-la-foret-mysterieuse/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/angelo-en-el-bosque-magico-angelo-dans-la-fo
- ret-mysterieuse/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS INÚTILES (I VITELLONI)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T200500
-DTSTAMP:20251123T210000Z
-UID:202511231800-Cine-York-LOS-INÚTILES-(I-VITE@lumiton.ar
-DESCRIPTION:Cinco hombres\, hijos no tan jóvenes de padres de clase media
- \, permanecen en un limbo postadolescente\, soñando con aventuras y…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-inutiles-i-v
- itelloni/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-inutiles-i-vitelloni/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUE SEA ROCK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T203500
-DTSTAMP:20251123T213000Z
-UID:202511231830-Centro-Cultural-Munro-QUE-SEA-ROCK@lumiton.ar
-DESCRIPTION:IMDb: 6.7/10\nEste documental musical completa una trilogía c
- on dos clásicos de este género: "Hasta que se ponga el sol" (Anibal Uset
- \,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/eve
- nto/que-sea-rock/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/que-sea-rock/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAMMA ROMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251123T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251123T222100
-DTSTAMP:20251123T233000Z
-UID:202511232030-Cine-York-MAMMA-ROMA@lumiton.ar
-DESCRIPTION:IMDb: 7.8/10 | 106 min\nEn la Roma de la posguerra\, Mamma qui
- ere dejar su vida como trabajadora sexual y que su hijo Ettore se…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/mamma-roma-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mamma-roma-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL FABRICANTE DE ESTRELLAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251126T170500
