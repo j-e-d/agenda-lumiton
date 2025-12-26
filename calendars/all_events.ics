@@ -5,35 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - All Events
 X-WR-CALNAME:Lumiton - All Events
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:EL FABRICANTE DE ESTRELLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251126T170500
-DTSTAMP:20251126T180000Z
-UID:202511261500-Lumiton-EL-FABRICANTE-DE-EST@lumiton.ar
-DESCRIPTION:IMDb: 6.2/10\nLuego de haber sido despedido por una vedette\, 
- un representante de artistas conoce a un  jugador de fútbol que canta…
- \n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/el-fabricante-d
- e-estrellas-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-fabricante-de-estrellas-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROCCO Y SUS HERMANOS (ROCCO E I SUOI FRATELLI)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251126T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251126T200500
-DTSTAMP:20251126T210000Z
-UID:202511261800-Cine-York-ROCCO-Y-SUS-HERMANOS@lumiton.ar
-DESCRIPTION:IMDb: 8.2/10\nRosaria y sus cuatro hijos abandonan su tierra n
- atal\, Lucania (actual Basilicata)\, para emigrar a Milán en busca de opo
- rtunidades…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- rocco-y-sus-hermanos-rocco-e-i-suoi-fratelli-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/rocco-y-sus-hermanos-rocco-e-i-suoi-fratelli
- -2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL GATOPARDO (IL GATTOPARDO)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251127T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251127T190500
