@@ -6,20 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:LA PRINCESA QUE QUERÍA VIVIR (ROMAN HOLIDAY)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251127T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251127T203300
-DTSTAMP:20251127T213000Z
-UID:202511271830-Centro-Cultural-Munro-LA-PRINCESA-QUE-QUER@lumiton.ar
-DESCRIPTION:IMDb: 8.0/10 | 118 min\nTodo un clásico que relata la encanta
- dora aventura romana y romántica entre una princesa moderna que detesta s
- us obligaciones reales…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
- tps://lumiton.ar/evento/la-princesa-que-queria-vivir-roman-holiday/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-princesa-que-queria-vivir-roman-holiday/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HOLA FRIDA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251130T183500
