@@ -5,34 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:FELLINI 8½
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251129T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251129T200500
-DTSTAMP:20251129T210000Z
-UID:202511291800-Cine-York-FELLINI-8½@lumiton.ar
-DESCRIPTION:IMDb: 8.0/10\nGuido es un director de cine\, tratando de plane
- ar su próxima película después de un éxito rotundo. Mientras piensa\, 
- comienza…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fe
- llini-8%c2%bd-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fellini-8%c2%bd-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS INÚTILES (I VITELLONI)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251129T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251129T223500
-DTSTAMP:20251129T233000Z
-UID:202511292030-Cine-York-LOS-INÚTILES-(I-VITE@lumiton.ar
-DESCRIPTION:Cinco hombres\, hijos no tan jóvenes de padres de clase media
- \, permanecen en un limbo postadolescente\, soñando con aventuras y…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-inutiles-i-v
- itelloni-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-inutiles-i-vitelloni-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HALBE TREPPE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251130T195600
