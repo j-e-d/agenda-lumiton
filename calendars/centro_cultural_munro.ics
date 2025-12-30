@@ -6,34 +6,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Centro Cultural Munr
 X-WR-CALNAME:Lumiton - Centro Cultural Munro
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:HOLA FRIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251130T183500
-DTSTAMP:20251130T193000Z
-UID:202511301630-Centro-Cultural-Munro-HOLA-FRIDA@lumiton.ar
-DESCRIPTION:IMDb: 6.8/10\nEsta es la historia de una niña diferente que p
- roviene de Coyoacán\, Ciudad de México. Chispeante y vibrante\, todo le
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/hola-frida/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hola-frida/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARGENTINA BEAT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251130T201900
-DTSTAMP:20251130T213000Z
-UID:202511301830-Centro-Cultural-Munro-ARGENTINA-BEAT@lumiton.ar
-DESCRIPTION:IMDb: 7.5/10 | 104 min\nA partir de la segunda mitad de los a
- ños 60\, el movimiento Beat y el primer Rock Nacional imponen códigos…
- \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/a
- rgentina-beat/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/argentina-beat/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MANHATTAN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251204T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251204T203500

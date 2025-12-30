@@ -5,33 +5,6 @@ X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
-SUMMARY:HALBE TREPPE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251130T195600
-DTSTAMP:20251130T210000Z
-UID:202511301800-Cine-York-HALBE-TREPPE@lumiton.ar
-DESCRIPTION:IMDb: 7.1/10 | 111 min\nProyección en formato fílmico 16 mm 
- El Goethe-Institut y el Museo del Cine Pablo Ducrós Hicken presentan en e
- l Cine…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/halb
- e-treppe/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/halbe-treppe/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BITBANG ATERRIZA EN CINE YORK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20251130T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20251130T223500
-DTSTAMP:20251130T233000Z
-UID:202511302030-Cine-York-BITBANG-ATERRIZA-EN-@lumiton.ar
-DESCRIPTION:El festival más libre y mutante de la animación desembarca e
- n el Cine York. Con más de diez años de…\n\nVenue: Cine York\n\nMore i
- nfo: https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/bitbang-aterriza-en-cine-york/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HIROSHIMA MON AMOUR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251203T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251203T200500
