@@ -101,4 +101,86 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN HOMBRE SOLO NO VALE NADA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260124T200500
+DTSTAMP:20260124T210000Z
+UID:202601241800-Lumiton-UN-HOMBRE-SOLO-NO-VA@lumiton.ar
+DESCRIPTION:Enrique Serrano interpreta a un empleado\, Modesto Fauno\, que
+  ha cometido un error en una factura de la empresa en…\n\nVenue: Lumiton
+ \n\nMore info: https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 SEGUNDOS DE AMOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
+DTSTAMP:20260207T210000Z
+UID:202602071800-Lumiton-30-SEGUNDOS-DE-AMOR@lumiton.ar
+DESCRIPTION:Graciela (Mirtha Legrand) sale enojada luego de su lección de
+  manejo\, debido a una discusión familiar\, toma el auto y…\n\nVenue: L
+ umiton\n\nMore info: https://lumiton.ar/evento/30-segundos-de-amor/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/30-segundos-de-amor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO SON 30 PESOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
+DTSTAMP:20260219T220000Z
+UID:202602191900-Lumiton-NO-SON-30-PESOS@lumiton.ar
+DESCRIPTION:Un grupo de jóvenes actores intenta recrear algunas de las es
+ cenas fundamentales que cuentan la trayectoria del Frente Patriótico Manu
+ el…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/no-son-30-
+ pesos/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-son-30-pesos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI NOVIA ES UN FANTASMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260221T200500
+DTSTAMP:20260221T210000Z
+UID:202602211800-Lumiton-MI-NOVIA-ES-UN-FANTA@lumiton.ar
+DESCRIPTION:La historia comienza en el Grand Palace Hotel\, donde Juanita 
+ trabaja como mucama asistiendo a una niña rica llamada Gabriela.…\n\nVe
+ nue: Lumiton\n\nMore info: https://lumiton.ar/evento/mi-novia-es-un-fantas
+ ma-4/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-novia-es-un-fantasma-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INMIGRANTES EN VICENTE LÓPEZ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
+DTSTAMP:20260226T220000Z
+UID:202602261900-Lumiton-INMIGRANTES-EN-VICEN@lumiton.ar
+DESCRIPTION:Inmigrantes en Vicente López es un corto documental que testi
+ monia aquellas personas oriundas de diferentes países de Europa que se…
+ \n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/inmigrantes-en-
+ vicente-lopez/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/inmigrantes-en-vicente-lopez/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARLOS GESELL\, MI PADRE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
+DTSTAMP:20260226T220000Z
+UID:202602261900-Lumiton-CARLOS-GESELL\,-MI-PA@lumiton.ar
+DESCRIPTION:Rosemarie Gesell fue la última hija en vida de Carlos Gesell\
+ , pionero fundador del épico pueblo balneario Argentino de Villa…\n\nVe
+ nue: Lumiton\n\nMore info: https://lumiton.ar/evento/carlos-gesell-mi-padr
+ e/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/carlos-gesell-mi-padre/
+END:VEVENT
 END:VCALENDAR

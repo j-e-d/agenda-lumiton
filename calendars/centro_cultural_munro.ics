@@ -369,4 +369,271 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLUE VELVET
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260115T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260115T210500
+DTSTAMP:20260115T220000Z
+UID:202601151900-Centro-Cultural-Munro-BLUE-VELVET@lumiton.ar
+DESCRIPTION:A cuarenta años de Blue Velvet\, la película sigue demostran
+ do cómo un mismo objeto —una tela\, una canción\, un gesto—…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/blue-ve
+ lvet/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/blue-velvet/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 1
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260118T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260118T190500
+DTSTAMP:20260118T200000Z
+UID:202601181700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
+DESCRIPTION:El Puerto\, Robo al Banco\, La Trompada Tramposa\, El Abuelito
+  Tuerca\, El Boxitracio La primera hermosa temporada de Las aventuras…\n
+ \nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/fu-
+ fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-1/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
+ -vez-programa-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FINDE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260118T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260118T210500
+DTSTAMP:20260118T220000Z
+UID:202601181900-Centro-Cultural-Munro-FINDE@lumiton.ar
+DESCRIPTION:La película de Papu Curotto con guión de Malena Pichot y Jul
+ ián Lucero observa con cercanía cómo una pareja se…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/finde-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/finde-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSICOSIS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260122T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260122T210500
+DTSTAMP:20260122T220000Z
+UID:202601221900-Centro-Cultural-Munro-PSICOSIS@lumiton.ar
+DESCRIPTION:El clásico más clásico de Hitchcock sigue resultando inquie
+ tante por la forma en que desarma nuestras expectativas y nos obliga…\n\
+ nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/psic
+ osis-psycho-6-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/psicosis-psycho-6-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 2
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260125T190500
+DTSTAMP:20260125T200000Z
+UID:202601251700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
+DESCRIPTION:El Portaaviones Atómico\, Botines goleadores\, Peligro en el 
+ Volcán Curados por su nieto\, Julio Fermepin\, en esta segunda tarde de
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
+ -vez-programa-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLAGA ZOMBIE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260125T210500
+DTSTAMP:20260125T220000Z
+UID:202601251900-Centro-Cultural-Munro-PLAGA-ZOMBIE@lumiton.ar
+DESCRIPTION:La Tierra está siendo objeto de una devastadora invasión ext
+ raterrestre. Los alienígenas han infectado a gran parte de la población
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/plaga-zombie/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/plaga-zombie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL MONSTRUO DE LA LAGUNA NEGRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260129T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260129T210500
+DTSTAMP:20260129T220000Z
+UID:202601291900-Centro-Cultural-Munro-EL-MONSTRUO-DE-LA-LA@lumiton.ar
+DESCRIPTION:La criatura anfibia de Jack Arnold\, campeón acuático de los
+  monstruos de la Universal\, combina mito\, romance\, terror y una…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-mon
+ struo-de-la-laguna-negra-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-monstruo-de-la-laguna-negra-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 3
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260201T190500
+DTSTAMP:20260201T200000Z
+UID:202602011700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
+DESCRIPTION:Papucho en Bancarrota\, La Vecinita de Enfrente\, El Espejo Mu
+ ltiplicador Siguen las aventuras en Trulalá y ahora llegan tres clásicos
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
+ -vez-programa-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTRA PELÍCULA MALDITA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260201T210500
+DTSTAMP:20260201T220000Z
+UID:202602011900-Centro-Cultural-Munro-OTRA-PELÍCULA-MALDIT@lumiton.ar
+DESCRIPTION:Historia del cine de terror argentino\, desde sus inicios en 1
+ 934 hasta la actualidad. Es un camino de derrotas\, calles…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/otra-pelicula-
+ maldita-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/otra-pelicula-maldita-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRÁCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260205T210500
+DTSTAMP:20260205T220000Z
+UID:202602051900-Centro-Cultural-Munro-DRÁCULA@lumiton.ar
+DESCRIPTION:El vampiro de Tod Browning\, con la presencia hipnótica de Be
+ la Lugosi\, sigue siendo la imagen definitiva del mito gracias…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/dracula-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/dracula-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 4
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260208T190500
+DTSTAMP:20260208T200000Z
+UID:202602081700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
+DESCRIPTION:El Boxitracio\, Barrilito de Cerveza\, El Gato Chimenea Un pro
+ grama de episodios clásicos de Las aventuras de Hijitus\, donde se…\n\n
+ Venue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/fu-fu
+ -y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-4/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
+ -vez-programa-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNA LUZ EN LA VENTANA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260208T210500
+DTSTAMP:20260208T220000Z
+UID:202602081900-Centro-Cultural-Munro-UNA-LUZ-EN-LA-VENTAN@lumiton.ar
+DESCRIPTION:Gracias al trabajo de Archivo Lumiton se remasterizó digitalm
+ ente el primer film de terror argentino Una luz en la ventana…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/una-luz-en-
+ la-ventana/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/una-luz-en-la-ventana/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANKENSTEIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260212T210500
+DTSTAMP:20260212T220000Z
+UID:202602121900-Centro-Cultural-Munro-FRANKENSTEIN@lumiton.ar
+DESCRIPTION:La versión de James Whale\, con Boris Karloff\, convirtió a 
+ la criatura en un símbolo trágico y monstruoso: un eterno…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/frankenstein-
+ 2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/frankenstein-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL GIGANTE EGOÍSTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260215T190500
+DTSTAMP:20260215T200000Z
+UID:202602151700-Centro-Cultural-Munro-EL-GIGANTE-EGOÍSTA@lumiton.ar
+DESCRIPTION:En la adaptación de Liliana Romero\, el clásico de Wilde se 
+ vuelve un cuento norteño donde los colores\, los tejidos…\n\nVenue: Cen
+ tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-gigante-egoi
+ sta/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-gigante-egoista/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERANO TRIPPIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260215T210500
+DTSTAMP:20260215T220000Z
+UID:202602151900-Centro-Cultural-Munro-VERANO-TRIPPIN@lumiton.ar
+DESCRIPTION:Un verano frío en la Patagonia. Toni y Lena\, amigas insepara
+ bles\, sueñan con escapar de la monotonía del pueblo y…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/verano-trippin/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/verano-trippin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL RESPLANDOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
+DTSTAMP:20260219T220000Z
+UID:202602191900-Centro-Cultural-Munro-EL-RESPLANDOR@lumiton.ar
+DESCRIPTION:Kubrick transforma la novela de Stephen King en un laberinto p
+ sicológico donde cada pasillo parece respirar y donde cada puerta…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-res
+ plandor-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-resplandor-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL PATALARGA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260222T190500
+DTSTAMP:20260222T200000Z
+UID:202602221700-Centro-Cultural-Munro-EL-PATALARGA@lumiton.ar
+DESCRIPTION:La ópera prima de Mercedes Moreira propone una animación que
+  combina voces reales\, trazos de marioneta y collages fotográficos para
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/el-patalarga/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-patalarga/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUANDO ACECHA LA MALDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260222T210500
+DTSTAMP:20260222T220000Z
+UID:202602221900-Centro-Cultural-Munro-CUANDO-ACECHA-LA-MAL@lumiton.ar
+DESCRIPTION:Un hombre es encarnado por un demonio en la ruralidad de un pu
+ eblo perdido\, lejos de las grandes ciudades. Dos…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/cuando-acecha-la-maldad
+ -8/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuando-acecha-la-maldad-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS PÁJAROS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
+DTSTAMP:20260226T220000Z
+UID:202602261900-Centro-Cultural-Munro-LOS-PÁJAROS@lumiton.ar
+DESCRIPTION:Hitchcock convierte un ataque inexplicable de aves en una lecc
+ ión de cómo construir terror a partir de lo cotidiano. Otra…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-pajaros
+ /
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-pajaros/
+END:VEVENT
 END:VCALENDAR

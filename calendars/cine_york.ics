@@ -1284,4 +1284,306 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESPERATE LIVING
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260123T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260123T223500
+DTSTAMP:20260123T233000Z
+UID:202601232030-Cine-York-DESPERATE-LIVING@lumiton.ar
+DESCRIPTION:Una sátira anárquica donde John Waters lleva su imaginación
+  al extremo\, construyendo un reino marginal gobernado por el exceso. La
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desperate-
+ living/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/desperate-living/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEMALE TROUBLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260124T223500
+DTSTAMP:20260124T233000Z
+UID:202601242030-Cine-York-FEMALE-TROUBLE@lumiton.ar
+DESCRIPTION:Divine entrega una de sus interpretaciones más emblemáticas 
+ en esta historia que mezcla crimen\, melodrama y delirio pop. Waters explo
+ ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/female-t
+ rouble/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/female-trouble/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HISTORIAS EXTRAORDINARIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260125T200500
+DTSTAMP:20260125T210000Z
+UID:202601251800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
+DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
+ es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
+ ias/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/historias-extraordinarias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PINK FLAMINGOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260130T223500
+DTSTAMP:20260130T233000Z
+UID:202601302030-Cine-York-PINK-FLAMINGOS@lumiton.ar
+DESCRIPTION:El film que convirtió a Waters en un cineasta de culto y a Di
+ vine en una fuerza de la naturaleza.…\n\nVenue: Cine York\n\nMore info: 
+ https://lumiton.ar/evento/pink-flamingos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pink-flamingos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POLYESTER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260131T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260131T223500
+DTSTAMP:20260131T233000Z
+UID:202601312030-Cine-York-POLYESTER@lumiton.ar
+DESCRIPTION:Con Polyester\, Waters se acerca al melodrama clásico\, pero 
+ lo hace desde la parodia y el cariño irreverente. Divine interpreta…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/polyester/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/polyester/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HISTORIAS EXTRAORDINARIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260201T200500
+DTSTAMP:20260201T210000Z
+UID:202602011800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
+DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
+ es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
+ ias-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/historias-extraordinarias-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MULTIPLE MANIACS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260205T223500
+DTSTAMP:20260205T233000Z
+UID:202602052030-Cine-York-MULTIPLE-MANIACS@lumiton.ar
+DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
+ con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/multiple-maniacs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAIRSPRAY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260206T223500
+DTSTAMP:20260206T233000Z
+UID:202602062030-Cine-York-HAIRSPRAY@lumiton.ar
+DESCRIPTION:Tal vez la película más accesible y luminosa de Waters\, una
+  comedia musical sobre racismo\, baile televisivo y revolución adolescent
+ e…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hairspray
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hairspray/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIAJERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
+DTSTAMP:20260207T210000Z
+UID:202602071800-Cine-York-LA-VIAJERA@lumiton.ar
+DESCRIPTION:Hong Sangsoo construye una comedia mínima donde Isabelle Hupp
+ ert encarna a una misteriosa profesora de francés cuyo método\, más ter
+ apéutico…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/l
+ a-viajera/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-viajera/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EN LA CORRIENTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260207T223500
+DTSTAMP:20260207T233000Z
+UID:202602072030-Cine-York-EN-LA-CORRIENTE@lumiton.ar
+DESCRIPTION:Ambientada en una universidad de arte\, En la corriente sigue 
+ a un director teatral retirado que\, al preparar una obra…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/en-la-corriente/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/en-la-corriente/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HISTORIAS EXTRAORDINARIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260208T200500
+DTSTAMP:20260208T210000Z
+UID:202602081800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
+DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
+ es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
+ ias-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/historias-extraordinarias-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL VIAJE DE CHIHIRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260212T223500
+DTSTAMP:20260212T233000Z
+UID:202602122030-Cine-York-EL-VIAJE-DE-CHIHIRO@lumiton.ar
+DESCRIPTION:En esta aventura desbordada de imaginación\, Chihiro atravies
+ a un mundo espiritual donde cada criatura guarda un misterio y cada decisi
+ ón…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-viaj
+ e-de-chihiro/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-viaje-de-chihiro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIKI ENTREGAS A DOMICILIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260213T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260213T223500
+DTSTAMP:20260213T233000Z
+UID:202602132030-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
+DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
+ scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA COLINA DE LAS AMAPOLAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260214T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260214T223500
+DTSTAMP:20260214T233000Z
+UID:202602142030-Cine-York-LA-COLINA-DE-LAS-AMA@lumiton.ar
+DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
+ ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/la-colina-de-las-amap
+ olas-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-colina-de-las-amapolas-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HISTORIAS EXTRAORDINARIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260215T200500
+DTSTAMP:20260215T210000Z
+UID:202602151800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
+DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
+ es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
+ ias-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/historias-extraordinarias-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIKI ENTREGAS A DOMICILIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260219T223500
+DTSTAMP:20260219T233000Z
+UID:202602192030-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
+DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
+ scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PRINCESA MONONOKE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260220T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260220T223500
+DTSTAMP:20260220T233000Z
+UID:202602202030-Cine-York-LA-PRINCESA-MONONOKE@lumiton.ar
+DESCRIPTION:Miyazaki alcanza una de sus cimas creativas en esta épica sob
+ re el choque entre industria y naturaleza. Con personajes complejos…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/la-princesa-monon
+ oke-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-princesa-mononoke-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POMPOKO LA GUERRA DE LOS MAPACHES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260221T223500
+DTSTAMP:20260221T233000Z
+UID:202602212030-Cine-York-POMPOKO-LA-GUERRA-DE@lumiton.ar
+DESCRIPTION:Con humor\, melancolía y una imaginación desbordante\, Isao 
+ Takahata narra la lucha de una comunidad de tanuki contra el avance…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/pompoko-la-guerra
+ -de-los-mapaches/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pompoko-la-guerra-de-los-mapaches/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HISTORIAS EXTRAORDINARIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260222T200500
+DTSTAMP:20260222T210000Z
+UID:202602221800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
+DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
+ es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
+ ias-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/historias-extraordinarias-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA COLINA DE LAS AMAPOLAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260226T223500
+DTSTAMP:20260226T233000Z
+UID:202602262030-Cine-York-LA-COLINA-DE-LAS-AMA@lumiton.ar
+DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
+ ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/la-colina-de-las-amap
+ olas-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-colina-de-las-amapolas-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL VIAJE DE CHIHIRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260227T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260227T223500
+DTSTAMP:20260227T233000Z
+UID:202602272030-Cine-York-EL-VIAJE-DE-CHIHIRO@lumiton.ar
+DESCRIPTION:En esta aventura desbordada de imaginación\, Chihiro atravies
+ a un mundo espiritual donde cada criatura guarda un misterio y cada decisi
+ ón…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-viaj
+ e-de-chihiro-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-viaje-de-chihiro-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTÁRTIDA - DOMINIO UNO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260228T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260228T223500
+DTSTAMP:20260228T233000Z
+UID:202602282030-Cine-York-ANTÁRTIDA---DOMINIO-@lumiton.ar
+DESCRIPTION:Antártida - Dominio Uno es un llamado a la conservación. Es
+ te documental profundiza en la apremiante necesidad de salvaguardar la An
+ tártida\, un…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
+ to/antartida-dominio-uno/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/antartida-dominio-uno/
+END:VEVENT
 END:VCALENDAR
