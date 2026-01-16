@@ -1586,4 +1586,30 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/antartida-dominio-uno/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIKI ENTREGAS A DOMICILIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260213T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260213T233500
+DTSTAMP:20260214T003000Z
+UID:202602132130-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
+DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
+ scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA MUERTE DE UN COMEDIANTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260228T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260228T200500
+DTSTAMP:20260228T210000Z
+UID:202602281800-Cine-York-LA-MUERTE-DE-UN-COME@lumiton.ar
+DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
+  héroe en una popular serie de televisión. Cuando le…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
+END:VEVENT
 END:VCALENDAR
