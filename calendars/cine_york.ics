@@ -1612,4 +1612,85 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESPERATE LIVING
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260123T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260123T203500
+DTSTAMP:20260123T213000Z
+UID:202601231830-Cine-York-DESPERATE-LIVING@lumiton.ar
+DESCRIPTION:Una sátira anárquica donde John Waters lleva su imaginación
+  al extremo\, construyendo un reino marginal gobernado por el exceso. La
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desperate-
+ living-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/desperate-living-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEMALE TROUBLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260124T203500
+DTSTAMP:20260124T213000Z
+UID:202601241830-Cine-York-FEMALE-TROUBLE@lumiton.ar
+DESCRIPTION:Divine entrega una de sus interpretaciones más emblemáticas 
+ en esta historia que mezcla crimen\, melodrama y delirio pop. Waters explo
+ ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/female-t
+ rouble-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/female-trouble-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PINK FLAMINGOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260130T203500
+DTSTAMP:20260130T213000Z
+UID:202601301830-Cine-York-PINK-FLAMINGOS@lumiton.ar
+DESCRIPTION:El film que convirtió a Waters en un cineasta de culto y a Di
+ vine en una fuerza de la naturaleza.…\n\nVenue: Cine York\n\nMore info: 
+ https://lumiton.ar/evento/pink-flamingos-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pink-flamingos-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POLYESTER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260131T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260131T203500
+DTSTAMP:20260131T213000Z
+UID:202601311830-Cine-York-POLYESTER@lumiton.ar
+DESCRIPTION:Con Polyester\, Waters se acerca al melodrama clásico\, pero 
+ lo hace desde la parodia y el cariño irreverente. Divine interpreta…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/polyester-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/polyester-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MULTIPLE MANIACS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260205T203500
+DTSTAMP:20260205T213000Z
+UID:202602051830-Cine-York-MULTIPLE-MANIACS@lumiton.ar
+DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
+ con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/multiple-maniacs-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAIRSPRAY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260206T203500
+DTSTAMP:20260206T213000Z
+UID:202602061830-Cine-York-HAIRSPRAY@lumiton.ar
+DESCRIPTION:Tal vez la película más accesible y luminosa de Waters\, una
+  comedia musical sobre racismo\, baile televisivo y revolución adolescent
+ e…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hairspray
+ -2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hairspray-2/
+END:VEVENT
 END:VCALENDAR
