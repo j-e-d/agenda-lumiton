@@ -2544,4 +2544,18 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hairspray-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VALOR SENTIMENTAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260213T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260213T203500
+DTSTAMP:20260213T213000Z
+UID:202602131830-Cine-York-VALOR-SENTIMENTAL@lumiton.ar
+DESCRIPTION:Reinsve interpreta a Nora\, una exitosa actriz de teatro que\,
+  junto con su hermana Agnes (Inga Ibsdotter Lilleaas)\, se reencuentra…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/valor-sentimen
+ tal/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/valor-sentimental/
+END:VEVENT
 END:VCALENDAR
