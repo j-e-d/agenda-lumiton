@@ -2558,4 +2558,18 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/valor-sentimental/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL VIAJE DE CHIHIRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260212T223500
+DTSTAMP:20260212T233000Z
+UID:202602122030-Quinta-Trabucco-EL-VIAJE-DE-CHIHIRO@lumiton.ar
+DESCRIPTION:En esta aventura desbordada de imaginación\, Chihiro atravies
+ a un mundo espiritual donde cada criatura guarda un misterio y cada decisi
+ ón…\n\nVenue: Quinta Trabucco\n\nMore info: https://lumiton.ar/evento/e
+ l-viaje-de-chihiro-3/
+LOCATION:Quinta Trabucco
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-viaje-de-chihiro-3/
+END:VEVENT
 END:VCALENDAR
