@@ -636,4 +636,18 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/los-pajaros/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL SUSURRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260215T210500
+DTSTAMP:20260215T220000Z
+UID:202602151900-Centro-Cultural-Munro-EL-SUSURRO@lumiton.ar
+DESCRIPTION:El susurro\, dirigida por Gustavo Hernández\, combina vampiro
+ s\, drama familiar y thriller criminal en una historia donde Hernández lo
+ gra una…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.a
+ r/evento/el-susurro/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-susurro/
+END:VEVENT
 END:VCALENDAR
