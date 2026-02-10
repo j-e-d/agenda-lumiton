@@ -2586,4 +2586,17 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-susurro/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL TEMA DEL VERANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260227T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260227T200500
+DTSTAMP:20260227T210000Z
+UID:202602271800-Cine-York-EL-TEMA-DEL-VERANO@lumiton.ar
+DESCRIPTION:Ana\, Malú y Martina\, jóvenes estafadoras\, planean un gran
+  golpe: drogar a un millonario excéntrico y a sus amigos para…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/el-tema-del-verano/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-tema-del-verano/
+END:VEVENT
 END:VCALENDAR
