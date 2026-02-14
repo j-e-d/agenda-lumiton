@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLUE VELVET
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260115T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260115T210500
-DTSTAMP:20260115T220000Z
-UID:202601151900-Centro-Cultural-Munro-BLUE-VELVET@lumiton.ar
-DESCRIPTION:A cuarenta años de Blue Velvet\, la película sigue demostran
- do cómo un mismo objeto —una tela\, una canción\, un gesto—…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/blue-ve
- lvet/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 1
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260118T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260118T190500
