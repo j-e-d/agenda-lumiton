@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 1
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260118T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260118T190500
-DTSTAMP:20260118T200000Z
-UID:202601181700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
-DESCRIPTION:El Puerto\, Robo al Banco\, La Trompada Tramposa\, El Abuelito
-  Tuerca\, El Boxitracio La primera hermosa temporada de Las aventuras…\n
- \nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/fu-
- fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-1/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
- -vez-programa-1/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FINDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260118T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260118T210500
-DTSTAMP:20260118T220000Z
-UID:202601181900-Centro-Cultural-Munro-FINDE@lumiton.ar
-DESCRIPTION:La película de Papu Curotto con guión de Malena Pichot y Jul
- ián Lucero observa con cercanía cómo una pareja se…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/finde-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/finde-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSICOSIS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260122T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260122T210500
