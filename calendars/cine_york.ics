@@ -1720,4 +1720,121 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-tema-del-verano/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIKI ENTREGAS A DOMICILIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260221T203500
+DTSTAMP:20260221T213000Z
+UID:202602211830-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
+DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
+ scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/kiki-entregas-a-domicilio/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIN ALIENTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260301T200500
+DTSTAMP:20260301T210000Z
+UID:202603011800-Cine-York-SIN-ALIENTO@lumiton.ar
+DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
+  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sin-aliento/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOUVELLE VAGUE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260301T223500
+DTSTAMP:20260301T233000Z
+UID:202603012030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
+DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
+ ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/nouvelle-vague/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nouvelle-vague/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIN ALIENTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260315T200500
+DTSTAMP:20260315T210000Z
+UID:202603151800-Cine-York-SIN-ALIENTO@lumiton.ar
+DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
+  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sin-aliento-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOUVELLE VAGUE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260315T223500
+DTSTAMP:20260315T233000Z
+UID:202603152030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
+DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
+ ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/nouvelle-vague-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nouvelle-vague-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIN ALIENTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260322T200500
+DTSTAMP:20260322T210000Z
+UID:202603221800-Cine-York-SIN-ALIENTO@lumiton.ar
+DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
+  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sin-aliento-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOUVELLE VAGUE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260322T223500
+DTSTAMP:20260322T233000Z
+UID:202603222030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
+DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
+ ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/nouvelle-vague-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nouvelle-vague-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIN ALIENTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260329T200500
+DTSTAMP:20260329T210000Z
+UID:202603291800-Cine-York-SIN-ALIENTO@lumiton.ar
+DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
+  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sin-aliento-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOUVELLE VAGUE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260329T223500
+DTSTAMP:20260329T233000Z
+UID:202603292030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
+DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
+ ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/nouvelle-vague-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nouvelle-vague-4/
+END:VEVENT
 END:VCALENDAR
