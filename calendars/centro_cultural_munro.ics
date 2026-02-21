@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSICOSIS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260122T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260122T210500
-DTSTAMP:20260122T220000Z
-UID:202601221900-Centro-Cultural-Munro-PSICOSIS@lumiton.ar
-DESCRIPTION:El clásico más clásico de Hitchcock sigue resultando inquie
- tante por la forma en que desarma nuestras expectativas y nos obliga…\n\
- nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/psic
- osis-psycho-6-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/psicosis-psycho-6-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 2
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260125T190500
