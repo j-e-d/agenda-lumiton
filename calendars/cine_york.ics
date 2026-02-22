@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DESPERATE LIVING
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260123T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260123T223500
-DTSTAMP:20260123T233000Z
-UID:202601232030-Cine-York-DESPERATE-LIVING@lumiton.ar
-DESCRIPTION:Una sátira anárquica donde John Waters lleva su imaginación
-  al extremo\, construyendo un reino marginal gobernado por el exceso. La
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desperate-
- living/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desperate-living/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FEMALE TROUBLE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260124T223500
@@ -1611,20 +1597,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESPERATE LIVING
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260123T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260123T203500
-DTSTAMP:20260123T213000Z
-UID:202601231830-Cine-York-DESPERATE-LIVING@lumiton.ar
-DESCRIPTION:Una sátira anárquica donde John Waters lleva su imaginación
-  al extremo\, construyendo un reino marginal gobernado por el exceso. La
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desperate-
- living-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desperate-living-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FEMALE TROUBLE
