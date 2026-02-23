@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UN HOMBRE SOLO NO VALE NADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260124T200500
-DTSTAMP:20260124T210000Z
-UID:202601241800-Lumiton-UN-HOMBRE-SOLO-NO-VA@lumiton.ar
-DESCRIPTION:Enrique Serrano interpreta a un empleado\, Modesto Fauno\, que
-  ha cometido un error en una factura de la empresa en…\n\nVenue: Lumiton
- \n\nMore info: https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FEMALE TROUBLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260124T223500
-DTSTAMP:20260124T233000Z
-UID:202601242030-Cine-York-FEMALE-TROUBLE@lumiton.ar
-DESCRIPTION:Divine entrega una de sus interpretaciones más emblemáticas 
- en esta historia que mezcla crimen\, melodrama y delirio pop. Waters explo
- ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/female-t
- rouble/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/female-trouble/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 2
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260125T190500
@@ -2380,20 +2353,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FEMALE TROUBLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260124T203500
-DTSTAMP:20260124T213000Z
-UID:202601241830-Cine-York-FEMALE-TROUBLE@lumiton.ar
-DESCRIPTION:Divine entrega una de sus interpretaciones más emblemáticas 
- en esta historia que mezcla crimen\, melodrama y delirio pop. Waters explo
- ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/female-t
- rouble-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/female-trouble-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PINK FLAMINGOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260130T203500
@@ -2920,10 +2879,10 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
 DTSTAMP:20260307T210000Z
 UID:202603071800-Cine-York-EL-TIEMPO-DE-LA-TIER@lumiton.ar
-DESCRIPTION:Este cortometraje de stop motion producido por Lumitonnos acer
- ca cuatro breves historias originarias inspiradas en las comunidades mapuc
- he\, mbya guaraní\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.
- ar/evento/el-tiempo-de-la-tierra-historias-originarias-6/
+DESCRIPTION:Este cortometraje de stop motion producido por Lumiton nos ace
+ rca cuatro breves historias originarias inspiradas en las comunidades mapu
+ che\, mbya…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
+ el-tiempo-de-la-tierra-historias-originarias-6/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-tiempo-de-la-tierra-historias-originarias
@@ -3106,9 +3065,9 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260314T223500
 DTSTAMP:20260314T233000Z
 UID:202603142030-Cine-York-LAS-HIJAS-DEL-FUEGO@lumiton.ar
-DESCRIPTION:Una historia de amor de dos mujeres que\, a comienzos de los '
- 90\, enlazan sus vidas con un hilo que…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/las-hijas-del-fuego/
+DESCRIPTION:Tres mujeres se cruzan por azar en el fin del mundo e inician 
+ un viaje poliamoroso que las transforma hasta…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/las-hijas-del-fuego/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/las-hijas-del-fuego/
@@ -3403,5 +3362,46 @@ DESCRIPTION:Domingo a la noche\, Julieta está en casa con sus hijos\, Val
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/por-tu-culpa-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO SON 30 PESOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260305T210500
+DTSTAMP:20260305T220000Z
+UID:202603051900-Lumiton-NO-SON-30-PESOS@lumiton.ar
+DESCRIPTION:Un grupo de jóvenes actores intenta recrear algunas de las es
+ cenas fundamentales que cuentan la trayectoria del Frente Patriótico Manu
+ el…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/no-son-30-
+ pesos/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-son-30-pesos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROGRAMA CORTOMETRAJES NARCISA HIRSCH
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260306T200500
+DTSTAMP:20260306T210000Z
+UID:202603061800-Cine-York-PROGRAMA-CORTOMETRAJ@lumiton.ar
+DESCRIPTION:Referente fundamental del cine experimental argentino\, Narcis
+ a Hirsch desarrolló desde los años 60 una obra personal\, poética y rad
+ icalmente libre\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
+ evento/programa-cortometrajes-narcisa-hirsch/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/programa-cortometrajes-narcisa-hirsch/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROGRAMA DE CORTOS BITBANG
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260307T223500
+DTSTAMP:20260307T233000Z
+UID:202603072030-Cine-York-PROGRAMA-DE-CORTOS-B@lumiton.ar
+DESCRIPTION:En el marco de Miradas Argentinas\, el Cine York recibe a Bitb
+ ang\, el festival que desde hace más de 10…\n\nVenue: Cine York\n\nMore
+  info: https://lumiton.ar/evento/programa-de-cortos-bitbang/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/programa-de-cortos-bitbang/
 END:VEVENT
 END:VCALENDAR

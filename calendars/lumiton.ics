@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UN HOMBRE SOLO NO VALE NADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260124T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260124T200500
-DTSTAMP:20260124T210000Z
-UID:202601241800-Lumiton-UN-HOMBRE-SOLO-NO-VA@lumiton.ar
-DESCRIPTION:Enrique Serrano interpreta a un empleado\, Modesto Fauno\, que
-  ha cometido un error en una factura de la empresa en…\n\nVenue: Lumiton
- \n\nMore info: https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-hombre-solo-no-vale-nada-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:30 SEGUNDOS DE AMOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
@@ -208,5 +195,19 @@ DESCRIPTION:Tita Merello interpreta a una mujer que simula estar moribunda
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/filomena-marturano-4-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO SON 30 PESOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260305T210500
+DTSTAMP:20260305T220000Z
+UID:202603051900-Lumiton-NO-SON-30-PESOS@lumiton.ar
+DESCRIPTION:Un grupo de jóvenes actores intenta recrear algunas de las es
+ cenas fundamentales que cuentan la trayectoria del Frente Patriótico Manu
+ el…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/no-son-30-
+ pesos/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-son-30-pesos/
 END:VEVENT
 END:VCALENDAR
