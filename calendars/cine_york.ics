@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HISTORIAS EXTRAORDINARIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260125T200500
-DTSTAMP:20260125T210000Z
-UID:202601251800-Cine-York-HISTORIAS-EXTRAORDIN@lumiton.ar
-DESCRIPTION:Como si se tratara de una enciclopedia  acerca de las ficcion
- es clásicas de aventuras\, este film toma como principio tres…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/historias-extraordinar
- ias/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/historias-extraordinarias/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PINK FLAMINGOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260130T223500

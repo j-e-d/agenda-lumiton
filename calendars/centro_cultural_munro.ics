@@ -370,35 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 2
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260125T190500
-DTSTAMP:20260125T200000Z
-UID:202601251700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
-DESCRIPTION:El Portaaviones Atómico\, Botines goleadores\, Peligro en el 
- Volcán Curados por su nieto\, Julio Fermepin\, en esta segunda tarde de
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
- -vez-programa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLAGA ZOMBIE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260125T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260125T210500
-DTSTAMP:20260125T220000Z
-UID:202601251900-Centro-Cultural-Munro-PLAGA-ZOMBIE@lumiton.ar
-DESCRIPTION:La Tierra está siendo objeto de una devastadora invasión ext
- raterrestre. Los alienígenas han infectado a gran parte de la población
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/plaga-zombie/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/plaga-zombie/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL MONSTRUO DE LA LAGUNA NEGRA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260129T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260129T210500
@@ -757,5 +728,19 @@ DESCRIPTION:¿Les gusta The Office?¿Mucho? Bienvenido a la Escuela de Roc
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/esto-es-spinal-tap/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL RESPLANDOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260306T210500
+DTSTAMP:20260306T220000Z
+UID:202603061900-Centro-Cultural-Munro-EL-RESPLANDOR@lumiton.ar
+DESCRIPTION:Kubrick transforma la novela de Stephen King en un laberinto p
+ sicológico donde cada pasillo parece respirar y donde cada puerta…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-res
+ plandor-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-resplandor-3/
 END:VEVENT
 END:VCALENDAR
