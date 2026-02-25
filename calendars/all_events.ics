@@ -3375,4 +3375,18 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-resplandor-3/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIRGEN DE LA TOSQUERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260308T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260308T203500
+DTSTAMP:20260308T213000Z
+UID:202603081830-Centro-Cultural-Munro-LA-VIRGEN-DE-LA-TOSQ@lumiton.ar
+DESCRIPTION:Natalia\, Mariela y Josefina son tres inseparables amigas que 
+ viven en las afueras de Buenos Aires y están locamente enamoradas…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-vir
+ gen-de-la-tosquera/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-virgen-de-la-tosquera/
+END:VEVENT
 END:VCALENDAR
