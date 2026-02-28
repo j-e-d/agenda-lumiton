@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL MONSTRUO DE LA LAGUNA NEGRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260129T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260129T210500
-DTSTAMP:20260129T220000Z
-UID:202601291900-Centro-Cultural-Munro-EL-MONSTRUO-DE-LA-LA@lumiton.ar
-DESCRIPTION:La criatura anfibia de Jack Arnold\, campeón acuático de los
-  monstruos de la Universal\, combina mito\, romance\, terror y una…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-mon
- struo-de-la-laguna-negra-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-monstruo-de-la-laguna-negra-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA COLINA DE LAS AMAPOLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260129T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260129T223500
-DTSTAMP:20260129T233000Z
-UID:202601292030-Quinta-Trabucco-LA-COLINA-DE-LAS-AMA@lumiton.ar
-DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
- ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
- e: Quinta Trabucco\n\nMore info: https://lumiton.ar/evento/la-colina-de-la
- s-amapolas/
-LOCATION:Quinta Trabucco
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-colina-de-las-amapolas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PINK FLAMINGOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260130T223500

@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL MONSTRUO DE LA LAGUNA NEGRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260129T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260129T210500
-DTSTAMP:20260129T220000Z
-UID:202601291900-Centro-Cultural-Munro-EL-MONSTRUO-DE-LA-LA@lumiton.ar
-DESCRIPTION:La criatura anfibia de Jack Arnold\, campeón acuático de los
-  monstruos de la Universal\, combina mito\, romance\, terror y una…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-mon
- struo-de-la-laguna-negra-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-monstruo-de-la-laguna-negra-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 3
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260201T190500
