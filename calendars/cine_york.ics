@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PINK FLAMINGOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260130T223500
-DTSTAMP:20260130T233000Z
-UID:202601302030-Cine-York-PINK-FLAMINGOS@lumiton.ar
-DESCRIPTION:El film que convirtió a Waters en un cineasta de culto y a Di
- vine en una fuerza de la naturaleza.…\n\nVenue: Cine York\n\nMore info: 
- https://lumiton.ar/evento/pink-flamingos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pink-flamingos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:POLYESTER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260131T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260131T223500
@@ -1569,19 +1556,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PINK FLAMINGOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260130T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260130T203500
-DTSTAMP:20260130T213000Z
-UID:202601301830-Cine-York-PINK-FLAMINGOS@lumiton.ar
-DESCRIPTION:El film que convirtió a Waters en un cineasta de culto y a Di
- vine en una fuerza de la naturaleza.…\n\nVenue: Cine York\n\nMore info: 
- https://lumiton.ar/evento/pink-flamingos-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pink-flamingos-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POLYESTER
