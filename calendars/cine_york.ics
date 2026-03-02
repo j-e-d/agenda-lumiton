@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POLYESTER
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260131T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260131T223500
-DTSTAMP:20260131T233000Z
-UID:202601312030-Cine-York-POLYESTER@lumiton.ar
-DESCRIPTION:Con Polyester\, Waters se acerca al melodrama clásico\, pero 
- lo hace desde la parodia y el cariño irreverente. Divine interpreta…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/polyester/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/polyester/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HISTORIAS EXTRAORDINARIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260201T200500
@@ -1556,19 +1543,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POLYESTER
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260131T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260131T203500
-DTSTAMP:20260131T213000Z
-UID:202601311830-Cine-York-POLYESTER@lumiton.ar
-DESCRIPTION:Con Polyester\, Waters se acerca al melodrama clásico\, pero 
- lo hace desde la parodia y el cariño irreverente. Divine interpreta…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/polyester-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/polyester-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MULTIPLE MANIACS
