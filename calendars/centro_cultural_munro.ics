@@ -370,35 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 3
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260201T190500
-DTSTAMP:20260201T200000Z
-UID:202602011700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
-DESCRIPTION:Papucho en Bancarrota\, La Vecinita de Enfrente\, El Espejo Mu
- ltiplicador Siguen las aventuras en Trulalá y ahora llegan tres clásicos
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
- -vez-programa-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OTRA PELÍCULA MALDITA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260201T210500
-DTSTAMP:20260201T220000Z
-UID:202602011900-Centro-Cultural-Munro-OTRA-PELÍCULA-MALDIT@lumiton.ar
-DESCRIPTION:Historia del cine de terror argentino\, desde sus inicios en 1
- 934 hasta la actualidad. Es un camino de derrotas\, calles…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/otra-pelicula-
- maldita-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/otra-pelicula-maldita-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DRÁCULA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260205T210500
