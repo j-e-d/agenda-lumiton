@@ -2881,11 +2881,11 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-llegada-del-hijo/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CONTINUUM LA PLAYA
+SUMMARY:CONTINUUM - LA PLAYA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260314T223500
 DTSTAMP:20260314T233000Z
-UID:202603142030-Cine-York-CONTINUUM-LA-PLAYA@lumiton.ar
+UID:202603142030-Cine-York-CONTINUUM---LA-PLAYA@lumiton.ar
 DESCRIPTION:Una historia de amor de dos mujeres que\, a comienzos de los '
  90\, enlazan sus vidas con un hilo que…\n\nVenue: Cine York\n\nMore info
  : https://lumiton.ar/evento/continuum-la-playa/
@@ -3265,5 +3265,20 @@ DESCRIPTION:Natalia\, Mariela y Josefina son tres inseparables amigas que
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-virgen-de-la-tosquera/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REACTIVAR LA MIRADA: EL ROL DE LA MUJER EN EL ARCHIVO PUBLICITARIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260326T210500
+DTSTAMP:20260326T220000Z
+UID:202603261900-Lumiton-REACTIVAR-LA-MIRADA:@lumiton.ar
+DESCRIPTION:Durante marzo\, el Archivo Lumiton abre un espacio para volver
+  a acercarse a su acervo desde otra perspectiva. La propuesta…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/reactivar-la-mirada-el-ro
+ l-de-la-mujer-en-el-archivo-publicitario/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/reactivar-la-mirada-el-rol-de-la-mujer-en-el
+ -archivo-publicitario/
 END:VEVENT
 END:VCALENDAR

@@ -1968,11 +1968,11 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-llegada-del-hijo/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CONTINUUM LA PLAYA
+SUMMARY:CONTINUUM - LA PLAYA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260314T223500
 DTSTAMP:20260314T233000Z
-UID:202603142030-Cine-York-CONTINUUM-LA-PLAYA@lumiton.ar
+UID:202603142030-Cine-York-CONTINUUM---LA-PLAYA@lumiton.ar
 DESCRIPTION:Una historia de amor de dos mujeres que\, a comienzos de los '
  90\, enlazan sus vidas con un hilo que…\n\nVenue: Cine York\n\nMore info
  : https://lumiton.ar/evento/continuum-la-playa/
