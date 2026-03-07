@@ -1746,45 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DRÁCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T210500
-DTSTAMP:20260205T220000Z
-UID:202602051900-Centro-Cultural-Munro-DRÁCULA@lumiton.ar
-DESCRIPTION:El vampiro de Tod Browning\, con la presencia hipnótica de Be
- la Lugosi\, sigue siendo la imagen definitiva del mito gracias…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/dracula-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/dracula-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MULTIPLE MANIACS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T223500
-DTSTAMP:20260205T233000Z
-UID:202602052030-Cine-York-MULTIPLE-MANIACS@lumiton.ar
-DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
- con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/multiple-maniacs/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KIKI ENTREGAS A DOMICILIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T223500
-DTSTAMP:20260205T233000Z
-UID:202602052030-Quinta-Trabucco-KIKI-ENTREGAS-A-DOMI@lumiton.ar
-DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
- scubre su lugar en el mundo al ritmo de su…\n\nVenue: Quinta Trabucco\n\
- nMore info: https://lumiton.ar/evento/kiki-entregas-a-domicilio/
-LOCATION:Quinta Trabucco
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HAIRSPRAY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260206T223500
@@ -2211,19 +2172,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MULTIPLE MANIACS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T203500
-DTSTAMP:20260205T213000Z
-UID:202602051830-Cine-York-MULTIPLE-MANIACS@lumiton.ar
-DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
- con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/multiple-maniacs-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HAIRSPRAY

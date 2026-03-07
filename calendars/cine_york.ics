@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MULTIPLE MANIACS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T223500
-DTSTAMP:20260205T233000Z
-UID:202602052030-Cine-York-MULTIPLE-MANIACS@lumiton.ar
-DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
- con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/multiple-maniacs/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HAIRSPRAY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260206T223500
@@ -1529,19 +1516,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MULTIPLE MANIACS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260205T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260205T203500
-DTSTAMP:20260205T213000Z
-UID:202602051830-Cine-York-MULTIPLE-MANIACS@lumiton.ar
-DESCRIPTION:Una de las obras más crudas y primitivas de Waters\, filmada 
- con presupuesto mínimo y espíritu punk antes del punk.…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/multiple-maniacs-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/multiple-maniacs-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HAIRSPRAY
