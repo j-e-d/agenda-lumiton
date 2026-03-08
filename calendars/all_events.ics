@@ -1746,20 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HAIRSPRAY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260206T223500
-DTSTAMP:20260206T233000Z
-UID:202602062030-Cine-York-HAIRSPRAY@lumiton.ar
-DESCRIPTION:Tal vez la película más accesible y luminosa de Waters\, una
-  comedia musical sobre racismo\, baile televisivo y revolución adolescent
- e…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hairspray
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hairspray/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA VIAJERA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
@@ -2172,20 +2158,6 @@ DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HAIRSPRAY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260206T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260206T203500
-DTSTAMP:20260206T213000Z
-UID:202602061830-Cine-York-HAIRSPRAY@lumiton.ar
-DESCRIPTION:Tal vez la película más accesible y luminosa de Waters\, una
-  comedia musical sobre racismo\, baile televisivo y revolución adolescent
- e…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hairspray
- -2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hairspray-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VALOR SENTIMENTAL
