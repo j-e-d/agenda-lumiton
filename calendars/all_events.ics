@@ -1746,46 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA VIAJERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
-DTSTAMP:20260207T210000Z
-UID:202602071800-Cine-York-LA-VIAJERA@lumiton.ar
-DESCRIPTION:Hong Sangsoo construye una comedia mínima donde Isabelle Hupp
- ert encarna a una misteriosa profesora de francés cuyo método\, más ter
- apéutico…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/l
- a-viajera/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-viajera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:30 SEGUNDOS DE AMOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260207T200500
-DTSTAMP:20260207T210000Z
-UID:202602071800-Lumiton-30-SEGUNDOS-DE-AMOR@lumiton.ar
-DESCRIPTION:Graciela (Mirtha Legrand) sale enojada luego de su lección de
-  manejo\, debido a una discusión familiar\, toma el auto y…\n\nVenue: L
- umiton\n\nMore info: https://lumiton.ar/evento/30-segundos-de-amor/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/30-segundos-de-amor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EN LA CORRIENTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260207T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260207T223500
-DTSTAMP:20260207T233000Z
-UID:202602072030-Cine-York-EN-LA-CORRIENTE@lumiton.ar
-DESCRIPTION:Ambientada en una universidad de arte\, En la corriente sigue 
- a un director teatral retirado que\, al preparar una obra…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/en-la-corriente/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/en-la-corriente/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 4
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260208T190500
