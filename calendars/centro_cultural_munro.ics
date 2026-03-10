@@ -370,35 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡FU-FU Y CHUCU CHUCU CHUCU!: HIJITUS VUELA OTRA VEZ - Programa 4
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260208T190500
-DTSTAMP:20260208T200000Z
-UID:202602081700-Centro-Cultural-Munro-¡FU-FU-Y-CHUCU-CHUCU@lumiton.ar
-DESCRIPTION:El Boxitracio\, Barrilito de Cerveza\, El Gato Chimenea Un pro
- grama de episodios clásicos de Las aventuras de Hijitus\, donde se…\n\n
- Venue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/fu-fu
- -y-chucu-chucu-chucu-hijitus-vuela-otra-vez-programa-4/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fu-fu-y-chucu-chucu-chucu-hijitus-vuela-otra
- -vez-programa-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNA LUZ EN LA VENTANA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260208T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260208T210500
-DTSTAMP:20260208T220000Z
-UID:202602081900-Centro-Cultural-Munro-UNA-LUZ-EN-LA-VENTAN@lumiton.ar
-DESCRIPTION:Gracias al trabajo de Archivo Lumiton se remasterizó digitalm
- ente el primer film de terror argentino Una luz en la ventana…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/una-luz-en-
- la-ventana/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-luz-en-la-ventana/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FRANKENSTEIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260212T210500
