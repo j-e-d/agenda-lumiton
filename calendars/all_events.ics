@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FRANKENSTEIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260212T210500
-DTSTAMP:20260212T220000Z
-UID:202602121900-Centro-Cultural-Munro-FRANKENSTEIN@lumiton.ar
-DESCRIPTION:La versión de James Whale\, con Boris Karloff\, convirtió a 
- la criatura en un símbolo trágico y monstruoso: un eterno…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/frankenstein-
- 2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/frankenstein-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL VIAJE DE CHIHIRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260212T223500
-DTSTAMP:20260212T233000Z
-UID:202602122030-Cine-York-EL-VIAJE-DE-CHIHIRO@lumiton.ar
-DESCRIPTION:En esta aventura desbordada de imaginación\, Chihiro atravies
- a un mundo espiritual donde cada criatura guarda un misterio y cada decisi
- ón…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-viaj
- e-de-chihiro/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-viaje-de-chihiro/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KIKI ENTREGAS A DOMICILIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260213T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260213T223500
@@ -2089,20 +2061,6 @@ DESCRIPTION:Reinsve interpreta a Nora\, una exitosa actriz de teatro que\,
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/valor-sentimental/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL VIAJE DE CHIHIRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260212T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260212T223500
-DTSTAMP:20260212T233000Z
-UID:202602122030-Quinta-Trabucco-EL-VIAJE-DE-CHIHIRO@lumiton.ar
-DESCRIPTION:En esta aventura desbordada de imaginación\, Chihiro atravies
- a un mundo espiritual donde cada criatura guarda un misterio y cada decisi
- ón…\n\nVenue: Quinta Trabucco\n\nMore info: https://lumiton.ar/evento/e
- l-viaje-de-chihiro-3/
-LOCATION:Quinta Trabucco
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-viaje-de-chihiro-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL SUSURRO
