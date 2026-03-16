@@ -1746,20 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA COLINA DE LAS AMAPOLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260214T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260214T223500
-DTSTAMP:20260214T233000Z
-UID:202602142030-Cine-York-LA-COLINA-DE-LAS-AMA@lumiton.ar
-DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
- ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-colina-de-las-amap
- olas-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-colina-de-las-amapolas-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL GIGANTE EGOÍSTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260215T190500
