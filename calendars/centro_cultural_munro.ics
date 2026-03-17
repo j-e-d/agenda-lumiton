@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL GIGANTE EGOÍSTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260215T190500
-DTSTAMP:20260215T200000Z
-UID:202602151700-Centro-Cultural-Munro-EL-GIGANTE-EGOÍSTA@lumiton.ar
-DESCRIPTION:En la adaptación de Liliana Romero\, el clásico de Wilde se 
- vuelve un cuento norteño donde los colores\, los tejidos…\n\nVenue: Cen
- tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-gigante-egoi
- sta/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gigante-egoista/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERANO TRIPPIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260215T210500
-DTSTAMP:20260215T220000Z
-UID:202602151900-Centro-Cultural-Munro-VERANO-TRIPPIN@lumiton.ar
-DESCRIPTION:Un verano frío en la Patagonia. Toni y Lena\, amigas insepara
- bles\, sueñan con escapar de la monotonía del pueblo y…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/verano-trippin/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/verano-trippin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL RESPLANDOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
@@ -451,20 +424,6 @@ DESCRIPTION:Hitchcock convierte un ataque inexplicable de aves en una lecc
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/los-pajaros/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL SUSURRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260215T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260215T210500
-DTSTAMP:20260215T220000Z
-UID:202602151900-Centro-Cultural-Munro-EL-SUSURRO@lumiton.ar
-DESCRIPTION:El susurro\, dirigida por Gustavo Hernández\, combina vampiro
- s\, drama familiar y thriller criminal en una historia donde Hernández lo
- gra una…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.a
- r/evento/el-susurro/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-susurro/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROBOT SALVAJE
