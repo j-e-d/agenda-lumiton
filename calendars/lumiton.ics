@@ -102,20 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NO SON 30 PESOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
-DTSTAMP:20260219T220000Z
-UID:202602191900-Lumiton-NO-SON-30-PESOS@lumiton.ar
-DESCRIPTION:Un grupo de jóvenes actores intenta recrear algunas de las es
- cenas fundamentales que cuentan la trayectoria del Frente Patriótico Manu
- el…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/no-son-30-
- pesos/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/no-son-30-pesos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MI NOVIA ES UN FANTASMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260221T200500

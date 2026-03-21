@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KIKI ENTREGAS A DOMICILIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260219T223500
-DTSTAMP:20260219T233000Z
-UID:202602192030-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
-DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
- scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA PRINCESA MONONOKE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260220T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260220T223500

@@ -1746,47 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL RESPLANDOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
-DTSTAMP:20260219T220000Z
-UID:202602191900-Centro-Cultural-Munro-EL-RESPLANDOR@lumiton.ar
-DESCRIPTION:Kubrick transforma la novela de Stephen King en un laberinto p
- sicológico donde cada pasillo parece respirar y donde cada puerta…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-res
- plandor-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-resplandor-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NO SON 30 PESOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260219T210500
-DTSTAMP:20260219T220000Z
-UID:202602191900-Lumiton-NO-SON-30-PESOS@lumiton.ar
-DESCRIPTION:Un grupo de jóvenes actores intenta recrear algunas de las es
- cenas fundamentales que cuentan la trayectoria del Frente Patriótico Manu
- el…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/no-son-30-
- pesos/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/no-son-30-pesos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KIKI ENTREGAS A DOMICILIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260219T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260219T223500
-DTSTAMP:20260219T233000Z
-UID:202602192030-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
-DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
- scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA PRINCESA MONONOKE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260220T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260220T223500
