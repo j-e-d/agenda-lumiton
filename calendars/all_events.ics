@@ -1746,20 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA PRINCESA MONONOKE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260220T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260220T223500
-DTSTAMP:20260220T233000Z
-UID:202602202030-Cine-York-LA-PRINCESA-MONONOKE@lumiton.ar
-DESCRIPTION:Miyazaki alcanza una de sus cimas creativas en esta épica sob
- re el choque entre industria y naturaleza. Con personajes complejos…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/la-princesa-monon
- oke-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-princesa-mononoke-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MI NOVIA ES UN FANTASMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260221T200500
