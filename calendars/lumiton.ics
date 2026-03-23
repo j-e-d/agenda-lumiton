@@ -102,20 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MI NOVIA ES UN FANTASMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260221T200500
-DTSTAMP:20260221T210000Z
-UID:202602211800-Lumiton-MI-NOVIA-ES-UN-FANTA@lumiton.ar
-DESCRIPTION:La historia comienza en el Grand Palace Hotel\, donde Juanita 
- trabaja como mucama asistiendo a una niña rica llamada Gabriela.…\n\nVe
- nue: Lumiton\n\nMore info: https://lumiton.ar/evento/mi-novia-es-un-fantas
- ma-4/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-novia-es-un-fantasma-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INMIGRANTES EN VICENTE LÓPEZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500

@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POMPOKO LA GUERRA DE LOS MAPACHES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260221T223500
-DTSTAMP:20260221T233000Z
-UID:202602212030-Cine-York-POMPOKO-LA-GUERRA-DE@lumiton.ar
-DESCRIPTION:Con humor\, melancolía y una imaginación desbordante\, Isao 
- Takahata narra la lucha de una comunidad de tanuki contra el avance…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/pompoko-la-guerra
- -de-los-mapaches/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pompoko-la-guerra-de-los-mapaches/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HISTORIAS EXTRAORDINARIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260222T200500
@@ -1379,19 +1365,6 @@ DESCRIPTION:Ana\, Malú y Martina\, jóvenes estafadoras\, planean un gran
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-tema-del-verano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KIKI ENTREGAS A DOMICILIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260221T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260221T203500
-DTSTAMP:20260221T213000Z
-UID:202602211830-Cine-York-KIKI-ENTREGAS-A-DOMI@lumiton.ar
-DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
- scubre su lugar en el mundo al ritmo de su…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/kiki-entregas-a-domicilio/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIN ALIENTO
