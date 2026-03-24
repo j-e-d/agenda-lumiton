@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL PATALARGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260222T190500
-DTSTAMP:20260222T200000Z
-UID:202602221700-Centro-Cultural-Munro-EL-PATALARGA@lumiton.ar
-DESCRIPTION:La ópera prima de Mercedes Moreira propone una animación que
-  combina voces reales\, trazos de marioneta y collages fotográficos para
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/el-patalarga/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-patalarga/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUANDO ACECHA LA MALDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260222T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260222T210500
-DTSTAMP:20260222T220000Z
-UID:202602221900-Centro-Cultural-Munro-CUANDO-ACECHA-LA-MAL@lumiton.ar
-DESCRIPTION:Un hombre es encarnado por un demonio en la ruralidad de un pu
- eblo perdido\, lejos de las grandes ciudades. Dos…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/cuando-acecha-la-maldad
- -8/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuando-acecha-la-maldad-8/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS PÁJAROS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
