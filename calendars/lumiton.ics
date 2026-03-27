@@ -184,4 +184,45 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/reactivar-la-mirada-el-rol-de-la-mujer-en-el
  -archivo-publicitario/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCHE DE BODAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
+DTSTAMP:20260411T210000Z
+UID:202604111800-Lumiton-NOCHE-DE-BODAS@lumiton.ar
+DESCRIPTION:Por razones que se develarán al final\, una novia regresa mis
+ teriosamente a su hogar paterno en la noche de bodas.…\n\nVenue: Lumiton
+ \n\nMore info: https://lumiton.ar/evento/noche-de-bodas/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/noche-de-bodas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN BEBÉ DE PARÍS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
+DTSTAMP:20260423T210000Z
+UID:202604231800-Lumiton-UN-BEBÉ-DE-PARÍS@lumiton.ar
+DESCRIPTION:Raquel desea fervientemente ser madre pero no puede tener hijo
+ s. Finge estar embarazada para retener a su esposo\, de quien…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/un-beb-de-paris/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-beb-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“ALFRED HITCHCOCK PRESENTS”: EL MAESTRO DEL SUSPENSO EN LA TV
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260430T210500
+DTSTAMP:20260430T220000Z
+UID:202604301900-Lumiton-“ALFRED-HITCHCOCK-PR@lumiton.ar
+DESCRIPTION:Lumiclub nos invita a explorar otra faceta del “Maestro del 
+ suspenso” en una jornada de proyección y debate dedicada a…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/alfred-hitchcock-presents
+ -el-maestro-del-suspenso-en-la-tv/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alfred-hitchcock-presents-el-maestro-del-sus
+ penso-en-la-tv/
+END:VEVENT
 END:VCALENDAR

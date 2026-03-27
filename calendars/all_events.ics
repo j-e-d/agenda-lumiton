@@ -2842,4 +2842,422 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/las-cinephilas-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS CHICOS DE LA GUERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260404T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260404T200500
+DTSTAMP:20260404T210000Z
+UID:202604041800-Cine-York-LOS-CHICOS-DE-LA-GUE@lumiton.ar
+DESCRIPTION:Los chicos de la guerra narra la historia de Fabián\, Santiag
+ o y Pablo\, tres jóvenes de diferentes clases sociales que…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/los-chicos-de-la-guerra-2
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-chicos-de-la-guerra-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESPERANDO LA CARROZA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260404T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260404T223500
+DTSTAMP:20260404T233000Z
+UID:202604042030-Cine-York-ESPERANDO-LA-CARROZA@lumiton.ar
+DESCRIPTION:Es una adaptación de ese texto tan perverso\, tan divertido y
+  sabroso que Jacobo Langsner creó como un ejercicio grotesco…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/esperando-la-carroza-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/esperando-la-carroza-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL AMANECER DE AURORA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260407T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260407T213500
+DTSTAMP:20260407T223000Z
+UID:202604071930-Cine-York-EL-AMANECER-DE-AUROR@lumiton.ar
+DESCRIPTION:El amanecer de Aurora es un documental animado que cuenta la h
+ istoria real de Aurora Mardiganián\, una adolescente sobreviviente del…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-amanecer-d
+ e-aurora/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-amanecer-de-aurora/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESBARRANCADA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260409T200500
+DTSTAMP:20260409T210000Z
+UID:202604091800-Cine-York-DESBARRANCADA@lumiton.ar
+DESCRIPTION:Una mujer burguesa casada con un poderoso empresario estrecham
+ ente vinculado a la dictadura militar\, se rebela ante la desaparición fo
+ rzada…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desba
+ rrancada/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/desbarrancada/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS IMPERDONABLES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260409T203500
+DTSTAMP:20260409T213000Z
+UID:202604091830-Centro-Cultural-Munro-LOS-IMPERDONABLES@lumiton.ar
+DESCRIPTION:El pistolero retirado del viejo Oeste\, Bill Munny\, acepta a 
+ regañadientes un último trabajo\, con la ayuda de su viejo…\n\nVenue: 
+ Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-imperdon
+ ables/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-imperdonables/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NANCY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260409T223500
+DTSTAMP:20260409T233000Z
+UID:202604092030-Cine-York-NANCY@lumiton.ar
+DESCRIPTION:Nancy trabaja limpiando casas en una pequeña localidad coster
+ a caracterizada por su belleza y la gran transformación que experimenta u
+ na…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/nancy/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nancy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIGLI
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260410T200500
+DTSTAMP:20260410T210000Z
+UID:202604101800-Cine-York-BIGLI@lumiton.ar
+DESCRIPTION:Los años dejaron sin amor y sin sentido al viejo Bigli\, trat
+ ando de que el alcohol lo hunda a él…\n\nVenue: Cine York\n\nMore info:
+  https://lumiton.ar/evento/bigli/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bigli/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL AMO DEL JARDÍN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260410T223500
+DTSTAMP:20260410T233000Z
+UID:202604102030-Cine-York-EL-AMO-DEL-JARDÍN@lumiton.ar
+DESCRIPTION:Yasuo Inomata\, el paisajista más importante de Argentina\, n
+ ació en un pueblo del norte de Japón y en los años…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/el-amo-del-jardin/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-amo-del-jardin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCHE DE BODAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
+DTSTAMP:20260411T210000Z
+UID:202604111800-Lumiton-NOCHE-DE-BODAS@lumiton.ar
+DESCRIPTION:Por razones que se develarán al final\, una novia regresa mis
+ teriosamente a su hogar paterno en la noche de bodas.…\n\nVenue: Lumiton
+ \n\nMore info: https://lumiton.ar/evento/noche-de-bodas/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/noche-de-bodas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TENEMOS QUE HABLAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
+DTSTAMP:20260411T210000Z
+UID:202604111800-Cine-York-TENEMOS-QUE-HABLAR@lumiton.ar
+DESCRIPTION:Mónica y Martín están casados hace más de veinte años. El
+ la le organiza un festejo de cumpleaños sin imaginar en…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/tenemos-que-hablar/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tenemos-que-hablar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TESIS SOBRE UNA DOMESTICACIÓN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260411T223500
+DTSTAMP:20260411T233000Z
+UID:202604112030-Cine-York-TESIS-SOBRE-UNA-DOME@lumiton.ar
+DESCRIPTION:Adaptación cinematográfica de la novela homónima de Camila 
+ Sosa Villada. Una travesti ocupa el espacio que se ganó. Es actriz\,…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/tesis-sobre-una
+ -domesticacion-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tesis-sobre-una-domesticacion-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:METEGOL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260412T183500
+DTSTAMP:20260412T193000Z
+UID:202604121630-Centro-Cultural-Munro-METEGOL@lumiton.ar
+DESCRIPTION:Amadeo vive en un pueblo pequeño\, trabaja en un bar y es imb
+ atible jugando al metegol. Está enamorado de Laura\,…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/metegol/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/metegol/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL INTERNACIONAL CÁMARA CORPORIZADA: MUNDOS POSIBLES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260412T200500
+DTSTAMP:20260412T210000Z
+UID:202604121800-Cine-York-FESTIVAL-INTERNACION@lumiton.ar
+DESCRIPTION:Se proyectarán los siguientes cortometrajes: BALEINE / BALLEN
+ A (Dir. Sylvain Dufayard\, Bélgica\, 2024\, 8’)Una inmersión. La mente
+  apenas se mantiene…\n\nVenue: Cine York\n\nMore info: https://lumiton.a
+ r/evento/festival-internacional-camara-corporizada-mundos-posibles/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/festival-internacional-camara-corporizada-mu
+ ndos-posibles/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HELLO\, DOLLY!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260412T203500
+DTSTAMP:20260412T213000Z
+UID:202604121830-Centro-Cultural-Munro-HELLO\,-DOLLY!@lumiton.ar
+DESCRIPTION:Dolly (Barbra Streisand) es una casamentera cuya afición prin
+ cipal es arreglar la vida de los demás. En esta ocasión\, es…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hello-doll
+ y/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hello-dolly/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL INTERNACIONAL CÁMARA CORPORIZADA: LO QUE PERMANECE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260412T223500
+DTSTAMP:20260412T233000Z
+UID:202604122030-Cine-York-FESTIVAL-INTERNACION@lumiton.ar
+DESCRIPTION:Se proyectarán los siguientes cortometrajes: RUINS WITHIN RUI
+ NS / RUINAS DENTRO DE RUINAS (Dir. Lefteris Parasyris\, Grecia\,  Reino U
+ nido\, 2024\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
+ to/festival-internacional-cmara-corporizada-lo-que-permanece/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/festival-internacional-cmara-corporizada-lo-
+ que-permanece/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CONDENA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260416T200500
+DTSTAMP:20260416T210000Z
+UID:202604161800-Cine-York-LA-CONDENA@lumiton.ar
+DESCRIPTION:Karrer lleva una vida retirada en una población minera. Las t
+ ardes las pasa siempre en el bar Titanik\, cuyo dueño…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/la-condena/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-condena/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRAN TORINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260416T203500
+DTSTAMP:20260416T213000Z
+UID:202604161830-Centro-Cultural-Munro-GRAN-TORINO@lumiton.ar
+DESCRIPTION:Kowalski es un veterano de la guerra de Corea y trabajador jub
+ ilado del sector del automóvil. Inflexible y con voluntad…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/gran-torino/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/gran-torino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL INTRUSO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260416T223500
+DTSTAMP:20260416T233000Z
+UID:202604162030-Cine-York-EL-INTRUSO@lumiton.ar
+DESCRIPTION:Retrato de un joven inestable\, a la vez obrero de fábrica y 
+ enfermero. El hombre\, que también toca el violín\,…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/el-intruso/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-intruso/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARMONÍAS DE WERCKMEISTER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260417T200500
+DTSTAMP:20260417T210000Z
+UID:202604171800-Cine-York-ARMONÍAS-DE-WERCKMEI@lumiton.ar
+DESCRIPTION:Llega a la ciudad un espectáculo ambulante que promete exhibi
+ r a la ballena más grande del mundo. Despierta también una…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/armonas-de-werckmeister/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/armonas-de-werckmeister/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CABALLO DE TURÍN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260417T223500
+DTSTAMP:20260417T233000Z
+UID:202604172030-Cine-York-EL-CABALLO-DE-TURÍN@lumiton.ar
+DESCRIPTION:Libremente inspirada en un episodio que marca el fin de la car
+ rera del filósofo Friedrich Nietzsche. En una atmósfera post…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/el-caballo-de-turin/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-caballo-de-turin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NORBERTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T183500
+DTSTAMP:20260419T193000Z
+UID:202604191630-Centro-Cultural-Munro-NORBERTO@lumiton.ar
+DESCRIPTION:Norberto es un espía incompetente de una nación gris\, buroc
+ rática y triste. Sus gobernantes sueñan con conquistar a su colorido…\
+ n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/no
+ rberto/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/norberto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELLOS Y ELLAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T203500
+DTSTAMP:20260419T213000Z
+UID:202604191830-Centro-Cultural-Munro-ELLOS-Y-ELLAS@lumiton.ar
+DESCRIPTION:En Nueva York\, un jugador es retado a llevar a una fría misi
+ onera a La Habana\, pero se enamoran el…\n\nVenue: Centro Cultural Munro
+ \n\nMore info: https://lumiton.ar/evento/ellos-y-ellas/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ellos-y-ellas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN BEBÉ DE PARÍS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
+DTSTAMP:20260423T210000Z
+UID:202604231800-Lumiton-UN-BEBÉ-DE-PARÍS@lumiton.ar
+DESCRIPTION:Raquel desea fervientemente ser madre pero no puede tener hijo
+ s. Finge estar embarazada para retener a su esposo\, de quien…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/un-beb-de-paris/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-beb-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS PUENTES DE MADISON
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260423T203500
+DTSTAMP:20260423T213000Z
+UID:202604231830-Centro-Cultural-Munro-LOS-PUENTES-DE-MADIS@lumiton.ar
+DESCRIPTION:La vida monótona y rutinaria de una tranquila ama de casa que
+  vive en una granja con su familia\, se…\n\nVenue: Centro Cultural Munro
+ \n\nMore info: https://lumiton.ar/evento/los-puentes-de-madison-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-puentes-de-madison-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONY\, SHELLY Y LA LINTERNA MÁGICA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260426T183500
+DTSTAMP:20260426T193000Z
+UID:202604261630-Centro-Cultural-Munro-TONY\,-SHELLY-Y-LA-LI@lumiton.ar
+DESCRIPTION:Tony\, un niño de once años\, tiene una característica úni
+ ca con la que nació: brilla. Pasa sus días en casa\,…\n\nVenue: Centro
+  Cultural Munro\n\nMore info: https://lumiton.ar/evento/tony-shelly-y-la-l
+ interna-mgica/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tony-shelly-y-la-linterna-mgica/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUNNY GIRL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260426T203500
+DTSTAMP:20260426T213000Z
+UID:202604261830-Centro-Cultural-Munro-FUNNY-GIRL@lumiton.ar
+DESCRIPTION:La vida de Fanny Brice\, famosa comediante y artista de princi
+ pios del siglo XX. Vemos su ascenso a la fama…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/funny-girl/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/funny-girl/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JINETES DEL ESPACIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260430T203500
+DTSTAMP:20260430T213000Z
+UID:202604301830-Centro-Cultural-Munro-JINETES-DEL-ESPACIO@lumiton.ar
+DESCRIPTION:Cuando un ingeniero jubilado recibe el encargo de rescatar un 
+ satélite averiado\, insiste en que sus compañeros\, retirados como él\,
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/jinetes-del-espacio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jinetes-del-espacio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“ALFRED HITCHCOCK PRESENTS”: EL MAESTRO DEL SUSPENSO EN LA TV
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260430T210500
+DTSTAMP:20260430T220000Z
+UID:202604301900-Lumiton-“ALFRED-HITCHCOCK-PR@lumiton.ar
+DESCRIPTION:Lumiclub nos invita a explorar otra faceta del “Maestro del 
+ suspenso” en una jornada de proyección y debate dedicada a…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/alfred-hitchcock-presents
+ -el-maestro-del-suspenso-en-la-tv/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alfred-hitchcock-presents-el-maestro-del-sus
+ penso-en-la-tv/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANIDA Y EL CIRCO FLOTANTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T183500
+DTSTAMP:20260503T193000Z
+UID:202605031630-Centro-Cultural-Munro-ANIDA-Y-EL-CIRCO-FLO@lumiton.ar
+DESCRIPTION:Anida es una joven artista que vive dentro de un circo flotant
+ e\, su mejor amigo es un sapo llamado Vicente.…\n\nVenue: Centro Cultura
+ l Munro\n\nMore info: https://lumiton.ar/evento/anida-y-el-circo-flotante/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/anida-y-el-circo-flotante/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANTANDO BAJO LA LLUVIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T203500
+DTSTAMP:20260503T213000Z
+UID:202605031830-Centro-Cultural-Munro-CANTANDO-BAJO-LA-LLU@lumiton.ar
+DESCRIPTION:El ídolo del cine mudo Don Lockwood se enamora de la aspirant
+ e a actriz Kathy Selden justo cuando él y…\n\nVenue: Centro Cultural Mu
+ nro\n\nMore info: https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL MAGO DE OZ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260510T203500
+DTSTAMP:20260510T213000Z
+UID:202605101830-Centro-Cultural-Munro-EL-MAGO-DE-OZ@lumiton.ar
+DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
+ lino mágico al mundo de Oz. Allí\, con la ayuda…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/el-mago-de-oz-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-mago-de-oz-2/
+END:VEVENT
 END:VCALENDAR
