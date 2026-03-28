@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA COLINA DE LAS AMAPOLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T223500
-DTSTAMP:20260226T233000Z
-UID:202602262030-Cine-York-LA-COLINA-DE-LAS-AMA@lumiton.ar
-DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
- ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-colina-de-las-amap
- olas-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-colina-de-las-amapolas-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL VIAJE DE CHIHIRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260227T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260227T223500

@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOS PÁJAROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Centro-Cultural-Munro-LOS-PÁJAROS@lumiton.ar
-DESCRIPTION:Hitchcock convierte un ataque inexplicable de aves en una lecc
- ión de cómo construir terror a partir de lo cotidiano. Otra…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-pajaros
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-pajaros/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROBOT SALVAJE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260301T183500

@@ -1746,62 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOS PÁJAROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Centro-Cultural-Munro-LOS-PÁJAROS@lumiton.ar
-DESCRIPTION:Hitchcock convierte un ataque inexplicable de aves en una lecc
- ión de cómo construir terror a partir de lo cotidiano. Otra…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-pajaros
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-pajaros/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INMIGRANTES EN VICENTE LÓPEZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Lumiton-INMIGRANTES-EN-VICEN@lumiton.ar
-DESCRIPTION:Inmigrantes en Vicente López es un corto documental que testi
- monia aquellas personas oriundas de diferentes países de Europa que se…
- \n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/inmigrantes-en-
- vicente-lopez/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/inmigrantes-en-vicente-lopez/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARLOS GESELL\, MI PADRE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Lumiton-CARLOS-GESELL\,-MI-PA@lumiton.ar
-DESCRIPTION:Rosemarie Gesell fue la última hija en vida de Carlos Gesell\
- , pionero fundador del épico pueblo balneario Argentino de Villa…\n\nVe
- nue: Lumiton\n\nMore info: https://lumiton.ar/evento/carlos-gesell-mi-padr
- e/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/carlos-gesell-mi-padre/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA COLINA DE LAS AMAPOLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T223500
-DTSTAMP:20260226T233000Z
-UID:202602262030-Cine-York-LA-COLINA-DE-LAS-AMA@lumiton.ar
-DESCRIPTION:Ambientada en el Japón de los años 60\, esta película dirig
- ida por Goro Miyazaki explora la memoria\, la reconstrucción y…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-colina-de-las-amap
- olas-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-colina-de-las-amapolas-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL VIAJE DE CHIHIRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260227T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260227T223500
@@ -1854,19 +1798,6 @@ DESCRIPTION:Ana\, Malú y Martina\, jóvenes estafadoras\, planean un gran
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-tema-del-verano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KIKI ENTREGAS A DOMICILIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T223500
-DTSTAMP:20260226T233000Z
-UID:202602262030-Quinta-Trabucco-KIKI-ENTREGAS-A-DOMI@lumiton.ar
-DESCRIPTION:Un retrato luminoso del paso a la adolescencia\, donde Kiki de
- scubre su lugar en el mundo al ritmo de su…\n\nVenue: Quinta Trabucco\n\
- nMore info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-4/
-LOCATION:Quinta Trabucco
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROBOT SALVAJE

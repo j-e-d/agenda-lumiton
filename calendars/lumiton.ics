@@ -102,34 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INMIGRANTES EN VICENTE LÓPEZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Lumiton-INMIGRANTES-EN-VICEN@lumiton.ar
-DESCRIPTION:Inmigrantes en Vicente López es un corto documental que testi
- monia aquellas personas oriundas de diferentes países de Europa que se…
- \n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/inmigrantes-en-
- vicente-lopez/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/inmigrantes-en-vicente-lopez/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARLOS GESELL\, MI PADRE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260226T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260226T210500
-DTSTAMP:20260226T220000Z
-UID:202602261900-Lumiton-CARLOS-GESELL\,-MI-PA@lumiton.ar
-DESCRIPTION:Rosemarie Gesell fue la última hija en vida de Carlos Gesell\
- , pionero fundador del épico pueblo balneario Argentino de Villa…\n\nVe
- nue: Lumiton\n\nMore info: https://lumiton.ar/evento/carlos-gesell-mi-padr
- e/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/carlos-gesell-mi-padre/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MORIR EN SU LEY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
