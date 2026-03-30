@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANTÁRTIDA - DOMINIO UNO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260228T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260228T223500
-DTSTAMP:20260228T233000Z
-UID:202602282030-Cine-York-ANTÁRTIDA---DOMINIO-@lumiton.ar
-DESCRIPTION:Antártida - Dominio Uno es un llamado a la conservación. Es
- te documental profundiza en la apremiante necesidad de salvaguardar la An
- tártida\, un…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
- to/antartida-dominio-uno/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/antartida-dominio-uno/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUERTE DE UN COMEDIANTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260228T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260228T200500
-DTSTAMP:20260228T210000Z
-UID:202602281800-Cine-York-LA-MUERTE-DE-UN-COME@lumiton.ar
-DESCRIPTION:Juan Debré (Diego Peretti) dedicó su vida a interpretar a un
-  héroe en una popular serie de televisión. Cuando le…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-muerte-de-un-comediante-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SIN ALIENTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260301T200500
