@@ -1286,32 +1286,6 @@ URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIN ALIENTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260301T200500
-DTSTAMP:20260301T210000Z
-UID:202603011800-Cine-York-SIN-ALIENTO@lumiton.ar
-DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
-  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sin-aliento/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOUVELLE VAGUE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260301T223500
-DTSTAMP:20260301T233000Z
-UID:202603012030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
-DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
- ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/nouvelle-vague/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nouvelle-vague/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIN ALIENTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260315T200500
 DTSTAMP:20260315T210000Z
@@ -2213,5 +2187,164 @@ DESCRIPTION:Libremente inspirada en un episodio que marca el fin de la car
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-caballo-de-turin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAYING FOR IT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260418T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260418T200500
+DTSTAMP:20260418T210000Z
+UID:202604181800-Cine-York-PAYING-FOR-IT@lumiton.ar
+DESCRIPTION:Adaptación de la novela gráfica de Chester Brown. En los 90\
+ , Chester y Sonny son pareja\, pero cuando ella quiere…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/paying-for-it/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/paying-for-it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:'LA GENERAL' MUSICALIZADA EN VIVO POR EL JUEGO INFINITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260418T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260418T223500
+DTSTAMP:20260418T233000Z
+UID:202604182030-Cine-York-'LA-GENERAL'-MUSICAL@lumiton.ar
+DESCRIPTION:En 1861\, al estallar la Guerra de Secesión\, Johnny Gray int
+ enta alistarse\, pero el ejército considera que será más útil…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/la-general-musicali
+ zada-en-vivo-por-el-juego-infinito/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-general-musicalizada-en-vivo-por-el-juego
+ -infinito/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TARDES DE SOLEDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T200500
+DTSTAMP:20260419T210000Z
+UID:202604191800-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
+DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
+  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tardes-de-soledad/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TARDES DE SOLEDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T223500
+DTSTAMP:20260419T233000Z
+UID:202604192030-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
+DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
+  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tardes-de-soledad-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAWRENCE DE ARABIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
+DTSTAMP:20260423T210000Z
+UID:202604231800-Cine-York-LAWRENCE-DE-ARABIA@lumiton.ar
+DESCRIPTION:La historia de T. E. Lawrence\, el oficial inglés que consigu
+ ió unir y liderar a varias tribus árabes\, a menudo…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/lawrence-de-arabia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lawrence-de-arabia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REBELDE SIN CAUSA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260424T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260424T200500
+DTSTAMP:20260424T210000Z
+UID:202604241800-Cine-York-REBELDE-SIN-CAUSA@lumiton.ar
+DESCRIPTION:Un chico rebelde con un pasado turbio llega a una nueva ciudad
+  en la que encuentra tanto amigos como enemigos.…\n\nVenue: Cine York\n\
+ nMore info: https://lumiton.ar/evento/rebelde-sin-causa/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rebelde-sin-causa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡QUÉ BELLO ES VIVIR!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260424T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260424T223500
+DTSTAMP:20260424T233000Z
+UID:202604242030-Cine-York-¡QUÉ-BELLO-ES-VIVIR!@lumiton.ar
+DESCRIPTION:Durante Nochebuena\, George Bailey\, banquero de un pequeño p
+ ueblo\, abrumado por la repentina desaparición de una importante suma de 
+ dinero\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/qu
+ e-bello-es-vivir-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/que-bello-es-vivir-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUNA NUEVA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260425T200500
+DTSTAMP:20260425T210000Z
+UID:202604251800-Cine-York-LUNA-NUEVA@lumiton.ar
+DESCRIPTION:Cuando la exitosa reportera Hildy Johnson anuncia su retiro de
+ l periodismo para dedicarse al hogar junto a su prometido\, el…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/luna-nueva/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/luna-nueva/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIÑAS DE IRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260425T223500
+DTSTAMP:20260425T233000Z
+UID:202604252030-Cine-York-VIÑAS-DE-IRA@lumiton.ar
+DESCRIPTION:Durante la Gran Depresión\, Tom regresa a su hogar tras cumpl
+ ir condena en prisión y debe unirse a ellos\, huyendo…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/vinas-de-ira/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vinas-de-ira/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TARDES DE SOLEDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260426T200500
+DTSTAMP:20260426T210000Z
+UID:202604261800-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
+DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
+  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tardes-de-soledad-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TARDES DE SOLEDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260426T223500
+DTSTAMP:20260426T233000Z
+UID:202604262030-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
+DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
+  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tardes-de-soledad-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KILL BILL: THE WHOLE BLOODY AFFAIR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260430T020500
+DTSTAMP:20260430T030000Z
+UID:202604300000-Cine-York-KILL-BILL:-THE-WHOLE@lumiton.ar
+DESCRIPTION:Después de ser traicionada\, herida de muerte y dada por muer
+ ta en su propio ensayo de boda\, La Novia —…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
 END:VEVENT
 END:VCALENDAR

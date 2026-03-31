@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROBOT SALVAJE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260301T183500
-DTSTAMP:20260301T193000Z
-UID:202603011630-Centro-Cultural-Munro-ROBOT-SALVAJE@lumiton.ar
-DESCRIPTION:Peter Brown creó un libro único: un robot que comienza a est
- ablecer un vínculo maternal con una criatura del bosque.…\n\nVenue: Cen
- tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/robot-salvaje/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/robot-salvaje/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUANDO HARRY CONOCIÓ A SALLY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260301T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260301T203500
-DTSTAMP:20260301T213000Z
-UID:202603011830-Centro-Cultural-Munro-CUANDO-HARRY-CONOCIÓ@lumiton.ar
-DESCRIPTION:La comedia romántica tiene aquí su mejor orgasmo: una pelíc
- ula feliz\, realista\, soñadora y capaz de enamorar una y otra…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/cuando-ha
- rry-conoci-a-sally/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuando-harry-conoci-a-sally/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS CABALLEROS LAS PREFIEREN RUBIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260305T203500
