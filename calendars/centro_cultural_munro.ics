@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOS CABALLEROS LAS PREFIEREN RUBIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260305T203500
-DTSTAMP:20260305T213000Z
-UID:202603051830-Centro-Cultural-Munro-LOS-CABALLEROS-LAS-P@lumiton.ar
-DESCRIPTION:En Los caballeros las prefieren rubias\, Marilyn Monroe brilla
-  como Lorelei Lee\, una mujer que parece inocente pero maneja cada…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-ca
- balleros-las-prefieren-rubias/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-caballeros-las-prefieren-rubias/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA COMEZÓN DEL SÉPTIMO AÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260312T203500

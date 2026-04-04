@@ -1363,60 +1363,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JUEGO VIVO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260305T200500
-DTSTAMP:20260305T210000Z
-UID:202603051800-Cine-York-JUEGO-VIVO@lumiton.ar
-DESCRIPTION:Filmado en 35 mm en dos tomas de encuadre simple\, Juego Vivo 
- de Jazmín López captura a niños jugando\, mezclando…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/juego-vivo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/juego-vivo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SI YO FUERA EL INVIERNO MISMO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260305T200500
-DTSTAMP:20260305T210000Z
-UID:202603051800-Cine-York-SI-YO-FUERA-EL-INVIE@lumiton.ar
-DESCRIPTION:Cuatro amigos se encuentran en una casa campo remota para hace
- r una recreación cinematográfica de tres obras icónicas que encarnaron
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/si-yo-fuer
- a-el-invierno-mismo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/si-yo-fuera-el-invierno-mismo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL DÍA INTERRUMPIDO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260305T223500
-DTSTAMP:20260305T233000Z
-UID:202603052030-Cine-York-EL-DÍA-INTERRUMPIDO@lumiton.ar
-DESCRIPTION:Una mujer en su casa comienza su rutinario día hasta que deci
- de llevar a sus hijos al cementerio para que…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/el-da-interrumpido/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-da-interrumpido/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MÉTODO LIVINGSTON
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260305T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260305T223500
-DTSTAMP:20260305T233000Z
-UID:202603052030-Cine-York-MÉTODO-LIVINGSTON@lumiton.ar
-DESCRIPTION:Mientras el documental hace un recorrido por las ideas del exc
- éntrico y revolucionario arquitecto Rodolfo Livingston\, un hecho fortuit
- o nos…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/mtodo
- -livingston/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mtodo-livingston/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YON
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260306T200500
