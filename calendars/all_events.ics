@@ -1973,45 +1973,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YON
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260306T200500
-DTSTAMP:20260306T210000Z
-UID:202603061800-Cine-York-YON@lumiton.ar
-DESCRIPTION:Ante el hallazgo del material videográfico de infancia\, Bár
- bara Lago reprograma su mitología de infante y reflexiona sobre su cuerpo
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/yon/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/yon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PERROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260306T223500
-DTSTAMP:20260306T233000Z
-UID:202603062030-Cine-York-PERROS@lumiton.ar
-DESCRIPTION:En un lugar remoto y árido\, tres personas llevan una vida mo
- nótona. Todos los días\, el hombre y su peón…\n\nVenue: Cine York\n\n
- More info: https://lumiton.ar/evento/perros/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/perros/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YO\, LA PEOR DE TODAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260306T223500
-DTSTAMP:20260306T233000Z
-UID:202603062030-Cine-York-YO\,-LA-PEOR-DE-TODAS@lumiton.ar
-DESCRIPTION:Inspirada en el ensayo Sor Juana Inés de la Cruz o las tramp
- as de la fe\, de Octavio Paz\, esta historia…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/yo-la-peor-de-todas-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/yo-la-peor-de-todas-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL TIEMPO DE LA TIERRA\, HISTORIAS ORIGINARIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
@@ -2502,20 +2463,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/por-tu-culpa-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PROGRAMA CORTOMETRAJES NARCISA HIRSCH
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260306T200500
-DTSTAMP:20260306T210000Z
-UID:202603061800-Cine-York-PROGRAMA-CORTOMETRAJ@lumiton.ar
-DESCRIPTION:Referente fundamental del cine experimental argentino\, Narcis
- a Hirsch desarrolló desde los años 60 una obra personal\, poética y rad
- icalmente libre\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
- evento/programa-cortometrajes-narcisa-hirsch/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/programa-cortometrajes-narcisa-hirsch/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PROGRAMA DE CORTOS BITBANG
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260307T223500
@@ -2527,20 +2474,6 @@ DESCRIPTION:En el marco de Miradas Argentinas\, el Cine York recibe a Bitb
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/programa-de-cortos-bitbang/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL RESPLANDOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260306T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260306T210500
-DTSTAMP:20260306T220000Z
-UID:202603061900-Centro-Cultural-Munro-EL-RESPLANDOR@lumiton.ar
-DESCRIPTION:Kubrick transforma la novela de Stephen King en un laberinto p
- sicológico donde cada pasillo parece respirar y donde cada puerta…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-res
- plandor-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-resplandor-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIRGEN DE LA TOSQUERA
