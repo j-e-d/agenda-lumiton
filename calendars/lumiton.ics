@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MORIR EN SU LEY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
-DTSTAMP:20260307T210000Z
-UID:202603071800-Lumiton-MORIR-EN-SU-LEY@lumiton.ar
-DESCRIPTION:Un policía se hace pasar por delincuente para enamorar a la m
- ujer de un prófugo y conseguir así que ella…\n\nVenue: Lumiton\n\nMore
-  info: https://lumiton.ar/evento/morir-en-su-ley/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/morir-en-su-ley/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FILOMENA MARTURANO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500

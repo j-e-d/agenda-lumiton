@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MORIR EN SU LEY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
-DTSTAMP:20260307T210000Z
-UID:202603071800-Lumiton-MORIR-EN-SU-LEY@lumiton.ar
-DESCRIPTION:Un policía se hace pasar por delincuente para enamorar a la m
- ujer de un prófugo y conseguir así que ella…\n\nVenue: Lumiton\n\nMore
-  info: https://lumiton.ar/evento/morir-en-su-ley/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/morir-en-su-ley/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA COMEZÓN DEL SÉPTIMO AÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260312T203500
@@ -1971,34 +1958,6 @@ DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL TIEMPO DE LA TIERRA\, HISTORIAS ORIGINARIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
-DTSTAMP:20260307T210000Z
-UID:202603071800-Cine-York-EL-TIEMPO-DE-LA-TIER@lumiton.ar
-DESCRIPTION:Este cortometraje de stop motion producido por Lumiton nos ace
- rca cuatro breves historias originarias inspiradas en las comunidades mapu
- che\, mbya…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- el-tiempo-de-la-tierra-historias-originarias-6/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-tiempo-de-la-tierra-historias-originarias
- -6/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS MARZIANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260307T200500
-DTSTAMP:20260307T210000Z
-UID:202603071800-Cine-York-LOS-MARZIANO@lumiton.ar
-DESCRIPTION:Juan y Luis son hermanos y están intransigentemente peleados.
-  Delfina\, la tercera hermana\, junto con la esposa de Luis\, Nena\,…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-marziano/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-marziano/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BELÉN
@@ -2461,19 +2420,6 @@ DESCRIPTION:Domingo a la noche\, Julieta está en casa con sus hijos\, Val
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/por-tu-culpa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROGRAMA DE CORTOS BITBANG
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260307T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260307T223500
-DTSTAMP:20260307T233000Z
-UID:202603072030-Cine-York-PROGRAMA-DE-CORTOS-B@lumiton.ar
-DESCRIPTION:En el marco de Miradas Argentinas\, el Cine York recibe a Bitb
- ang\, el festival que desde hace más de 10…\n\nVenue: Cine York\n\nMore
-  info: https://lumiton.ar/evento/programa-de-cortos-bitbang/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/programa-de-cortos-bitbang/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIRGEN DE LA TOSQUERA
