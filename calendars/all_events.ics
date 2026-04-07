@@ -1960,19 +1960,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BELÉN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260308T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260308T223500
-DTSTAMP:20260308T233000Z
-UID:202603082030-Cine-York-BELÉN@lumiton.ar
-DESCRIPTION:En el norte conservador de Argentina\, Julieta es acusada de u
- n aborto ilegal tras una emergencia médica. Frente a años…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/belen-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/belen-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CARTA 1\, BUENOS AIRES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260312T200500
@@ -2420,20 +2407,6 @@ DESCRIPTION:Domingo a la noche\, Julieta está en casa con sus hijos\, Val
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/por-tu-culpa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA VIRGEN DE LA TOSQUERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260308T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260308T203500
-DTSTAMP:20260308T213000Z
-UID:202603081830-Centro-Cultural-Munro-LA-VIRGEN-DE-LA-TOSQ@lumiton.ar
-DESCRIPTION:Natalia\, Mariela y Josefina son tres inseparables amigas que 
- viven en las afueras de Buenos Aires y están locamente enamoradas…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-vir
- gen-de-la-tosquera/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-virgen-de-la-tosquera/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REACTIVAR LA MIRADA: EL ROL DE LA MUJER EN EL ARCHIVO PUBLICITARIO

@@ -1363,19 +1363,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BELÉN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260308T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260308T223500
-DTSTAMP:20260308T233000Z
-UID:202603082030-Cine-York-BELÉN@lumiton.ar
-DESCRIPTION:En el norte conservador de Argentina\, Julieta es acusada de u
- n aborto ilegal tras una emergencia médica. Frente a años…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/belen-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/belen-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CARTA 1\, BUENOS AIRES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260312T200500
