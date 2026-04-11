@@ -1363,59 +1363,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CARTA 1\, BUENOS AIRES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260312T200500
-DTSTAMP:20260312T210000Z
-UID:202603121800-Cine-York-CARTA-1\,-BUENOS-AIRE@lumiton.ar
-DESCRIPTION:Filmado en Super 8 en 1972\, “Carta 1” posa la pregunta so
- bre la construcción de los recuerdos\, devolviendo vida a…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/carta-1-buenos-aires/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/carta-1-buenos-aires/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA AFINADORA DE ÁRBOLES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260312T200500
-DTSTAMP:20260312T210000Z
-UID:202603121800-Cine-York-LA-AFINADORA-DE-ÁRBO@lumiton.ar
-DESCRIPTION:Luego de recibir el premio más importante de literatura infan
- til\, Clara necesita mudarse al campo con su familia\, cerca del…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/la-afinadora-de-rbol
- es/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-afinadora-de-rboles/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TÉ DE BURBUJAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260312T223500
-DTSTAMP:20260312T233000Z
-UID:202603122030-Cine-York-TÉ-DE-BURBUJAS@lumiton.ar
-DESCRIPTION:Carla quiere preparar una sorpresa para su amiga que viene de 
- visita desde Corea del Sur.Este corto se proyectará previamente…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/te-de-burbujas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/te-de-burbujas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNA BANDA DE CHICAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260312T223500
-DTSTAMP:20260312T233000Z
-UID:202603122030-Cine-York-UNA-BANDA-DE-CHICAS@lumiton.ar
-DESCRIPTION:"Cambié el bajo por la cámara" sentencia Marilina Giménez\,
-  quien hasta 2013 y por seis años tocó con dos amigas…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/una-banda-de-chicas-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-banda-de-chicas-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA BOLSITA DE AGUA CALIENTE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260313T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260313T200500

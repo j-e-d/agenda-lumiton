@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA COMEZÓN DEL SÉPTIMO AÑO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260312T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260312T203500
-DTSTAMP:20260312T213000Z
-UID:202603121830-Centro-Cultural-Munro-LA-COMEZÓN-DEL-SÉPTI@lumiton.ar
-DESCRIPTION:En La comezón del séptimo año\, Marilyn Monroe se convierte
-  en el imán absoluto de la película\, eclipsando incluso al…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-comezon-
- del-septimo-anio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-comezon-del-septimo-anio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL GIGANTE DE HIERRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260315T183500
