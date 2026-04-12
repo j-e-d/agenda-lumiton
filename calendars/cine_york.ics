@@ -1363,59 +1363,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA BOLSITA DE AGUA CALIENTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260313T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260313T200500
-DTSTAMP:20260313T210000Z
-UID:202603131800-Cine-York-LA-BOLSITA-DE-AGUA-C@lumiton.ar
-DESCRIPTION:Catalina descubre que la noche que imaginaba como la más abur
- rida se convierte en una emocionante aventura\, cambiando su vida…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/la-bolsita-de-agua-
- caliente/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-bolsita-de-agua-caliente/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HASTA QUE ME DESATES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260313T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260313T200500
-DTSTAMP:20260313T210000Z
-UID:202603131800-Cine-York-HASTA-QUE-ME-DESATES@lumiton.ar
-DESCRIPTION:Una mujer que ha perdido todo en un accidente y un cirujano pl
- ástico\, que decide devolverle su rostro\, descubren en…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/hasta-que-me-desates/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hasta-que-me-desates/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HUESOS DE AZÚCAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260313T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260313T223500
-DTSTAMP:20260313T233000Z
-UID:202603132030-Cine-York-HUESOS-DE-AZÚCAR@lumiton.ar
-DESCRIPTION:¿Qué es ser fuerte\, Gucho? Me lo pregunto desde que mis hue
- sos son de azúcar.Este corto se proyectará previamente al…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/huesos-de-azucar/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/huesos-de-azucar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL VIENTO QUE ARRASA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260313T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260313T223500
-DTSTAMP:20260313T233000Z
-UID:202603132030-Cine-York-EL-VIENTO-QUE-ARRASA@lumiton.ar
-DESCRIPTION:Presa de la fe ciega de su padre\, el Reverendo Pearson\, Leni
-  lo acompaña en su misión evangélica. Un accidente…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/el-viento-que-arrasa-7/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-viento-que-arrasa-7/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÁNGEL Y PERLA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260314T200500
