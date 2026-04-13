@@ -1946,58 +1946,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÁNGEL Y PERLA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260314T200500
-DTSTAMP:20260314T210000Z
-UID:202603141800-Cine-York-ÁNGEL-Y-PERLA@lumiton.ar
-DESCRIPTION:Paula\, una neurótica agente inmobiliaria de 35 años\, pone 
- en marcha un alocado plan para evitar separarse de su pareja.…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/angel-y-perla/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/angel-y-perla/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA LLEGADA DEL HIJO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260314T200500
-DTSTAMP:20260314T210000Z
-UID:202603141800-Cine-York-LA-LLEGADA-DEL-HIJO@lumiton.ar
-DESCRIPTION:Sofía (Maricel Álvarez) ha vivido durante años en el silenc
- io de un duelo que esconde en secreto. Cuando su hijo…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/la-llegada-del-hijo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-llegada-del-hijo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONTINUUM - LA PLAYA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260314T223500
-DTSTAMP:20260314T233000Z
-UID:202603142030-Cine-York-CONTINUUM---LA-PLAYA@lumiton.ar
-DESCRIPTION:Una historia de amor de dos mujeres que\, a comienzos de los '
- 90\, enlazan sus vidas con un hilo que…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/continuum-la-playa/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/continuum-la-playa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS HIJAS DEL FUEGO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260314T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260314T223500
-DTSTAMP:20260314T233000Z
-UID:202603142030-Cine-York-LAS-HIJAS-DEL-FUEGO@lumiton.ar
-DESCRIPTION:Tres mujeres se cruzan por azar en el fin del mundo e inician 
- un viaje poliamoroso que las transforma hasta…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/las-hijas-del-fuego/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-hijas-del-fuego/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOMOS LAS DOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
