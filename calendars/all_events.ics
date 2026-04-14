@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL GIGANTE DE HIERRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T183500
-DTSTAMP:20260315T193000Z
-UID:202603151630-Centro-Cultural-Munro-EL-GIGANTE-DE-HIERRO@lumiton.ar
-DESCRIPTION:La maravilla de Brad Bird (Los Increíbles) tiene demasiadas c
- osas buenas: un robot colosal\, un niño pérdido\, un mundo de…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-gigant
- e-de-hierro/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gigante-de-hierro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIN ALIENTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T200500
-DTSTAMP:20260315T210000Z
-UID:202603151800-Cine-York-SIN-ALIENTO@lumiton.ar
-DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
-  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sin-aliento-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUENTA CONMIGO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T203500
-DTSTAMP:20260315T213000Z
-UID:202603151830-Centro-Cultural-Munro-CUENTA-CONMIGO@lumiton.ar
-DESCRIPTION:40 años después\, la película que comenzó basada en una hi
- storia corta\, sentida y personal de Stephen King se ha…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/cuenta-conmigo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuenta-conmigo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOUVELLE VAGUE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T223500
-DTSTAMP:20260315T233000Z
-UID:202603152030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
-DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
- ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/nouvelle-vague-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nouvelle-vague-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FILOMENA MARTURANO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500

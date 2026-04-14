@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL GIGANTE DE HIERRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T183500
-DTSTAMP:20260315T193000Z
-UID:202603151630-Centro-Cultural-Munro-EL-GIGANTE-DE-HIERRO@lumiton.ar
-DESCRIPTION:La maravilla de Brad Bird (Los Increíbles) tiene demasiadas c
- osas buenas: un robot colosal\, un niño pérdido\, un mundo de…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-gigant
- e-de-hierro/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gigante-de-hierro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUENTA CONMIGO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260315T203500
-DTSTAMP:20260315T213000Z
-UID:202603151830-Centro-Cultural-Munro-CUENTA-CONMIGO@lumiton.ar
-DESCRIPTION:40 años después\, la película que comenzó basada en una hi
- storia corta\, sentida y personal de Stephen King se ha…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/cuenta-conmigo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuenta-conmigo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CÓMO PESCAR A UN MILLONARIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260319T203500
