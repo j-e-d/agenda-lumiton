@@ -2002,4 +2002,18 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POMPOKO\, LA GUERRA DE LOS MAPACHES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260417T223500
+DTSTAMP:20260417T233000Z
+UID:202604172030-Cine-York-POMPOKO\,-LA-GUERRA-D@lumiton.ar
+DESCRIPTION:Con humor\, melancolía y una imaginación desbordante\, Isao 
+ Takahata narra la lucha de una comunidad de tanuki contra el avance…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/pompoko-la-guerra
+ -de-los-mapaches-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pompoko-la-guerra-de-los-mapaches-2/
+END:VEVENT
 END:VCALENDAR
