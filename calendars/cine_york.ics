@@ -2016,4 +2016,17 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/pompoko-la-guerra-de-los-mapaches-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KILL BILL: THE WHOLE BLOODY AFFAIR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260430T200500
+DTSTAMP:20260430T210000Z
+UID:202604301800-Cine-York-KILL-BILL:-THE-WHOLE@lumiton.ar
+DESCRIPTION:Después de ser traicionada\, herida de muerte y dada por muer
+ ta en su propio ensayo de boda\, La Novia —…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
+END:VEVENT
 END:VCALENDAR
