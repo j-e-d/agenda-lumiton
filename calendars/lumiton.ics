@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILOMENA MARTURANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Lumiton-FILOMENA-MARTURANO@lumiton.ar
-DESCRIPTION:Tita Merello interpreta a una mujer que simula estar moribunda
-  para casarse con el hombre que ha sido su amante…\n\nVenue: Lumiton\n\n
- More info: https://lumiton.ar/evento/filomena-marturano-4-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/filomena-marturano-4-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:REACTIVAR LA MIRADA: EL ROL DE LA MUJER EN EL ARCHIVO PUBLICITARIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260326T210500

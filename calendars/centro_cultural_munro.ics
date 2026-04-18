@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CÓMO PESCAR A UN MILLONARIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T203500
-DTSTAMP:20260319T213000Z
-UID:202603191830-Centro-Cultural-Munro-CÓMO-PESCAR-A-UN-MIL@lumiton.ar
-DESCRIPTION:En Cómo pescar a un millonario\, Marilyn Monroe construye a P
- ola Debevoise con una mezcla de gracia desarmante y astucia…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/cmo-pescar-a-
- un-millonario/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cmo-pescar-a-un-millonario/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASTROBOY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260322T183500

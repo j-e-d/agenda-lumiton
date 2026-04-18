@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILOMENA MARTURANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Lumiton-FILOMENA-MARTURANO@lumiton.ar
-DESCRIPTION:Tita Merello interpreta a una mujer que simula estar moribunda
-  para casarse con el hombre que ha sido su amante…\n\nVenue: Lumiton\n\n
- More info: https://lumiton.ar/evento/filomena-marturano-4-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/filomena-marturano-4-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CÓMO PESCAR A UN MILLONARIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T203500
-DTSTAMP:20260319T213000Z
-UID:202603191830-Centro-Cultural-Munro-CÓMO-PESCAR-A-UN-MIL@lumiton.ar
-DESCRIPTION:En Cómo pescar a un millonario\, Marilyn Monroe construye a P
- ola Debevoise con una mezcla de gracia desarmante y astucia…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/cmo-pescar-a-
- un-millonario/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cmo-pescar-a-un-millonario/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASTROBOY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260322T183500
@@ -1891,60 +1864,6 @@ DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOMOS LAS DOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Cine-York-SOMOS-LAS-DOS@lumiton.ar
-DESCRIPTION:Clara y Alejandra esperan a una persona que nunca llega\, entr
- e el vaivén de descubrir el motivo de la espera\,…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/somos-las-dos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/somos-las-dos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUJER DE LOS PERROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Cine-York-LA-MUJER-DE-LOS-PERR@lumiton.ar
-DESCRIPTION:Una mujer camina atravesando el campo. A su alrededor\, un mon
- tón de perros se mueven en todas direcciones\, imprevisibles\, deshaciend
- o…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-
- de-los-perros-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-mujer-de-los-perros-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL CUENTO DE MI VIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T223500
-DTSTAMP:20260319T233000Z
-UID:202603192030-Cine-York-EL-CUENTO-DE-MI-VIDA@lumiton.ar
-DESCRIPTION:Por primera vez se lleva al cine la autobiografía de María E
- lena Walsh. En un cortometraje de animación\, María Elena…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/el-cuento-de-mi-vida/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-cuento-de-mi-vida/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CASSANDRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T223500
-DTSTAMP:20260319T233000Z
-UID:202603192030-Cine-York-CASSANDRA@lumiton.ar
-DESCRIPTION:Las palabras\, las fotos\, los discursos ¿son medios suficien
- tes para transmitir una realidad compleja\, cruda\, inabarcable? Estas pre
- guntas sin respuesta…\n\nVenue: Cine York\n\nMore info: https://lumiton.
- ar/evento/cassandra/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cassandra/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CAFÉ DE KINEMA

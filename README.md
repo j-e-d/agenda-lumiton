@@ -189,4 +189,4 @@ Si tenés preguntas o sugerencias, por favor abrí un [issue](https://github.com
 
 ---
 
-**Última actualización**: 2026-04-17 23:55 UTC
+**Última actualización**: 2026-04-18 23:53 UTC

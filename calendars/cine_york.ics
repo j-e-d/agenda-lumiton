@@ -1337,60 +1337,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOMOS LAS DOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Cine-York-SOMOS-LAS-DOS@lumiton.ar
-DESCRIPTION:Clara y Alejandra esperan a una persona que nunca llega\, entr
- e el vaivén de descubrir el motivo de la espera\,…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/somos-las-dos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/somos-las-dos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUJER DE LOS PERROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T200500
-DTSTAMP:20260319T210000Z
-UID:202603191800-Cine-York-LA-MUJER-DE-LOS-PERR@lumiton.ar
-DESCRIPTION:Una mujer camina atravesando el campo. A su alrededor\, un mon
- tón de perros se mueven en todas direcciones\, imprevisibles\, deshaciend
- o…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-
- de-los-perros-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-mujer-de-los-perros-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL CUENTO DE MI VIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T223500
-DTSTAMP:20260319T233000Z
-UID:202603192030-Cine-York-EL-CUENTO-DE-MI-VIDA@lumiton.ar
-DESCRIPTION:Por primera vez se lleva al cine la autobiografía de María E
- lena Walsh. En un cortometraje de animación\, María Elena…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/el-cuento-de-mi-vida/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-cuento-de-mi-vida/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CASSANDRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260319T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260319T223500
-DTSTAMP:20260319T233000Z
-UID:202603192030-Cine-York-CASSANDRA@lumiton.ar
-DESCRIPTION:Las palabras\, las fotos\, los discursos ¿son medios suficien
- tes para transmitir una realidad compleja\, cruda\, inabarcable? Estas pre
- guntas sin respuesta…\n\nVenue: Cine York\n\nMore info: https://lumiton.
- ar/evento/cassandra/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cassandra/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CAFÉ DE KINEMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260320T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260320T200500
