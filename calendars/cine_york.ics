@@ -1337,58 +1337,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CAFÉ DE KINEMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260320T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260320T200500
-DTSTAMP:20260320T210000Z
-UID:202603201800-Cine-York-CAFÉ-DE-KINEMA@lumiton.ar
-DESCRIPTION:En los suburbios de Tokio\, lejos del caos y el ruido de la ci
- udad\, se encuentra el Café de Kinema.…\n\nVenue: Cine York\n\nMore inf
- o: https://lumiton.ar/evento/caf-de-kinema/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/caf-de-kinema/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANA Y LOS OTROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260320T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260320T200500
-DTSTAMP:20260320T210000Z
-UID:202603201800-Cine-York-ANA-Y-LOS-OTROS@lumiton.ar
-DESCRIPTION:Ana viaja a Paraná\, su ciudad natal\, después de varios añ
- os de ausencia. Al llegar compra el diario local y…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/ana-y-los-otros/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ana-y-los-otros/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BETTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260320T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260320T223500
-DTSTAMP:20260320T233000Z
-UID:202603202030-Cine-York-BETTA@lumiton.ar
-DESCRIPTION:Es invierno en las áreas limítrofes de una urbe. Una joven s
- olitaria transita su cotidiano noctámbulo fijada por una obsesión:…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/betta/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/betta/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA CULPA DE NADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260320T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260320T223500
-DTSTAMP:20260320T233000Z
-UID:202603202030-Cine-York-LA-CULPA-DE-NADA@lumiton.ar
-DESCRIPTION:Una pareja está en crisis luego del nacimiento de su primera 
- hija. Ella prepara un cumpleaños sorpresa para salvarlo todo\,…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-culpa-de-nada/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-culpa-de-nada/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:QUISIERA LLEGAR PRONTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260321T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260321T200500
