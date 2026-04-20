@@ -1866,34 +1866,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QUISIERA LLEGAR PRONTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260321T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260321T200500
-DTSTAMP:20260321T210000Z
-UID:202603211800-Cine-York-QUISIERA-LLEGAR-PRON@lumiton.ar
-DESCRIPTION:Una mujer maneja por la ruta mientras repasa algunos acontecim
- ientos. Por alguna extraña razón todo se parece.Este corto se proyectar
- á…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/quisiera
- -llegar-pronto/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/quisiera-llegar-pronto/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL PRÍNCIPE DE NANAWA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260321T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260321T200500
-DTSTAMP:20260321T210000Z
-UID:202603211800-Cine-York-EL-PRÍNCIPE-DE-NANAW@lumiton.ar
-DESCRIPTION:Una pasarela divide Argentina de Paraguay. En el aire flota el
-  guaraní y el castellano.La gente corre alborotada traficando de…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/el-prncipe-de-nanaw
- a/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-prncipe-de-nanawa/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL MAR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260326T200500
