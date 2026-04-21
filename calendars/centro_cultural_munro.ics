@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASTROBOY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260322T183500
-DTSTAMP:20260322T193000Z
-UID:202603221630-Centro-Cultural-Munro-ASTROBOY@lumiton.ar
-DESCRIPTION:Astroboy\, el niño robot superhéroe\, volvía. Y lo hacía c
- on una película enamorada del Santo Patrono del Manga\, Osamu Tezuka\,…
- \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/a
- stroboy/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/astroboy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA PRINCESA PROMETIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260322T203500
-DTSTAMP:20260322T213000Z
-UID:202603221830-Centro-Cultural-Munro-LA-PRINCESA-PROMETID@lumiton.ar
-DESCRIPTION:“Hola\, me llamo Íñigo Montoya\, tú mataste a mi padre\, 
- prepárate a morir”: una de esas frases de la historia…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-princesa-prom
- etida/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-princesa-prometida/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNA EVA Y DOS ADANES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260326T203500

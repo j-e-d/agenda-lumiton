@@ -1286,32 +1286,6 @@ URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIN ALIENTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260322T200500
-DTSTAMP:20260322T210000Z
-UID:202603221800-Cine-York-SIN-ALIENTO@lumiton.ar
-DESCRIPTION:Sin aliento marcó un antes y un después en el cine. Jean-Luc
-  Godard reinventó el lenguaje cinematográfico con su estilo…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/sin-aliento-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sin-aliento-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOUVELLE VAGUE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260322T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260322T223500
-DTSTAMP:20260322T233000Z
-UID:202603222030-Cine-York-NOUVELLE-VAGUE@lumiton.ar
-DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
- ón y elegante a Sin aliento y a los inicios de la…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/nouvelle-vague-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nouvelle-vague-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIN ALIENTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260329T200500
 DTSTAMP:20260329T210000Z
