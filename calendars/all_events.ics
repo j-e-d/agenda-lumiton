@@ -2600,4 +2600,672 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIDA ACUÁTICA CON STEVE ZISSOU
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260502T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260502T200500
+DTSTAMP:20260502T210000Z
+UID:202605021800-Cine-York-LA-VIDA-ACUÁTICA-CON@lumiton.ar
+DESCRIPTION:Con un plan para vengarse de un tiburón mítico que mató a s
+ u compañero\, el oceanógrafo Steve Zissou reúne a…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/la-vida-acuatica-con-steve-zisso
+ u/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vida-acuatica-con-steve-zissou/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOTTLE ROCKET
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260502T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260502T223500
+DTSTAMP:20260502T233000Z
+UID:202605022030-Cine-York-BOTTLE-ROCKET@lumiton.ar
+DESCRIPTION:Anthony\, Dignan y Bob son tres mejores amigos que intentan es
+ capar del aburrimiento de la vida en las afueras dedicándose…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/bottle-rocket/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bottle-rocket/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CIÉNAGA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200500
+DTSTAMP:20260503T210000Z
+UID:202605031800-Cine-York-LA-CIÉNAGA@lumiton.ar
+DESCRIPTION:Dos familias - una de clase media urbana y otra de productores
+  rurales - se entrecruzan en el sopor provinciano…\n\nVenue: Cine York\n
+ \nMore info: https://lumiton.ar/evento/la-cienaga-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-cienaga-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUESTRA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T223500
+DTSTAMP:20260503T233000Z
+UID:202605032030-Cine-York-NUESTRA-TIERRA@lumiton.ar
+DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
+ ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nuestra-tierra/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSHMORE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260507T200500
+DTSTAMP:20260507T210000Z
+UID:202605071800-Cine-York-RUSHMORE@lumiton.ar
+DESCRIPTION:Un adolescente de la Academia Rushmore se enamora de una profe
+ sora mucho mayor que él y se hace amigo de…\n\nVenue: Cine York\n\nMore
+  info: https://lumiton.ar/evento/rushmore/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rushmore/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANATOMÍA DE UN ASESINATO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260507T203500
+DTSTAMP:20260507T213000Z
+UID:202605071830-Centro-Cultural-Munro-ANATOMÍA-DE-UN-ASESI@lumiton.ar
+DESCRIPTION:Un policía asesina fríamente al violador de su mujer. Tras s
+ er detenido\, es llevado a juicio\, donde se reflejarán todo…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/anatomia-de
+ -un-asesinato/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/anatomia-de-un-asesinato/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CRÓNICA FRANCESA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260507T223500
+DTSTAMP:20260507T233000Z
+UID:202605072030-Cine-York-LA-CRÓNICA-FRANCESA@lumiton.ar
+DESCRIPTION:Tras el fallecimiento de su redactor jefe\, la redacción de u
+ na revista estadounidense con sede en Francia decide publicar un…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/la-cronica-francesa/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-cronica-francesa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIAJE A DARJEELING
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260508T200500
+DTSTAMP:20260508T210000Z
+UID:202605081800-Cine-York-VIAJE-A-DARJEELING@lumiton.ar
+DESCRIPTION:Intrépida historia del viaje y reencuentro de tres hermanos q
+ ue tras la muerte de su padre deciden emprender un viaje…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/viaje-a-darjeeling/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/viaje-a-darjeeling/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS EXCÉNTRICOS TENENBAUMS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260508T223500
+DTSTAMP:20260508T233000Z
+UID:202605082030-Cine-York-LOS-EXCÉNTRICOS-TENE@lumiton.ar
+DESCRIPTION:Royal Tenenbaum regresa con su familia tras 17 años de separa
+ ción fingiendo un grave caso de cáncer de estómago\, con…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/los-excentricos-tenenbaum
+ s/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-excentricos-tenenbaums/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL GRAN HOTEL BUDAPEST
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
+DTSTAMP:20260509T210000Z
+UID:202605091800-Cine-York-EL-GRAN-HOTEL-BUDAPE@lumiton.ar
+DESCRIPTION:Una historia ambientada en el periodo de entreguerras\, sobre 
+ las aventuras y la amistad entre un conserje legendario de un…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/el-gran-hotel-budapest/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-gran-hotel-budapest/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16 AÑOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
+DTSTAMP:20260509T210000Z
+UID:202605091800-Lumiton-16-AÑOS@lumiton.ar
+DESCRIPTION:Nos cuenta la historia de una adolescente\, a punto de cumplir
+  16 años\, que tiene una relación muy cercana con…\n\nVenue: Lumiton\n
+ \nMore info: https://lumiton.ar/evento/16-anos-4/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/16-anos-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISLA DE PERROS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260509T223500
+DTSTAMP:20260509T233000Z
+UID:202605092030-Cine-York-ISLA-DE-PERROS@lumiton.ar
+DESCRIPTION:Atari es un niño de 12 años que está bajo la tutela del cor
+ rupto alcalde Kobayashi. Cuando el perro del…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/isla-de-perros/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/isla-de-perros/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500
+DTSTAMP:20260510T193000Z
+UID:202605101630-Centro-Cultural-Munro-THE-STORM:-EL-SECRET@lumiton.ar
+DESCRIPTION:Un aguacero torrencial te sumerge en un mundo colorido dibujad
+ o con tinta china. Un barco que lleva un siglo sumergido…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-storm-el-sec
+ reto-del-gran-barco-negro/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-storm-el-secreto-del-gran-barco-negro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NIÑA SANTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260510T200500
+DTSTAMP:20260510T210000Z
+UID:202605101800-Cine-York-LA-NIÑA-SANTA@lumiton.ar
+DESCRIPTION:En un hotel de aguas termales viven sus dueños\, y una hija a
+ dolescente\, Amalia\, que participa de grupos de reflexión…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/la-nina-santa-2-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-nina-santa-2-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUESTRA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260510T223500
+DTSTAMP:20260510T233000Z
+UID:202605102030-Cine-York-NUESTRA-TIERRA@lumiton.ar
+DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
+ ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nuestra-tierra-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECONQUISTA\, EL DIARIO DE SCALABRINI ORTÍZ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260514T200500
+DTSTAMP:20260514T210000Z
+UID:202605141800-Cine-York-RECONQUISTA\,-EL-DIAR@lumiton.ar
+DESCRIPTION:Agrimensor\, escritor\, investigador\, periodista\, poeta\, in
+ geniero: pensador nacional. Una necesaria mirada al particular pensamiento
+  político de Raúl Scalabrini Ortiz\, que…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/reconquista-el-diario-de-scalabrini-ortiz/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/reconquista-el-diario-de-scalabrini-ortiz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUESTIÓN DE HONOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260514T203500
+DTSTAMP:20260514T213000Z
+UID:202605141830-Centro-Cultural-Munro-CUESTIÓN-DE-HONOR@lumiton.ar
+DESCRIPTION:El teniente Daniel Kaffee\, abogado militar\, defiende a los i
+ nfantes de marina acusados de asesinato\, mientras estos sostienen que act
+ uaban…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/cuestion-de-honor/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuestion-de-honor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECORDÁ ESTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260514T223500
+DTSTAMP:20260514T233000Z
+UID:202605142030-Cine-York-RECORDÁ-ESTO@lumiton.ar
+DESCRIPTION:Una mujer mira Buenos Aires y se pregunta por los muchos monum
+ entos que pueblan la ciudad\, explorando raíces históricas\, disputas…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/recorda-esto/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/recorda-esto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN FUTURO BRILLANTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260515T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260515T200500
+DTSTAMP:20260515T210000Z
+UID:202605151800-Cine-York-UN-FUTURO-BRILLANTE@lumiton.ar
+DESCRIPTION:Elisa es una de las últimas jóvenes escogidas para ir al Nor
+ te\, una suerte de tierra prometida donde se está…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/un-futuro-brillante/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-futuro-brillante/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PATAGONIA REBELDE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260515T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260515T223500
+DTSTAMP:20260515T233000Z
+UID:202605152030-Cine-York-LA-PATAGONIA-REBELDE@lumiton.ar
+DESCRIPTION:En 1920\, unos obreros de la Patagonia argentina\, agrupados e
+ n sociedades anarquistas y socialistas\, deciden hacer una huelga exigiend
+ o mejoras…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/l
+ a-patagonia-rebelde-7/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-patagonia-rebelde-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIDA A OSCURAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260516T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260516T200500
+DTSTAMP:20260516T210000Z
+UID:202605161800-Cine-York-LA-VIDA-A-OSCURAS@lumiton.ar
+DESCRIPTION:La vida a oscuras es una aproximación a la figura de Fernando
+  Martín Peña\, personaje central de la cinefilia argentina.…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/la-vida-a-oscuras/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vida-a-oscuras/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260516T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260516T223500
+DTSTAMP:20260516T233000Z
+UID:202605162030-Cine-York-PELÍCULA-SORPRESA@lumiton.ar
+DESCRIPTION:PEÑA SIN CADENAS es un ciclo regular que se realiza en Buenos
+  Aires y Montevideo\, programado y presentado por Fernando…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/pelicula-sorpresa/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOON\, MI AMIGO EL PANDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T183500
+DTSTAMP:20260517T193000Z
+UID:202605171630-Centro-Cultural-Munro-MOON\,-MI-AMIGO-EL-PA@lumiton.ar
+DESCRIPTION:Tian tiene doce años cuando\, debido a sus malas notas\, es e
+ nviado a vivir con su abuela. Lejos de la…\n\nVenue: Centro Cultural Mun
+ ro\n\nMore info: https://lumiton.ar/evento/moon-mi-amigo-el-panda/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/moon-mi-amigo-el-panda/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA MUJER SIN CABEZA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T200500
+DTSTAMP:20260517T210000Z
+UID:202605171800-Cine-York-LA-MUJER-SIN-CABEZA@lumiton.ar
+DESCRIPTION:Una mujer\, en una distracción mientras conduce\, atropella a
+ lgo. Recorren la ruta pero sólo hay un perro muerto\, y amigos…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-sin-cabeza-2
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-mujer-sin-cabeza-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARAPACHAY\, UNA HISTORIA DE BARRIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T203500
+DTSTAMP:20260517T213000Z
+UID:202605171830-Centro-Cultural-Munro-CARAPACHAY\,-UNA-HIST@lumiton.ar
+DESCRIPTION:“Carapachay\, una historia de barrio"\, es un largometraje q
+ ue cuenta la historia del barrio a través de la voz de…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/carapachay-una-hi
+ storia-de-barrio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/carapachay-una-historia-de-barrio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUESTRA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T223500
+DTSTAMP:20260517T233000Z
+UID:202605172030-Cine-York-NUESTRA-TIERRA@lumiton.ar
+DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
+ ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nuestra-tierra-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MISS CARBÓN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
+DTSTAMP:20260521T210000Z
+UID:202605211800-Cine-York-MISS-CARBÓN@lumiton.ar
+DESCRIPTION:Inspirada en hechos reales. Carlita logró ser la primera muje
+ r minera en un pueblo donde las mujeres tenían prohibida la…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/miss-carbon/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/miss-carbon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NOVIA DE PRIMAVERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
+DTSTAMP:20260521T210000Z
+UID:202605211800-Lumiton-LA-NOVIA-DE-PRIMAVER@lumiton.ar
+DESCRIPTION:Para impresionar a sus amigos una joven se inventa un amor con
+  un escritor famoso que la acompaña en la…\n\nVenue: Lumiton\n\nMore in
+ fo: https://lumiton.ar/evento/la-novia-de-primavera/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-novia-de-primavera/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JURADO #2
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T203500
+DTSTAMP:20260521T213000Z
+UID:202605211830-Centro-Cultural-Munro-JURADO-#2@lumiton.ar
+DESCRIPTION:Justin Kemp es un padre de familia que\, mientras ejerce de ju
+ rado en un juicio por asesinato\, se enfrenta a…\n\nVenue: Centro Cultur
+ al Munro\n\nMore info: https://lumiton.ar/evento/jurado-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jurado-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMANTES EN EL CIELO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T223500
+DTSTAMP:20260521T233000Z
+UID:202605212030-Cine-York-AMANTES-EN-EL-CIELO@lumiton.ar
+DESCRIPTION:‘Amantes en el cielo’ explora las historias de Cristina y 
+ La Bonita\, dos cocineras trans que han trabajado durante décadas…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/amantes-en-el-ciel
+ o/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/amantes-en-el-cielo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VEN A MI CASA ESTA NAVIDAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260522T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260522T200500
+DTSTAMP:20260522T210000Z
+UID:202605221800-Cine-York-VEN-A-MI-CASA-ESTA-N@lumiton.ar
+DESCRIPTION:Inés conoce a la familia política de su hermano en la cena d
+ e Navidad. No tiene hijos ni pareja. Durante…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/ven-a-mi-casa-esta-navidad-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ven-a-mi-casa-esta-navidad-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALEMANIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260522T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260522T223500
+DTSTAMP:20260522T233000Z
+UID:202605222030-Cine-York-ALEMANIA@lumiton.ar
+DESCRIPTION:Inés conoce a la familia política de su hermano en la cena d
+ e Navidad. No tiene hijos ni pareja. Durante…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/alemania-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alemania-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN PÁJARO AZUL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260523T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260523T200500
+DTSTAMP:20260523T210000Z
+UID:202605231800-Cine-York-UN-PÁJARO-AZUL@lumiton.ar
+DESCRIPTION:Javier y Valeria hace años buscan tener un hijo que no llega.
+  Un día aparece Camila\, una compañera de trabajo…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/un-pajaro-azul-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-pajaro-azul-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRES TIEMPOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260523T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260523T223500
+DTSTAMP:20260523T233000Z
+UID:202605232030-Cine-York-TRES-TIEMPOS@lumiton.ar
+DESCRIPTION:En una casa entre las montañas frente a un lago espejado vive
+ n Emma y su nieta adolescente Alicia. Emma le…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/tres-tiempos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tres-tiempos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PATRULLA DEL CLIMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T183500
+DTSTAMP:20260524T193000Z
+UID:202605241630-Centro-Cultural-Munro-PATRULLA-DEL-CLIMA@lumiton.ar
+DESCRIPTION:Patrulla del Clima es un documental ambiental dirigido al púb
+ lico infantil que cuenta la historia de un grupo de niñas…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/patrulla-del-c
+ lima/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/patrulla-del-clima/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZAMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T200500
+DTSTAMP:20260524T210000Z
+UID:202605241800-Cine-York-ZAMA@lumiton.ar
+DESCRIPTION:Zama es un hombre que espera muchos años ser reconocido por s
+ us méritos\, ser deseado\, ser amado. Decide atrapar a…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/zama-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/zama-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE EVIL DEAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T203500
+DTSTAMP:20260524T213000Z
+UID:202605241830-Centro-Cultural-Munro-THE-EVIL-DEAD@lumiton.ar
+DESCRIPTION:Cinco amigos viajan a una cabaña en el bosque\, donde sin sab
+ erlo liberan demonios poseedores de carne.En The Evil Dead\,…\n\nVenue: 
+ Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-evil-dea
+ d/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-evil-dead/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUESTRA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T223500
+DTSTAMP:20260524T233000Z
+UID:202605242030-Cine-York-NUESTRA-TIERRA@lumiton.ar
+DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
+ ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nuestra-tierra-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÚLTIMAS CONVERSAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T200500
+DTSTAMP:20260528T210000Z
+UID:202605281800-Cine-York-ÚLTIMAS-CONVERSAS@lumiton.ar
+DESCRIPTION:Realizado a partir de entrevistas hechas con jóvenes estudian
+ tes brasileños por el cineasta Eduardo Coutinho antes de su muerte (en…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/ultimas-conve
+ rsas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ultimas-conversas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JFK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T203500
+DTSTAMP:20260528T213000Z
+UID:202605281830-Centro-Cultural-Munro-JFK@lumiton.ar
+DESCRIPTION:El fiscal de distrito de Nueva Orleans\, Jim Garrison\, descub
+ re que hay muchas más cosas sobre el asesinato de Kennedy…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/jfk/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jfk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL LADO MUTANTE DE LA FUERZA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T210500
+DTSTAMP:20260528T220000Z
+UID:202605281900-Lumiton-EL-LADO-MUTANTE-DE-L@lumiton.ar
+DESCRIPTION:En mayo\, Lumiclub celebra el 4 de mayo —el “May the Fourt
+ h”— explorando el universo Star Wars desde sus bordes…\n\nVenue: Lum
+ iton\n\nMore info: https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS CANÇÕES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T223500
+DTSTAMP:20260528T233000Z
+UID:202605282030-Cine-York-AS-CANÇÕES@lumiton.ar
+DESCRIPTION:Hombres y mujeres cantan y cuentan las historias de las cancio
+ nes que han marcado sus vidas. En un escenario vacío\,…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/as-cancoes/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/as-cancoes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEÕES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260529T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260529T200500
+DTSTAMP:20260529T210000Z
+UID:202605291800-Cine-York-PEÕES@lumiton.ar
+DESCRIPTION:Trabajadores de la industria metalúrgica del ABC paulista que
+  participaron en el movimiento huelguista de 1979 y 1980\, pero permanecie
+ ron…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/peoes/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/peoes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOGO DE CENA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260529T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260529T223500
+DTSTAMP:20260529T233000Z
+UID:202605292030-Cine-York-JOGO-DE-CENA@lumiton.ar
+DESCRIPTION:Atendiendo a un anuncio en el periódico\, ochenta y tres muje
+ res contaron sus historias de vida en un estudio. En…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/jogo-de-cena/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jogo-de-cena/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLAUDIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260530T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260530T200500
+DTSTAMP:20260530T210000Z
+UID:202605301800-Cine-York-CLAUDIA@lumiton.ar
+DESCRIPTION:Claudia es una joven organizadora de eventos que debe reemplaz
+ ar a una amiga y planificar una boda para un familiar…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/claudia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/claudia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÉRASE UNA VEZ CON… SEBASTIÁN DE CARO: UN DISPARO EN LA SOMBRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260530T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260530T223500
+DTSTAMP:20260530T233000Z
+UID:202605302030-Cine-York-ÉRASE-UNA-VEZ-CON…-S@lumiton.ar
+DESCRIPTION:El inspector Jacques Clouseau investiga un asestinato en una m
+ ansión parisina convencido de la inocencia de la sospechosa mientras surg
+ en…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/erase-un
+ a-vez-con-sebastian-de-caro-un-disparo-en-la-sombra/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/erase-una-vez-con-sebastian-de-caro-un-dispa
+ ro-en-la-sombra/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
+DTSTAMP:20260531T193000Z
+UID:202605311630-Centro-Cultural-Munro-PONYO-Y-EL-SECRETO-D@lumiton.ar
+DESCRIPTION:Miyazaki toma una estructura de cuento clásico —el encuentr
+ o entre un niño y una criatura del mar— pero la desarma…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/ponyo-y-el-sec
+ reto-de-la-sirenita/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ponyo-y-el-secreto-de-la-sirenita/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS LADRONES DEL TIEMPO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T200500
+DTSTAMP:20260531T210000Z
+UID:202605311800-Cine-York-LOS-LADRONES-DEL-TIE@lumiton.ar
+DESCRIPTION:Un niño se une por accidente a una banda de enanos que viajan
+  en el tiempo\, mientras saltan de era…\n\nVenue: Cine York\n\nMore info
+ : https://lumiton.ar/evento/los-ladrones-del-tiempo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-ladrones-del-tiempo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUNCIÓN ESPECIAL: UN BUEN DÍA + DESPUÉS DE UN BUEN DÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T203500
+DTSTAMP:20260531T213000Z
+UID:202605311830-Centro-Cultural-Munro-FUNCIÓN-ESPECIAL: UN@lumiton.ar
+DESCRIPTION:Hay películas que contra toda lógica se quedan para siempre.
+  Esta doble función propone entrar en ese territorio incómodo y…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/funcion
+ -especial-un-buen-dia-despues-de-un-buen-dia-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/funcion-especial-un-buen-dia-despues-de-un-b
+ uen-dia-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUESTRA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T223500
+DTSTAMP:20260531T233000Z
+UID:202605312030-Cine-York-NUESTRA-TIERRA@lumiton.ar
+DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
+ ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nuestra-tierra-5/
+END:VEVENT
 END:VCALENDAR

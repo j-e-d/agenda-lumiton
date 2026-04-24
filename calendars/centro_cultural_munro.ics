@@ -583,4 +583,156 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANATOMÍA DE UN ASESINATO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260507T203500
+DTSTAMP:20260507T213000Z
+UID:202605071830-Centro-Cultural-Munro-ANATOMÍA-DE-UN-ASESI@lumiton.ar
+DESCRIPTION:Un policía asesina fríamente al violador de su mujer. Tras s
+ er detenido\, es llevado a juicio\, donde se reflejarán todo…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/anatomia-de
+ -un-asesinato/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/anatomia-de-un-asesinato/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500
+DTSTAMP:20260510T193000Z
+UID:202605101630-Centro-Cultural-Munro-THE-STORM:-EL-SECRET@lumiton.ar
+DESCRIPTION:Un aguacero torrencial te sumerge en un mundo colorido dibujad
+ o con tinta china. Un barco que lleva un siglo sumergido…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-storm-el-sec
+ reto-del-gran-barco-negro/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-storm-el-secreto-del-gran-barco-negro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUESTIÓN DE HONOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260514T203500
+DTSTAMP:20260514T213000Z
+UID:202605141830-Centro-Cultural-Munro-CUESTIÓN-DE-HONOR@lumiton.ar
+DESCRIPTION:El teniente Daniel Kaffee\, abogado militar\, defiende a los i
+ nfantes de marina acusados de asesinato\, mientras estos sostienen que act
+ uaban…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/cuestion-de-honor/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuestion-de-honor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOON\, MI AMIGO EL PANDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T183500
+DTSTAMP:20260517T193000Z
+UID:202605171630-Centro-Cultural-Munro-MOON\,-MI-AMIGO-EL-PA@lumiton.ar
+DESCRIPTION:Tian tiene doce años cuando\, debido a sus malas notas\, es e
+ nviado a vivir con su abuela. Lejos de la…\n\nVenue: Centro Cultural Mun
+ ro\n\nMore info: https://lumiton.ar/evento/moon-mi-amigo-el-panda/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/moon-mi-amigo-el-panda/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARAPACHAY\, UNA HISTORIA DE BARRIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260517T203500
+DTSTAMP:20260517T213000Z
+UID:202605171830-Centro-Cultural-Munro-CARAPACHAY\,-UNA-HIST@lumiton.ar
+DESCRIPTION:“Carapachay\, una historia de barrio"\, es un largometraje q
+ ue cuenta la historia del barrio a través de la voz de…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/carapachay-una-hi
+ storia-de-barrio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/carapachay-una-historia-de-barrio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JURADO #2
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T203500
+DTSTAMP:20260521T213000Z
+UID:202605211830-Centro-Cultural-Munro-JURADO-#2@lumiton.ar
+DESCRIPTION:Justin Kemp es un padre de familia que\, mientras ejerce de ju
+ rado en un juicio por asesinato\, se enfrenta a…\n\nVenue: Centro Cultur
+ al Munro\n\nMore info: https://lumiton.ar/evento/jurado-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jurado-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PATRULLA DEL CLIMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T183500
+DTSTAMP:20260524T193000Z
+UID:202605241630-Centro-Cultural-Munro-PATRULLA-DEL-CLIMA@lumiton.ar
+DESCRIPTION:Patrulla del Clima es un documental ambiental dirigido al púb
+ lico infantil que cuenta la historia de un grupo de niñas…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/patrulla-del-c
+ lima/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/patrulla-del-clima/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE EVIL DEAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260524T203500
+DTSTAMP:20260524T213000Z
+UID:202605241830-Centro-Cultural-Munro-THE-EVIL-DEAD@lumiton.ar
+DESCRIPTION:Cinco amigos viajan a una cabaña en el bosque\, donde sin sab
+ erlo liberan demonios poseedores de carne.En The Evil Dead\,…\n\nVenue: 
+ Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-evil-dea
+ d/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-evil-dead/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JFK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T203500
+DTSTAMP:20260528T213000Z
+UID:202605281830-Centro-Cultural-Munro-JFK@lumiton.ar
+DESCRIPTION:El fiscal de distrito de Nueva Orleans\, Jim Garrison\, descub
+ re que hay muchas más cosas sobre el asesinato de Kennedy…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/jfk/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jfk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
+DTSTAMP:20260531T193000Z
+UID:202605311630-Centro-Cultural-Munro-PONYO-Y-EL-SECRETO-D@lumiton.ar
+DESCRIPTION:Miyazaki toma una estructura de cuento clásico —el encuentr
+ o entre un niño y una criatura del mar— pero la desarma…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/ponyo-y-el-sec
+ reto-de-la-sirenita/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ponyo-y-el-secreto-de-la-sirenita/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUNCIÓN ESPECIAL: UN BUEN DÍA + DESPUÉS DE UN BUEN DÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260531T203500
+DTSTAMP:20260531T213000Z
+UID:202605311830-Centro-Cultural-Munro-FUNCIÓN-ESPECIAL: UN@lumiton.ar
+DESCRIPTION:Hay películas que contra toda lógica se quedan para siempre.
+  Esta doble función propone entrar en ese territorio incómodo y…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/funcion
+ -especial-un-buen-dia-despues-de-un-buen-dia-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/funcion-especial-un-buen-dia-despues-de-un-b
+ uen-dia-3/
+END:VEVENT
 END:VCALENDAR

@@ -157,4 +157,43 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/alfred-hitchcock-presents-el-maestro-del-sus
  penso-en-la-tv/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16 AÑOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
+DTSTAMP:20260509T210000Z
+UID:202605091800-Lumiton-16-AÑOS@lumiton.ar
+DESCRIPTION:Nos cuenta la historia de una adolescente\, a punto de cumplir
+  16 años\, que tiene una relación muy cercana con…\n\nVenue: Lumiton\n
+ \nMore info: https://lumiton.ar/evento/16-anos-4/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/16-anos-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NOVIA DE PRIMAVERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
+DTSTAMP:20260521T210000Z
+UID:202605211800-Lumiton-LA-NOVIA-DE-PRIMAVER@lumiton.ar
+DESCRIPTION:Para impresionar a sus amigos una joven se inventa un amor con
+  un escritor famoso que la acompaña en la…\n\nVenue: Lumiton\n\nMore in
+ fo: https://lumiton.ar/evento/la-novia-de-primavera/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-novia-de-primavera/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL LADO MUTANTE DE LA FUERZA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260528T210500
+DTSTAMP:20260528T220000Z
+UID:202605281900-Lumiton-EL-LADO-MUTANTE-DE-L@lumiton.ar
+DESCRIPTION:En mayo\, Lumiclub celebra el 4 de mayo —el “May the Fourt
+ h”— explorando el universo Star Wars desde sus bordes…\n\nVenue: Lum
+ iton\n\nMore info: https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
+END:VEVENT
 END:VCALENDAR
