@@ -1311,59 +1311,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL MAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T200500
-DTSTAMP:20260326T210000Z
-UID:202603261800-Cine-York-EL-MAR@lumiton.ar
-DESCRIPTION:Diciembre de 1975. Una niña es despertada por la desesperaci
- ón de su madre. Buscando refugio\, huyen a la casa de…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/el-mar/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-mar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UN MURO DE SILENCIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T200500
-DTSTAMP:20260326T210000Z
-UID:202603261800-Cine-York-UN-MURO-DE-SILENCIO@lumiton.ar
-DESCRIPTION:Silvia Cassini quiere mirar hacia adelante\, rehacer su vida\,
-  reencontrar la felicidad perdida junto a María Elisa\, hija única de…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/un-muro-de-si
- lencio-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-muro-de-silencio-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1977
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T223500
-DTSTAMP:20260326T233000Z
-UID:202603262030-Cine-York-1977@lumiton.ar
-DESCRIPTION:A través de espacios habitados de una casa\, se relata un eve
- nto inesperado\, una irrupción militar en el contexto de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/1977/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/1977/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SINFONÍA PARA ANA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T223500
-DTSTAMP:20260326T233000Z
-UID:202603262030-Cine-York-SINFONÍA-PARA-ANA@lumiton.ar
-DESCRIPTION:Ana e Isa son amigas inseparables y van al tradicional Colegio
-  Nacional de Buenos Aires\, en los tiempos previos al…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/sinfona-para-ana/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sinfona-para-ana/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BORDERLINE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260327T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260327T200500

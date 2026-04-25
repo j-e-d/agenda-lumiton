@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNA EVA Y DOS ADANES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T203500
-DTSTAMP:20260326T213000Z
-UID:202603261830-Centro-Cultural-Munro-UNA-EVA-Y-DOS-ADANES@lumiton.ar
-DESCRIPTION:En Una Eva y dos Adanes\, Marilyn Monroe no solo interpreta a 
- Sugar Kane\, la ingenua música a la deriva\,…\n\nVenue: Centro Cultural
-  Munro\n\nMore info: https://lumiton.ar/evento/una-eva-y-dos-adanes/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-eva-y-dos-adanes/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WALL-E
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260329T183500
@@ -1810,59 +1797,6 @@ DESCRIPTION:Nouvelle Vague\, de Richard Linklater\, es un homenaje juguet
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL MAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T200500
-DTSTAMP:20260326T210000Z
-UID:202603261800-Cine-York-EL-MAR@lumiton.ar
-DESCRIPTION:Diciembre de 1975. Una niña es despertada por la desesperaci
- ón de su madre. Buscando refugio\, huyen a la casa de…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/el-mar/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-mar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UN MURO DE SILENCIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T200500
-DTSTAMP:20260326T210000Z
-UID:202603261800-Cine-York-UN-MURO-DE-SILENCIO@lumiton.ar
-DESCRIPTION:Silvia Cassini quiere mirar hacia adelante\, rehacer su vida\,
-  reencontrar la felicidad perdida junto a María Elisa\, hija única de…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/un-muro-de-si
- lencio-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-muro-de-silencio-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1977
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T223500
-DTSTAMP:20260326T233000Z
-UID:202603262030-Cine-York-1977@lumiton.ar
-DESCRIPTION:A través de espacios habitados de una casa\, se relata un eve
- nto inesperado\, una irrupción militar en el contexto de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/1977/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/1977/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SINFONÍA PARA ANA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T223500
-DTSTAMP:20260326T233000Z
-UID:202603262030-Cine-York-SINFONÍA-PARA-ANA@lumiton.ar
-DESCRIPTION:Ana e Isa son amigas inseparables y van al tradicional Colegio
-  Nacional de Buenos Aires\, en los tiempos previos al…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/sinfona-para-ana/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sinfona-para-ana/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BORDERLINE
@@ -1967,21 +1901,6 @@ DESCRIPTION:Domingo a la noche\, Julieta está en casa con sus hijos\, Val
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/por-tu-culpa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REACTIVAR LA MIRADA: EL ROL DE LA MUJER EN EL ARCHIVO PUBLICITARIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260326T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260326T210500
-DTSTAMP:20260326T220000Z
-UID:202603261900-Lumiton-REACTIVAR-LA-MIRADA:@lumiton.ar
-DESCRIPTION:Durante marzo\, el Archivo Lumiton abre un espacio para volver
-  a acercarse a su acervo desde otra perspectiva. La propuesta…\n\nVenue:
-  Lumiton\n\nMore info: https://lumiton.ar/evento/reactivar-la-mirada-el-ro
- l-de-la-mujer-en-el-archivo-publicitario/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/reactivar-la-mirada-el-rol-de-la-mujer-en-el
- -archivo-publicitario/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAS CINÉPHILAS
