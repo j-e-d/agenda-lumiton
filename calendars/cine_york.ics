@@ -1311,58 +1311,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nouvelle-vague-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BORDERLINE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260327T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260327T200500
-DTSTAMP:20260327T210000Z
-UID:202603271800-Cine-York-BORDERLINE@lumiton.ar
-DESCRIPTION:En la noche\, Andrea debe partir con su hija pequeña dormida 
- en el auto en auxilio de su hermana\, quien…\n\nVenue: Cine York\n\nMore
-  info: https://lumiton.ar/evento/borderline/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/borderline/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS FURIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260327T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260327T200500
-DTSTAMP:20260327T210000Z
-UID:202603271800-Cine-York-LAS-FURIAS@lumiton.ar
-DESCRIPTION:El film retrata a cinco mujeres pasionales cuyas vidas giran e
- n torno al hombre de la familia\, casi ausente\, y…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/las-furias-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-furias-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AL FINAL EL DÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260327T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260327T223500
-DTSTAMP:20260327T233000Z
-UID:202603272030-Cine-York-AL-FINAL-EL-DÍA@lumiton.ar
-DESCRIPTION:Isabel no logra habitar su realidad. Un día\, como tantos otr
- os\, recibe la visita de su amiga Ana\, quién ahora…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/al-final-el-dia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/al-final-el-dia/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA NOCHE SIN MÍ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260327T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260327T223500
-DTSTAMP:20260327T233000Z
-UID:202603272030-Cine-York-LA-NOCHE-SIN-MÍ@lumiton.ar
-DESCRIPTION:Eva esa noche percibe diferente. Un hecho inesperado la transf
- orma. Su cuerpo ya lo sabe pero la cabeza no logra…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/la-noche-sin-mi/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-noche-sin-mi/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TEORÍA SOCIAL NUMÉRICA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260328T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260328T200500
