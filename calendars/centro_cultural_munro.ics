@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WALL-E
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260329T183500
-DTSTAMP:20260329T193000Z
-UID:202603291630-Centro-Cultural-Munro-WALL-E@lumiton.ar
-DESCRIPTION:Wall-E es uno de los objetos más extraños y felizmente salva
- jes de Pixar: su comienzo\, casi media hora de cine…\n\nVenue: Centro Cu
- ltural Munro\n\nMore info: https://lumiton.ar/evento/wall-e/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/wall-e/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESTO ES SPINAL TAP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260329T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260329T203500
-DTSTAMP:20260329T213000Z
-UID:202603291830-Centro-Cultural-Munro-ESTO-ES-SPINAL-TAP@lumiton.ar
-DESCRIPTION:¿Les gusta The Office?¿Mucho? Bienvenido a la Escuela de Roc
- k del falso documental absurdo y cómico y bienvenidos al rock…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/esto-es-sp
- inal-tap/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/esto-es-spinal-tap/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS IMPERDONABLES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260409T203500
