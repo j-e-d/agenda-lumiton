@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOS CHICOS DE LA GUERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260404T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260404T200500
-DTSTAMP:20260404T210000Z
-UID:202604041800-Cine-York-LOS-CHICOS-DE-LA-GUE@lumiton.ar
-DESCRIPTION:Los chicos de la guerra narra la historia de Fabián\, Santiag
- o y Pablo\, tres jóvenes de diferentes clases sociales que…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/los-chicos-de-la-guerra-2
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-chicos-de-la-guerra-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESPERANDO LA CARROZA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260404T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260404T223500
-DTSTAMP:20260404T233000Z
-UID:202604042030-Cine-York-ESPERANDO-LA-CARROZA@lumiton.ar
-DESCRIPTION:Es una adaptación de ese texto tan perverso\, tan divertido y
-  sabroso que Jacobo Langsner creó como un ejercicio grotesco…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/esperando-la-carroza-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/esperando-la-carroza-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL AMANECER DE AURORA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260407T193000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260407T213500
