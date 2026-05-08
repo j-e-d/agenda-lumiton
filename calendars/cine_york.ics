@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL AMANECER DE AURORA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260407T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260407T213500
-DTSTAMP:20260407T223000Z
-UID:202604071930-Cine-York-EL-AMANECER-DE-AUROR@lumiton.ar
-DESCRIPTION:El amanecer de Aurora es un documental animado que cuenta la h
- istoria real de Aurora Mardiganián\, una adolescente sobreviviente del…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-amanecer-d
- e-aurora/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-amanecer-de-aurora/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DESBARRANCADA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260409T200500
