@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DESBARRANCADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260409T200500
-DTSTAMP:20260409T210000Z
-UID:202604091800-Cine-York-DESBARRANCADA@lumiton.ar
-DESCRIPTION:Una mujer burguesa casada con un poderoso empresario estrecham
- ente vinculado a la dictadura militar\, se rebela ante la desaparición fo
- rzada…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desba
- rrancada/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desbarrancada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NANCY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260409T223500
-DTSTAMP:20260409T233000Z
-UID:202604092030-Cine-York-NANCY@lumiton.ar
-DESCRIPTION:Nancy trabaja limpiando casas en una pequeña localidad coster
- a caracterizada por su belleza y la gran transformación que experimenta u
- na…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/nancy/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nancy/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BIGLI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260410T200500

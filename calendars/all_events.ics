@@ -1746,47 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DESBARRANCADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260409T200500
-DTSTAMP:20260409T210000Z
-UID:202604091800-Cine-York-DESBARRANCADA@lumiton.ar
-DESCRIPTION:Una mujer burguesa casada con un poderoso empresario estrecham
- ente vinculado a la dictadura militar\, se rebela ante la desaparición fo
- rzada…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/desba
- rrancada/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/desbarrancada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS IMPERDONABLES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260409T203500
-DTSTAMP:20260409T213000Z
-UID:202604091830-Centro-Cultural-Munro-LOS-IMPERDONABLES@lumiton.ar
-DESCRIPTION:El pistolero retirado del viejo Oeste\, Bill Munny\, acepta a 
- regañadientes un último trabajo\, con la ayuda de su viejo…\n\nVenue: 
- Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-imperdon
- ables/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-imperdonables/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NANCY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260409T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260409T223500
-DTSTAMP:20260409T233000Z
-UID:202604092030-Cine-York-NANCY@lumiton.ar
-DESCRIPTION:Nancy trabaja limpiando casas en una pequeña localidad coster
- a caracterizada por su belleza y la gran transformación que experimenta u
- na…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/nancy/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nancy/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BIGLI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260410T200500
