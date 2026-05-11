@@ -1746,32 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BIGLI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260410T200500
-DTSTAMP:20260410T210000Z
-UID:202604101800-Cine-York-BIGLI@lumiton.ar
-DESCRIPTION:Los años dejaron sin amor y sin sentido al viejo Bigli\, trat
- ando de que el alcohol lo hunda a él…\n\nVenue: Cine York\n\nMore info:
-  https://lumiton.ar/evento/bigli/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/bigli/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL AMO DEL JARDÍN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260410T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260410T223500
-DTSTAMP:20260410T233000Z
-UID:202604102030-Cine-York-EL-AMO-DEL-JARDÍN@lumiton.ar
-DESCRIPTION:Yasuo Inomata\, el paisajista más importante de Argentina\, n
- ació en un pueblo del norte de Japón y en los años…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/el-amo-del-jardin/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-amo-del-jardin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOCHE DE BODAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
