@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCHE DE BODAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
-DTSTAMP:20260411T210000Z
-UID:202604111800-Lumiton-NOCHE-DE-BODAS@lumiton.ar
-DESCRIPTION:Por razones que se develarán al final\, una novia regresa mis
- teriosamente a su hogar paterno en la noche de bodas.…\n\nVenue: Lumiton
- \n\nMore info: https://lumiton.ar/evento/noche-de-bodas/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/noche-de-bodas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UN BEBÉ DE PARÍS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500

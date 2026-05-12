@@ -1746,46 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCHE DE BODAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
-DTSTAMP:20260411T210000Z
-UID:202604111800-Lumiton-NOCHE-DE-BODAS@lumiton.ar
-DESCRIPTION:Por razones que se develarán al final\, una novia regresa mis
- teriosamente a su hogar paterno en la noche de bodas.…\n\nVenue: Lumiton
- \n\nMore info: https://lumiton.ar/evento/noche-de-bodas/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/noche-de-bodas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TENEMOS QUE HABLAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260411T200500
-DTSTAMP:20260411T210000Z
-UID:202604111800-Cine-York-TENEMOS-QUE-HABLAR@lumiton.ar
-DESCRIPTION:Mónica y Martín están casados hace más de veinte años. El
- la le organiza un festejo de cumpleaños sin imaginar en…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/tenemos-que-hablar/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tenemos-que-hablar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TESIS SOBRE UNA DOMESTICACIÓN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260411T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260411T223500
-DTSTAMP:20260411T233000Z
-UID:202604112030-Cine-York-TESIS-SOBRE-UNA-DOME@lumiton.ar
-DESCRIPTION:Adaptación cinematográfica de la novela homónima de Camila 
- Sosa Villada. Una travesti ocupa el espacio que se ganó. Es actriz\,…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/tesis-sobre-una
- -domesticacion-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tesis-sobre-una-domesticacion-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:METEGOL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260412T183500
