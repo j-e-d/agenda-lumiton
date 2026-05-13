@@ -1746,63 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:METEGOL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260412T183500
-DTSTAMP:20260412T193000Z
-UID:202604121630-Centro-Cultural-Munro-METEGOL@lumiton.ar
-DESCRIPTION:Amadeo vive en un pueblo pequeño\, trabaja en un bar y es imb
- atible jugando al metegol. Está enamorado de Laura\,…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/metegol/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/metegol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FESTIVAL INTERNACIONAL CÁMARA CORPORIZADA: MUNDOS POSIBLES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260412T200500
-DTSTAMP:20260412T210000Z
-UID:202604121800-Cine-York-FESTIVAL-INTERNACION@lumiton.ar
-DESCRIPTION:Se proyectarán los siguientes cortometrajes: BALEINE / BALLEN
- A (Dir. Sylvain Dufayard\, Bélgica\, 2024\, 8’)Una inmersión. La mente
-  apenas se mantiene…\n\nVenue: Cine York\n\nMore info: https://lumiton.a
- r/evento/festival-internacional-camara-corporizada-mundos-posibles/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/festival-internacional-camara-corporizada-mu
- ndos-posibles/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HELLO\, DOLLY!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260412T203500
-DTSTAMP:20260412T213000Z
-UID:202604121830-Centro-Cultural-Munro-HELLO\,-DOLLY!@lumiton.ar
-DESCRIPTION:Dolly (Barbra Streisand) es una casamentera cuya afición prin
- cipal es arreglar la vida de los demás. En esta ocasión\, es…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hello-doll
- y/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hello-dolly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FESTIVAL INTERNACIONAL CÁMARA CORPORIZADA: LO QUE PERMANECE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260412T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260412T223500
-DTSTAMP:20260412T233000Z
-UID:202604122030-Cine-York-FESTIVAL-INTERNACION@lumiton.ar
-DESCRIPTION:Se proyectarán los siguientes cortometrajes: RUINS WITHIN RUI
- NS / RUINAS DENTRO DE RUINAS (Dir. Lefteris Parasyris\, Grecia\,  Reino U
- nido\, 2024\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
- to/festival-internacional-cmara-corporizada-lo-que-permanece/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/festival-internacional-cmara-corporizada-lo-
- que-permanece/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA CONDENA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260416T200500
