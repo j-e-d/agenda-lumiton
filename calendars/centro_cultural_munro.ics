@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GRAN TORINO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260416T203500
-DTSTAMP:20260416T213000Z
-UID:202604161830-Centro-Cultural-Munro-GRAN-TORINO@lumiton.ar
-DESCRIPTION:Kowalski es un veterano de la guerra de Corea y trabajador jub
- ilado del sector del automóvil. Inflexible y con voluntad…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/gran-torino/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/gran-torino/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NORBERTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260419T183500
