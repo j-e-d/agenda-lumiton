@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ARMONÍAS DE WERCKMEISTER
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260417T200500
-DTSTAMP:20260417T210000Z
-UID:202604171800-Cine-York-ARMONÍAS-DE-WERCKMEI@lumiton.ar
-DESCRIPTION:Llega a la ciudad un espectáculo ambulante que promete exhibi
- r a la ballena más grande del mundo. Despierta también una…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/armonas-de-werckmeister/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/armonas-de-werckmeister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL CABALLO DE TURÍN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260417T223500
-DTSTAMP:20260417T233000Z
-UID:202604172030-Cine-York-EL-CABALLO-DE-TURÍN@lumiton.ar
-DESCRIPTION:Libremente inspirada en un episodio que marca el fin de la car
- rera del filósofo Friedrich Nietzsche. En una atmósfera post…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/el-caballo-de-turin/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-caballo-de-turin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PAYING FOR IT
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260418T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260418T200500
@@ -1468,20 +1442,6 @@ DESCRIPTION:Después de ser traicionada\, herida de muerte y dada por muer
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POMPOKO\, LA GUERRA DE LOS MAPACHES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260417T223500
-DTSTAMP:20260417T233000Z
-UID:202604172030-Cine-York-POMPOKO\,-LA-GUERRA-D@lumiton.ar
-DESCRIPTION:Con humor\, melancolía y una imaginación desbordante\, Isao 
- Takahata narra la lucha de una comunidad de tanuki contra el avance…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/pompoko-la-guerra
- -de-los-mapaches-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pompoko-la-guerra-de-los-mapaches-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KILL BILL: THE WHOLE BLOODY AFFAIR
