@@ -1894,34 +1894,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAYING FOR IT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260418T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260418T200500
-DTSTAMP:20260418T210000Z
-UID:202604181800-Cine-York-PAYING-FOR-IT@lumiton.ar
-DESCRIPTION:Adaptación de la novela gráfica de Chester Brown. En los 90\
- , Chester y Sonny son pareja\, pero cuando ella quiere…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/paying-for-it/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/paying-for-it/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:'LA GENERAL' MUSICALIZADA EN VIVO POR EL JUEGO INFINITO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260418T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260418T223500
-DTSTAMP:20260418T233000Z
-UID:202604182030-Cine-York-'LA-GENERAL'-MUSICAL@lumiton.ar
-DESCRIPTION:En 1861\, al estallar la Guerra de Secesión\, Johnny Gray int
- enta alistarse\, pero el ejército considera que será más útil…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/la-general-musicali
- zada-en-vivo-por-el-juego-infinito/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-general-musicalizada-en-vivo-por-el-juego
- -infinito/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TARDES DE SOLEDAD
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260419T200500
