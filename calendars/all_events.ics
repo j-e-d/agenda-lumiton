@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NORBERTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T183500
-DTSTAMP:20260419T193000Z
-UID:202604191630-Centro-Cultural-Munro-NORBERTO@lumiton.ar
-DESCRIPTION:Norberto es un espía incompetente de una nación gris\, buroc
- rática y triste. Sus gobernantes sueñan con conquistar a su colorido…\
- n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/no
- rberto/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/norberto/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELLOS Y ELLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T203500
-DTSTAMP:20260419T213000Z
-UID:202604191830-Centro-Cultural-Munro-ELLOS-Y-ELLAS@lumiton.ar
-DESCRIPTION:En Nueva York\, un jugador es retado a llevar a una fría misi
- onera a La Habana\, pero se enamoran el…\n\nVenue: Centro Cultural Munro
- \n\nMore info: https://lumiton.ar/evento/ellos-y-ellas/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ellos-y-ellas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UN BEBÉ DE PARÍS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
@@ -1892,32 +1865,6 @@ DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TARDES DE SOLEDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T200500
-DTSTAMP:20260419T210000Z
-UID:202604191800-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
-DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
-  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tardes-de-soledad/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TARDES DE SOLEDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T223500
-DTSTAMP:20260419T233000Z
-UID:202604192030-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
-DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
-  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tardes-de-soledad-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAWRENCE DE ARABIA

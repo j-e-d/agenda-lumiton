@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NORBERTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T183500
-DTSTAMP:20260419T193000Z
-UID:202604191630-Centro-Cultural-Munro-NORBERTO@lumiton.ar
-DESCRIPTION:Norberto es un espía incompetente de una nación gris\, buroc
- rática y triste. Sus gobernantes sueñan con conquistar a su colorido…\
- n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/no
- rberto/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/norberto/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELLOS Y ELLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T203500
-DTSTAMP:20260419T213000Z
-UID:202604191830-Centro-Cultural-Munro-ELLOS-Y-ELLAS@lumiton.ar
-DESCRIPTION:En Nueva York\, un jugador es retado a llevar a una fría misi
- onera a La Habana\, pero se enamoran el…\n\nVenue: Centro Cultural Munro
- \n\nMore info: https://lumiton.ar/evento/ellos-y-ellas/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ellos-y-ellas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS PUENTES DE MADISON
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260423T203500
