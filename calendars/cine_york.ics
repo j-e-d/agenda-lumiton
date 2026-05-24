@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAWRENCE DE ARABIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
-DTSTAMP:20260423T210000Z
-UID:202604231800-Cine-York-LAWRENCE-DE-ARABIA@lumiton.ar
-DESCRIPTION:La historia de T. E. Lawrence\, el oficial inglés que consigu
- ió unir y liderar a varias tribus árabes\, a menudo…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/lawrence-de-arabia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lawrence-de-arabia/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:REBELDE SIN CAUSA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260424T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260424T200500

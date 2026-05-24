@@ -1746,32 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UN BEBÉ DE PARÍS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
-DTSTAMP:20260423T210000Z
-UID:202604231800-Lumiton-UN-BEBÉ-DE-PARÍS@lumiton.ar
-DESCRIPTION:Raquel desea fervientemente ser madre pero no puede tener hijo
- s. Finge estar embarazada para retener a su esposo\, de quien…\n\nVenue:
-  Lumiton\n\nMore info: https://lumiton.ar/evento/un-beb-de-paris/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-beb-de-paris/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS PUENTES DE MADISON
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260423T203500
-DTSTAMP:20260423T213000Z
-UID:202604231830-Centro-Cultural-Munro-LOS-PUENTES-DE-MADIS@lumiton.ar
-DESCRIPTION:La vida monótona y rutinaria de una tranquila ama de casa que
-  vive en una granja con su familia\, se…\n\nVenue: Centro Cultural Munro
- \n\nMore info: https://lumiton.ar/evento/los-puentes-de-madison-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-puentes-de-madison-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TONY\, SHELLY Y LA LINTERNA MÁGICA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260426T183500
@@ -1865,19 +1839,6 @@ DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAWRENCE DE ARABIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260423T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260423T200500
-DTSTAMP:20260423T210000Z
-UID:202604231800-Cine-York-LAWRENCE-DE-ARABIA@lumiton.ar
-DESCRIPTION:La historia de T. E. Lawrence\, el oficial inglés que consigu
- ió unir y liderar a varias tribus árabes\, a menudo…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/lawrence-de-arabia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lawrence-de-arabia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REBELDE SIN CAUSA
