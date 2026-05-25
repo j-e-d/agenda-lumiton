@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:REBELDE SIN CAUSA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260424T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260424T200500
-DTSTAMP:20260424T210000Z
-UID:202604241800-Cine-York-REBELDE-SIN-CAUSA@lumiton.ar
-DESCRIPTION:Un chico rebelde con un pasado turbio llega a una nueva ciudad
-  en la que encuentra tanto amigos como enemigos.…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/rebelde-sin-causa/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/rebelde-sin-causa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡QUÉ BELLO ES VIVIR!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260424T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260424T223500
-DTSTAMP:20260424T233000Z
-UID:202604242030-Cine-York-¡QUÉ-BELLO-ES-VIVIR!@lumiton.ar
-DESCRIPTION:Durante Nochebuena\, George Bailey\, banquero de un pequeño p
- ueblo\, abrumado por la repentina desaparición de una importante suma de 
- dinero\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/qu
- e-bello-es-vivir-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/que-bello-es-vivir-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LUNA NUEVA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260425T200500
