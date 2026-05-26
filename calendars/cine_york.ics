@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LUNA NUEVA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260425T200500
-DTSTAMP:20260425T210000Z
-UID:202604251800-Cine-York-LUNA-NUEVA@lumiton.ar
-DESCRIPTION:Cuando la exitosa reportera Hildy Johnson anuncia su retiro de
- l periodismo para dedicarse al hogar junto a su prometido\, el…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/luna-nueva/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/luna-nueva/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIÑAS DE IRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260425T223500
-DTSTAMP:20260425T233000Z
-UID:202604252030-Cine-York-VIÑAS-DE-IRA@lumiton.ar
-DESCRIPTION:Durante la Gran Depresión\, Tom regresa a su hogar tras cumpl
- ir condena en prisión y debe unirse a ellos\, huyendo…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/vinas-de-ira/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/vinas-de-ira/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TARDES DE SOLEDAD
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260426T200500
