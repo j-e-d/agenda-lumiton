@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TONY\, SHELLY Y LA LINTERNA MÁGICA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260426T183500
-DTSTAMP:20260426T193000Z
-UID:202604261630-Centro-Cultural-Munro-TONY\,-SHELLY-Y-LA-LI@lumiton.ar
-DESCRIPTION:Tony\, un niño de once años\, tiene una característica úni
- ca con la que nació: brilla. Pasa sus días en casa\,…\n\nVenue: Centro
-  Cultural Munro\n\nMore info: https://lumiton.ar/evento/tony-shelly-y-la-l
- interna-mgica/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tony-shelly-y-la-linterna-mgica/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUNNY GIRL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260426T203500
-DTSTAMP:20260426T213000Z
-UID:202604261830-Centro-Cultural-Munro-FUNNY-GIRL@lumiton.ar
-DESCRIPTION:La vida de Fanny Brice\, famosa comediante y artista de princi
- pios del siglo XX. Vemos su ascenso a la fama…\n\nVenue: Centro Cultural
-  Munro\n\nMore info: https://lumiton.ar/evento/funny-girl/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/funny-girl/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JINETES DEL ESPACIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260430T203500
@@ -1839,32 +1812,6 @@ DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TARDES DE SOLEDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260426T200500
-DTSTAMP:20260426T210000Z
-UID:202604261800-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
-DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
-  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tardes-de-soledad-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TARDES DE SOLEDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260426T223500
-DTSTAMP:20260426T233000Z
-UID:202604262030-Cine-York-TARDES-DE-SOLEDAD@lumiton.ar
-DESCRIPTION:Retrato del torero Andrés Roca Rey\, que invita a reflexionar
-  sobre la experiencia íntima de quien asume el riesgo de…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/tardes-de-soledad-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tardes-de-soledad-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KILL BILL: THE WHOLE BLOODY AFFAIR
