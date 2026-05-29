@@ -1787,4 +1787,415 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/nuestra-tierra-5/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAMILIA SUMERGIDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260603T210500
+DTSTAMP:20260603T220000Z
+UID:202606031900-Cine-York-FAMILIA-SUMERGIDA@lumiton.ar
+DESCRIPTION:El mundo de Marcela se vuelve extraño y frágil luego de la m
+ uerte de su hermana Rina. Se siente perdida…\n\nVenue: Cine York\n\nMore
+  info: https://lumiton.ar/evento/familia-sumergida-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/familia-sumergida-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLESIOSAURIOS VIVOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260604T200500
+DTSTAMP:20260604T210000Z
+UID:202606041800-Cine-York-PLESIOSAURIOS-VIVOS@lumiton.ar
+DESCRIPTION:Partiendo de las historias de extraños monstruos acuáticos -
+ como Nessie en Escocia y Nahuelito en Argentina-\, este documental se cent
+ ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/plesiosa
+ urios-vivos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/plesiosaurios-vivos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASÍ CANTABA CARLOS GARDEL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260604T223500
+DTSTAMP:20260604T233000Z
+UID:202606042030-Cine-York-ASÍ-CANTABA-CARLOS-G@lumiton.ar
+DESCRIPTION:Este mediometraje se proyectará previamente al largometraje T
+ ango Bar. Así cantaba Carlos Gardel es un film de 1935 que reúne…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/asi-cantaba-carlos
+ -gardel-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/asi-cantaba-carlos-gardel-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TANGO BAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260604T223500
+DTSTAMP:20260604T233000Z
+UID:202606042030-Cine-York-TANGO-BAR@lumiton.ar
+DESCRIPTION:Este largometraje se proyectará previamente al mediometraje A
+ sí cantaba Carlos Gardel.Carlos Gardel interpreta a un hombre fanático d
+ el hipódromo\, que…\n\nVenue: Cine York\n\nMore info: https://lumiton.a
+ r/evento/tango-bar-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tango-bar-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CATÁLOGO PARA UNA FAMILIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260605T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260605T200500
+DTSTAMP:20260605T210000Z
+UID:202606051800-Cine-York-CATÁLOGO-PARA-UNA-FA@lumiton.ar
+DESCRIPTION:El nieto del escultor Jorge Michel reconstruye la vida y el le
+ gado de su abuelo\, a quien no conoció y…\n\nVenue: Cine York\n\nMore i
+ nfo: https://lumiton.ar/evento/catalogo-para-una-familia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/catalogo-para-una-familia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÁNIMU
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260605T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260605T223500
+DTSTAMP:20260605T233000Z
+UID:202606052030-Cine-York-ÁNIMU@lumiton.ar
+DESCRIPTION:Wara una adolescente indígena transita el desarraigo y el due
+ lo por la muerte de su abuela. Un ritual que reúne…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/animu/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/animu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PECADORA EQUIVOCADA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260606T200500
+DTSTAMP:20260606T210000Z
+UID:202606061800-Cine-York-PECADORA-EQUIVOCADA@lumiton.ar
+DESCRIPTION:Una mujer rica está a punto de casarse por segunda vez. Su ex
+ marido y un reportero de tabloide entran en…\n\nVenue: Cine York\n\nMore
+  info: https://lumiton.ar/evento/pecadora-equivocada/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pecadora-equivocada/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS KNACKS: DÉJAME EN EL PASADO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260606T223500
+DTSTAMP:20260606T233000Z
+UID:202606062030-Cine-York-LOS-KNACKS:-DÉJAME-E@lumiton.ar
+DESCRIPTION:En 1967\, Los Knacks es una de las bandas más fuertes de Arge
+ ntina. Pero una orden de la dictadura militar…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/los-knacks-dejame-en-el-pasado/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-knacks-dejame-en-el-pasado/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DETRÁS DE LAS NOTICIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260607T200500
+DTSTAMP:20260607T210000Z
+UID:202606071800-Cine-York-DETRÁS-DE-LAS-NOTICI@lumiton.ar
+DESCRIPTION:En la redacción de informativos de una cadena de televisión\
+ , Jane vive obsesionada por controlar a todos los que están…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/detras-de-las-noticias/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/detras-de-las-noticias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HECHIZO DEL TIEMPO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260607T223500
+DTSTAMP:20260607T233000Z
+UID:202606072030-Cine-York-HECHIZO-DEL-TIEMPO@lumiton.ar
+DESCRIPTION:Phil\, el hombre del tiempo de una cadena de televisión\, va 
+ un año más a Punxsutawney\, a cubrir la información…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/hechizo-del-tiempo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hechizo-del-tiempo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMI
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260611T200500
+DTSTAMP:20260611T210000Z
+UID:202606111800-Cine-York-EMI@lumiton.ar
+DESCRIPTION:Emi\, de 18 años\, vive con sus padres en los suburbios de Bu
+ enos Aires. Hace unos meses empezó a trabajar…\n\nVenue: Cine York\n\nM
+ ore info: https://lumiton.ar/evento/emi/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/emi/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOTA URONDO\, UN COCINERO IMPERTINENTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260611T223500
+DTSTAMP:20260611T233000Z
+UID:202606112030-Cine-York-JOTA-URONDO\,-UN-COCI@lumiton.ar
+DESCRIPTION:Carne madurada\, kimchi y ñoquis con chinchulines\, una carta
+  que ignora las tendencias de la alta cocina. Javier Urondo no…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/jota-urondo-un-cociner
+ o-impertinente/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jota-urondo-un-cocinero-impertinente/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HISTORIA OFICIAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260612T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260612T200500
+DTSTAMP:20260612T210000Z
+UID:202606121800-Cine-York-LA-HISTORIA-OFICIAL@lumiton.ar
+DESCRIPTION:Alicia es profesora de historia. En su profesión\, como en su
+  casa\, siempre ha aceptado la versión oficial. Hasta que…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/la-historia-oficial-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-historia-oficial-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUCK YOU! EL ÚLTIMO SHOW
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260612T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260612T223500
+DTSTAMP:20260612T233000Z
+UID:202606122030-Cine-York-FUCK-YOU!-EL-ÚLTIMO-@lumiton.ar
+DESCRIPTION:Sumo\, una de las bandas más emblemáticas del rock argentino
+  durante los preparativos y el desarrollo de un concierto histórico:…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fuck-you-el-ult
+ imo-show-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fuck-you-el-ultimo-show-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREMLINS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260613T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260613T200500
+DTSTAMP:20260613T210000Z
+UID:202606131800-Cine-York-GREMLINS@lumiton.ar
+DESCRIPTION:Un niño rompe inadvertidamente tres reglas importantes sobre 
+ su nueva mascota y provoca una horda de monstruos malévolos y traviesos
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/gremlins-2
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/gremlins-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREMLINS 2: LA NUEVA GENERACIÓN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260613T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260613T223500
+DTSTAMP:20260613T233000Z
+UID:202606132030-Cine-York-GREMLINS-2:-LA-NUEVA@lumiton.ar
+DESCRIPTION:Los Gremlins están de vuelta\, y esta vez\, han tomado el con
+ trol del edificio de alta tecnología de un magnate…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/gremlins-2-la-nueva-generacion/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/gremlins-2-la-nueva-generacion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI OBRA MAESTRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260614T200500
+DTSTAMP:20260614T210000Z
+UID:202606141800-Cine-York-MI-OBRA-MAESTRA@lumiton.ar
+DESCRIPTION:Un astuto comerciante de arte intenta reactivar la carrera de 
+ un arisco pintor con un plan arriesgado que pone a…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/mi-obra-maestra/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-obra-maestra/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL AGENTE SECRETO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260614T223500
+DTSTAMP:20260614T233000Z
+UID:202606142030-Cine-York-EL-AGENTE-SECRETO@lumiton.ar
+DESCRIPTION:Marcelo (Wagner Moura) es un profesor universitario y padre qu
+ e huye de un pasado misterioso y viaja desde São Paulo…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/el-agente-secreto/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-agente-secreto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÚLTIMOS DÍAS DE LA VÍCTIMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
+DTSTAMP:20260618T210000Z
+UID:202606181800-Cine-York-ÚLTIMOS-DÍAS-DE-LA-V@lumiton.ar
+DESCRIPTION:A Mendizábal\, un asesino a sueldo\, sus anónimos clientes l
+ e ordenan un nuevo asesinato. Pero en la persecución\, precisa y…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/ultimos-dias-de-la-
+ victima-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ultimos-dias-de-la-victima-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUGARES COMUNES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260618T223500
+DTSTAMP:20260618T233000Z
+UID:202606182030-Cine-York-LUGARES-COMUNES@lumiton.ar
+DESCRIPTION:Fernando Robles ha cumplido los sesenta\, es profesor de liter
+ atura en la universidad y tiene un feliz matrimonio. Pero su…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/lugares-comunes-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lugares-comunes-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN LUGAR EN EL MUNDO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260619T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260619T200500
+DTSTAMP:20260619T210000Z
+UID:202606191800-Cine-York-UN-LUGAR-EN-EL-MUNDO@lumiton.ar
+DESCRIPTION:Ernesto hace un viaje a un remoto pueblo de la provincia de Sa
+ n Luis para recordar su infancia y la…\n\nVenue: Cine York\n\nMore info:
+  https://lumiton.ar/evento/un-lugar-en-el-mundo-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-lugar-en-el-mundo-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIEMPO DE REVANCHA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260619T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260619T223500
+DTSTAMP:20260619T233000Z
+UID:202606192030-Cine-York-TIEMPO-DE-REVANCHA@lumiton.ar
+DESCRIPTION:Pedro Bengoa\, un trabajador de las minas de la empresa Tulsac
+ o\, tiene un plan: simular un accidente y hacerse pasar…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/tiempo-de-revancha-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tiempo-de-revancha-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CORAZONES JÓVENES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260621T200500
+DTSTAMP:20260621T210000Z
+UID:202606211800-Cine-York-CORAZONES-JÓVENES@lumiton.ar
+DESCRIPTION:Para Elias\, la llegada de Alexander no es solo la de un nuevo
+  vecino\, sino el despertar de un sentimiento…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/corazones-jovenes/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/corazones-jovenes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA GRAN AMBICIÓN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260621T223500
+DTSTAMP:20260621T233000Z
+UID:202606212030-Cine-York-LA-GRAN-AMBICIÓN@lumiton.ar
+DESCRIPTION:La gran ambición narra la vida del popular líder político E
+ nrico Berlinguer\, secretario general del Partido Comunista Italiano\, dur
+ ante los…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la
+ -gran-ambicion/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-gran-ambicion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RESCATE EN EL BARRIO CHINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260625T200500
+DTSTAMP:20260625T210000Z
+UID:202606251800-Cine-York-RESCATE-EN-EL-BARRIO@lumiton.ar
+DESCRIPTION:Jack Burton\, un camionero\, se mete en el barrio chino de San
+  Francisco para ayudar a su amigo a rescatar…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/rescate-en-el-barrio-chino/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rescate-en-el-barrio-chino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONAN\, EL BÁRBARO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260625T223500
+DTSTAMP:20260625T233000Z
+UID:202606252030-Cine-York-CONAN\,-EL-BÁRBARO@lumiton.ar
+DESCRIPTION:Un niño que pertenece a una tribu primitiva graba en su memor
+ ia los rostros de los guerreros que han exterminado…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/conan-el-barbaro/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/conan-el-barbaro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIGAN LO QUE QUIERAN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260626T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260626T200500
+DTSTAMP:20260626T210000Z
+UID:202606261800-Cine-York-DIGAN-LO-QUE-QUIERAN@lumiton.ar
+DESCRIPTION:Lloyd Dobler trata de conquistar el corazón de Diane Court\, 
+ la chica más guapa del instituto. Lo sorprendente para todos…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/digan-lo-que-quieran/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/digan-lo-que-quieran/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DURO DE MATAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260626T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260626T223500
+DTSTAMP:20260626T233000Z
+UID:202606262030-Cine-York-DURO-DE-MATAR@lumiton.ar
+DESCRIPTION:Un grupo terrorista se ha apoderado de un edificio tomando a u
+ n grupo de personas como rehenes. Sólo un hombre\,…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/duro-de-matar/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/duro-de-matar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUISIERA SER GRANDE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260627T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260627T200500
+DTSTAMP:20260627T210000Z
+UID:202606271800-Cine-York-QUISIERA-SER-GRANDE@lumiton.ar
+DESCRIPTION:Josh Baskin tiene trece años y está cansado de que las chica
+ s no le hagan caso. Una noche\, encuentra en…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/quisiera-ser-grande/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/quisiera-ser-grande/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡CAIGAN LAS ROSAS BLANCAS!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T173000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260628T193500
+DTSTAMP:20260628T203000Z
+UID:202606281730-Cine-York-¡CAIGAN-LAS-ROSAS-BL@lumiton.ar
+DESCRIPTION:Violeta\, una joven directora de cine que hizo\, alguna vez\, 
+ junto a un grupo de amigas una película porno\, lésbica…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/caigan-las-rosas-blancas-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/caigan-las-rosas-blancas-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROMERÍA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260628T223500
+DTSTAMP:20260628T233000Z
+UID:202606282030-Cine-York-ROMERÍA@lumiton.ar
+DESCRIPTION:Marina\, de 18 años\, huérfana a temprana edad\, debe viajar
+  a la costa atlántica española para conseguir la firma de…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/romeria/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/romeria/
+END:VEVENT
 END:VCALENDAR

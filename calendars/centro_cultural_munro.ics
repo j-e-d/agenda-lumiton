@@ -574,4 +574,166 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/funcion-especial-un-buen-dia-despues-de-un-b
  uen-dia-3/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL PROFESOR CHIFLADO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260604T203500
+DTSTAMP:20260604T213000Z
+UID:202606041830-Centro-Cultural-Munro-EL-PROFESOR-CHIFLADO@lumiton.ar
+DESCRIPTION:Para mejorar su vida social\, un profesor bebe una poción que
+  lo convierte temporalmente en el atractivo pero detestable Buddy…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-prof
+ esor-chiflado/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-profesor-chiflado/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUMBO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260607T183500
+DTSTAMP:20260607T193000Z
+UID:202606071630-Centro-Cultural-Munro-DUMBO@lumiton.ar
+DESCRIPTION:Cuando el pequeño Dumbo es rechazado por sus enormes orejas\,
+  descubre junto a su inseparable amigo Timoteo que aquello que…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/dumbo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/dumbo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIEN VECES NO DEBO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260607T203500
+DTSTAMP:20260607T213000Z
+UID:202606071830-Centro-Cultural-Munro-CIEN-VECES-NO-DEBO@lumiton.ar
+DESCRIPTION:Carmen y Julio Siri conforman un matrimonio de mediana edad. S
+ u única hija es su razón de vivir y pretenden…\n\nVenue: Centro Cultur
+ al Munro\n\nMore info: https://lumiton.ar/evento/cien-veces-no-debo-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cien-veces-no-debo-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DE GOLPE EN GOLPE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260611T203500
+DTSTAMP:20260611T213000Z
+UID:202606111830-Centro-Cultural-Munro-DE-GOLPE-EN-GOLPE@lumiton.ar
+DESCRIPTION:El miserable director de un estudio de Hollywood contrata a un
+  hombre tonto para espiar a sus empleados\, causando estragos…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/de-golpe-en
+ -golpe/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/de-golpe-en-golpe/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALICIA EN EL PAÍS DE LAS MARAVILLAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260614T183500
+DTSTAMP:20260614T193000Z
+UID:202606141630-Centro-Cultural-Munro-ALICIA-EN-EL-PAÍS-DE@lumiton.ar
+DESCRIPTION:Alicia persigue al Conejo Blanco hacia un mundo al revés cada
+  vez más curioso\, donde conocerá al Sombrerero Loco\, la…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/alicia-en-el-
+ pais-de-las-maravillas-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alicia-en-el-pais-de-las-maravillas-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESPERANDO LA CARROZA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260614T203500
+DTSTAMP:20260614T213000Z
+UID:202606141830-Centro-Cultural-Munro-ESPERANDO-LA-CARROZA@lumiton.ar
+DESCRIPTION:La familia Musicardi se reúne en medio de una crisis cuando c
+ reen que Mamá Cora\, la anciana madre de la…\n\nVenue: Centro Cultural 
+ Munro\n\nMore info: https://lumiton.ar/evento/esperando-la-carroza-11/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/esperando-la-carroza-11/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL TERROR DE LAS CHICAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260618T203500
+DTSTAMP:20260618T213000Z
+UID:202606181830-Centro-Cultural-Munro-EL-TERROR-DE-LAS-CHI@lumiton.ar
+DESCRIPTION:Después de que su novia lo deja por otra persona\, Herbert se
+  deprime mucho y comienza a buscar trabajo. Cuando…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/el-terror-de-las-chica
+ s/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-terror-de-las-chicas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA BELLA Y LA BESTIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260621T183500
+DTSTAMP:20260621T193000Z
+UID:202606211630-Centro-Cultural-Munro-LA-BELLA-Y-LA-BESTIA@lumiton.ar
+DESCRIPTION:La valerosa e independiente Bella vive una aventura única cua
+ ndo se propone rescatar a su padre y descubre el castillo…\n\nVenue: Cen
+ tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-bella-y-la-b
+ estia/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-bella-y-la-bestia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DARSE CUENTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260621T203500
+DTSTAMP:20260621T213000Z
+UID:202606211830-Centro-Cultural-Munro-DARSE-CUENTA@lumiton.ar
+DESCRIPTION:Carlos Ventura\, un médico de 45 años marcado por el fracaso
+  y la desesperanza\, encuentra en el hospital el reflejo…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/darse-cuenta-4/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/darse-cuenta-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL INGENUO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260625T203500
+DTSTAMP:20260625T213000Z
+UID:202606251830-Centro-Cultural-Munro-EL-INGENUO@lumiton.ar
+DESCRIPTION:Cuando una estrella de la comedia muere\, su equipo decide ent
+ renar a un don nadie para que ocupe el lugar…\n\nVenue: Centro Cultural 
+ Munro\n\nMore info: https://lumiton.ar/evento/el-ingenuo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-ingenuo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FROZEN: UNA AVENTURA CONGELADA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260628T183500
+DTSTAMP:20260628T193000Z
+UID:202606281630-Centro-Cultural-Munro-FROZEN:-UNA-AVENTURA@lumiton.ar
+DESCRIPTION:La optimista y osada Anna emprende un épico viaje junto al ho
+ mbre de montaña Kristoff y su leal reno Sven…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/frozen-una-aventura-congela
+ da/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/frozen-una-aventura-congelada/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PARQUE LEZAMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260628T203500
+DTSTAMP:20260628T213000Z
+UID:202606281830-Centro-Cultural-Munro-PARQUE-LEZAMA@lumiton.ar
+DESCRIPTION:Un ex activista comunista y un hombre relajado que adopta una 
+ filosofía de “vive y deja vivir” entablan una amistad…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/parque-lezama/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/parque-lezama/
+END:VEVENT
 END:VCALENDAR
