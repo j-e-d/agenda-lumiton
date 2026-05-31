@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JINETES DEL ESPACIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260430T203500
-DTSTAMP:20260430T213000Z
-UID:202604301830-Centro-Cultural-Munro-JINETES-DEL-ESPACIO@lumiton.ar
-DESCRIPTION:Cuando un ingeniero jubilado recibe el encargo de rescatar un 
- satélite averiado\, insiste en que sus compañeros\, retirados como él\,
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/jinetes-del-espacio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jinetes-del-espacio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANIDA Y EL CIRCO FLOTANTE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T183500

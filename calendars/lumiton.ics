@@ -102,21 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“ALFRED HITCHCOCK PRESENTS”: EL MAESTRO DEL SUSPENSO EN LA TV
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260430T210500
-DTSTAMP:20260430T220000Z
-UID:202604301900-Lumiton-“ALFRED-HITCHCOCK-PR@lumiton.ar
-DESCRIPTION:Lumiclub nos invita a explorar otra faceta del “Maestro del 
- suspenso” en una jornada de proyección y debate dedicada a…\n\nVenue:
-  Lumiton\n\nMore info: https://lumiton.ar/evento/alfred-hitchcock-presents
- -el-maestro-del-suspenso-en-la-tv/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alfred-hitchcock-presents-el-maestro-del-sus
- penso-en-la-tv/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:16 AÑOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500

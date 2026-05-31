@@ -1746,35 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JINETES DEL ESPACIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260430T203500
-DTSTAMP:20260430T213000Z
-UID:202604301830-Centro-Cultural-Munro-JINETES-DEL-ESPACIO@lumiton.ar
-DESCRIPTION:Cuando un ingeniero jubilado recibe el encargo de rescatar un 
- satélite averiado\, insiste en que sus compañeros\, retirados como él\,
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/jinetes-del-espacio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jinetes-del-espacio/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“ALFRED HITCHCOCK PRESENTS”: EL MAESTRO DEL SUSPENSO EN LA TV
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260430T210500
-DTSTAMP:20260430T220000Z
-UID:202604301900-Lumiton-“ALFRED-HITCHCOCK-PR@lumiton.ar
-DESCRIPTION:Lumiclub nos invita a explorar otra faceta del “Maestro del 
- suspenso” en una jornada de proyección y debate dedicada a…\n\nVenue:
-  Lumiton\n\nMore info: https://lumiton.ar/evento/alfred-hitchcock-presents
- -el-maestro-del-suspenso-en-la-tv/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alfred-hitchcock-presents-el-maestro-del-sus
- penso-en-la-tv/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANIDA Y EL CIRCO FLOTANTE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T183500
@@ -1812,19 +1783,6 @@ DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KILL BILL: THE WHOLE BLOODY AFFAIR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260430T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260430T200500
-DTSTAMP:20260430T210000Z
-UID:202604301800-Cine-York-KILL-BILL:-THE-WHOLE@lumiton.ar
-DESCRIPTION:Después de ser traicionada\, herida de muerte y dada por muer
- ta en su propio ensayo de boda\, La Novia —…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kill-bill-the-whole-bloody-affair/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIDA ACUÁTICA CON STEVE ZISSOU
