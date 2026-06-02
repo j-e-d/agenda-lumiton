@@ -183,4 +183,18 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/luna-de-miel-en-rio-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HISTORIA NO OFICIAL DE LOS MUNDIALES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260625T210500
+DTSTAMP:20260625T220000Z
+UID:202606251900-Lumiton-LA-HISTORIA-NO-OFICI@lumiton.ar
+DESCRIPTION:En junio\, Lumiclub presenta “La historia no oficial de los 
+ mundiales”\, una noche construida a partir de himnos (in)olvidables\, pu
+ blicidades…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la
+ -historia-no-oficial-de-los-mundiales/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-historia-no-oficial-de-los-mundiales/
+END:VEVENT
 END:VCALENDAR

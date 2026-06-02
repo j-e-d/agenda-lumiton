@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA VIDA ACUÁTICA CON STEVE ZISSOU
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260502T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260502T200500
-DTSTAMP:20260502T210000Z
-UID:202605021800-Cine-York-LA-VIDA-ACUÁTICA-CON@lumiton.ar
-DESCRIPTION:Con un plan para vengarse de un tiburón mítico que mató a s
- u compañero\, el oceanógrafo Steve Zissou reúne a…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/la-vida-acuatica-con-steve-zisso
- u/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-vida-acuatica-con-steve-zissou/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOTTLE ROCKET
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260502T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260502T223500
-DTSTAMP:20260502T233000Z
-UID:202605022030-Cine-York-BOTTLE-ROCKET@lumiton.ar
-DESCRIPTION:Anthony\, Dignan y Bob son tres mejores amigos que intentan es
- capar del aburrimiento de la vida en las afueras dedicándose…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/bottle-rocket/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/bottle-rocket/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA CIÉNAGA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200500
@@ -2171,5 +2144,32 @@ DESCRIPTION:Marina\, de 18 años\, huérfana a temprana edad\, debe viajar
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/romeria/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAMILIA SUMERGIDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260603T220500
+DTSTAMP:20260603T230000Z
+UID:202606032000-Cine-York-FAMILIA-SUMERGIDA@lumiton.ar
+DESCRIPTION:“Érase una vez con...” el nuevo ciclo del Cine York recib
+ e la visita de Lucrecia Martel. La idea es simple:…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/familia-sumergida-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/familia-sumergida-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRASLADOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260610T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260610T223500
+DTSTAMP:20260610T233000Z
+UID:202606102030-Cine-York-TRASLADOS@lumiton.ar
+DESCRIPTION:Con el testimonio de ex detenidos\, familiares y especialistas
+  y un extenso archivo "Traslados" resuelve el enorme rompecabezas de testi
+ gos\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/trasl
+ ados/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/traslados/
 END:VEVENT
 END:VCALENDAR
