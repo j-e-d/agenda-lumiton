@@ -1746,32 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANIDA Y EL CIRCO FLOTANTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T183500
-DTSTAMP:20260503T193000Z
-UID:202605031630-Centro-Cultural-Munro-ANIDA-Y-EL-CIRCO-FLO@lumiton.ar
-DESCRIPTION:Anida es una joven artista que vive dentro de un circo flotant
- e\, su mejor amigo es un sapo llamado Vicente.…\n\nVenue: Centro Cultura
- l Munro\n\nMore info: https://lumiton.ar/evento/anida-y-el-circo-flotante/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/anida-y-el-circo-flotante/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANTANDO BAJO LA LLUVIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T203500
-DTSTAMP:20260503T213000Z
-UID:202605031830-Centro-Cultural-Munro-CANTANDO-BAJO-LA-LLU@lumiton.ar
-DESCRIPTION:El ídolo del cine mudo Don Lockwood se enamora de la aspirant
- e a actriz Kathy Selden justo cuando él y…\n\nVenue: Centro Cultural Mu
- nro\n\nMore info: https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL MAGO DE OZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T203500
@@ -1783,32 +1757,6 @@ DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA CIÉNAGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200500
-DTSTAMP:20260503T210000Z
-UID:202605031800-Cine-York-LA-CIÉNAGA@lumiton.ar
-DESCRIPTION:Dos familias - una de clase media urbana y otra de productores
-  rurales - se entrecruzan en el sopor provinciano…\n\nVenue: Cine York\n
- \nMore info: https://lumiton.ar/evento/la-cienaga-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-cienaga-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T223500
-DTSTAMP:20260503T233000Z
-UID:202605032030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUSHMORE
@@ -3081,5 +3029,18 @@ DESCRIPTION:En junio\, Lumiclub presenta “La historia no oficial de los
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-historia-no-oficial-de-los-mundiales/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OJOS EXTRAÑOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260610T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260610T200500
+DTSTAMP:20260610T210000Z
+UID:202606101800-Cine-York-OJOS-EXTRAÑOS@lumiton.ar
+DESCRIPTION:Una joven pareja que busca a su hija desaparecida encuentra gr
+ abaciones de video de sus momentos más íntimos realizadas por…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/ojos-extranos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ojos-extranos/
 END:VEVENT
 END:VCALENDAR

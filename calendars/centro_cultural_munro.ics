@@ -370,32 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANIDA Y EL CIRCO FLOTANTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T183500
-DTSTAMP:20260503T193000Z
-UID:202605031630-Centro-Cultural-Munro-ANIDA-Y-EL-CIRCO-FLO@lumiton.ar
-DESCRIPTION:Anida es una joven artista que vive dentro de un circo flotant
- e\, su mejor amigo es un sapo llamado Vicente.…\n\nVenue: Centro Cultura
- l Munro\n\nMore info: https://lumiton.ar/evento/anida-y-el-circo-flotante/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/anida-y-el-circo-flotante/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANTANDO BAJO LA LLUVIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T203500
-DTSTAMP:20260503T213000Z
-UID:202605031830-Centro-Cultural-Munro-CANTANDO-BAJO-LA-LLU@lumiton.ar
-DESCRIPTION:El ídolo del cine mudo Don Lockwood se enamora de la aspirant
- e a actriz Kathy Selden justo cuando él y…\n\nVenue: Centro Cultural Mu
- nro\n\nMore info: https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cantando-bajo-la-lluvia-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL MAGO DE OZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T203500
