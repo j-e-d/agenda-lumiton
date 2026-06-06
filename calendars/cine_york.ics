@@ -2159,4 +2159,17 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/ojos-extranos/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA ENTREVISTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
+DTSTAMP:20260618T210000Z
+UID:202606181800-Cine-York-LA-ENTREVISTA@lumiton.ar
+DESCRIPTION:Un periodista novato entrevista a un laureado cineasta. Ocurre
+  un accidente pero la empleada doméstica no está dispuesta a creerlo…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-entrevista/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-entrevista/
+END:VEVENT
 END:VCALENDAR
