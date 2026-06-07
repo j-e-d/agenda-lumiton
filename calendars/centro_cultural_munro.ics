@@ -383,20 +383,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANATOMÍA DE UN ASESINATO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260507T203500
-DTSTAMP:20260507T213000Z
-UID:202605071830-Centro-Cultural-Munro-ANATOMÍA-DE-UN-ASESI@lumiton.ar
-DESCRIPTION:Un policía asesina fríamente al violador de su mujer. Tras s
- er detenido\, es llevado a juicio\, donde se reflejarán todo…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/anatomia-de
- -un-asesinato/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/anatomia-de-un-asesinato/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500

@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RUSHMORE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260507T200500
-DTSTAMP:20260507T210000Z
-UID:202605071800-Cine-York-RUSHMORE@lumiton.ar
-DESCRIPTION:Un adolescente de la Academia Rushmore se enamora de una profe
- sora mucho mayor que él y se hace amigo de…\n\nVenue: Cine York\n\nMore
-  info: https://lumiton.ar/evento/rushmore/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/rushmore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA CRÓNICA FRANCESA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260507T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260507T223500
-DTSTAMP:20260507T233000Z
-UID:202605072030-Cine-York-LA-CRÓNICA-FRANCESA@lumiton.ar
-DESCRIPTION:Tras el fallecimiento de su redactor jefe\, la redacción de u
- na revista estadounidense con sede en Francia decide publicar un…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/la-cronica-francesa/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-cronica-francesa/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VIAJE A DARJEELING
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260508T200500
