@@ -1759,33 +1759,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIAJE A DARJEELING
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260508T200500
-DTSTAMP:20260508T210000Z
-UID:202605081800-Cine-York-VIAJE-A-DARJEELING@lumiton.ar
-DESCRIPTION:Intrépida historia del viaje y reencuentro de tres hermanos q
- ue tras la muerte de su padre deciden emprender un viaje…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/viaje-a-darjeeling/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/viaje-a-darjeeling/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS EXCÉNTRICOS TENENBAUMS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260508T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260508T223500
-DTSTAMP:20260508T233000Z
-UID:202605082030-Cine-York-LOS-EXCÉNTRICOS-TENE@lumiton.ar
-DESCRIPTION:Royal Tenenbaum regresa con su familia tras 17 años de separa
- ción fingiendo un grave caso de cáncer de estómago\, con…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/los-excentricos-tenenbaum
- s/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-excentricos-tenenbaums/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL GRAN HOTEL BUDAPEST
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
