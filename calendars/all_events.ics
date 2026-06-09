@@ -1759,45 +1759,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-mago-de-oz-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL GRAN HOTEL BUDAPEST
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
-DTSTAMP:20260509T210000Z
-UID:202605091800-Cine-York-EL-GRAN-HOTEL-BUDAPE@lumiton.ar
-DESCRIPTION:Una historia ambientada en el periodo de entreguerras\, sobre 
- las aventuras y la amistad entre un conserje legendario de un…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/el-gran-hotel-budapest/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gran-hotel-budapest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:16 AÑOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260509T200500
-DTSTAMP:20260509T210000Z
-UID:202605091800-Lumiton-16-AÑOS@lumiton.ar
-DESCRIPTION:Nos cuenta la historia de una adolescente\, a punto de cumplir
-  16 años\, que tiene una relación muy cercana con…\n\nVenue: Lumiton\n
- \nMore info: https://lumiton.ar/evento/16-anos-4/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/16-anos-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISLA DE PERROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260509T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260509T223500
-DTSTAMP:20260509T233000Z
-UID:202605092030-Cine-York-ISLA-DE-PERROS@lumiton.ar
-DESCRIPTION:Atari es un niño de 12 años que está bajo la tutela del cor
- rupto alcalde Kobayashi. Cuando el perro del…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/isla-de-perros/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/isla-de-perros/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500
@@ -2988,5 +2949,21 @@ DESCRIPTION:Un periodista novato entrevista a un laureado cineasta. Ocurre
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-entrevista/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 
+ Lumiton’ a cargo de Candela Vey
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260627T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260627T190500
+DTSTAMP:20260627T200000Z
+UID:202606271700-Lumiton-VISITA-GUIADA-|-‘Un-@lumiton.ar
+DESCRIPTION:A cargo de Candela Vey En las historias del cine siempre se no
+ s habló de los grandes directores y los…\n\nVenue: Lumiton\n\nMore info
+ : https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-de-
+ las-mujeres-en-lumiton-a-cargo-de-candela-vey/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-d
+ e-las-mujeres-en-lumiton-a-cargo-de-candela-vey/
 END:VEVENT
 END:VCALENDAR
