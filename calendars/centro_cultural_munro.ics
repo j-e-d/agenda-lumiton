@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL MAGO DE OZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T203500
-DTSTAMP:20260510T213000Z
-UID:202605101830-Centro-Cultural-Munro-EL-MAGO-DE-OZ@lumiton.ar
-DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
- lino mágico al mundo de Oz. Allí\, con la ayuda…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/el-mago-de-oz-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500
-DTSTAMP:20260510T193000Z
-UID:202605101630-Centro-Cultural-Munro-THE-STORM:-EL-SECRET@lumiton.ar
-DESCRIPTION:Un aguacero torrencial te sumerge en un mundo colorido dibujad
- o con tinta china. Un barco que lleva un siglo sumergido…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-storm-el-sec
- reto-del-gran-barco-negro/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-storm-el-secreto-del-gran-barco-negro/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CUESTIÓN DE HONOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260514T203500

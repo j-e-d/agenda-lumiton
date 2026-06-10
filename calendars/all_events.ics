@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL MAGO DE OZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T203500
-DTSTAMP:20260510T213000Z
-UID:202605101830-Centro-Cultural-Munro-EL-MAGO-DE-OZ@lumiton.ar
-DESCRIPTION:Dorothy es una niña huérfana que es arrastrada por un torbel
- lino mágico al mundo de Oz. Allí\, con la ayuda…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/el-mago-de-oz-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-mago-de-oz-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE STORM: EL SECRETO DEL GRAN BARCO NEGRO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T183500
-DTSTAMP:20260510T193000Z
-UID:202605101630-Centro-Cultural-Munro-THE-STORM:-EL-SECRET@lumiton.ar
-DESCRIPTION:Un aguacero torrencial te sumerge en un mundo colorido dibujad
- o con tinta china. Un barco que lleva un siglo sumergido…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-storm-el-sec
- reto-del-gran-barco-negro/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-storm-el-secreto-del-gran-barco-negro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA NIÑA SANTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T200500
-DTSTAMP:20260510T210000Z
-UID:202605101800-Cine-York-LA-NIÑA-SANTA@lumiton.ar
-DESCRIPTION:En un hotel de aguas termales viven sus dueños\, y una hija a
- dolescente\, Amalia\, que participa de grupos de reflexión…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/la-nina-santa-2-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-nina-santa-2-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260510T223500
-DTSTAMP:20260510T233000Z
-UID:202605102030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RECONQUISTA\, EL DIARIO DE SCALABRINI ORTÍZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260514T200500
@@ -2611,9 +2558,9 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260614T223500
 DTSTAMP:20260614T233000Z
 UID:202606142030-Cine-York-EL-AGENTE-SECRETO@lumiton.ar
-DESCRIPTION:Marcelo (Wagner Moura) es un profesor universitario y padre qu
- e huye de un pasado misterioso y viaja desde São Paulo…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/el-agente-secreto/
+DESCRIPTION:Nominada a 4 Oscar® incluyendo Mejor Película y ganadora de 
+ 2 Globo de Oro® incluyendo Mejor Actor\, El Agente Secreto…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/el-agente-secreto/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-agente-secreto/
