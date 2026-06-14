@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RECONQUISTA\, EL DIARIO DE SCALABRINI ORTÍZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260514T200500
-DTSTAMP:20260514T210000Z
-UID:202605141800-Cine-York-RECONQUISTA\,-EL-DIAR@lumiton.ar
-DESCRIPTION:Agrimensor\, escritor\, investigador\, periodista\, poeta\, in
- geniero: pensador nacional. Una necesaria mirada al particular pensamiento
-  político de Raúl Scalabrini Ortiz\, que…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/reconquista-el-diario-de-scalabrini-ortiz/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/reconquista-el-diario-de-scalabrini-ortiz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RECORDÁ ESTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260514T223500
-DTSTAMP:20260514T233000Z
-UID:202605142030-Cine-York-RECORDÁ-ESTO@lumiton.ar
-DESCRIPTION:Una mujer mira Buenos Aires y se pregunta por los muchos monum
- entos que pueblan la ciudad\, explorando raíces históricas\, disputas…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/recorda-esto/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/recorda-esto/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UN FUTURO BRILLANTE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260515T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260515T200500

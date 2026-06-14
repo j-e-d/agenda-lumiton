@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CUESTIÓN DE HONOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260514T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260514T203500
-DTSTAMP:20260514T213000Z
-UID:202605141830-Centro-Cultural-Munro-CUESTIÓN-DE-HONOR@lumiton.ar
-DESCRIPTION:El teniente Daniel Kaffee\, abogado militar\, defiende a los i
- nfantes de marina acusados de asesinato\, mientras estos sostienen que act
- uaban…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/cuestion-de-honor/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuestion-de-honor/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MOON\, MI AMIGO EL PANDA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260517T183500
