@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOON\, MI AMIGO EL PANDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260517T183500
-DTSTAMP:20260517T193000Z
-UID:202605171630-Centro-Cultural-Munro-MOON\,-MI-AMIGO-EL-PA@lumiton.ar
-DESCRIPTION:Tian tiene doce años cuando\, debido a sus malas notas\, es e
- nviado a vivir con su abuela. Lejos de la…\n\nVenue: Centro Cultural Mun
- ro\n\nMore info: https://lumiton.ar/evento/moon-mi-amigo-el-panda/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/moon-mi-amigo-el-panda/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARAPACHAY\, UNA HISTORIA DE BARRIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260517T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260517T203500
-DTSTAMP:20260517T213000Z
-UID:202605171830-Centro-Cultural-Munro-CARAPACHAY\,-UNA-HIST@lumiton.ar
-DESCRIPTION:“Carapachay\, una historia de barrio"\, es un largometraje q
- ue cuenta la historia del barrio a través de la voz de…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/carapachay-una-hi
- storia-de-barrio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/carapachay-una-historia-de-barrio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JURADO #2
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260521T203500
