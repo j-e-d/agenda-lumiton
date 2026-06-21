@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA NOVIA DE PRIMAVERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
-DTSTAMP:20260521T210000Z
-UID:202605211800-Lumiton-LA-NOVIA-DE-PRIMAVER@lumiton.ar
-DESCRIPTION:Para impresionar a sus amigos una joven se inventa un amor con
-  un escritor famoso que la acompaña en la…\n\nVenue: Lumiton\n\nMore in
- fo: https://lumiton.ar/evento/la-novia-de-primavera/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-novia-de-primavera/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL LADO MUTANTE DE LA FUERZA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T210500

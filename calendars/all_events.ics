@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MISS CARBÓN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
-DTSTAMP:20260521T210000Z
-UID:202605211800-Cine-York-MISS-CARBÓN@lumiton.ar
-DESCRIPTION:Inspirada en hechos reales. Carlita logró ser la primera muje
- r minera en un pueblo donde las mujeres tenían prohibida la…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/miss-carbon/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/miss-carbon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA NOVIA DE PRIMAVERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260521T200500
-DTSTAMP:20260521T210000Z
-UID:202605211800-Lumiton-LA-NOVIA-DE-PRIMAVER@lumiton.ar
-DESCRIPTION:Para impresionar a sus amigos una joven se inventa un amor con
-  un escritor famoso que la acompaña en la…\n\nVenue: Lumiton\n\nMore in
- fo: https://lumiton.ar/evento/la-novia-de-primavera/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-novia-de-primavera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JURADO #2
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260521T203500
-DTSTAMP:20260521T213000Z
-UID:202605211830-Centro-Cultural-Munro-JURADO-#2@lumiton.ar
-DESCRIPTION:Justin Kemp es un padre de familia que\, mientras ejerce de ju
- rado en un juicio por asesinato\, se enfrenta a…\n\nVenue: Centro Cultur
- al Munro\n\nMore info: https://lumiton.ar/evento/jurado-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jurado-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMANTES EN EL CIELO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260521T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260521T223500
-DTSTAMP:20260521T233000Z
-UID:202605212030-Cine-York-AMANTES-EN-EL-CIELO@lumiton.ar
-DESCRIPTION:‘Amantes en el cielo’ explora las historias de Cristina y 
- La Bonita\, dos cocineras trans que han trabajado durante décadas…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/amantes-en-el-ciel
- o/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/amantes-en-el-cielo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VEN A MI CASA ESTA NAVIDAD
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260522T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260522T200500
