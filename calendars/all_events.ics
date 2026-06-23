@@ -1746,32 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UN PÁJARO AZUL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260523T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260523T200500
-DTSTAMP:20260523T210000Z
-UID:202605231800-Cine-York-UN-PÁJARO-AZUL@lumiton.ar
-DESCRIPTION:Javier y Valeria hace años buscan tener un hijo que no llega.
-  Un día aparece Camila\, una compañera de trabajo…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/un-pajaro-azul-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-pajaro-azul-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRES TIEMPOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260523T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260523T223500
-DTSTAMP:20260523T233000Z
-UID:202605232030-Cine-York-TRES-TIEMPOS@lumiton.ar
-DESCRIPTION:En una casa entre las montañas frente a un lago espejado vive
- n Emma y su nieta adolescente Alicia. Emma le…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/tres-tiempos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tres-tiempos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PATRULLA DEL CLIMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260524T183500
