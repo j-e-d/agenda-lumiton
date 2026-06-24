@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZAMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T200500
-DTSTAMP:20260524T210000Z
-UID:202605241800-Cine-York-ZAMA@lumiton.ar
-DESCRIPTION:Zama es un hombre que espera muchos años ser reconocido por s
- us méritos\, ser deseado\, ser amado. Decide atrapar a…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/zama-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/zama-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T223500
-DTSTAMP:20260524T233000Z
-UID:202605242030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÚLTIMAS CONVERSAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T200500

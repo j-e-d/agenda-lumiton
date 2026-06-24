@@ -1746,60 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PATRULLA DEL CLIMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T183500
-DTSTAMP:20260524T193000Z
-UID:202605241630-Centro-Cultural-Munro-PATRULLA-DEL-CLIMA@lumiton.ar
-DESCRIPTION:Patrulla del Clima es un documental ambiental dirigido al púb
- lico infantil que cuenta la historia de un grupo de niñas…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/patrulla-del-c
- lima/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/patrulla-del-clima/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZAMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T200500
-DTSTAMP:20260524T210000Z
-UID:202605241800-Cine-York-ZAMA@lumiton.ar
-DESCRIPTION:Zama es un hombre que espera muchos años ser reconocido por s
- us méritos\, ser deseado\, ser amado. Decide atrapar a…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/zama-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/zama-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE EVIL DEAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T203500
-DTSTAMP:20260524T213000Z
-UID:202605241830-Centro-Cultural-Munro-THE-EVIL-DEAD@lumiton.ar
-DESCRIPTION:Cinco amigos viajan a una cabaña en el bosque\, donde sin sab
- erlo liberan demonios poseedores de carne.En The Evil Dead\,…\n\nVenue: 
- Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-evil-dea
- d/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-evil-dead/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T223500
-DTSTAMP:20260524T233000Z
-UID:202605242030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÚLTIMAS CONVERSAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T200500

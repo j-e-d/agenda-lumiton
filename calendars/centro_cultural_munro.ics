@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PATRULLA DEL CLIMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T183500
-DTSTAMP:20260524T193000Z
-UID:202605241630-Centro-Cultural-Munro-PATRULLA-DEL-CLIMA@lumiton.ar
-DESCRIPTION:Patrulla del Clima es un documental ambiental dirigido al púb
- lico infantil que cuenta la historia de un grupo de niñas…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/patrulla-del-c
- lima/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/patrulla-del-clima/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE EVIL DEAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260524T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260524T203500
-DTSTAMP:20260524T213000Z
-UID:202605241830-Centro-Cultural-Munro-THE-EVIL-DEAD@lumiton.ar
-DESCRIPTION:Cinco amigos viajan a una cabaña en el bosque\, donde sin sab
- erlo liberan demonios poseedores de carne.En The Evil Dead\,…\n\nVenue: 
- Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/the-evil-dea
- d/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-evil-dead/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JFK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T203500
