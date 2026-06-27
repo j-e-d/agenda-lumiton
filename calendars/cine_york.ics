@@ -1855,4 +1855,204 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-entrevista/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NADA ENTRE LOS DOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260701T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260701T223500
+DTSTAMP:20260701T233000Z
+UID:202607012030-Cine-York-NADA-ENTRE-LOS-DOS@lumiton.ar
+DESCRIPTION:Guillermo (Gael García Bernal) y Mechi (Natalia Oreiro) se co
+ nocen en un viaje laboral. Ambos están casados y arrastran vidas…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/nada-entre-los-dos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nada-entre-los-dos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:76 89 03
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260702T200500
+DTSTAMP:20260702T210000Z
+UID:202607021800-Cine-York-76-89-03@lumiton.ar
+DESCRIPTION:La película cuenta la historia de tres amigos y su sueño en 
+ común\, a lo largo de tres momentos históricos…\n\nVenue: Cine York\n\
+ nMore info: https://lumiton.ar/evento/76-89-03/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/76-89-03/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:76 89 23
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260702T223500
+DTSTAMP:20260702T233000Z
+UID:202607022030-Cine-York-76-89-23@lumiton.ar
+DESCRIPTION:Documental que homenajea a 76 89 03\, película controversial 
+ del año 2000. Diversos testimonios enriquecen la historia desde un punto
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/76-89-23/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/76-89-23/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS CORRIENTES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260704T200500
+DTSTAMP:20260704T210000Z
+UID:202607041800-Cine-York-LAS-CORRIENTES@lumiton.ar
+DESCRIPTION:En la cima de su carrera\, Lina\, una profesional de la moda\,
+  de 34 años\, se deja llevar por un…\n\nVenue: Cine York\n\nMore info: 
+ https://lumiton.ar/evento/las-corrientes/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/las-corrientes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMORES PERROS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260704T223500
+DTSTAMP:20260704T233000Z
+UID:202607042030-Cine-York-AMORES-PERROS@lumiton.ar
+DESCRIPTION:Celebrando su 25º aniversario vuelve al cine remasterizada en
+  4K la obra maestra de Alejandro G. Iñárritu (Birdman\, El Renacido)…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/amores-perros-
+ 3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/amores-perros-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL ÚLTIMO VIAJE A LA CHINA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260705T200500
+DTSTAMP:20260705T210000Z
+UID:202607051800-Cine-York-EL-ÚLTIMO-VIAJE-A-LA@lumiton.ar
+DESCRIPTION:Soledad Silveyra emprende un viaje al pasado. En su memoria re
+ suena el jazz de sus invenciones\, las giras en autos…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PADRE MADRE HERMANA HERMANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260705T223500
+DTSTAMP:20260705T233000Z
+UID:202607052030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
+DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
+ León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
+ hermano/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/padre-madre-hermana-hermano/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTES DEL AMANECER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260711T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260711T200500
+DTSTAMP:20260711T210000Z
+UID:202607111800-Cine-York-ANTES-DEL-AMANECER@lumiton.ar
+DESCRIPTION:Un joven y una mujer se conocen en un tren en Europa y termina
+ n pasando una noche juntos en Viena.…\n\nVenue: Cine York\n\nMore info: 
+ https://lumiton.ar/evento/antes-del-amanecer/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/antes-del-amanecer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTES DEL ATARDECER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260711T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260711T223500
+DTSTAMP:20260711T233000Z
+UID:202607112030-Cine-York-ANTES-DEL-ATARDECER@lumiton.ar
+DESCRIPTION:Jesse y Céline una vez se conocieron en un tren y pasaron jun
+ tos una noche inolvidable paseando por Viena. Prometieron…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/antes-del-atardecer/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/antes-del-atardecer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABRIR PUERTAS Y VENTANAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260712T180500
+DTSTAMP:20260712T190000Z
+UID:202607121600-Cine-York-ABRIR-PUERTAS-Y-VENT@lumiton.ar
+DESCRIPTION:La película nos cuenta una pérdida dentro de otra dentro de 
+ otra. Marina (21)\, Sofía (20) y Violeta (18) son…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/abrir-puertas-y-ventanas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/abrir-puertas-y-ventanas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA IDEA DE UN LAGO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260712T200500
+DTSTAMP:20260712T210000Z
+UID:202607121800-Cine-York-LA-IDEA-DE-UN-LAGO@lumiton.ar
+DESCRIPTION:Inspirada libremente en el libro Pozo de aire de Guadalupe Gao
+ na. Inés\, una fotógrafa\, está decidida a terminar su nuevo…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/la-idea-de-un-lago/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-idea-de-un-lago/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PADRE MADRE HERMANA HERMANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260712T223500
+DTSTAMP:20260712T233000Z
+UID:202607122030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
+DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
+ León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
+ hermano-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEN - HUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260716T200500
+DTSTAMP:20260716T210000Z
+UID:202607161800-Cine-York-BEN---HUR@lumiton.ar
+DESCRIPTION:Clásica historia de traición\, venganza y redención ambient
+ ada en la antigua Judea durante el siglo I\, en la época de…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/ben-hur/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ben-hur/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PENSAMIENTO LATERAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260717T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260717T200500
+DTSTAMP:20260717T210000Z
+UID:202607171800-Cine-York-PENSAMIENTO-LATERAL@lumiton.ar
+DESCRIPTION:La película sigue a Julia\, una psicóloga secuestrada por cr
+ iminales. Para sobrevivir\, invierte los roles y comienza a tratar a…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pensamiento-late
+ ral/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pensamiento-lateral/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PADRE MADRE HERMANA HERMANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260717T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260717T223500
+DTSTAMP:20260717T233000Z
+UID:202607172030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
+DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
+ León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
+ hermano-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-3/
+END:VEVENT
 END:VCALENDAR
