@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL LADO MUTANTE DE LA FUERZA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260528T210500
-DTSTAMP:20260528T220000Z
-UID:202605281900-Lumiton-EL-LADO-MUTANTE-DE-L@lumiton.ar
-DESCRIPTION:En mayo\, Lumiclub celebra el 4 de mayo —el “May the Fourt
- h”— explorando el universo Star Wars desde sus bordes…\n\nVenue: Lum
- iton\n\nMore info: https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-lado-mutante-de-la-fuerza/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNA TARDE EN EL MUSEO | LABORATORIO DE CONSTRUCCIÓN DE CÁMARAS O
  SCURAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T153000

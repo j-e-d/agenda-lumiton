@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÚLTIMAS CONVERSAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260528T200500
-DTSTAMP:20260528T210000Z
-UID:202605281800-Cine-York-ÚLTIMAS-CONVERSAS@lumiton.ar
-DESCRIPTION:Realizado a partir de entrevistas hechas con jóvenes estudian
- tes brasileños por el cineasta Eduardo Coutinho antes de su muerte (en…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/ultimas-conve
- rsas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ultimas-conversas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AS CANÇÕES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260528T223500
-DTSTAMP:20260528T233000Z
-UID:202605282030-Cine-York-AS-CANÇÕES@lumiton.ar
-DESCRIPTION:Hombres y mujeres cantan y cuentan las historias de las cancio
- nes que han marcado sus vidas. En un escenario vacío\,…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/as-cancoes/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/as-cancoes/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PEÕES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260529T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260529T200500

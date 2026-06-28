@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JFK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260528T203500
-DTSTAMP:20260528T213000Z
-UID:202605281830-Centro-Cultural-Munro-JFK@lumiton.ar
-DESCRIPTION:El fiscal de distrito de Nueva Orleans\, Jim Garrison\, descub
- re que hay muchas más cosas sobre el asesinato de Kennedy…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/jfk/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jfk/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
