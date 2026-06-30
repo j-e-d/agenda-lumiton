@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CLAUDIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260530T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260530T200500
-DTSTAMP:20260530T210000Z
-UID:202605301800-Cine-York-CLAUDIA@lumiton.ar
-DESCRIPTION:Claudia es una joven organizadora de eventos que debe reemplaz
- ar a una amiga y planificar una boda para un familiar…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/claudia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/claudia/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÉRASE UNA VEZ CON… SEBASTIÁN DE CARO: UN DISPARO EN LA SOMBRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260530T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260530T223500
-DTSTAMP:20260530T233000Z
-UID:202605302030-Cine-York-ÉRASE-UNA-VEZ-CON…-S@lumiton.ar
-DESCRIPTION:El inspector Jacques Clouseau investiga un asestinato en una m
- ansión parisina convencido de la inocencia de la sospechosa mientras surg
- en…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/erase-un
- a-vez-con-sebastian-de-caro-un-disparo-en-la-sombra/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/erase-una-vez-con-sebastian-de-caro-un-dispa
- ro-en-la-sombra/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
