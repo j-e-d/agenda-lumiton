@@ -370,35 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
-DTSTAMP:20260531T193000Z
-UID:202605311630-Centro-Cultural-Munro-PONYO-Y-EL-SECRETO-D@lumiton.ar
-DESCRIPTION:Miyazaki toma una estructura de cuento clásico —el encuentr
- o entre un niño y una criatura del mar— pero la desarma…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/ponyo-y-el-sec
- reto-de-la-sirenita/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ponyo-y-el-secreto-de-la-sirenita/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUNCIÓN ESPECIAL: UN BUEN DÍA + DESPUÉS DE UN BUEN DÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T203500
-DTSTAMP:20260531T213000Z
-UID:202605311830-Centro-Cultural-Munro-FUNCIÓN-ESPECIAL: UN@lumiton.ar
-DESCRIPTION:Hay películas que contra toda lógica se quedan para siempre.
-  Esta doble función propone entrar en ese territorio incómodo y…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/funcion
- -especial-un-buen-dia-despues-de-un-buen-dia-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/funcion-especial-un-buen-dia-despues-de-un-b
- uen-dia-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL PROFESOR CHIFLADO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260604T203500

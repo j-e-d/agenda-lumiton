@@ -1746,61 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PONYO Y EL SECRETO DE LA SIRENITA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T183500
-DTSTAMP:20260531T193000Z
-UID:202605311630-Centro-Cultural-Munro-PONYO-Y-EL-SECRETO-D@lumiton.ar
-DESCRIPTION:Miyazaki toma una estructura de cuento clásico —el encuentr
- o entre un niño y una criatura del mar— pero la desarma…\n\nVenue: Ce
- ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/ponyo-y-el-sec
- reto-de-la-sirenita/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ponyo-y-el-secreto-de-la-sirenita/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS LADRONES DEL TIEMPO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T200500
-DTSTAMP:20260531T210000Z
-UID:202605311800-Cine-York-LOS-LADRONES-DEL-TIE@lumiton.ar
-DESCRIPTION:Un niño se une por accidente a una banda de enanos que viajan
-  en el tiempo\, mientras saltan de era…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/los-ladrones-del-tiempo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-ladrones-del-tiempo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUNCIÓN ESPECIAL: UN BUEN DÍA + DESPUÉS DE UN BUEN DÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T203500
-DTSTAMP:20260531T213000Z
-UID:202605311830-Centro-Cultural-Munro-FUNCIÓN-ESPECIAL: UN@lumiton.ar
-DESCRIPTION:Hay películas que contra toda lógica se quedan para siempre.
-  Esta doble función propone entrar en ese territorio incómodo y…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/funcion
- -especial-un-buen-dia-despues-de-un-buen-dia-3/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/funcion-especial-un-buen-dia-despues-de-un-b
- uen-dia-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T223500
-DTSTAMP:20260531T233000Z
-UID:202605312030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FAMILIA SUMERGIDA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260603T210500

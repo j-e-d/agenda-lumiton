@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOS LADRONES DEL TIEMPO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T200500
-DTSTAMP:20260531T210000Z
-UID:202605311800-Cine-York-LOS-LADRONES-DEL-TIE@lumiton.ar
-DESCRIPTION:Un niño se une por accidente a una banda de enanos que viajan
-  en el tiempo\, mientras saltan de era…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/los-ladrones-del-tiempo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-ladrones-del-tiempo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUESTRA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260531T223500
-DTSTAMP:20260531T233000Z
-UID:202605312030-Cine-York-NUESTRA-TIERRA@lumiton.ar
-DESCRIPTION:Llega el juicio oral y público por el crimen de Javier Chocob
- ar\, comunero indígena chuschagasta asesinado en 2009 en el…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/nuestra-tierra-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nuestra-tierra-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FAMILIA SUMERGIDA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260603T210500
