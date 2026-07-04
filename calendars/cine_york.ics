@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FAMILIA SUMERGIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260603T210500
-DTSTAMP:20260603T220000Z
-UID:202606031900-Cine-York-FAMILIA-SUMERGIDA@lumiton.ar
-DESCRIPTION:El mundo de Marcela se vuelve extraño y frágil luego de la m
- uerte de su hermana Rina. Se siente perdida…\n\nVenue: Cine York\n\nMore
-  info: https://lumiton.ar/evento/familia-sumergida-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/familia-sumergida-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PLESIOSAURIOS VIVOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260604T200500
@@ -1694,19 +1681,6 @@ DESCRIPTION:Marina\, de 18 años\, huérfana a temprana edad\, debe viajar
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAMILIA SUMERGIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260603T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260603T220500
-DTSTAMP:20260603T230000Z
-UID:202606032000-Cine-York-FAMILIA-SUMERGIDA@lumiton.ar
-DESCRIPTION:“Érase una vez con...” el nuevo ciclo del Cine York recib
- e la visita de Lucrecia Martel. La idea es simple:…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/familia-sumergida-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/familia-sumergida-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRASLADOS
