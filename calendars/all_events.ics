@@ -1746,62 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLESIOSAURIOS VIVOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260604T200500
-DTSTAMP:20260604T210000Z
-UID:202606041800-Cine-York-PLESIOSAURIOS-VIVOS@lumiton.ar
-DESCRIPTION:Partiendo de las historias de extraños monstruos acuáticos -
- como Nessie en Escocia y Nahuelito en Argentina-\, este documental se cent
- ra…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/plesiosa
- urios-vivos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/plesiosaurios-vivos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL PROFESOR CHIFLADO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260604T203500
-DTSTAMP:20260604T213000Z
-UID:202606041830-Centro-Cultural-Munro-EL-PROFESOR-CHIFLADO@lumiton.ar
-DESCRIPTION:Para mejorar su vida social\, un profesor bebe una poción que
-  lo convierte temporalmente en el atractivo pero detestable Buddy…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-prof
- esor-chiflado/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-profesor-chiflado/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASÍ CANTABA CARLOS GARDEL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260604T223500
-DTSTAMP:20260604T233000Z
-UID:202606042030-Cine-York-ASÍ-CANTABA-CARLOS-G@lumiton.ar
-DESCRIPTION:Este mediometraje se proyectará previamente al largometraje T
- ango Bar. Así cantaba Carlos Gardel es un film de 1935 que reúne…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/asi-cantaba-carlos
- -gardel-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/asi-cantaba-carlos-gardel-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TANGO BAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260604T223500
-DTSTAMP:20260604T233000Z
-UID:202606042030-Cine-York-TANGO-BAR@lumiton.ar
-DESCRIPTION:Este largometraje se proyectará previamente al mediometraje A
- sí cantaba Carlos Gardel.Carlos Gardel interpreta a un hombre fanático d
- el hipódromo\, que…\n\nVenue: Cine York\n\nMore info: https://lumiton.a
- r/evento/tango-bar-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tango-bar-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CATÁLOGO PARA UNA FAMILIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260605T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260605T200500

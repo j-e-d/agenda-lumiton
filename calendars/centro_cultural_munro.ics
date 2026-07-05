@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL PROFESOR CHIFLADO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260604T203500
-DTSTAMP:20260604T213000Z
-UID:202606041830-Centro-Cultural-Munro-EL-PROFESOR-CHIFLADO@lumiton.ar
-DESCRIPTION:Para mejorar su vida social\, un profesor bebe una poción que
-  lo convierte temporalmente en el atractivo pero detestable Buddy…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-prof
- esor-chiflado/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-profesor-chiflado/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DUMBO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260607T183500
