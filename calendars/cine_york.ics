@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CATÁLOGO PARA UNA FAMILIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260605T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260605T200500
-DTSTAMP:20260605T210000Z
-UID:202606051800-Cine-York-CATÁLOGO-PARA-UNA-FA@lumiton.ar
-DESCRIPTION:El nieto del escultor Jorge Michel reconstruye la vida y el le
- gado de su abuelo\, a quien no conoció y…\n\nVenue: Cine York\n\nMore i
- nfo: https://lumiton.ar/evento/catalogo-para-una-familia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/catalogo-para-una-familia/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÁNIMU
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260605T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260605T223500
-DTSTAMP:20260605T233000Z
-UID:202606052030-Cine-York-ÁNIMU@lumiton.ar
-DESCRIPTION:Wara una adolescente indígena transita el desarraigo y el due
- lo por la muerte de su abuela. Un ritual que reúne…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/animu/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/animu/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PECADORA EQUIVOCADA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260606T200500
