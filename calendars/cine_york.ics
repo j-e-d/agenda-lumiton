@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PECADORA EQUIVOCADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260606T200500
-DTSTAMP:20260606T210000Z
-UID:202606061800-Cine-York-PECADORA-EQUIVOCADA@lumiton.ar
-DESCRIPTION:Una mujer rica está a punto de casarse por segunda vez. Su ex
- marido y un reportero de tabloide entran en…\n\nVenue: Cine York\n\nMore
-  info: https://lumiton.ar/evento/pecadora-equivocada/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pecadora-equivocada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS KNACKS: DÉJAME EN EL PASADO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260606T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260606T223500
-DTSTAMP:20260606T233000Z
-UID:202606062030-Cine-York-LOS-KNACKS:-DÉJAME-E@lumiton.ar
-DESCRIPTION:En 1967\, Los Knacks es una de las bandas más fuertes de Arge
- ntina. Pero una orden de la dictadura militar…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/los-knacks-dejame-en-el-pasado/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-knacks-dejame-en-el-pasado/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DETRÁS DE LAS NOTICIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260607T200500
