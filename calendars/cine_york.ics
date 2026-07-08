@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DETRÁS DE LAS NOTICIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260607T200500
-DTSTAMP:20260607T210000Z
-UID:202606071800-Cine-York-DETRÁS-DE-LAS-NOTICI@lumiton.ar
-DESCRIPTION:En la redacción de informativos de una cadena de televisión\
- , Jane vive obsesionada por controlar a todos los que están…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/detras-de-las-noticias/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/detras-de-las-noticias/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HECHIZO DEL TIEMPO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260607T223500
-DTSTAMP:20260607T233000Z
-UID:202606072030-Cine-York-HECHIZO-DEL-TIEMPO@lumiton.ar
-DESCRIPTION:Phil\, el hombre del tiempo de una cadena de televisión\, va 
- un año más a Punxsutawney\, a cubrir la información…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/hechizo-del-tiempo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hechizo-del-tiempo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EMI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260611T200500
@@ -1827,5 +1801,31 @@ DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTES DEL AMANECER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260711T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260711T180500
+DTSTAMP:20260711T190000Z
+UID:202607111600-Cine-York-ANTES-DEL-AMANECER@lumiton.ar
+DESCRIPTION:Un joven y una mujer se conocen en un tren en Europa y termina
+ n pasando una noche juntos en Viena.…\n\nVenue: Cine York\n\nMore info: 
+ https://lumiton.ar/evento/antes-del-amanecer/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/antes-del-amanecer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTES DEL ATARDECER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260711T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260711T200500
+DTSTAMP:20260711T210000Z
+UID:202607111800-Cine-York-ANTES-DEL-ATARDECER@lumiton.ar
+DESCRIPTION:Jesse y Céline una vez se conocieron en un tren y pasaron jun
+ tos una noche inolvidable paseando por Viena. Prometieron…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/antes-del-atardecer/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/antes-del-atardecer/
 END:VEVENT
 END:VCALENDAR

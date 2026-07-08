@@ -370,32 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DUMBO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260607T183500
-DTSTAMP:20260607T193000Z
-UID:202606071630-Centro-Cultural-Munro-DUMBO@lumiton.ar
-DESCRIPTION:Cuando el pequeño Dumbo es rechazado por sus enormes orejas\,
-  descubre junto a su inseparable amigo Timoteo que aquello que…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/dumbo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/dumbo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIEN VECES NO DEBO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260607T203500
-DTSTAMP:20260607T213000Z
-UID:202606071830-Centro-Cultural-Munro-CIEN-VECES-NO-DEBO@lumiton.ar
-DESCRIPTION:Carmen y Julio Siri conforman un matrimonio de mediana edad. S
- u única hija es su razón de vivir y pretenden…\n\nVenue: Centro Cultur
- al Munro\n\nMore info: https://lumiton.ar/evento/cien-veces-no-debo-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cien-veces-no-debo-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DE GOLPE EN GOLPE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260611T203500
