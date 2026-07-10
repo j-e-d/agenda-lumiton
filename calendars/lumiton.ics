@@ -171,4 +171,44 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/safo-historia-de-una-pasion-4/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOONEY TUNES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260722T170500
+DTSTAMP:20260722T180000Z
+UID:202607221500-Lumiton-LOONEY-TUNES@lumiton.ar
+DESCRIPTION:Bugs Bunny\, el Pato Lucas\, Piolín\, Silvestre\, Porky\, el 
+ Coyote y el Correcaminos viven aventuras disparatadas llenas de humor\, pl
+ anes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/looney-t
+ unes/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/looney-tunes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PANTERA ROSA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260724T170500
+DTSTAMP:20260724T180000Z
+UID:202607241500-Lumiton-LA-PANTERA-ROSA@lumiton.ar
+DESCRIPTION:La Pantera Rosa protagoniza historias divertidas que casi no n
+ ecesitan palabras\, donde su estilo curioso y elegante la lleva a…\n\nVe
+ nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-pantera-rosa/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-pantera-rosa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOM Y JERRY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T170500
+DTSTAMP:20260730T180000Z
+UID:202607301500-Lumiton-TOM-Y-JERRY@lumiton.ar
+DESCRIPTION:Tom\, un gato decidido a atrapar a Jerry\, y Jerry\, un ratonc
+ ito rápido e ingenioso\, viven una eterna persecución llena…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/tom-y-jerry/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tom-y-jerry/
+END:VEVENT
 END:VCALENDAR

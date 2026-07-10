@@ -546,4 +546,126 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-patrulla-infernal-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIDER-MAN: UN NUEVO UNIVERSO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260712T183500
+DTSTAMP:20260712T193000Z
+UID:202607121630-Centro-Cultural-Munro-SPIDER-MAN:-UN-NUEVO@lumiton.ar
+DESCRIPTION:El adolescente Miles Morales es el Spider-Man de su propia rea
+ lidad y se encontrará con otros como él de otras…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/spider-man-un-nuevo-un
+ iverso/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/spider-man-un-nuevo-universo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T170500
+DTSTAMP:20260719T180000Z
+UID:202607191500-Centro-Cultural-Munro-MI-POBRE-ANGELITO@lumiton.ar
+DESCRIPTION:Un travieso niño de ocho años debe proteger su casa de unos 
+ ladrones cuando es accidentalmente olvidado en casa por…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito
+ /
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T190500
+DTSTAMP:20260719T200000Z
+UID:202607191700-Centro-Cultural-Munro-MI-POBRE-ANGELITO-2:@lumiton.ar
+DESCRIPTION:Kevin vuelve a ser separado de su familia cuando accidentalmen
+ te se embarca en un vuelo con destino a la ciudad…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-per
+ dido-en-nueva-york/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS INCREÍBLES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260723T190500
+DTSTAMP:20260723T200000Z
+UID:202607231700-Centro-Cultural-Munro-LOS-INCREÍBLES@lumiton.ar
+DESCRIPTION:Una familia de superhéroes encubiertos tratando de vivir una 
+ tranquila vida suburbana se ven obligados a actuar para salvar al…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-inc
+ reibles/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-increibles/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T170500
+DTSTAMP:20260726T180000Z
+UID:202607261500-Centro-Cultural-Munro-COCO@lumiton.ar
+DESCRIPTION:El aspirante a músico Miguel entra a la Tierra de los Muertos
+  para encontrar a su tatarabuelo\, un legendario cantante. Pixar…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/coco/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/coco/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RATATOUILLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T190500
+DTSTAMP:20260726T200000Z
+UID:202607261700-Centro-Cultural-Munro-RATATOUILLE@lumiton.ar
+DESCRIPTION:Una rata que puede cocinar hace una alianza inusual con un jov
+ en trabajador de cocina en un famoso restaurante de…\n\nVenue: Centro Cu
+ ltural Munro\n\nMore info: https://lumiton.ar/evento/ratatouille/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ratatouille/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARS: UNA AVENTURA SOBRE RUEDAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T190500
+DTSTAMP:20260730T200000Z
+UID:202607301700-Centro-Cultural-Munro-CARS:-UNA-AVENTURA-S@lumiton.ar
+DESCRIPTION:En el camino a la carrera más grande de su vida\, un auto de 
+ carreras novato se queda varado en…\n\nVenue: Centro Cultural Munro\n\nM
+ ore info: https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UP\, UNA AVENTURA DE ALTURA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170500
+DTSTAMP:20260802T180000Z
+UID:202608021500-Centro-Cultural-Munro-UP\,-UNA-AVENTURA-DE-@lumiton.ar
+DESCRIPTION:Carl Fredricksen\, de 78 años\, está a punto de cumplir un s
+ ueño de toda la vida: Atar miles de globos…\n\nVenue: Centro Cultural M
+ unro\n\nMore info: https://lumiton.ar/evento/up-una-aventura-de-altura/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/up-una-aventura-de-altura/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUSCANDO A DORY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T190500
+DTSTAMP:20260802T200000Z
+UID:202608021700-Centro-Cultural-Munro-BUSCANDO-A-DORY@lumiton.ar
+DESCRIPTION:Dory\, una pez simpática y olvidadiza\, intenta encontrar a s
+ us padres. Ella y sus amigos aprenden cosas sobre el verdadero…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/buscando-a
+ -dory/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/buscando-a-dory/
+END:VEVENT
 END:VCALENDAR

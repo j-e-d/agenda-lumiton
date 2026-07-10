@@ -2536,4 +2536,448 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/antes-del-atardecer/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIDER-MAN: UN NUEVO UNIVERSO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260712T183500
+DTSTAMP:20260712T193000Z
+UID:202607121630-Centro-Cultural-Munro-SPIDER-MAN:-UN-NUEVO@lumiton.ar
+DESCRIPTION:El adolescente Miles Morales es el Spider-Man de su propia rea
+ lidad y se encontrará con otros como él de otras…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/spider-man-un-nuevo-un
+ iverso/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/spider-man-un-nuevo-universo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CRISTAL ENCANTADO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260718T180500
+DTSTAMP:20260718T190000Z
+UID:202607181600-Cine-York-EL-CRISTAL-ENCANTADO@lumiton.ar
+DESCRIPTION:La historia sigue a Jen\, un joven huérfano de la raza Gelfli
+ ng\, en una épica misión para encontrar la esquirla…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/el-cristal-encantado/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-cristal-encantado/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS MUPPETS CONQUISTAN MANHATTAN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260718T200500
+DTSTAMP:20260718T210000Z
+UID:202607181800-Cine-York-LOS-MUPPETS-CONQUIST@lumiton.ar
+DESCRIPTION:Kermit y sus amigos van a Nueva York para llevar su musical a 
+ Broadway\, pero descubren que es una tarea…\n\nVenue: Cine York\n\nMore 
+ info: https://lumiton.ar/evento/los-muppets-conquistan-manhattan/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-muppets-conquistan-manhattan/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T170500
+DTSTAMP:20260719T180000Z
+UID:202607191500-Centro-Cultural-Munro-MI-POBRE-ANGELITO@lumiton.ar
+DESCRIPTION:Un travieso niño de ocho años debe proteger su casa de unos 
+ ladrones cuando es accidentalmente olvidado en casa por…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito
+ /
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LLEGAN LOS MUPPETS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T180500
+DTSTAMP:20260719T190000Z
+UID:202607191600-Cine-York-LLEGAN-LOS-MUPPETS@lumiton.ar
+DESCRIPTION:Kermit y sus nuevos amigos viajan por Estados Unidos para cons
+ eguir el éxito en Hollywood\, pero un comerciante de ancas…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/llegan-los-muppets/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/llegan-los-muppets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T190500
+DTSTAMP:20260719T200000Z
+UID:202607191700-Centro-Cultural-Munro-MI-POBRE-ANGELITO-2:@lumiton.ar
+DESCRIPTION:Kevin vuelve a ser separado de su familia cuando accidentalmen
+ te se embarca en un vuelo con destino a la ciudad…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-per
+ dido-en-nueva-york/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABERINTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260719T200500
+DTSTAMP:20260719T210000Z
+UID:202607191800-Cine-York-LABERINTO@lumiton.ar
+DESCRIPTION:Sarah se queda encargada de cuidar a su medio hermano Toby. El
+  pequeño no deja de llorar y Sarah en…\n\nVenue: Cine York\n\nMore info
+ : https://lumiton.ar/evento/laberinto-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/laberinto-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOONEY TUNES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260722T170500
+DTSTAMP:20260722T180000Z
+UID:202607221500-Lumiton-LOONEY-TUNES@lumiton.ar
+DESCRIPTION:Bugs Bunny\, el Pato Lucas\, Piolín\, Silvestre\, Porky\, el 
+ Coyote y el Correcaminos viven aventuras disparatadas llenas de humor\, pl
+ anes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/looney-t
+ unes/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/looney-tunes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260723T180500
+DTSTAMP:20260723T190000Z
+UID:202607231600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” hoy presenta la primera sorpre
+ sa de la temporada: un clásico de la animación argentina protagonizado
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pelicula-s
+ orpresa-en-35-mm/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS INCREÍBLES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260723T190500
+DTSTAMP:20260723T200000Z
+UID:202607231700-Centro-Cultural-Munro-LOS-INCREÍBLES@lumiton.ar
+DESCRIPTION:Una familia de superhéroes encubiertos tratando de vivir una 
+ tranquila vida suburbana se ven obligados a actuar para salvar al…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-inc
+ reibles/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-increibles/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ERNEST AND CÉLESTINE: A JOURNEY IN CHARABIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260723T200500
+DTSTAMP:20260723T210000Z
+UID:202607231800-Cine-York-ERNEST-AND-CÉLESTINE@lumiton.ar
+DESCRIPTION:Ernest y Célestine regresan al país de Ernest para reparar s
+ u violín roto y descubren que la música está prohibida…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/ernest-and-celestine-a-jour
+ ney-in-charabia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ernest-and-celestine-a-journey-in-charabia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PANTERA ROSA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260724T170500
+DTSTAMP:20260724T180000Z
+UID:202607241500-Lumiton-LA-PANTERA-ROSA@lumiton.ar
+DESCRIPTION:La Pantera Rosa protagoniza historias divertidas que casi no n
+ ecesitan palabras\, donde su estilo curioso y elegante la lleva a…\n\nVe
+ nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-pantera-rosa/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-pantera-rosa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260724T180500
+DTSTAMP:20260724T190000Z
+UID:202607241600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” llega con la segunda sorpresa 
+ de las vacaciones de invierno y es una “toy story”…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AZUR & ASMAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260724T200500
+DTSTAMP:20260724T210000Z
+UID:202607241800-Cine-York-AZUR-&-ASMAR@lumiton.ar
+DESCRIPTION:Asmar\, el niño de tez oscura y ojos negros\, comparte a su m
+ adre y generosa nodriza con Azur\, la huérfana…\n\nVenue: Cine York\n\n
+ More info: https://lumiton.ar/evento/azur-asmar/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/azur-asmar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MARY ANNING
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260725T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260725T180500
+DTSTAMP:20260725T190000Z
+UID:202607251600-Cine-York-MARY-ANNING@lumiton.ar
+DESCRIPTION:En 1811 una cazadora de fósiles de 12 años sigue el críptic
+ o dibujo de su padre desaparecido. Su búsqueda lleva…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/mary-anning/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mary-anning/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260725T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260725T200500
+DTSTAMP:20260725T210000Z
+UID:202607251800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” y la tercera sorpresa: el perr
+ o y el fanático del queso más famosos de Reino…\n\nVenue: Cine York\n\
+ nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T170500
+DTSTAMP:20260726T180000Z
+UID:202607261500-Centro-Cultural-Munro-COCO@lumiton.ar
+DESCRIPTION:El aspirante a músico Miguel entra a la Tierra de los Muertos
+  para encontrar a su tatarabuelo\, un legendario cantante. Pixar…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/coco/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/coco/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEQUEÑOS CUENTOS SUIZOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180500
+DTSTAMP:20260726T190000Z
+UID:202607261600-Cine-York-PEQUEÑOS-CUENTOS-SUI@lumiton.ar
+DESCRIPTION:La animación suiza atraviesa uno de sus momentos más creativ
+ os y sorprendentes. Pequeños cuentos suizos reúne cinco cortometrajes qu
+ e funcionan…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /pequenos-cuentos-suizos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pequenos-cuentos-suizos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RATATOUILLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T190500
+DTSTAMP:20260726T200000Z
+UID:202607261700-Centro-Cultural-Munro-RATATOUILLE@lumiton.ar
+DESCRIPTION:Una rata que puede cocinar hace una alianza inusual con un jov
+ en trabajador de cocina en un famoso restaurante de…\n\nVenue: Centro Cu
+ ltural Munro\n\nMore info: https://lumiton.ar/evento/ratatouille/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ratatouille/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T200500
+DTSTAMP:20260726T210000Z
+UID:202607261800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” y la cuarta sorpresa: es hora 
+ de descoser los botones de los ojos para ver…\n\nVenue: Cine York\n\nMor
+ e info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOM Y JERRY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T170500
+DTSTAMP:20260730T180000Z
+UID:202607301500-Lumiton-TOM-Y-JERRY@lumiton.ar
+DESCRIPTION:Tom\, un gato decidido a atrapar a Jerry\, y Jerry\, un ratonc
+ ito rápido e ingenioso\, viven una eterna persecución llena…\n\nVenue:
+  Lumiton\n\nMore info: https://lumiton.ar/evento/tom-y-jerry/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tom-y-jerry/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA QUIMERA DEL ORO CON MÚSICA EN VIVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T180500
+DTSTAMP:20260730T190000Z
+UID:202607301600-Cine-York-LA-QUIMERA-DEL-ORO-C@lumiton.ar
+DESCRIPTION:Charlot\, un solitario vagabundo que viaja a Alaska durante la
+  Fiebre del Oro. Atrapado en una feroz tormenta de nieve\,…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/la-quimera-del-oro-con-mus
+ ica-en-vivo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-quimera-del-oro-con-musica-en-vivo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARS: UNA AVENTURA SOBRE RUEDAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T190500
+DTSTAMP:20260730T200000Z
+UID:202607301700-Centro-Cultural-Munro-CARS:-UNA-AVENTURA-S@lumiton.ar
+DESCRIPTION:En el camino a la carrera más grande de su vida\, un auto de 
+ carreras novato se queda varado en…\n\nVenue: Centro Cultural Munro\n\nM
+ ore info: https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260731T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260731T180500
+DTSTAMP:20260731T190000Z
+UID:202607311600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” y la quinta sorpresa: una de k
+ ung-fu\, sí\, pero una de kung-fu que tiene más…\n\nVenue: Cine York\n
+ \nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-5/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAYA\, GIMME A TITLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260731T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260731T200500
+DTSTAMP:20260731T210000Z
+UID:202607311800-Cine-York-MAYA\,-GIMME-A-TITLE@lumiton.ar
+DESCRIPTION:Un padre y una hija mantienen su vínculo a pesar de vivir en 
+ diferentes países a través de un imaginativo…\n\nVenue: Cine York\n\nM
+ ore info: https://lumiton.ar/evento/maya-gimme-a-title/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/maya-gimme-a-title/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260801T180500
+DTSTAMP:20260801T190000Z
+UID:202608011600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” y la sexta sorpresa: un cerdit
+ o que habla\, sí\, pero un cerdito dirigido por la…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-6/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS TRILLIZAS DE BELLEVILLE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260801T200500
+DTSTAMP:20260801T210000Z
+UID:202608011800-Cine-York-LAS-TRILLIZAS-DE-BEL@lumiton.ar
+DESCRIPTION:Cuando su nieto es secuestrado durante el Tour de Francia\, Ma
+ dame Souza y su querido perro Bruno hacen equipo con…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/las-trillizas-de-belleville/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/las-trillizas-de-belleville/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UP\, UNA AVENTURA DE ALTURA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170500
+DTSTAMP:20260802T180000Z
+UID:202608021500-Centro-Cultural-Munro-UP\,-UNA-AVENTURA-DE-@lumiton.ar
+DESCRIPTION:Carl Fredricksen\, de 78 años\, está a punto de cumplir un s
+ ueño de toda la vida: Atar miles de globos…\n\nVenue: Centro Cultural M
+ unro\n\nMore info: https://lumiton.ar/evento/up-una-aventura-de-altura/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/up-una-aventura-de-altura/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS MUMIN: ¿QUIÉN ANIMARÁ A CHICO?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180500
+DTSTAMP:20260802T190000Z
+UID:202608021600-Cine-York-LOS-MUMIN:-¿QUIÉN-AN@lumiton.ar
+DESCRIPTION:El solitario Toffle aprende a superar sus miedos cuando necesi
+ ta rescatar al Miffle del Groke. Desde los bosques y valles imaginarios
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-mumin-
+ quien-animara-a-chico/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-mumin-quien-animara-a-chico/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHICKEN FOR LINDA!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180500
+DTSTAMP:20260802T190000Z
+UID:202608021600-Cine-York-CHICKEN-FOR-LINDA!@lumiton.ar
+DESCRIPTION:Una mamá cariñosa\, Paulette\, se siente culpable después d
+ e castigar injustamente a su hija Linda y haría cualquier cosa para…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/chicken-for-lind
+ a/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/chicken-for-linda/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUSCANDO A DORY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T190500
+DTSTAMP:20260802T200000Z
+UID:202608021700-Centro-Cultural-Munro-BUSCANDO-A-DORY@lumiton.ar
+DESCRIPTION:Dory\, una pez simpática y olvidadiza\, intenta encontrar a s
+ us padres. Ella y sus amigos aprenden cosas sobre el verdadero…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/buscando-a
+ -dory/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/buscando-a-dory/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS MUMIN: EL PEQUEÑO TROL MUMIN\, MYMLA Y LA PEQUEÑA MY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T200500
+DTSTAMP:20260802T210000Z
+UID:202608021800-Cine-York-LOS-MUMIN:-EL-PEQUEÑ@lumiton.ar
+DESCRIPTION:De camino a casa a Muminmamma\, Moomintroll encuentra a The My
+ mble y acepta ayudarla a ir en busca de Little…\n\nVenue: Cine York\n\nM
+ ore info: https://lumiton.ar/evento/los-mumin-el-pequeno-trol-mumin-mymla-
+ y-la-pequena-my/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-mumin-el-pequeno-trol-mumin-mymla-y-la-p
+ equena-my/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PELÍCULA SORPRESA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T200500
+DTSTAMP:20260802T210000Z
+UID:202608021800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
+DESCRIPTION:“Cine para toda la familia” y la séptima sorpresa: una gr
+ an poder conlleva una gran responsabilidad. Casi casi\, arañando\, llegam
+ os…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pelicula
+ -sorpresa-en-35-mm-7/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-7/
+END:VEVENT
 END:VCALENDAR
