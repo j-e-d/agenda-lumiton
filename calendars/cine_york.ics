@@ -1563,33 +1563,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/romeria/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TRASLADOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260610T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260610T223500
-DTSTAMP:20260610T233000Z
-UID:202606102030-Cine-York-TRASLADOS@lumiton.ar
-DESCRIPTION:Con el testimonio de ex detenidos\, familiares y especialistas
-  y un extenso archivo "Traslados" resuelve el enorme rompecabezas de testi
- gos\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/trasl
- ados/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/traslados/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OJOS EXTRAÑOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260610T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260610T200500
-DTSTAMP:20260610T210000Z
-UID:202606101800-Cine-York-OJOS-EXTRAÑOS@lumiton.ar
-DESCRIPTION:Una joven pareja que busca a su hija desaparecida encuentra gr
- abaciones de video de sus momentos más íntimos realizadas por…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/ojos-extranos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ojos-extranos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA ENTREVISTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
