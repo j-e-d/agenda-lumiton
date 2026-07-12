@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DE GOLPE EN GOLPE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260611T203500
-DTSTAMP:20260611T213000Z
-UID:202606111830-Centro-Cultural-Munro-DE-GOLPE-EN-GOLPE@lumiton.ar
-DESCRIPTION:El miserable director de un estudio de Hollywood contrata a un
-  hombre tonto para espiar a sus empleados\, causando estragos…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/de-golpe-en
- -golpe/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/de-golpe-en-golpe/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ALICIA EN EL PAÍS DE LAS MARAVILLAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260614T183500

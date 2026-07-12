@@ -1746,47 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EMI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260611T200500
-DTSTAMP:20260611T210000Z
-UID:202606111800-Cine-York-EMI@lumiton.ar
-DESCRIPTION:Emi\, de 18 años\, vive con sus padres en los suburbios de Bu
- enos Aires. Hace unos meses empezó a trabajar…\n\nVenue: Cine York\n\nM
- ore info: https://lumiton.ar/evento/emi/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/emi/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DE GOLPE EN GOLPE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260611T203500
-DTSTAMP:20260611T213000Z
-UID:202606111830-Centro-Cultural-Munro-DE-GOLPE-EN-GOLPE@lumiton.ar
-DESCRIPTION:El miserable director de un estudio de Hollywood contrata a un
-  hombre tonto para espiar a sus empleados\, causando estragos…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/de-golpe-en
- -golpe/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/de-golpe-en-golpe/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOTA URONDO\, UN COCINERO IMPERTINENTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260611T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260611T223500
-DTSTAMP:20260611T233000Z
-UID:202606112030-Cine-York-JOTA-URONDO\,-UN-COCI@lumiton.ar
-DESCRIPTION:Carne madurada\, kimchi y ñoquis con chinchulines\, una carta
-  que ignora las tendencias de la alta cocina. Javier Urondo no…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/jota-urondo-un-cociner
- o-impertinente/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/jota-urondo-un-cocinero-impertinente/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA HISTORIA OFICIAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260612T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260612T200500
