@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA HISTORIA OFICIAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260612T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260612T200500
-DTSTAMP:20260612T210000Z
-UID:202606121800-Cine-York-LA-HISTORIA-OFICIAL@lumiton.ar
-DESCRIPTION:Alicia es profesora de historia. En su profesión\, como en su
-  casa\, siempre ha aceptado la versión oficial. Hasta que…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/la-historia-oficial-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-historia-oficial-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUCK YOU! EL ÚLTIMO SHOW
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260612T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260612T223500
-DTSTAMP:20260612T233000Z
-UID:202606122030-Cine-York-FUCK-YOU!-EL-ÚLTIMO-@lumiton.ar
-DESCRIPTION:Sumo\, una de las bandas más emblemáticas del rock argentino
-  durante los preparativos y el desarrollo de un concierto histórico:…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fuck-you-el-ult
- imo-show-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/fuck-you-el-ultimo-show-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GREMLINS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260613T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260613T200500
