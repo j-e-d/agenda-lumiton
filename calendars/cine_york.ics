@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MI OBRA MAESTRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260614T200500
-DTSTAMP:20260614T210000Z
-UID:202606141800-Cine-York-MI-OBRA-MAESTRA@lumiton.ar
-DESCRIPTION:Un astuto comerciante de arte intenta reactivar la carrera de 
- un arisco pintor con un plan arriesgado que pone a…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/mi-obra-maestra/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-obra-maestra/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL AGENTE SECRETO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260614T223500
-DTSTAMP:20260614T233000Z
-UID:202606142030-Cine-York-EL-AGENTE-SECRETO@lumiton.ar
-DESCRIPTION:Nominada a 4 Oscar® incluyendo Mejor Película y ganadora de 
- 2 Globo de Oro® incluyendo Mejor Actor\, El Agente Secreto…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/el-agente-secreto/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-agente-secreto/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÚLTIMOS DÍAS DE LA VÍCTIMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500

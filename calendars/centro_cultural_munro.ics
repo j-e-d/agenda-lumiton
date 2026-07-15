@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALICIA EN EL PAÍS DE LAS MARAVILLAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260614T183500
-DTSTAMP:20260614T193000Z
-UID:202606141630-Centro-Cultural-Munro-ALICIA-EN-EL-PAÍS-DE@lumiton.ar
-DESCRIPTION:Alicia persigue al Conejo Blanco hacia un mundo al revés cada
-  vez más curioso\, donde conocerá al Sombrerero Loco\, la…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/alicia-en-el-
- pais-de-las-maravillas-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alicia-en-el-pais-de-las-maravillas-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESPERANDO LA CARROZA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260614T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260614T203500
-DTSTAMP:20260614T213000Z
-UID:202606141830-Centro-Cultural-Munro-ESPERANDO-LA-CARROZA@lumiton.ar
-DESCRIPTION:La familia Musicardi se reúne en medio de una crisis cuando c
- reen que Mamá Cora\, la anciana madre de la…\n\nVenue: Centro Cultural 
- Munro\n\nMore info: https://lumiton.ar/evento/esperando-la-carroza-11/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/esperando-la-carroza-11/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL TERROR DE LAS CHICAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260618T203500
