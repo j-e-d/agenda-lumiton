@@ -2805,4 +2805,30 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-7/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABERINTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260718T223500
+DTSTAMP:20260718T233000Z
+UID:202607182030-Cine-York-LABERINTO@lumiton.ar
+DESCRIPTION:Sarah se queda encargada de cuidar a su medio hermano Toby. El
+  pequeño no deja de llorar y Sarah en…\n\nVenue: Cine York\n\nMore info
+ : https://lumiton.ar/evento/laberinto-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/laberinto-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LLEGAN LOS MUPPETS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T140000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T160500
+DTSTAMP:20260802T170000Z
+UID:202608021400-Cine-York-LLEGAN-LOS-MUPPETS@lumiton.ar
+DESCRIPTION:Kermit y sus nuevos amigos viajan por Estados Unidos para cons
+ eguir el éxito en Hollywood\, pero un comerciante de ancas…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/llegan-los-muppets/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/llegan-los-muppets/
+END:VEVENT
 END:VCALENDAR
