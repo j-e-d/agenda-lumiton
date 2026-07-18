@@ -2831,4 +2831,18 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/llegan-los-muppets/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA OTRA MEJILLA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T213500
+DTSTAMP:20260730T223000Z
+UID:202607301930-Cine-York-LA-OTRA-MEJILLA@lumiton.ar
+DESCRIPTION:Una mujer se enfrenta a las acusaciones\, fantasmas y versione
+ s que otros construyeron sobre ella\, hasta encontrarse consigo misma. Dir
+ igido…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-ot
+ ra-mejilla/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-otra-mejilla/
+END:VEVENT
 END:VCALENDAR
