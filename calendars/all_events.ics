@@ -1746,60 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LUNA DE MIEL EN RÍO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
-DTSTAMP:20260618T210000Z
-UID:202606181800-Lumiton-LUNA-DE-MIEL-EN-RÍO@lumiton.ar
-DESCRIPTION:En esta última película de la trilogía de Niní Marshall y 
- Enrique Serrano\, encontramos a Catita junto a su esposo…\n\nVenue: Lumi
- ton\n\nMore info: https://lumiton.ar/evento/luna-de-miel-en-rio-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/luna-de-miel-en-rio-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÚLTIMOS DÍAS DE LA VÍCTIMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
-DTSTAMP:20260618T210000Z
-UID:202606181800-Cine-York-ÚLTIMOS-DÍAS-DE-LA-V@lumiton.ar
-DESCRIPTION:A Mendizábal\, un asesino a sueldo\, sus anónimos clientes l
- e ordenan un nuevo asesinato. Pero en la persecución\, precisa y…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/ultimos-dias-de-la-
- victima-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ultimos-dias-de-la-victima-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL TERROR DE LAS CHICAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T203500
-DTSTAMP:20260618T213000Z
-UID:202606181830-Centro-Cultural-Munro-EL-TERROR-DE-LAS-CHI@lumiton.ar
-DESCRIPTION:Después de que su novia lo deja por otra persona\, Herbert se
-  deprime mucho y comienza a buscar trabajo. Cuando…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/el-terror-de-las-chica
- s/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-terror-de-las-chicas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUGARES COMUNES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T223500
-DTSTAMP:20260618T233000Z
-UID:202606182030-Cine-York-LUGARES-COMUNES@lumiton.ar
-DESCRIPTION:Fernando Robles ha cumplido los sesenta\, es profesor de liter
- atura en la universidad y tiene un feliz matrimonio. Pero su…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/lugares-comunes-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lugares-comunes-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UN LUGAR EN EL MUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260619T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260619T200500
@@ -2023,19 +1969,6 @@ DESCRIPTION:En junio\, Lumiclub presenta “La historia no oficial de los
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-historia-no-oficial-de-los-mundiales/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA ENTREVISTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T200500
-DTSTAMP:20260618T210000Z
-UID:202606181800-Cine-York-LA-ENTREVISTA@lumiton.ar
-DESCRIPTION:Un periodista novato entrevista a un laureado cineasta. Ocurre
-  un accidente pero la empleada doméstica no está dispuesta a creerlo…\
- n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-entrevista/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-entrevista/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 

@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL TERROR DE LAS CHICAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260618T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260618T203500
-DTSTAMP:20260618T213000Z
-UID:202606181830-Centro-Cultural-Munro-EL-TERROR-DE-LAS-CHI@lumiton.ar
-DESCRIPTION:Después de que su novia lo deja por otra persona\, Herbert se
-  deprime mucho y comienza a buscar trabajo. Cuando…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/el-terror-de-las-chica
- s/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-terror-de-las-chicas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA BELLA Y LA BESTIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260621T183500
