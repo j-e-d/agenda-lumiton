@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UN LUGAR EN EL MUNDO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260619T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260619T200500
-DTSTAMP:20260619T210000Z
-UID:202606191800-Cine-York-UN-LUGAR-EN-EL-MUNDO@lumiton.ar
-DESCRIPTION:Ernesto hace un viaje a un remoto pueblo de la provincia de Sa
- n Luis para recordar su infancia y la…\n\nVenue: Cine York\n\nMore info:
-  https://lumiton.ar/evento/un-lugar-en-el-mundo-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/un-lugar-en-el-mundo-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIEMPO DE REVANCHA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260619T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260619T223500
-DTSTAMP:20260619T233000Z
-UID:202606192030-Cine-York-TIEMPO-DE-REVANCHA@lumiton.ar
-DESCRIPTION:Pedro Bengoa\, un trabajador de las minas de la empresa Tulsac
- o\, tiene un plan: simular un accidente y hacerse pasar…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/tiempo-de-revancha-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tiempo-de-revancha-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CORAZONES JÓVENES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260621T200500
