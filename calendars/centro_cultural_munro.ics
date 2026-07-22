@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA BELLA Y LA BESTIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260621T183500
-DTSTAMP:20260621T193000Z
-UID:202606211630-Centro-Cultural-Munro-LA-BELLA-Y-LA-BESTIA@lumiton.ar
-DESCRIPTION:La valerosa e independiente Bella vive una aventura única cua
- ndo se propone rescatar a su padre y descubre el castillo…\n\nVenue: Cen
- tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-bella-y-la-b
- estia/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-bella-y-la-bestia/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DARSE CUENTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260621T203500
-DTSTAMP:20260621T213000Z
-UID:202606211830-Centro-Cultural-Munro-DARSE-CUENTA@lumiton.ar
-DESCRIPTION:Carlos Ventura\, un médico de 45 años marcado por el fracaso
-  y la desesperanza\, encuentra en el hospital el reflejo…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/darse-cuenta-4/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/darse-cuenta-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL INGENUO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260625T203500

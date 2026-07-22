@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CORAZONES JÓVENES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260621T200500
-DTSTAMP:20260621T210000Z
-UID:202606211800-Cine-York-CORAZONES-JÓVENES@lumiton.ar
-DESCRIPTION:Para Elias\, la llegada de Alexander no es solo la de un nuevo
-  vecino\, sino el despertar de un sentimiento…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/corazones-jovenes/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/corazones-jovenes/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA GRAN AMBICIÓN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260621T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260621T223500
-DTSTAMP:20260621T233000Z
-UID:202606212030-Cine-York-LA-GRAN-AMBICIÓN@lumiton.ar
-DESCRIPTION:La gran ambición narra la vida del popular líder político E
- nrico Berlinguer\, secretario general del Partido Comunista Italiano\, dur
- ante los…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la
- -gran-ambicion/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-gran-ambicion/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RESCATE EN EL BARRIO CHINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260625T200500
