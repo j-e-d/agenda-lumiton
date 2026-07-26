@@ -1746,45 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RESCATE EN EL BARRIO CHINO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260625T200500
-DTSTAMP:20260625T210000Z
-UID:202606251800-Cine-York-RESCATE-EN-EL-BARRIO@lumiton.ar
-DESCRIPTION:Jack Burton\, un camionero\, se mete en el barrio chino de San
-  Francisco para ayudar a su amigo a rescatar…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/rescate-en-el-barrio-chino/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/rescate-en-el-barrio-chino/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL INGENUO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260625T203500
-DTSTAMP:20260625T213000Z
-UID:202606251830-Centro-Cultural-Munro-EL-INGENUO@lumiton.ar
-DESCRIPTION:Cuando una estrella de la comedia muere\, su equipo decide ent
- renar a un don nadie para que ocupe el lugar…\n\nVenue: Centro Cultural 
- Munro\n\nMore info: https://lumiton.ar/evento/el-ingenuo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-ingenuo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONAN\, EL BÁRBARO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260625T223500
-DTSTAMP:20260625T233000Z
-UID:202606252030-Cine-York-CONAN\,-EL-BÁRBARO@lumiton.ar
-DESCRIPTION:Un niño que pertenece a una tribu primitiva graba en su memor
- ia los rostros de los guerreros que han exterminado…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/conan-el-barbaro/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/conan-el-barbaro/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DIGAN LO QUE QUIERAN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260626T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260626T200500
@@ -1875,20 +1836,6 @@ DESCRIPTION:Marina\, de 18 años\, huérfana a temprana edad\, debe viajar
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA HISTORIA NO OFICIAL DE LOS MUNDIALES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260625T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260625T210500
-DTSTAMP:20260625T220000Z
-UID:202606251900-Lumiton-LA-HISTORIA-NO-OFICI@lumiton.ar
-DESCRIPTION:En junio\, Lumiclub presenta “La historia no oficial de los 
- mundiales”\, una noche construida a partir de himnos (in)olvidables\, pu
- blicidades…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la
- -historia-no-oficial-de-los-mundiales/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-historia-no-oficial-de-los-mundiales/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 
