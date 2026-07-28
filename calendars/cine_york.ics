@@ -1285,19 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QUISIERA SER GRANDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260627T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260627T200500
-DTSTAMP:20260627T210000Z
-UID:202606271800-Cine-York-QUISIERA-SER-GRANDE@lumiton.ar
-DESCRIPTION:Josh Baskin tiene trece años y está cansado de que las chica
- s no le hagan caso. Una noche\, encuentra en…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/quisiera-ser-grande/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/quisiera-ser-grande/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡CAIGAN LAS ROSAS BLANCAS!
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T173000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260628T193500

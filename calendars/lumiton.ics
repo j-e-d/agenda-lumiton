@@ -102,22 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 
- Lumiton’ a cargo de Candela Vey
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260627T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260627T190500
-DTSTAMP:20260627T200000Z
-UID:202606271700-Lumiton-VISITA-GUIADA-|-‘Un-@lumiton.ar
-DESCRIPTION:A cargo de Candela Vey En las historias del cine siempre se no
- s habló de los grandes directores y los…\n\nVenue: Lumiton\n\nMore info
- : https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-de-
- las-mujeres-en-lumiton-a-cargo-de-candela-vey/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-d
- e-las-mujeres-en-lumiton-a-cargo-de-candela-vey/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CARTAS DE AMOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260704T200500
