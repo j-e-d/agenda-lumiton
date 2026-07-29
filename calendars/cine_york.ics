@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡CAIGAN LAS ROSAS BLANCAS!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T173000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260628T193500
-DTSTAMP:20260628T203000Z
-UID:202606281730-Cine-York-¡CAIGAN-LAS-ROSAS-BL@lumiton.ar
-DESCRIPTION:Violeta\, una joven directora de cine que hizo\, alguna vez\, 
- junto a un grupo de amigas una película porno\, lésbica…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/caigan-las-rosas-blancas-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/caigan-las-rosas-blancas-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROMERÍA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260628T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260628T223500
-DTSTAMP:20260628T233000Z
-UID:202606282030-Cine-York-ROMERÍA@lumiton.ar
-DESCRIPTION:Marina\, de 18 años\, huérfana a temprana edad\, debe viajar
-  a la costa atlántica española para conseguir la firma de…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/romeria/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/romeria/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NADA ENTRE LOS DOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260701T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260701T223500
@@ -1857,5 +1831,19 @@ DESCRIPTION:Una mujer se enfrenta a las acusaciones\, fantasmas y versione
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-otra-mejilla/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA OTRA MEJILLA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260730T223500
+DTSTAMP:20260730T233000Z
+UID:202607302030-Cine-York-LA-OTRA-MEJILLA@lumiton.ar
+DESCRIPTION:Una mujer se enfrenta a las versiones que construyó sobre ell
+ a\, hasta encontrarse consigo misma. Dirigido por Valeria Bertuccelli\, el
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-otra-me
+ jilla-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-otra-mejilla-2/
 END:VEVENT
 END:VCALENDAR
