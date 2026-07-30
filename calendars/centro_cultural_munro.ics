@@ -546,4 +546,166 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/buscando-a-dory/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA DAMA DUENDE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260806T203500
+DTSTAMP:20260806T213000Z
+UID:202608061830-Centro-Cultural-Munro-LA-DAMA-DUENDE@lumiton.ar
+DESCRIPTION:Doña Ángelica - una joven viuda - se enamora y quiere casars
+ e con un oficial del ejército llamado Don Manuel\,…\n\nVenue: Centro Cu
+ ltural Munro\n\nMore info: https://lumiton.ar/evento/la-dama-duende/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-dama-duende/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿QUIÉN ENGAÑÓ A ROGER RABBIT?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260809T183500
+DTSTAMP:20260809T193000Z
+UID:202608091630-Centro-Cultural-Munro-¿QUIÉN-ENGAÑÓ-A-ROGE@lumiton.ar
+DESCRIPTION:Un detective que odia los dibujos es la única esperanza de un
+  conejo animado para demostrar su inocencia cuando es…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/quien-engano-a-roge
+ r-rabbit/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/quien-engano-a-roger-rabbit/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 METROS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260809T203500
+DTSTAMP:20260809T213000Z
+UID:202608091830-Centro-Cultural-Munro-100-METROS@lumiton.ar
+DESCRIPTION:El talentoso corredor Togashi domina las carreras de 100 metro
+ s hasta que llega el estudiante transferido Komiya\, lo que lo…\n\nVenue
+ : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/100-metros
+ /
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/100-metros/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CASA DE LOS MILLONES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260813T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260813T203500
+DTSTAMP:20260813T213000Z
+UID:202608131830-Centro-Cultural-Munro-LA-CASA-DE-LOS-MILLO@lumiton.ar
+DESCRIPTION:Una malcriada mujer “nueva rica” hace que la gente que tra
+ baja en su casa sufra con sus estados de ánimo\,…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/la-casa-de-los-millones
+ /
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-casa-de-los-millones/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HISTORIA SIN FIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260815T200500
+DTSTAMP:20260815T210000Z
+UID:202608151800-Centro-Cultural-Munro-LA-HISTORIA-SIN-FIN@lumiton.ar
+DESCRIPTION:Bastian\, un niño solitario\, roba un libro mágico titulado 
+ La historia sin fin. Al leerlo\, se sumerge en el reino…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-historia-sin-f
+ in/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-historia-sin-fin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHAO: LA SIRENA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260816T200500
+DTSTAMP:20260816T210000Z
+UID:202608161800-Centro-Cultural-Munro-CHAO:-LA-SIRENA@lumiton.ar
+DESCRIPTION:En un mundo donde los humanos y los merpeople existen\, la pri
+ ncesa Chao se compromete con el ingeniero humano Stephen.…\n\nVenue: Cen
+ tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/chao-la-sirena/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/chao-la-sirena/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECLIPSE DE SOL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260820T203500
+DTSTAMP:20260820T213000Z
+UID:202608201830-Centro-Cultural-Munro-ECLIPSE-DE-SOL@lumiton.ar
+DESCRIPTION:Un joven granjero se casa en secreto con una actriz\, a quien 
+ deja para regresar al campo y ella intentará…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/eclipse-de-sol/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/eclipse-de-sol/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLORES PERDIDOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260823T183500
+DTSTAMP:20260823T193000Z
+UID:202608231630-Centro-Cultural-Munro-COLORES-PERDIDOS@lumiton.ar
+DESCRIPTION:Julian\, un niño de nueve años\, descubre que el Cerro Siete
+  Colores ha perdido cuatro colores. Con la ayuda de…\n\nVenue: Centro Cu
+ ltural Munro\n\nMore info: https://lumiton.ar/evento/colores-perdidos/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/colores-perdidos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAPRIKA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260823T203500
+DTSTAMP:20260823T213000Z
+UID:202608231830-Centro-Cultural-Munro-PAPRIKA@lumiton.ar
+DESCRIPTION:Cuando una máquina que permite a los terapeutas entrar en los
+  sueños de sus pacientes es robada\, una gran catástrofe…\n\nVenue: Ce
+ ntro Cultural Munro\n\nMore info: https://lumiton.ar/evento/paprika/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/paprika/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CURA LORENZO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260827T203500
+DTSTAMP:20260827T213000Z
+UID:202608271830-Centro-Cultural-Munro-EL-CURA-LORENZO@lumiton.ar
+DESCRIPTION:La película cuenta la vida del cura Lorenzo Massa (1882-1949)
+ \, inspirador del club porteño San Lorenzo de Almagro.  Más que…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-cur
+ a-lorenzo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-cura-lorenzo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL PEQUEÑO NINJA: EL ORÍGEN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260830T183500
+DTSTAMP:20260830T193000Z
+UID:202608301630-Centro-Cultural-Munro-EL-PEQUEÑO-NINJA:-EL@lumiton.ar
+DESCRIPTION:Alex solo quiere una vida normal: amigos\, escuela y cero aven
+ turas peligrosas. Pero su amigo ninja mágico se siente ignorado.…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-pequ
+ eno-ninja-el-origen/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-pequeno-ninja-el-origen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERFECT BLUE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260830T203500
+DTSTAMP:20260830T213000Z
+UID:202608301830-Centro-Cultural-Munro-PERFECT-BLUE@lumiton.ar
+DESCRIPTION:Una ex cantante de pop que ahora es actriz es acosada por un f
+ an obsesionado y un fantasma de su…\n\nVenue: Centro Cultural Munro\n\nM
+ ore info: https://lumiton.ar/evento/perfect-blue/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/perfect-blue/
+END:VEVENT
 END:VCALENDAR
