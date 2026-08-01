@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NADA ENTRE LOS DOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260701T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260701T223500
-DTSTAMP:20260701T233000Z
-UID:202607012030-Cine-York-NADA-ENTRE-LOS-DOS@lumiton.ar
-DESCRIPTION:Guillermo (Gael García Bernal) y Mechi (Natalia Oreiro) se co
- nocen en un viaje laboral. Ambos están casados y arrastran vidas…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/nada-entre-los-dos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/nada-entre-los-dos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:76 89 03
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260702T200500
