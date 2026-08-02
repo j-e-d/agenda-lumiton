@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PARA ATRAPAR AL LADRÓN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260702T203500
-DTSTAMP:20260702T213000Z
-UID:202607021830-Centro-Cultural-Munro-PARA-ATRAPAR-AL-LADR@lumiton.ar
-DESCRIPTION:A pesar de que John Robie "El Gato" (Cary Grant) ha abandonado
-  su oficio de ladrón de joyas\, se convierte…\n\nVenue: Centro Cultural
-  Munro\n\nMore info: https://lumiton.ar/evento/para-atrapar-al-ladron/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/para-atrapar-al-ladron/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA NOVICIA REBELDE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260705T203500

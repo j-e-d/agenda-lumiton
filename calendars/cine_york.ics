@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:76 89 03
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260702T200500
-DTSTAMP:20260702T210000Z
-UID:202607021800-Cine-York-76-89-03@lumiton.ar
-DESCRIPTION:La película cuenta la historia de tres amigos y su sueño en 
- común\, a lo largo de tres momentos históricos…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/76-89-03/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/76-89-03/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:76 89 23
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260702T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260702T223500
-DTSTAMP:20260702T233000Z
-UID:202607022030-Cine-York-76-89-23@lumiton.ar
-DESCRIPTION:Documental que homenajea a 76 89 03\, película controversial 
- del año 2000. Diversos testimonios enriquecen la historia desde un punto
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/76-89-23/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/76-89-23/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAS CORRIENTES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260704T200500
