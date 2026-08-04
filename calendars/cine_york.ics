@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAS CORRIENTES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260704T200500
-DTSTAMP:20260704T210000Z
-UID:202607041800-Cine-York-LAS-CORRIENTES@lumiton.ar
-DESCRIPTION:En la cima de su carrera\, Lina\, una profesional de la moda\,
-  de 34 años\, se deja llevar por un…\n\nVenue: Cine York\n\nMore info: 
- https://lumiton.ar/evento/las-corrientes/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-corrientes/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMORES PERROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260704T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260704T223500
-DTSTAMP:20260704T233000Z
-UID:202607042030-Cine-York-AMORES-PERROS@lumiton.ar
-DESCRIPTION:Celebrando su 25º aniversario vuelve al cine remasterizada en
-  4K la obra maestra de Alejandro G. Iñárritu (Birdman\, El Renacido)…\
- n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/amores-perros-
- 3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/amores-perros-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL ÚLTIMO VIAJE A LA CHINA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260705T200500
