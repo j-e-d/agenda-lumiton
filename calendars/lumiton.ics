@@ -185,16 +185,16 @@ URL:https://lumiton.ar/evento/presentacion-del-libro-mis-dias-con-el-cine-
  de-rodolfo-duran/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIN DE SEMANA DE LAS INFANCIAS | UNA TARDE EN EL MUSEO | TALLER DE
-  JUGUETES ÓPTICOS
+SUMMARY:FIN DE SEMANA DE LA INFANCIA | UNA TARDE EN EL MUSEO | LA MAGIA DE
+  LA LUZ: TALLER DE CIANOTIPIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260815T170500
 DTSTAMP:20260815T180000Z
-UID:202608151500-Lumiton-FIN-DE-SEMANA-DE-LAS@lumiton.ar
-DESCRIPTION:A cargo de Julieta Fradkin El Museo Lumiton invita a niñas y 
- niños a descubrir los secretos del cine a…\n\nVenue: Lumiton\n\nMore in
- fo: https://lumiton.ar/evento/una-tarde-en-el-museo-taller-de-juguetes-opt
- icos/
+UID:202608151500-Lumiton-FIN-DE-SEMANA-DE-LA-@lumiton.ar
+DESCRIPTION:A cargo de Julieta Fradkin En este taller orientado a infancia
+ s vamos a hacer fotos sin cámaras\, usando una técnica…\n\nVenue: Lumi
+ ton\n\nMore info: https://lumiton.ar/evento/una-tarde-en-el-museo-taller-d
+ e-juguetes-opticos/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-taller-de-juguetes-opt

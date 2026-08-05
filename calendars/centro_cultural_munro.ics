@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA NOVICIA REBELDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T203500
-DTSTAMP:20260705T213000Z
-UID:202607051830-Centro-Cultural-Munro-LA-NOVICIA-REBELDE@lumiton.ar
-DESCRIPTION:María\, una alegre novicia enviada como institutriz de siete 
- niños huérfanos de madre. Ella transforma el estricto hogar militar con
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/la-novicia-rebelde-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-novicia-rebelde-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CASTA DE MALDITOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260712T203500

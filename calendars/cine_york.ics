@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL ÚLTIMO VIAJE A LA CHINA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T200500
-DTSTAMP:20260705T210000Z
-UID:202607051800-Cine-York-EL-ÚLTIMO-VIAJE-A-LA@lumiton.ar
-DESCRIPTION:Soledad Silveyra emprende un viaje al pasado. En su memoria re
- suena el jazz de sus invenciones\, las giras en autos…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PADRE MADRE HERMANA HERMANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T223500
-DTSTAMP:20260705T233000Z
-UID:202607052030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
-DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
- León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
- hermano/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/padre-madre-hermana-hermano/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANTES DEL AMANECER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260711T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260711T200500

@@ -1746,47 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL ÚLTIMO VIAJE A LA CHINA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T200500
-DTSTAMP:20260705T210000Z
-UID:202607051800-Cine-York-EL-ÚLTIMO-VIAJE-A-LA@lumiton.ar
-DESCRIPTION:Soledad Silveyra emprende un viaje al pasado. En su memoria re
- suena el jazz de sus invenciones\, las giras en autos…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-ultimo-viaje-a-la-china/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA NOVICIA REBELDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T203500
-DTSTAMP:20260705T213000Z
-UID:202607051830-Centro-Cultural-Munro-LA-NOVICIA-REBELDE@lumiton.ar
-DESCRIPTION:María\, una alegre novicia enviada como institutriz de siete 
- niños huérfanos de madre. Ella transforma el estricto hogar militar con
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/la-novicia-rebelde-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-novicia-rebelde-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PADRE MADRE HERMANA HERMANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260705T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260705T223500
-DTSTAMP:20260705T233000Z
-UID:202607052030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
-DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
- León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
- hermano/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/padre-madre-hermana-hermano/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SAFO\, HISTORIA DE UNA PASIÓN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260708T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260708T200500
@@ -2772,16 +2731,16 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-arbol-de-la-autenticidad/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIN DE SEMANA DE LAS INFANCIAS | UNA TARDE EN EL MUSEO | TALLER DE
-  JUGUETES ÓPTICOS
+SUMMARY:FIN DE SEMANA DE LA INFANCIA | UNA TARDE EN EL MUSEO | LA MAGIA DE
+  LA LUZ: TALLER DE CIANOTIPIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260815T170500
 DTSTAMP:20260815T180000Z
-UID:202608151500-Lumiton-FIN-DE-SEMANA-DE-LAS@lumiton.ar
-DESCRIPTION:A cargo de Julieta Fradkin El Museo Lumiton invita a niñas y 
- niños a descubrir los secretos del cine a…\n\nVenue: Lumiton\n\nMore in
- fo: https://lumiton.ar/evento/una-tarde-en-el-museo-taller-de-juguetes-opt
- icos/
+UID:202608151500-Lumiton-FIN-DE-SEMANA-DE-LA-@lumiton.ar
+DESCRIPTION:A cargo de Julieta Fradkin En este taller orientado a infancia
+ s vamos a hacer fotos sin cámaras\, usando una técnica…\n\nVenue: Lumi
+ ton\n\nMore info: https://lumiton.ar/evento/una-tarde-en-el-museo-taller-d
+ e-juguetes-opticos/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-taller-de-juguetes-opt
