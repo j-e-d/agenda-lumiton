@@ -1285,46 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABRIR PUERTAS Y VENTANAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T180500
-DTSTAMP:20260712T190000Z
-UID:202607121600-Cine-York-ABRIR-PUERTAS-Y-VENT@lumiton.ar
-DESCRIPTION:La película nos cuenta una pérdida dentro de otra dentro de 
- otra. Marina (21)\, Sofía (20) y Violeta (18) son…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/abrir-puertas-y-ventanas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/abrir-puertas-y-ventanas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA IDEA DE UN LAGO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T200500
-DTSTAMP:20260712T210000Z
-UID:202607121800-Cine-York-LA-IDEA-DE-UN-LAGO@lumiton.ar
-DESCRIPTION:Inspirada libremente en el libro Pozo de aire de Guadalupe Gao
- na. Inés\, una fotógrafa\, está decidida a terminar su nuevo…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-idea-de-un-lago/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-idea-de-un-lago/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PADRE MADRE HERMANA HERMANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T223500
-DTSTAMP:20260712T233000Z
-UID:202607122030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
-DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
- León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
- hermano-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEN - HUR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260716T200500

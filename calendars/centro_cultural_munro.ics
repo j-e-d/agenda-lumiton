@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CASTA DE MALDITOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T203500
-DTSTAMP:20260712T213000Z
-UID:202607121830-Centro-Cultural-Munro-CASTA-DE-MALDITOS@lumiton.ar
-DESCRIPTION:Después de salir de prisión\, Johnny Clay es el autor intele
- ctual de un atraco complejo en la pista de carreras\,…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/casta-de-malditos-2
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/casta-de-malditos-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA PATRULLA INFERNAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260716T203500
@@ -396,20 +382,6 @@ DESCRIPTION:Un grupo de soldados son acusados de cobardía por su general
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-patrulla-infernal-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIDER-MAN: UN NUEVO UNIVERSO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T183500
-DTSTAMP:20260712T193000Z
-UID:202607121630-Centro-Cultural-Munro-SPIDER-MAN:-UN-NUEVO@lumiton.ar
-DESCRIPTION:El adolescente Miles Morales es el Spider-Man de su propia rea
- lidad y se encontrará con otros como él de otras…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/spider-man-un-nuevo-un
- iverso/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/spider-man-un-nuevo-universo/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI POBRE ANGELITO

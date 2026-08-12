@@ -1746,60 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABRIR PUERTAS Y VENTANAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T180500
-DTSTAMP:20260712T190000Z
-UID:202607121600-Cine-York-ABRIR-PUERTAS-Y-VENT@lumiton.ar
-DESCRIPTION:La película nos cuenta una pérdida dentro de otra dentro de 
- otra. Marina (21)\, Sofía (20) y Violeta (18) son…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/abrir-puertas-y-ventanas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/abrir-puertas-y-ventanas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA IDEA DE UN LAGO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T200500
-DTSTAMP:20260712T210000Z
-UID:202607121800-Cine-York-LA-IDEA-DE-UN-LAGO@lumiton.ar
-DESCRIPTION:Inspirada libremente en el libro Pozo de aire de Guadalupe Gao
- na. Inés\, una fotógrafa\, está decidida a terminar su nuevo…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/la-idea-de-un-lago/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-idea-de-un-lago/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CASTA DE MALDITOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T203500
-DTSTAMP:20260712T213000Z
-UID:202607121830-Centro-Cultural-Munro-CASTA-DE-MALDITOS@lumiton.ar
-DESCRIPTION:Después de salir de prisión\, Johnny Clay es el autor intele
- ctual de un atraco complejo en la pista de carreras\,…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/casta-de-malditos-2
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/casta-de-malditos-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PADRE MADRE HERMANA HERMANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T223500
-DTSTAMP:20260712T233000Z
-UID:202607122030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
-DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
- León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
- hermano-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEN - HUR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260716T200500
@@ -1853,20 +1799,6 @@ DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIDER-MAN: UN NUEVO UNIVERSO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260712T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260712T183500
-DTSTAMP:20260712T193000Z
-UID:202607121630-Centro-Cultural-Munro-SPIDER-MAN:-UN-NUEVO@lumiton.ar
-DESCRIPTION:El adolescente Miles Morales es el Spider-Man de su propia rea
- lidad y se encontrará con otros como él de otras…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/spider-man-un-nuevo-un
- iverso/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/spider-man-un-nuevo-universo/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL CRISTAL ENCANTADO
