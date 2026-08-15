@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEN - HUR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260716T200500
-DTSTAMP:20260716T210000Z
-UID:202607161800-Cine-York-BEN---HUR@lumiton.ar
-DESCRIPTION:Clásica historia de traición\, venganza y redención ambient
- ada en la antigua Judea durante el siglo I\, en la época de…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/ben-hur/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ben-hur/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA PATRULLA INFERNAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260716T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260716T203500
-DTSTAMP:20260716T213000Z
-UID:202607161830-Centro-Cultural-Munro-LA-PATRULLA-INFERNAL@lumiton.ar
-DESCRIPTION:Un grupo de soldados son acusados de cobardía por su general 
- cuando rechazan atacar una posición enemiga\; su oficial al…\n\nVenue: 
- Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-patrulla-
- infernal-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-patrulla-infernal-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PENSAMIENTO LATERAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260717T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260717T200500
