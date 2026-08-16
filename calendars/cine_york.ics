@@ -1285,34 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PENSAMIENTO LATERAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260717T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260717T200500
-DTSTAMP:20260717T210000Z
-UID:202607171800-Cine-York-PENSAMIENTO-LATERAL@lumiton.ar
-DESCRIPTION:La película sigue a Julia\, una psicóloga secuestrada por cr
- iminales. Para sobrevivir\, invierte los roles y comienza a tratar a…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pensamiento-late
- ral/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pensamiento-lateral/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PADRE MADRE HERMANA HERMANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260717T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260717T223500
-DTSTAMP:20260717T233000Z
-UID:202607172030-Cine-York-PADRE-MADRE-HERMANA-@lumiton.ar
-DESCRIPTION:La nueva película del legendario Jim Jarmusch\, ganadora del 
- León de Oro en Venecia\, es una comedia melancólica que cuenta…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/padre-madre-hermana-
- hermano-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/padre-madre-hermana-hermano-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL CRISTAL ENCANTADO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260718T180500
