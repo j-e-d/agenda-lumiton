@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL CRISTAL ENCANTADO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260718T180500
-DTSTAMP:20260718T190000Z
-UID:202607181600-Cine-York-EL-CRISTAL-ENCANTADO@lumiton.ar
-DESCRIPTION:La historia sigue a Jen\, un joven huérfano de la raza Gelfli
- ng\, en una épica misión para encontrar la esquirla…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/el-cristal-encantado/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-cristal-encantado/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS MUPPETS CONQUISTAN MANHATTAN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260718T200500
-DTSTAMP:20260718T210000Z
-UID:202607181800-Cine-York-LOS-MUPPETS-CONQUIST@lumiton.ar
-DESCRIPTION:Kermit y sus amigos van a Nueva York para llevar su musical a 
- Broadway\, pero descubren que es una tarea…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/los-muppets-conquistan-manhattan/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-muppets-conquistan-manhattan/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LLEGAN LOS MUPPETS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260719T180500
@@ -1565,19 +1539,6 @@ DESCRIPTION:“Cine para toda la familia” y la séptima sorpresa: una gr
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-7/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABERINTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260718T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260718T223500
-DTSTAMP:20260718T233000Z
-UID:202607182030-Cine-York-LABERINTO@lumiton.ar
-DESCRIPTION:Sarah se queda encargada de cuidar a su medio hermano Toby. El
-  pequeño no deja de llorar y Sarah en…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/laberinto-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/laberinto-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LLEGAN LOS MUPPETS
