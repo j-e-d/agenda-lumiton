@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MI POBRE ANGELITO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T170500
-DTSTAMP:20260719T180000Z
-UID:202607191500-Centro-Cultural-Munro-MI-POBRE-ANGELITO@lumiton.ar
-DESCRIPTION:Un travieso niño de ocho años debe proteger su casa de unos 
- ladrones cuando es accidentalmente olvidado en casa por…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-pobre-angelito/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T190500
-DTSTAMP:20260719T200000Z
-UID:202607191700-Centro-Cultural-Munro-MI-POBRE-ANGELITO-2:@lumiton.ar
-DESCRIPTION:Kevin vuelve a ser separado de su familia cuando accidentalmen
- te se embarca en un vuelo con destino a la ciudad…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-per
- dido-en-nueva-york/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS INCREÍBLES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260723T190500

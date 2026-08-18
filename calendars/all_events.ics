@@ -1746,60 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MI POBRE ANGELITO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T170500
-DTSTAMP:20260719T180000Z
-UID:202607191500-Centro-Cultural-Munro-MI-POBRE-ANGELITO@lumiton.ar
-DESCRIPTION:Un travieso niño de ocho años debe proteger su casa de unos 
- ladrones cuando es accidentalmente olvidado en casa por…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-pobre-angelito/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LLEGAN LOS MUPPETS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T180500
-DTSTAMP:20260719T190000Z
-UID:202607191600-Cine-York-LLEGAN-LOS-MUPPETS@lumiton.ar
-DESCRIPTION:Kermit y sus nuevos amigos viajan por Estados Unidos para cons
- eguir el éxito en Hollywood\, pero un comerciante de ancas…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/llegan-los-muppets/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/llegan-los-muppets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T190500
-DTSTAMP:20260719T200000Z
-UID:202607191700-Centro-Cultural-Munro-MI-POBRE-ANGELITO-2:@lumiton.ar
-DESCRIPTION:Kevin vuelve a ser separado de su familia cuando accidentalmen
- te se embarca en un vuelo con destino a la ciudad…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-per
- dido-en-nueva-york/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABERINTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260719T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260719T200500
-DTSTAMP:20260719T210000Z
-UID:202607191800-Cine-York-LABERINTO@lumiton.ar
-DESCRIPTION:Sarah se queda encargada de cuidar a su medio hermano Toby. El
-  pequeño no deja de llorar y Sarah en…\n\nVenue: Cine York\n\nMore info
- : https://lumiton.ar/evento/laberinto-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/laberinto-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOONEY TUNES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260722T170500
