@@ -1746,20 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOONEY TUNES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260722T170500
-DTSTAMP:20260722T180000Z
-UID:202607221500-Lumiton-LOONEY-TUNES@lumiton.ar
-DESCRIPTION:Bugs Bunny\, el Pato Lucas\, Piolín\, Silvestre\, Porky\, el 
- Coyote y el Correcaminos viven aventuras disparatadas llenas de humor\, pl
- anes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/looney-t
- unes/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/looney-tunes/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PELÍCULA SORPRESA EN 35 MM
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260723T180500
