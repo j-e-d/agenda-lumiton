@@ -1286,34 +1286,6 @@ URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T180500
-DTSTAMP:20260723T190000Z
-UID:202607231600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” hoy presenta la primera sorpre
- sa de la temporada: un clásico de la animación argentina protagonizado
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pelicula-s
- orpresa-en-35-mm/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ERNEST AND CÉLESTINE: A JOURNEY IN CHARABIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T200500
-DTSTAMP:20260723T210000Z
-UID:202607231800-Cine-York-ERNEST-AND-CÉLESTINE@lumiton.ar
-DESCRIPTION:Ernest y Célestine regresan al país de Ernest para reparar s
- u violín roto y descubren que la música está prohibida…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/ernest-and-celestine-a-jour
- ney-in-charabia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ernest-and-celestine-a-journey-in-charabia/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260724T180500
 DTSTAMP:20260724T190000Z

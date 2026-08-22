@@ -1746,48 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T180500
-DTSTAMP:20260723T190000Z
-UID:202607231600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” hoy presenta la primera sorpre
- sa de la temporada: un clásico de la animación argentina protagonizado
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pelicula-s
- orpresa-en-35-mm/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS INCREÍBLES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T190500
-DTSTAMP:20260723T200000Z
-UID:202607231700-Centro-Cultural-Munro-LOS-INCREÍBLES@lumiton.ar
-DESCRIPTION:Una familia de superhéroes encubiertos tratando de vivir una 
- tranquila vida suburbana se ven obligados a actuar para salvar al…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-inc
- reibles/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-increibles/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ERNEST AND CÉLESTINE: A JOURNEY IN CHARABIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T200500
-DTSTAMP:20260723T210000Z
-UID:202607231800-Cine-York-ERNEST-AND-CÉLESTINE@lumiton.ar
-DESCRIPTION:Ernest y Célestine regresan al país de Ernest para reparar s
- u violín roto y descubren que la música está prohibida…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/ernest-and-celestine-a-jour
- ney-in-charabia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ernest-and-celestine-a-journey-in-charabia/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA PANTERA ROSA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260724T170500
