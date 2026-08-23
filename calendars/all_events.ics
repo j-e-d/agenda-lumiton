@@ -1746,45 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA PANTERA ROSA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260724T170500
-DTSTAMP:20260724T180000Z
-UID:202607241500-Lumiton-LA-PANTERA-ROSA@lumiton.ar
-DESCRIPTION:La Pantera Rosa protagoniza historias divertidas que casi no n
- ecesitan palabras\, donde su estilo curioso y elegante la lleva a…\n\nVe
- nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-pantera-rosa/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-pantera-rosa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260724T180500
-DTSTAMP:20260724T190000Z
-UID:202607241600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” llega con la segunda sorpresa 
- de las vacaciones de invierno y es una “toy story”…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AZUR & ASMAR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260724T200500
-DTSTAMP:20260724T210000Z
-UID:202607241800-Cine-York-AZUR-&-ASMAR@lumiton.ar
-DESCRIPTION:Asmar\, el niño de tez oscura y ojos negros\, comparte a su m
- adre y generosa nodriza con Azur\, la huérfana…\n\nVenue: Cine York\n\n
- More info: https://lumiton.ar/evento/azur-asmar/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/azur-asmar/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MARY ANNING
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260725T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260725T180500

@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA PANTERA ROSA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260724T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260724T170500
-DTSTAMP:20260724T180000Z
-UID:202607241500-Lumiton-LA-PANTERA-ROSA@lumiton.ar
-DESCRIPTION:La Pantera Rosa protagoniza historias divertidas que casi no n
- ecesitan palabras\, donde su estilo curioso y elegante la lleva a…\n\nVe
- nue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-pantera-rosa/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-pantera-rosa/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TOM Y JERRY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260730T170500
