@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MARY ANNING
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260725T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260725T180500
-DTSTAMP:20260725T190000Z
-UID:202607251600-Cine-York-MARY-ANNING@lumiton.ar
-DESCRIPTION:En 1811 una cazadora de fósiles de 12 años sigue el críptic
- o dibujo de su padre desaparecido. Su búsqueda lleva…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/mary-anning/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mary-anning/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260725T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260725T200500
-DTSTAMP:20260725T210000Z
-UID:202607251800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la tercera sorpresa: el perr
- o y el fanático del queso más famosos de Reino…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PEQUEÑOS CUENTOS SUIZOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180500
