@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PEQUEÑOS CUENTOS SUIZOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180500
-DTSTAMP:20260726T190000Z
-UID:202607261600-Cine-York-PEQUEÑOS-CUENTOS-SUI@lumiton.ar
-DESCRIPTION:La animación suiza atraviesa uno de sus momentos más creativ
- os y sorprendentes. Pequeños cuentos suizos reúne cinco cortometrajes qu
- e funcionan…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
- /pequenos-cuentos-suizos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pequenos-cuentos-suizos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T200500
-DTSTAMP:20260726T210000Z
-UID:202607261800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la cuarta sorpresa: es hora 
- de descoser los botones de los ojos para ver…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA QUIMERA DEL ORO CON MÚSICA EN VIVO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260730T180500

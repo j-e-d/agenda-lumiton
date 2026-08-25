@@ -370,32 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COCO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T170500
-DTSTAMP:20260726T180000Z
-UID:202607261500-Centro-Cultural-Munro-COCO@lumiton.ar
-DESCRIPTION:El aspirante a músico Miguel entra a la Tierra de los Muertos
-  para encontrar a su tatarabuelo\, un legendario cantante. Pixar…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/coco/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/coco/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RATATOUILLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T190500
-DTSTAMP:20260726T200000Z
-UID:202607261700-Centro-Cultural-Munro-RATATOUILLE@lumiton.ar
-DESCRIPTION:Una rata que puede cocinar hace una alianza inusual con un jov
- en trabajador de cocina en un famoso restaurante de…\n\nVenue: Centro Cu
- ltural Munro\n\nMore info: https://lumiton.ar/evento/ratatouille/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ratatouille/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CARS: UNA AVENTURA SOBRE RUEDAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260730T190500

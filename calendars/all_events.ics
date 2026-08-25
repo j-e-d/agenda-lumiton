@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COCO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T170500
-DTSTAMP:20260726T180000Z
-UID:202607261500-Centro-Cultural-Munro-COCO@lumiton.ar
-DESCRIPTION:El aspirante a músico Miguel entra a la Tierra de los Muertos
-  para encontrar a su tatarabuelo\, un legendario cantante. Pixar…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/coco/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/coco/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PEQUEÑOS CUENTOS SUIZOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180500
-DTSTAMP:20260726T190000Z
-UID:202607261600-Cine-York-PEQUEÑOS-CUENTOS-SUI@lumiton.ar
-DESCRIPTION:La animación suiza atraviesa uno de sus momentos más creativ
- os y sorprendentes. Pequeños cuentos suizos reúne cinco cortometrajes qu
- e funcionan…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
- /pequenos-cuentos-suizos/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pequenos-cuentos-suizos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RATATOUILLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T190500
-DTSTAMP:20260726T200000Z
-UID:202607261700-Centro-Cultural-Munro-RATATOUILLE@lumiton.ar
-DESCRIPTION:Una rata que puede cocinar hace una alianza inusual con un jov
- en trabajador de cocina en un famoso restaurante de…\n\nVenue: Centro Cu
- ltural Munro\n\nMore info: https://lumiton.ar/evento/ratatouille/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ratatouille/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T200500
-DTSTAMP:20260726T210000Z
-UID:202607261800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la cuarta sorpresa: es hora 
- de descoser los botones de los ojos para ver…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TOM Y JERRY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260730T170500
