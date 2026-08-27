@@ -2024,4 +2024,129 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-desprecio-3/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA I
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500
+DTSTAMP:20260910T210000Z
+UID:202609101800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Primera jornada dedicada exclusivamente a los cortometrajes se
+ leccionados en la Convocatoria Miradas Argentina 2026. La continuidad de l
+ os patios (Dir.…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
+ ento/convocatoria-de-cortos-programa-i/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-i/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA II
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260911T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260911T200500
+DTSTAMP:20260911T210000Z
+UID:202609111800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Segunda jornada dedicada exclusivamente a los cortometrajes se
+ leccionados en la Convocatoria Miradas Argentina 2026. El Último Cabo Sue
+ lto (Dir. Tom…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
+ to/convocatoria-de-cortos-programa-ii/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-ii/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA III
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260912T200500
+DTSTAMP:20260912T210000Z
+UID:202609121800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Tercera jornada dedicada exclusivamente a los cortometrajes se
+ leccionados en la Convocatoria Miradas Argentina 2026. Duende (Dir. Ornell
+ a Berardi y Luiza…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
+ evento/convocatoria-de-cortos-programa-iii/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-iii/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA IV
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T200500
+DTSTAMP:20260913T210000Z
+UID:202609131800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Cuarta jornada dedicada exclusivamente a los cortometrajes sel
+ eccionados en la Convocatoria Miradas Argentina 2026. El frío camina con 
+ Celia (Dir.…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /convocatoria-de-cortos-programa-iv/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-iv/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIJO MAYOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260916T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260916T223500
+DTSTAMP:20260916T233000Z
+UID:202609162030-Cine-York-HIJO-MAYOR@lumiton.ar
+DESCRIPTION:Sinopsis: Lila\, una adolescente coreana-argentina aún no ha 
+ encontrado su lugar en el mundo. Su padre llega a Latinoamérica 18…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/hijo-mayor/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hijo-mayor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOY TU MENSAJE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T200500
+DTSTAMP:20260917T210000Z
+UID:202609171800-Cine-York-SOY-TU-MENSAJE@lumiton.ar
+DESCRIPTION:Sinopsis: Ana y Lucio inventan una religión y fundan un peque
+ ño culto en una comunidad cerrada y adinerada donde cultivan…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/soy-tu-mensaje/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/soy-tu-mensaje/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NOCHE ESTÁ MARCHÁNDOSE YA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260918T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260918T200500
+DTSTAMP:20260918T210000Z
+UID:202609181800-Cine-York-LA-NOCHE-ESTÁ-MARCHÁ@lumiton.ar
+DESCRIPTION:Sinopsis: Tras perder su trabajo\, Pelu acepta quedarse como s
+ ereno nocturno en un cineclub y termina viviendo en secreto dentro…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/la-noche-esta-marc
+ handose-ya/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-noche-esta-marchandose-ya/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PARA HACER UNA PELÍCULA SOLO HACE FALTA UN ARMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260919T200500
+DTSTAMP:20260919T210000Z
+UID:202609191800-Cine-York-PARA-HACER-UNA-PELÍC@lumiton.ar
+DESCRIPTION:Sinopsis: A mediados de los 70\, estudiantes de cine de la Uni
+ versidad de Córdoba son perseguidos y sus películas destruidas…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/para-hacer-una-pelcu
+ la-solo-hace-falta-un-arma/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/para-hacer-una-pelcula-solo-hace-falta-un-ar
+ ma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANELONES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260923T200500
+DTSTAMP:20260923T210000Z
+UID:202609231800-Cine-York-CANELONES@lumiton.ar
+DESCRIPTION:Sinopsis: Basada en una historia de Hernán Casciari. "Canelon
+ es"\, comedia negra inspirada en hechos reales\, sigue el secuestro de Chi
+ chita\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/can
+ elones/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/canelones/
+END:VEVENT
 END:VCALENDAR
