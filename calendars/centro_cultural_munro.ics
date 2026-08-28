@@ -571,4 +571,167 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/perfect-blue/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MÁS CORAZÓN QUE ODIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260903T203500
+DTSTAMP:20260903T213000Z
+UID:202609031830-Centro-Cultural-Munro-MÁS-CORAZÓN-QUE-ODIO@lumiton.ar
+DESCRIPTION:Sinopsis: El veterano de guerra\, Ethan Edwards\, se une a un 
+ grupo que pretende dar caza a los indios comanches…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/mas-corazon-que-odio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mas-corazon-que-odio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUTCH CASSIDY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T203500
+DTSTAMP:20260910T213000Z
+UID:202609101830-Centro-Cultural-Munro-BUTCH-CASSIDY@lumiton.ar
+DESCRIPTION:Sinopsis: Principios del siglo veinte\, en Wyoming. Butch Cass
+ idy y The Sundance Kid son los líderes de una banda de…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/butch-cassidy/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/butch-cassidy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN: LA MÁSCARA DEL FANTASMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T183500
+DTSTAMP:20260913T193000Z
+UID:202609131630-Centro-Cultural-Munro-BATMAN:-LA-MÁSCARA-D@lumiton.ar
+DESCRIPTION:Sinopsis: Batman está implicado erróneamente en una serie de
+  asesinatos de jefes de la mafia cometidos por un nuevo asesino…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/batman-la
+ -mascara-del-fantasma/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-la-mascara-del-fantasma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELVIS: THAT'S THE WAY IT IS!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T203500
+DTSTAMP:20260913T213000Z
+UID:202609131830-Centro-Cultural-Munro-ELVIS:-THAT'S-THE-WA@lumiton.ar
+DESCRIPTION:Sinopsis: Después de años de hacer películas\, el Rey hizo 
+ un regreso triunfal a los escenarios en 1970. El documental…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/elvis-thats-t
+ he-way-it-is/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/elvis-thats-the-way-it-is/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYATT EARP
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
+DTSTAMP:20260917T213000Z
+UID:202609171830-Centro-Cultural-Munro-WYATT-EARP@lumiton.ar
+DESCRIPTION:Sinopsis: Una película sobre Wyatt Earp y su familia. El film
+ e nos muestra los buenos y malos momentos de una…\n\nVenue: Centro Cultu
+ ral Munro\n\nMore info: https://lumiton.ar/evento/wyatt-earp/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/wyatt-earp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PANDILLA SALVAJE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
+DTSTAMP:20260917T213000Z
+UID:202609171830-Centro-Cultural-Munro-LA-PANDILLA-SALVAJE@lumiton.ar
+DESCRIPTION:Sinopsis: Un grupo de viejos criminales buscan su último gran
+  crimen mientras el tradicional Viejo Oeste desaparece ante sus ojos. …
+ \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/l
+ a-pandilla-salvaje/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-pandilla-salvaje/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN: LA PELÍCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T183500
+DTSTAMP:20260920T193000Z
+UID:202609201630-Centro-Cultural-Munro-BATMAN:-LA-PELÍCULA@lumiton.ar
+DESCRIPTION:Sinopsis: Basada en la serie de televisión de los años 60\, 
+ caracterizada por su tono irónico y desenfadado\, Batman (Adam…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/batman-la
+ -pelicula/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-la-pelicula/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCAMBOLE EN EL CAMINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T203500
+DTSTAMP:20260920T213000Z
+UID:202609201830-Centro-Cultural-Munro-ROCAMBOLE-EN-EL-CAMI@lumiton.ar
+DESCRIPTION:Sinopsis: El Maestro Rocambole revisita el ideario de una gene
+ ración contracultural. Comparte la intimidad de su taller\, junto al peri
+ odista…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar
+ /evento/rocambole-en-el-camino/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rocambole-en-el-camino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN & ROBIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T183500
+DTSTAMP:20260927T193000Z
+UID:202609271630-Centro-Cultural-Munro-BATMAN-&-ROBIN@lumiton.ar
+DESCRIPTION:Sinopsis: Batman y Robin trabajan codo a codo para detener a l
+ os villanos de Gotham City\, pero hay tensión entre…\n\nVenue: Centro C
+ ultural Munro\n\nMore info: https://lumiton.ar/evento/batman-robin/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-robin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE DOORS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T203500
+DTSTAMP:20260927T213000Z
+UID:202609271830-Centro-Cultural-Munro-THE-DOORS@lumiton.ar
+DESCRIPTION:Sinopsis: La historia del famoso e influyente grupo de rock de
+  los años 60\, The Doors\, y su cantante y…\n\nVenue: Centro Cultural M
+ unro\n\nMore info: https://lumiton.ar/evento/the-doors/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-doors/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEGO BATMAN: LA PELÍCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T183500
+DTSTAMP:20261004T193000Z
+UID:202610041630-Centro-Cultural-Munro-LEGO-BATMAN:-LA-PELÍ@lumiton.ar
+DESCRIPTION:Sinopsis: Bruce Wayne\, debe lidiar con los sospechosos habitu
+ ales mientras planean gobernar Gotham City\, mientras descubre que ha adop
+ tado accidentalmente…\n\nVenue: Centro Cultural Munro\n\nMore info: http
+ s://lumiton.ar/evento/lego-batman-la-pelicula/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lego-batman-la-pelicula/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOONAGE DAYDREAM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T203500
+DTSTAMP:20261004T213000Z
+UID:202610041830-Centro-Cultural-Munro-MOONAGE-DAYDREAM@lumiton.ar
+DESCRIPTION:Sinopsis: Una odisea cinematográfica que explora el viaje cre
+ ativo y musical de David Bowie que rompe los moldes del documental…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/moonag
+ e-daydream/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/moonage-daydream/
+END:VEVENT
 END:VCALENDAR

@@ -203,4 +203,45 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-d
  e-las-mujeres-en-lumiton/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO SALGAS ESTA NOCHE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
+DTSTAMP:20260905T210000Z
+UID:202609051800-Lumiton-NO-SALGAS-ESTA-NOCHE@lumiton.ar
+DESCRIPTION:Una adolescente de 16 años se instala en la casa de su tía d
+ octora. A su vez\, un joven mujeriego…\n\nVenue: Lumiton\n\nMore info: h
+ ttps://lumiton.ar/evento/no-salgas-esta-noche/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-salgas-esta-noche/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿POR QUÉ MINTIÓ LA CIGÜEÑA?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500
+DTSTAMP:20260910T210000Z
+UID:202609101800-Lumiton-¿POR-QUÉ-MINTIÓ-LA-C@lumiton.ar
+DESCRIPTION:Para evitar el abandono de su esposo una mujer alquila a tres 
+ niños con la intención de hacerle creer que…\n\nVenue: Lumiton\n\nMore
+  info: https://lumiton.ar/evento/por-que-mintio-la-ciguena/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/por-que-mintio-la-ciguena/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICHAEL JACKSON Y LA REVOLUCIÓN DEL VIDEOCLIP
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T210500
+DTSTAMP:20260917T220000Z
+UID:202609171900-Lumiton-MICHAEL-JACKSON-Y-LA@lumiton.ar
+DESCRIPTION:En este nuevo encuentro de Lumiclub los invitamos a explorar c
+ ómo Michael Jackson fue una figura decisiva en la transformación…\n\nV
+ enue: Lumiton\n\nMore info: https://lumiton.ar/evento/michael-jackson-y-la
+ -revolucion-del-videoclip/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/michael-jackson-y-la-revolucion-del-videocli
+ p/
+END:VEVENT
 END:VCALENDAR

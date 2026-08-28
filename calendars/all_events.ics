@@ -2914,4 +2914,561 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEETLEJUICE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260903T200500
+DTSTAMP:20260903T210000Z
+UID:202609031800-Cine-York-BEETLEJUICE@lumiton.ar
+DESCRIPTION:Sinopsis: Los espíritus de una pareja fallecida son acosados 
+ por una familia insoportable que se ha mudado a su hogar…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/beetlejuice/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/beetlejuice/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MÁS CORAZÓN QUE ODIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260903T203500
+DTSTAMP:20260903T213000Z
+UID:202609031830-Centro-Cultural-Munro-MÁS-CORAZÓN-QUE-ODIO@lumiton.ar
+DESCRIPTION:Sinopsis: El veterano de guerra\, Ethan Edwards\, se une a un 
+ grupo que pretende dar caza a los indios comanches…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/mas-corazon-que-odio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mas-corazon-que-odio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL JOVEN MANOS DE TIJERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260903T223500
+DTSTAMP:20260903T233000Z
+UID:202609032030-Cine-York-EL-JOVEN-MANOS-DE-TI@lumiton.ar
+DESCRIPTION:Sinopsis: Creado por un inventor que murió antes de completar
+ lo\, Edward vive aislado con tijeras en lugar de manos. Su…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/el-joven-manos-de-tijera-2
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-joven-manos-de-tijera-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL GRAN PEZ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260904T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260904T223500
+DTSTAMP:20260904T233000Z
+UID:202609042030-Cine-York-EL-GRAN-PEZ@lumiton.ar
+DESCRIPTION:Sinopsis: Tras regresar a casa para estar al lado de su padre 
+ moribundo\, William Bloom se ve forzado a escuchar…\n\nVenue: Cine York\
+ n\nMore info: https://lumiton.ar/evento/el-gran-pez-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-gran-pez-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO SALGAS ESTA NOCHE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
+DTSTAMP:20260905T210000Z
+UID:202609051800-Lumiton-NO-SALGAS-ESTA-NOCHE@lumiton.ar
+DESCRIPTION:Una adolescente de 16 años se instala en la casa de su tía d
+ octora. A su vez\, un joven mujeriego…\n\nVenue: Lumiton\n\nMore info: h
+ ttps://lumiton.ar/evento/no-salgas-esta-noche/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-salgas-esta-noche/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
+DTSTAMP:20260905T210000Z
+UID:202609051800-Cine-York-BATMAN@lumiton.ar
+DESCRIPTION:Sinopsis: El Caballero Oscuro de la ciudad de Gotham da comien
+ zo a su guerra contra el crimen. Su principal enemigo…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/batman-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN VUELVE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260905T223500
+DTSTAMP:20260905T233000Z
+UID:202609052030-Cine-York-BATMAN-VUELVE@lumiton.ar
+DESCRIPTION:Sinopsis: Cuando un empresario corrupto y el grotesco complot 
+ de los pingüinos trata de tomar el control de Ciudad Gótica\,…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/batman-vuelve-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-vuelve-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANKENWEENIE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260906T180500
+DTSTAMP:20260906T190000Z
+UID:202609061600-Cine-York-FRANKENWEENIE@lumiton.ar
+DESCRIPTION:Sinopsis: Cuando el perro de un niño muere repentinamente\, i
+ ntenta revivirlo a través de un poderoso experimento científico. Reseña
+ : La…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/franke
+ nweenie-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/frankenweenie-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MADRES JÓVENES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260906T200500
+DTSTAMP:20260906T210000Z
+UID:202609061800-Cine-York-MADRES-JÓVENES@lumiton.ar
+DESCRIPTION:Sinopsis: Cinco madres jóvenes que viven en un refugio luchan
+  por un mejor futuro para ellas y sus hijos a…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/madres-jovenes/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/madres-jovenes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE SOUFFLEUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260906T223500
+DTSTAMP:20260906T233000Z
+UID:202609062030-Cine-York-THE-SOUFFLEUR@lumiton.ar
+DESCRIPTION:Sinopsis: Un gerente hotelero en Viena lucha contra un agente 
+ inmobiliario que busca demoler su propiedad\, afectando hasta la receta…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/the-souffleur
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-souffleur/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿POR QUÉ MINTIÓ LA CIGÜEÑA?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500
+DTSTAMP:20260910T210000Z
+UID:202609101800-Lumiton-¿POR-QUÉ-MINTIÓ-LA-C@lumiton.ar
+DESCRIPTION:Para evitar el abandono de su esposo una mujer alquila a tres 
+ niños con la intención de hacerle creer que…\n\nVenue: Lumiton\n\nMore
+  info: https://lumiton.ar/evento/por-que-mintio-la-ciguena/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/por-que-mintio-la-ciguena/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUTCH CASSIDY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T203500
+DTSTAMP:20260910T213000Z
+UID:202609101830-Centro-Cultural-Munro-BUTCH-CASSIDY@lumiton.ar
+DESCRIPTION:Sinopsis: Principios del siglo veinte\, en Wyoming. Butch Cass
+ idy y The Sundance Kid son los líderes de una banda de…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/butch-cassidy/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/butch-cassidy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NIÑA QUE SALTA EN EL TIEMPO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260910T223500
+DTSTAMP:20260910T233000Z
+UID:202609102030-Cine-York-LA-NIÑA-QUE-SALTA-EN@lumiton.ar
+DESCRIPTION:Sinopsis: La época escolar es una de las más entrañables de
+  la adolescencia. Para la joven Makoto y sus amigos…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/la-nina-que-salta-en-el-tiempo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-nina-que-salta-en-el-tiempo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCUELA ENCANTADA 4
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260911T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260911T223500
+DTSTAMP:20260911T233000Z
+UID:202609112030-Cine-York-ESCUELA-ENCANTADA-4@lumiton.ar
+DESCRIPTION:Sinopsis: Yae y su hermano mayor\, Ko\, llegan a Tonozaki\, un
+  pueblo costero donde vive su familia\, para pasar las…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/escuela-encantada-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/escuela-encantada-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCENAS EN EL MAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260912T223500
+DTSTAMP:20260912T233000Z
+UID:202609122030-Cine-York-ESCENAS-EN-EL-MAR@lumiton.ar
+DESCRIPTION:Sinopsis: Shigeru es un recolector de basura sordomudo. Un dí
+ a encuentra una tabla de surf rota durante su jornada laboral…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/escenas-en-el-mar/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/escenas-en-el-mar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN: LA MÁSCARA DEL FANTASMA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T183500
+DTSTAMP:20260913T193000Z
+UID:202609131630-Centro-Cultural-Munro-BATMAN:-LA-MÁSCARA-D@lumiton.ar
+DESCRIPTION:Sinopsis: Batman está implicado erróneamente en una serie de
+  asesinatos de jefes de la mafia cometidos por un nuevo asesino…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/batman-la
+ -mascara-del-fantasma/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-la-mascara-del-fantasma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELVIS: THAT'S THE WAY IT IS!
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T203500
+DTSTAMP:20260913T213000Z
+UID:202609131830-Centro-Cultural-Munro-ELVIS:-THAT'S-THE-WA@lumiton.ar
+DESCRIPTION:Sinopsis: Después de años de hacer películas\, el Rey hizo 
+ un regreso triunfal a los escenarios en 1970. El documental…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/elvis-thats-t
+ he-way-it-is/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/elvis-thats-the-way-it-is/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE SOUFFLEUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260913T223500
+DTSTAMP:20260913T233000Z
+UID:202609132030-Cine-York-THE-SOUFFLEUR@lumiton.ar
+DESCRIPTION:Sinopsis: Un gerente hotelero en Viena lucha contra un agente 
+ inmobiliario que busca demoler su propiedad\, afectando hasta la receta…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/the-souffleur
+ -2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-souffleur-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYATT EARP
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
+DTSTAMP:20260917T213000Z
+UID:202609171830-Centro-Cultural-Munro-WYATT-EARP@lumiton.ar
+DESCRIPTION:Sinopsis: Una película sobre Wyatt Earp y su familia. El film
+ e nos muestra los buenos y malos momentos de una…\n\nVenue: Centro Cultu
+ ral Munro\n\nMore info: https://lumiton.ar/evento/wyatt-earp/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/wyatt-earp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA PANDILLA SALVAJE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
+DTSTAMP:20260917T213000Z
+UID:202609171830-Centro-Cultural-Munro-LA-PANDILLA-SALVAJE@lumiton.ar
+DESCRIPTION:Sinopsis: Un grupo de viejos criminales buscan su último gran
+  crimen mientras el tradicional Viejo Oeste desaparece ante sus ojos. …
+ \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/l
+ a-pandilla-salvaje/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-pandilla-salvaje/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICHAEL JACKSON Y LA REVOLUCIÓN DEL VIDEOCLIP
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T210500
+DTSTAMP:20260917T220000Z
+UID:202609171900-Lumiton-MICHAEL-JACKSON-Y-LA@lumiton.ar
+DESCRIPTION:En este nuevo encuentro de Lumiclub los invitamos a explorar c
+ ómo Michael Jackson fue una figura decisiva en la transformación…\n\nV
+ enue: Lumiton\n\nMore info: https://lumiton.ar/evento/michael-jackson-y-la
+ -revolucion-del-videoclip/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/michael-jackson-y-la-revolucion-del-videocli
+ p/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DURO DE SER HOMBRE: LOS AMORES DE TORA EN OSAKA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260917T223500
+DTSTAMP:20260917T233000Z
+UID:202609172030-Cine-York-DURO-DE-SER-HOMBRE:-@lumiton.ar
+DESCRIPTION:Sinopsis: Esta película es la obra número 27 de la famosa se
+ rie japonesa protagonizada por Tora-san. Mientras recorre una isla…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/duro-de-ser-hombre
+ -los-amores-de-tora-en-osaka/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/duro-de-ser-hombre-los-amores-de-tora-en-osa
+ ka/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUMO SÍ\, SUMO NO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260918T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260918T223500
+DTSTAMP:20260918T233000Z
+UID:202609182030-Cine-York-SUMO-SÍ\,-SUMO-NO@lumiton.ar
+DESCRIPTION:Sinopsis: El director de Shall We Dance?\, Masayuki Suo\, real
+ iza una comedia sobre un club universitario de sumo protagonizada por…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/sumo-si-sumo-no
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sumo-si-sumo-no/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HACHIKO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260919T230500
+DTSTAMP:20260920T000000Z
+UID:202609192100-Cine-York-HACHIKO@lumiton.ar
+DESCRIPTION:Sinopsis: Un cachorro nace en la prefectura de Akita y es envi
+ ado como regalo al profesor Ueno\, de la Universidad…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/hachiko/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hachiko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN: LA PELÍCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T183500
+DTSTAMP:20260920T193000Z
+UID:202609201630-Centro-Cultural-Munro-BATMAN:-LA-PELÍCULA@lumiton.ar
+DESCRIPTION:Sinopsis: Basada en la serie de televisión de los años 60\, 
+ caracterizada por su tono irónico y desenfadado\, Batman (Adam…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/batman-la
+ -pelicula/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-la-pelicula/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OS HOMENS QUE EU TIVE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T200500
+DTSTAMP:20260920T210000Z
+UID:202609201800-Cine-York-OS-HOMENS-QUE-EU-TIV@lumiton.ar
+DESCRIPTION:Sinopsis: Una mujer casada solo se siente bien cuando está en
+ amorada. En busca de un amor arrollador\, tiene muchos amoríos\,…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/os-homens-que-eu-ti
+ ve/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/os-homens-que-eu-tive/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCAMBOLE EN EL CAMINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T203500
+DTSTAMP:20260920T213000Z
+UID:202609201830-Centro-Cultural-Munro-ROCAMBOLE-EN-EL-CAMI@lumiton.ar
+DESCRIPTION:Sinopsis: El Maestro Rocambole revisita el ideario de una gene
+ ración contracultural. Comparte la intimidad de su taller\, junto al peri
+ odista…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar
+ /evento/rocambole-en-el-camino/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rocambole-en-el-camino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXCALIBUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260920T220500
+DTSTAMP:20260920T230000Z
+UID:202609202000-Cine-York-EXCALIBUR@lumiton.ar
+DESCRIPTION:Sinopsis: Excalibur narra la historia del rey Arturo\, desde l
+ a obtención de la legendaria espada hasta su ascenso al trono…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/excalibur/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/excalibur/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MR. NOBODY AGAINST PUTIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260923T223500
+DTSTAMP:20260923T233000Z
+UID:202609232030-Cine-York-MR.-NOBODY-AGAINST-P@lumiton.ar
+DESCRIPTION:Sinopsis: Un maestro ruso documenta clandestinamente la milita
+ rización y la propaganda que transforman su escuela. Reseña: Un retrato 
+ urgente de…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
+ mr-nobody-against-putin/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mr-nobody-against-putin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MARINA ABRAMOVIĆ: THE ARTIST IS PRESENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260924T200500
+DTSTAMP:20260924T210000Z
+UID:202609241800-Cine-York-MARINA-ABRAMOVIĆ:-TH@lumiton.ar
+DESCRIPTION:Sinopsis: Marina Abramović prepara una retrospectiva de su ob
+ ra en el MoMA mientras enfrenta los límites físicos y emocionales de…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/marina-abramov
+ ic-the-artist-is-present/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/marina-abramovic-the-artist-is-present/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA SAL DE LA TIERRA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260924T223500
+DTSTAMP:20260924T233000Z
+UID:202609242030-Cine-York-LA-SAL-DE-LA-TIERRA@lumiton.ar
+DESCRIPTION:Sinopsis: Un recorrido por la obra del fotógrafo Sebastião S
+ algado\, sus viajes y los territorios que documentó durante décadas. Res
+ eña:…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-sa
+ l-de-la-tierra-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-sal-de-la-tierra-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SISTER WITH TRANSISTORS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
+DTSTAMP:20260925T210000Z
+UID:202609251800-Cine-York-SISTER-WITH-TRANSIST@lumiton.ar
+DESCRIPTION:Sinopsis: Un recorrido por las mujeres pioneras que transforma
+ ron la música electrónica mediante nuevas tecnologías.Reseña: La pelí
+ cula recupera las historias…\n\nVenue: Cine York\n\nMore info: https://l
+ umiton.ar/evento/sister-with-transistors/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sister-with-transistors/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PULP: ¿QUÉ HARÍAS POR UNA CANCIÓN MÁS?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260925T223500
+DTSTAMP:20260925T233000Z
+UID:202609252030-Cine-York-PULP:-¿QUÉ-HARÍAS-PO@lumiton.ar
+DESCRIPTION:Sinopsis: Narra la extraordinaria trayectoria de la banda de S
+ heffield\, desde el anonimato hasta convertirse en un referente cultural. 
+ Combina…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pul
+ p-que-harias-por-una-cancion-mas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pulp-que-harias-por-una-cancion-mas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOWIE: THE FINAL ACT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260926T200500
+DTSTAMP:20260926T210000Z
+UID:202609261800-Cine-York-BOWIE:-THE-FINAL-ACT@lumiton.ar
+DESCRIPTION:Sinopsis: Un recorrido por los últimos años de David Bowie y
+  por la creación de sus últimos trabajos\, incluido Blackstar.…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/bowie-the-final-act/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bowie-the-final-act/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARRETERA PERDIDA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260926T223500
+DTSTAMP:20260926T233000Z
+UID:202609262030-Cine-York-CARRETERA-PERDIDA@lumiton.ar
+DESCRIPTION:Sinopsis: Un músico se ve atrapado en un misterio donde ident
+ idad\, realidad y percepción comienzan a desintegrarse. Reseña: David Ly
+ nch…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/carrete
+ ra-perdida-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/carretera-perdida-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATMAN & ROBIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T183500
+DTSTAMP:20260927T193000Z
+UID:202609271630-Centro-Cultural-Munro-BATMAN-&-ROBIN@lumiton.ar
+DESCRIPTION:Sinopsis: Batman y Robin trabajan codo a codo para detener a l
+ os villanos de Gotham City\, pero hay tensión entre…\n\nVenue: Centro C
+ ultural Munro\n\nMore info: https://lumiton.ar/evento/batman-robin/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/batman-robin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEMORIAS DEL BOSQUE OLVIDADO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T200500
+DTSTAMP:20260927T210000Z
+UID:202609271800-Cine-York-MEMORIAS-DEL-BOSQUE-@lumiton.ar
+DESCRIPTION:Sinopsis: En el corazón de la Argentina\, sobrevive un ecosis
+ tema tan valioso como olvidado: el bosque de Caldén. Allí\, cada…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/memorias-del-bosqu
+ e-olvidado/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/memorias-del-bosque-olvidado/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE DOORS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T203500
+DTSTAMP:20260927T213000Z
+UID:202609271830-Centro-Cultural-Munro-THE-DOORS@lumiton.ar
+DESCRIPTION:Sinopsis: La historia del famoso e influyente grupo de rock de
+  los años 60\, The Doors\, y su cantante y…\n\nVenue: Centro Cultural M
+ unro\n\nMore info: https://lumiton.ar/evento/the-doors/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-doors/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUATRO LAGUNAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T223500
+DTSTAMP:20260927T233000Z
+UID:202609272030-Cine-York-CUATRO-LAGUNAS@lumiton.ar
+DESCRIPTION:Sinopsis: Cuatro Lagunas sigue a Nico Pauls en un recorrido í
+ ntimo por las lagunas costeras del este de Uruguay. A…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/cuatro-lagunas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuatro-lagunas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEGO BATMAN: LA PELÍCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T183500
+DTSTAMP:20261004T193000Z
+UID:202610041630-Centro-Cultural-Munro-LEGO-BATMAN:-LA-PELÍ@lumiton.ar
+DESCRIPTION:Sinopsis: Bruce Wayne\, debe lidiar con los sospechosos habitu
+ ales mientras planean gobernar Gotham City\, mientras descubre que ha adop
+ tado accidentalmente…\n\nVenue: Centro Cultural Munro\n\nMore info: http
+ s://lumiton.ar/evento/lego-batman-la-pelicula/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lego-batman-la-pelicula/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOONAGE DAYDREAM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T203500
+DTSTAMP:20261004T213000Z
+UID:202610041830-Centro-Cultural-Munro-MOONAGE-DAYDREAM@lumiton.ar
+DESCRIPTION:Sinopsis: Una odisea cinematográfica que explora el viaje cre
+ ativo y musical de David Bowie que rompe los moldes del documental…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/moonag
+ e-daydream/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/moonage-daydream/
+END:VEVENT
 END:VCALENDAR
