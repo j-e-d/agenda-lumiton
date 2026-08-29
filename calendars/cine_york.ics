@@ -2502,4 +2502,17 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/cuatro-lagunas/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KUSAMA: INFINITY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260924T223500
+DTSTAMP:20260924T233000Z
+UID:202609242030-Cine-York-KUSAMA:-INFINITY@lumiton.ar
+DESCRIPTION:Sinopsis: Una de las artistas más famosas del mundo\, Kusama\
+ , logró liberarse de la sociedad en la que se crió…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/kusama-infinity/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kusama-infinity/
+END:VEVENT
 END:VCALENDAR
