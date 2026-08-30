@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA QUIMERA DEL ORO CON MÚSICA EN VIVO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260730T180500
-DTSTAMP:20260730T190000Z
-UID:202607301600-Cine-York-LA-QUIMERA-DEL-ORO-C@lumiton.ar
-DESCRIPTION:Charlot\, un solitario vagabundo que viaja a Alaska durante la
-  Fiebre del Oro. Atrapado en una feroz tormenta de nieve\,…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/la-quimera-del-oro-con-mus
- ica-en-vivo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-quimera-del-oro-con-musica-en-vivo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PELÍCULA SORPRESA EN 35 MM
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260731T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260731T180500
@@ -1419,34 +1405,6 @@ DESCRIPTION:Kermit y sus nuevos amigos viajan por Estados Unidos para cons
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/llegan-los-muppets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA OTRA MEJILLA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260730T213500
-DTSTAMP:20260730T223000Z
-UID:202607301930-Cine-York-LA-OTRA-MEJILLA@lumiton.ar
-DESCRIPTION:Una mujer se enfrenta a las acusaciones\, fantasmas y versione
- s que otros construyeron sobre ella\, hasta encontrarse consigo misma. Dir
- igido…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-ot
- ra-mejilla/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-otra-mejilla/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA OTRA MEJILLA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260730T223500
-DTSTAMP:20260730T233000Z
-UID:202607302030-Cine-York-LA-OTRA-MEJILLA@lumiton.ar
-DESCRIPTION:Una mujer se enfrenta a las versiones que construyó sobre ell
- a\, hasta encontrarse consigo misma. Dirigido por Valeria Bertuccelli\, el
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-otra-me
- jilla-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-otra-mejilla-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLADE RUNNER: THE FINAL CUT

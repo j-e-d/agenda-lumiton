@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TOM Y JERRY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260730T170500
-DTSTAMP:20260730T180000Z
-UID:202607301500-Lumiton-TOM-Y-JERRY@lumiton.ar
-DESCRIPTION:Tom\, un gato decidido a atrapar a Jerry\, y Jerry\, un ratonc
- ito rápido e ingenioso\, viven una eterna persecución llena…\n\nVenue:
-  Lumiton\n\nMore info: https://lumiton.ar/evento/tom-y-jerry/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tom-y-jerry/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA MUERTE CAMINA EN LA LLUVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260805T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260805T200500

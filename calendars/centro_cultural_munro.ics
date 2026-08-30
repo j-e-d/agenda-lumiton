@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CARS: UNA AVENTURA SOBRE RUEDAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260730T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260730T190500
-DTSTAMP:20260730T200000Z
-UID:202607301700-Centro-Cultural-Munro-CARS:-UNA-AVENTURA-S@lumiton.ar
-DESCRIPTION:En el camino a la carrera más grande de su vida\, un auto de 
- carreras novato se queda varado en…\n\nVenue: Centro Cultural Munro\n\nM
- ore info: https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cars-una-aventura-sobre-ruedas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UP\, UNA AVENTURA DE ALTURA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170500
