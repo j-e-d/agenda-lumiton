@@ -1747,32 +1747,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260731T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260731T180500
-DTSTAMP:20260731T190000Z
-UID:202607311600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la quinta sorpresa: una de k
- ung-fu\, sí\, pero una de kung-fu que tiene más…\n\nVenue: Cine York\n
- \nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-5/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-5/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAYA\, GIMME A TITLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260731T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260731T200500
-DTSTAMP:20260731T210000Z
-UID:202607311800-Cine-York-MAYA\,-GIMME-A-TITLE@lumiton.ar
-DESCRIPTION:Un padre y una hija mantienen su vínculo a pesar de vivir en 
- diferentes países a través de un imaginativo…\n\nVenue: Cine York\n\nM
- ore info: https://lumiton.ar/evento/maya-gimme-a-title/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/maya-gimme-a-title/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260801T180500
 DTSTAMP:20260801T190000Z
