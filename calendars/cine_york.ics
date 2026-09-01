@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260801T180500
-DTSTAMP:20260801T190000Z
-UID:202608011600-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la sexta sorpresa: un cerdit
- o que habla\, sí\, pero un cerdito dirigido por la…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-6/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-6/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS TRILLIZAS DE BELLEVILLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260801T200500
-DTSTAMP:20260801T210000Z
-UID:202608011800-Cine-York-LAS-TRILLIZAS-DE-BEL@lumiton.ar
-DESCRIPTION:Cuando su nieto es secuestrado durante el Tour de Francia\, Ma
- dame Souza y su querido perro Bruno hacen equipo con…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/las-trillizas-de-belleville/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-trillizas-de-belleville/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS MUMIN: ¿QUIÉN ANIMARÁ A CHICO?
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180500
