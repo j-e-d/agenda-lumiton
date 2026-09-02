@@ -1746,103 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UP\, UNA AVENTURA DE ALTURA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170500
-DTSTAMP:20260802T180000Z
-UID:202608021500-Centro-Cultural-Munro-UP\,-UNA-AVENTURA-DE-@lumiton.ar
-DESCRIPTION:Carl Fredricksen\, de 78 años\, está a punto de cumplir un s
- ueño de toda la vida: Atar miles de globos…\n\nVenue: Centro Cultural M
- unro\n\nMore info: https://lumiton.ar/evento/up-una-aventura-de-altura/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/up-una-aventura-de-altura/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS MUMIN: ¿QUIÉN ANIMARÁ A CHICO?
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180500
-DTSTAMP:20260802T190000Z
-UID:202608021600-Cine-York-LOS-MUMIN:-¿QUIÉN-AN@lumiton.ar
-DESCRIPTION:El solitario Toffle aprende a superar sus miedos cuando necesi
- ta rescatar al Miffle del Groke. Desde los bosques y valles imaginarios
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/los-mumin-
- quien-animara-a-chico/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-mumin-quien-animara-a-chico/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHICKEN FOR LINDA!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180500
-DTSTAMP:20260802T190000Z
-UID:202608021600-Cine-York-CHICKEN-FOR-LINDA!@lumiton.ar
-DESCRIPTION:Una mamá cariñosa\, Paulette\, se siente culpable después d
- e castigar injustamente a su hija Linda y haría cualquier cosa para…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/chicken-for-lind
- a/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/chicken-for-linda/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUSCANDO A DORY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T190500
-DTSTAMP:20260802T200000Z
-UID:202608021700-Centro-Cultural-Munro-BUSCANDO-A-DORY@lumiton.ar
-DESCRIPTION:Dory\, una pez simpática y olvidadiza\, intenta encontrar a s
- us padres. Ella y sus amigos aprenden cosas sobre el verdadero…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/buscando-a
- -dory/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/buscando-a-dory/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOS MUMIN: EL PEQUEÑO TROL MUMIN\, MYMLA Y LA PEQUEÑA MY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T200500
-DTSTAMP:20260802T210000Z
-UID:202608021800-Cine-York-LOS-MUMIN:-EL-PEQUEÑ@lumiton.ar
-DESCRIPTION:De camino a casa a Muminmamma\, Moomintroll encuentra a The My
- mble y acepta ayudarla a ir en busca de Little…\n\nVenue: Cine York\n\nM
- ore info: https://lumiton.ar/evento/los-mumin-el-pequeno-trol-mumin-mymla-
- y-la-pequena-my/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/los-mumin-el-pequeno-trol-mumin-mymla-y-la-p
- equena-my/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PELÍCULA SORPRESA EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T200500
-DTSTAMP:20260802T210000Z
-UID:202608021800-Cine-York-PELÍCULA-SORPRESA-EN@lumiton.ar
-DESCRIPTION:“Cine para toda la familia” y la séptima sorpresa: una gr
- an poder conlleva una gran responsabilidad. Casi casi\, arañando\, llegam
- os…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pelicula
- -sorpresa-en-35-mm-7/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pelicula-sorpresa-en-35-mm-7/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LLEGAN LOS MUPPETS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T140000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T160500
-DTSTAMP:20260802T170000Z
-UID:202608021400-Cine-York-LLEGAN-LOS-MUPPETS@lumiton.ar
-DESCRIPTION:Kermit y sus nuevos amigos viajan por Estados Unidos para cons
- eguir el éxito en Hollywood\, pero un comerciante de ancas…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/llegan-los-muppets/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/llegan-los-muppets/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA MUERTE CAMINA EN LA LLUVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260805T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260805T200500
@@ -3390,5 +3293,19 @@ DESCRIPTION:Sinopsis: Reconstrucción de la noche en que Patricio Rey y su
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SISTERS WITH TRANSISTORS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
+DTSTAMP:20260925T210000Z
+UID:202609251800-Cine-York-SISTERS-WITH-TRANSIS@lumiton.ar
+DESCRIPTION:Sinopsis: Un recorrido por las mujeres pioneras que transforma
+ ron la música electrónica mediante nuevas tecnologías.Reseña: La pelí
+ cula recupera las historias…\n\nVenue: Cine York\n\nMore info: https://l
+ umiton.ar/evento/sisters-with-transistors/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sisters-with-transistors/
 END:VEVENT
 END:VCALENDAR

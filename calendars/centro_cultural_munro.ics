@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UP\, UNA AVENTURA DE ALTURA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170500
-DTSTAMP:20260802T180000Z
-UID:202608021500-Centro-Cultural-Munro-UP\,-UNA-AVENTURA-DE-@lumiton.ar
-DESCRIPTION:Carl Fredricksen\, de 78 años\, está a punto de cumplir un s
- ueño de toda la vida: Atar miles de globos…\n\nVenue: Centro Cultural M
- unro\n\nMore info: https://lumiton.ar/evento/up-una-aventura-de-altura/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/up-una-aventura-de-altura/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUSCANDO A DORY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260802T190500
-DTSTAMP:20260802T200000Z
-UID:202608021700-Centro-Cultural-Munro-BUSCANDO-A-DORY@lumiton.ar
-DESCRIPTION:Dory\, una pez simpática y olvidadiza\, intenta encontrar a s
- us padres. Ella y sus amigos aprenden cosas sobre el verdadero…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/buscando-a
- -dory/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/buscando-a-dory/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA DAMA DUENDE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260806T203500
