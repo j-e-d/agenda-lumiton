@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA DAMA DUENDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T203500
-DTSTAMP:20260806T213000Z
-UID:202608061830-Centro-Cultural-Munro-LA-DAMA-DUENDE@lumiton.ar
-DESCRIPTION:Doña Ángelica - una joven viuda - se enamora y quiere casars
- e con un oficial del ejército llamado Don Manuel\,…\n\nVenue: Centro Cu
- ltural Munro\n\nMore info: https://lumiton.ar/evento/la-dama-duende/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-dama-duende/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¿QUIÉN ENGAÑÓ A ROGER RABBIT?
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260809T183500

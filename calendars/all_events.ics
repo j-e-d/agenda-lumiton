@@ -1746,62 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLADE RUNNER: THE FINAL CUT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T200500
-DTSTAMP:20260806T210000Z
-UID:202608061800-Cine-York-BLADE-RUNNER:-THE-FI@lumiton.ar
-DESCRIPTION:Blade Runner en su versión definitiva de Ridley Scott. Los Á
- ngeles 2019. En un hipnótico futuro de neón\, cinco androides…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/blade-runner-the-fina
- l-cut/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/blade-runner-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA DAMA DUENDE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T203500
-DTSTAMP:20260806T213000Z
-UID:202608061830-Centro-Cultural-Munro-LA-DAMA-DUENDE@lumiton.ar
-DESCRIPTION:Doña Ángelica - una joven viuda - se enamora y quiere casars
- e con un oficial del ejército llamado Don Manuel\,…\n\nVenue: Centro Cu
- ltural Munro\n\nMore info: https://lumiton.ar/evento/la-dama-duende/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-dama-duende/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRESENTACIÓN DEL LIBRO “MIS DÍAS CON EL CINE” de RODOLFO DUR
- ÁN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T210500
-DTSTAMP:20260806T220000Z
-UID:202608061900-Lumiton-PRESENTACIÓN-DEL-LIB@lumiton.ar
-DESCRIPTION:Rodolfo Durán recorre aquí su trayectoria profesional en el 
- cine argentino\, desde estudiante y meritorio hasta realizador y productor
- . Hizo…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/presen
- tacion-del-libro-mis-dias-con-el-cine-de-rodolfo-duran/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/presentacion-del-libro-mis-dias-con-el-cine-
- de-rodolfo-duran/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUENTO DE VERANO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T223500
-DTSTAMP:20260806T233000Z
-UID:202608062030-Cine-York-CUENTO-DE-VERANO@lumiton.ar
-DESCRIPTION:Jorge es un buscavidas porteño que\, tras sufrir un infarto\,
-  corre para demostrar que es un buen tipo\, sea lo…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/cuento-de-verano/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuento-de-verano/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEAVY METAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260807T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260807T200500

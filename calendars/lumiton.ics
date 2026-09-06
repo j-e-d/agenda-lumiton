@@ -102,22 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PRESENTACIÓN DEL LIBRO “MIS DÍAS CON EL CINE” de RODOLFO DUR
- ÁN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260806T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260806T210500
-DTSTAMP:20260806T220000Z
-UID:202608061900-Lumiton-PRESENTACIÓN-DEL-LIB@lumiton.ar
-DESCRIPTION:Rodolfo Durán recorre aquí su trayectoria profesional en el 
- cine argentino\, desde estudiante y meritorio hasta realizador y productor
- . Hizo…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/presen
- tacion-del-libro-mis-dias-con-el-cine-de-rodolfo-duran/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/presentacion-del-libro-mis-dias-con-el-cine-
- de-rodolfo-duran/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIN DE SEMANA DE LA INFANCIA | UNA TARDE EN EL MUSEO | LA MAGIA DE
   LA LUZ: TALLER DE CIANOTIPIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T150000
