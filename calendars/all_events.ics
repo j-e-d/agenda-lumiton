@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HEAVY METAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260807T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260807T200500
-DTSTAMP:20260807T210000Z
-UID:202608071800-Cine-York-HEAVY-METAL@lumiton.ar
-DESCRIPTION:Un orbe verde\, encarnación del mal supremo\, aterroriza a un
- a joven con una antología de historias extrañas sobre fantasías oscuras
- \,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/heavy-me
- tal/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/heavy-metal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE BEWILDERMENT OF CHILE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260807T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260807T223500
-DTSTAMP:20260807T233000Z
-UID:202608072030-Cine-York-THE-BEWILDERMENT-OF-@lumiton.ar
-DESCRIPTION:Un hombre de Lugo\, Europa\, termina caminando solo por la est
- ación ferroviaria de La Plata. Lucía Seles vuelve a demostrar…\n\nVenu
- e: Cine York\n\nMore info: https://lumiton.ar/evento/the-bewilderment-of-c
- hile/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-bewilderment-of-chile/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WHEN WE WENT MAD!
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260808T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260808T200500
