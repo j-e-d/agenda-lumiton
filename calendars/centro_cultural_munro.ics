@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¿QUIÉN ENGAÑÓ A ROGER RABBIT?
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260809T183500
-DTSTAMP:20260809T193000Z
-UID:202608091630-Centro-Cultural-Munro-¿QUIÉN-ENGAÑÓ-A-ROGE@lumiton.ar
-DESCRIPTION:Un detective que odia los dibujos es la única esperanza de un
-  conejo animado para demostrar su inocencia cuando es…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/quien-engano-a-roge
- r-rabbit/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/quien-engano-a-roger-rabbit/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:100 METROS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260809T203500
-DTSTAMP:20260809T213000Z
-UID:202608091830-Centro-Cultural-Munro-100-METROS@lumiton.ar
-DESCRIPTION:El talentoso corredor Togashi domina las carreras de 100 metro
- s hasta que llega el estudiante transferido Komiya\, lo que lo…\n\nVenue
- : Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/100-metros
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/100-metros/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA CASA DE LOS MILLONES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260813T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260813T203500
