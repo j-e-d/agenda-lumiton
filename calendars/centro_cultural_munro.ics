@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA CASA DE LOS MILLONES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260813T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260813T203500
-DTSTAMP:20260813T213000Z
-UID:202608131830-Centro-Cultural-Munro-LA-CASA-DE-LOS-MILLO@lumiton.ar
-DESCRIPTION:Una malcriada mujer “nueva rica” hace que la gente que tra
- baja en su casa sufra con sus estados de ánimo\,…\n\nVenue: Centro Cult
- ural Munro\n\nMore info: https://lumiton.ar/evento/la-casa-de-los-millones
- /
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-casa-de-los-millones/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA HISTORIA SIN FIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260815T200500
