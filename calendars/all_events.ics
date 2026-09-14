@@ -1746,46 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TIGRE ES YAGUARETÉ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260814T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260814T200500
-DTSTAMP:20260814T210000Z
-UID:202608141800-Cine-York-TIGRE-ES-YAGUARETÉ@lumiton.ar
-DESCRIPTION:En el Delta del Paraná nada es exactamente lo que parece: Tig
- re no es un tigre\, sino un yaguareté\, y…\n\nVenue: Cine York\n\nMore 
- info: https://lumiton.ar/evento/tigre-es-yaguarete/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/tigre-es-yaguarete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAU D'ARCO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260814T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260814T200500
-DTSTAMP:20260814T210000Z
-UID:202608141800-Cine-York-PAU-D'ARCO@lumiton.ar
-DESCRIPTION:Tras sobrevivir a la masacre donde la policía mató a 10 trab
- ajadores sin tierra\, el principal testigo del crimen y…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/pau-darco/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pau-darco/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL ÁRBOL DE LA AUTENTICIDAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260814T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260814T223500
-DTSTAMP:20260814T233000Z
-UID:202608142030-Cine-York-EL-ÁRBOL-DE-LA-AUTEN@lumiton.ar
-DESCRIPTION:Asentado en la selva tropical más grande de África se encuen
- tra uno de los tantos vestigios del esfuerzo de Occidente…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/el-arbol-de-la-autenticidad
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-arbol-de-la-autenticidad/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIN DE SEMANA DE LA INFANCIA | UNA TARDE EN EL MUSEO | LA MAGIA DE
   LA LUZ: TALLER DE CIANOTIPIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T150000
