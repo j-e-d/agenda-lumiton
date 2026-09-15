@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA HISTORIA SIN FIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260815T200500
-DTSTAMP:20260815T210000Z
-UID:202608151800-Centro-Cultural-Munro-LA-HISTORIA-SIN-FIN@lumiton.ar
-DESCRIPTION:Bastian\, un niño solitario\, roba un libro mágico titulado 
- La historia sin fin. Al leerlo\, se sumerge en el reino…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-historia-sin-f
- in/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-historia-sin-fin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHAO: LA SIRENA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T200500
