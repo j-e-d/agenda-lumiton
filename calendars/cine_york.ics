@@ -1285,47 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SESIÓN PELICULNHAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260816T190500
-DTSTAMP:20260816T200000Z
-UID:202608161700-Cine-York-SESIÓN-PELICULNHAS@lumiton.ar
-DESCRIPTION:Las mejores aventuras suelen vivir con (y para) nosotros por s
- iempre. En el marco del Fin de Semana de las…\n\nVenue: Cine York\n\nMor
- e info: https://lumiton.ar/evento/sesion-peliculnhas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sesion-peliculnhas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PIBIT BANG
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260816T200500
-DTSTAMP:20260816T210000Z
-UID:202608161800-Cine-York-PIBIT-BANG@lumiton.ar
-DESCRIPTION:Los bajitos entran a la sala Durante doce ediciones\, el Bitba
- ng Festival Internacional de Animación fue dirigido principalmente para u
- n…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pibit-ban
- g/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pibit-bang/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:31 MINUTOS\, LA PELÍCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260816T210500
-DTSTAMP:20260816T220000Z
-UID:202608161900-Cine-York-31-MINUTOS\,-LA-PELÍC@lumiton.ar
-DESCRIPTION:La malvada multimillonaria Cachirula está obsesionada con com
- pletar su colección de animales extraños y para ello encarga a Tío Pela
- do…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/31-minut
- os-la-pelicula/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/31-minutos-la-pelicula/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEN - HUR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260819T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260819T200500
