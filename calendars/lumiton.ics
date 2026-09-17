@@ -173,4 +173,33 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/michael-jackson-y-la-revolucion-del-videocli
  p/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VISITA GUIADA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260923T183500
+DTSTAMP:20260923T193000Z
+UID:202609231630-Lumiton-VISITA-GUIADA@lumiton.ar
+DESCRIPTION:¡Sábados en el Museo Lumiton! Además\, abrimos las puertas 
+ para que conozcan el Museo y puedan asistir a la proyección…\n\nVenue: 
+ Lumiton\n\nMore info: https://lumiton.ar/evento/visita-guiada/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/visita-guiada/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
+ NCIAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T170500
+DTSTAMP:20261010T180000Z
+UID:202610101500-Lumiton-UNA-TARDE-EN-EL-MUSE@lumiton.ar
+DESCRIPTION:A cargo de Bea R. Blankenhorst Este taller tiene como objetivo
+  generar un espacio de introducción de las infancias a…\n\nVenue: Lumit
+ on\n\nMore info: https://lumiton.ar/evento/una-tarde-en-el-museo-stop-moti
+ on-que-es-taller-para-infancias/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
+ ler-para-infancias/
+END:VEVENT
 END:VCALENDAR
