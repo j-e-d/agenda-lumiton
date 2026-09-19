@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEN - HUR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260819T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260819T200500
-DTSTAMP:20260819T210000Z
-UID:202608191800-Cine-York-BEN---HUR@lumiton.ar
-DESCRIPTION:Clásica historia de traición\, venganza y redención ambient
- ada en la antigua Judea durante el siglo I\, en la época de…\n\nVenue: 
- Cine York\n\nMore info: https://lumiton.ar/evento/ben-hur/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ben-hur/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DEMANDA CONTRA EL OLVIDO. POESÍA Y AVENTURA EN RAÚL GONZÁLEZ TU
  ÑÓN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T180000
@@ -2742,10 +2729,10 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260927T200500
 DTSTAMP:20260927T210000Z
 UID:202609271800-Cine-York-MEMORIAS-DEL-BOSQUE-@lumiton.ar
-DESCRIPTION:Sinopsis: En el corazón de la Argentina\, sobrevive un ecosis
- tema tan valioso como olvidado: el bosque de Caldén. Allí\, cada…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/memorias-del-bosqu
- e-olvidado/
+DESCRIPTION:Este largometraje se proyecta luego del corto Del mar a la mon
+ taña (Dir. Milagros Capdevila\, 2025)Sinopsis: En el corazón de…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/memorias-del-bosque
+ -olvidado/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/memorias-del-bosque-olvidado/
@@ -2899,5 +2886,32 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I AM GRETA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
+DTSTAMP:20260925T210000Z
+UID:202609251800-Cine-York-I-AM-GRETA@lumiton.ar
+DESCRIPTION:Sinopsis: La activista climática Greta Thunberg y su travesí
+ a alrededor del mundo para que la gente escuche a los científicos…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/i-am-greta/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/i-am-greta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEL MAR A LA MONTAÑA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T200500
+DTSTAMP:20260927T210000Z
+UID:202609271800-Cine-York-DEL-MAR-A-LA-MONTAÑA@lumiton.ar
+DESCRIPTION:Este corto se proyecta previamente al largometraje Memorias de
+ l bosque olvidado (Dir. Marcelo Viñas\, 2017)Sinopsis: Milagros Capdevila
+  y Luciana Gil…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
+ nto/del-mar-a-la-montana/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/del-mar-a-la-montana/
 END:VEVENT
 END:VCALENDAR
