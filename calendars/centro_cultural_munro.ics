@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ECLIPSE DE SOL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260820T203500
-DTSTAMP:20260820T213000Z
-UID:202608201830-Centro-Cultural-Munro-ECLIPSE-DE-SOL@lumiton.ar
-DESCRIPTION:Un joven granjero se casa en secreto con una actriz\, a quien 
- deja para regresar al campo y ella intentará…\n\nVenue: Centro Cultural
-  Munro\n\nMore info: https://lumiton.ar/evento/eclipse-de-sol/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/eclipse-de-sol/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COLORES PERDIDOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T183500

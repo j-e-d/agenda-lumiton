@@ -1746,48 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DEMANDA CONTRA EL OLVIDO. POESÍA Y AVENTURA EN RAÚL GONZÁLEZ TU
- ÑÓN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260820T200500
-DTSTAMP:20260820T210000Z
-UID:202608201800-Cine-York-DEMANDA-CONTRA-EL-OL@lumiton.ar
-DESCRIPTION:Documental que reconstruye la figura de Raúl González Tuñó
- n\, uno de los grandes poetas del siglo XX. A través de…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/demanda-contra-el-olvido-poe
- sia-y-aventura-en-raul-gonzalez-tunon/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/demanda-contra-el-olvido-poesia-y-aventura-e
- n-raul-gonzalez-tunon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECLIPSE DE SOL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260820T203500
-DTSTAMP:20260820T213000Z
-UID:202608201830-Centro-Cultural-Munro-ECLIPSE-DE-SOL@lumiton.ar
-DESCRIPTION:Un joven granjero se casa en secreto con una actriz\, a quien 
- deja para regresar al campo y ella intentará…\n\nVenue: Centro Cultural
-  Munro\n\nMore info: https://lumiton.ar/evento/eclipse-de-sol/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/eclipse-de-sol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL MÉTODO TANGALANGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260820T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260820T223500
-DTSTAMP:20260820T233000Z
-UID:202608202030-Cine-York-EL-MÉTODO-TANGALANGA@lumiton.ar
-DESCRIPTION:La vida del tímido empleado de empresa Jorge Rizzi da un giro
-  desternillante cuando participa en una sesión de hipnosis…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/el-metodo-tangalanga/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-metodo-tangalanga/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL SANTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260821T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260821T200500
