@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL SANTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260821T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260821T200500
-DTSTAMP:20260821T210000Z
-UID:202608211800-Cine-York-EL-SANTO@lumiton.ar
-DESCRIPTION:Rubén\, un curandero con un pasar humilde atiende a sus pacie
- ntes con técnicas extravagantes y perturbadoras. Generará un culto que
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-santo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-santo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESTO NO ES UN GOLPE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260821T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260821T223500
-DTSTAMP:20260821T233000Z
-UID:202608212030-Cine-York-ESTO-NO-ES-UN-GOLPE@lumiton.ar
-DESCRIPTION:El gobierno de Raúl Alfonsín tambalea por un alzamiento mili
- tar encabezado por Aldo Rico. A través de los protagonistas del…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/esto-no-es-un-golpe-
- 2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/esto-no-es-un-golpe-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MANDABI
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260822T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260822T200500
