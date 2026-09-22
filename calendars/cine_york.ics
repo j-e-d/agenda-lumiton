@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MANDABI
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260822T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260822T200500
-DTSTAMP:20260822T210000Z
-UID:202608221800-Cine-York-MANDABI@lumiton.ar
-DESCRIPTION:Ibrahim Dieng vive en Dakar con sus dos esposas y sus siete hi
- jos. La vida sigue su curso hasta el…\n\nVenue: Cine York\n\nMore info: 
- https://lumiton.ar/evento/mandabi/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mandabi/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUCA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260822T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260822T223500
-DTSTAMP:20260822T233000Z
-UID:202608222030-Cine-York-LUCA@lumiton.ar
-DESCRIPTION:La historia de Luca Prodan\, un joven italiano educado en Gran
-  Bretaña\, y el “salto al vacío” que lo llevó…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/luca-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/luca-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA ESPERA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T180500
