@@ -1285,45 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA ESPERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260823T180500
-DTSTAMP:20260823T190000Z
-UID:202608231600-Cine-York-LA-ESPERA@lumiton.ar
-DESCRIPTION:Documental que retrata a niñas y niños cuyos derechos a vivi
- r en una familia han sido vulnerados. A través de…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/la-espera-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-espera-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALPHAVILLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260823T200500
-DTSTAMP:20260823T210000Z
-UID:202608231800-Cine-York-ALPHAVILLE@lumiton.ar
-DESCRIPTION:Un agente secreto de los Estados Unidos es enviado a la lejana
-  ciudad espacial de Alphaville\, donde debe encontrar a…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/alphaville-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alphaville-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL DESPRECIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260823T223500
-DTSTAMP:20260823T233000Z
-UID:202608232030-Cine-York-EL-DESPRECIO@lumiton.ar
-DESCRIPTION:Paul Javal recibe el encargo de escribir un guión para una nu
- eva adaptación de ‘La Odisea’ de Homero. Pronto queda…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/el-desprecio-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-desprecio-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAS ANGUSTIAS DEL DR. MEL BROOKS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260826T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260826T200500
