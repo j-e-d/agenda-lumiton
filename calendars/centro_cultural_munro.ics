@@ -600,4 +600,156 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA FORMA DEL AGUA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261001T203500
+DTSTAMP:20261001T213000Z
+UID:202610011830-Centro-Cultural-Munro-LA-FORMA-DEL-AGUA@lumiton.ar
+DESCRIPTION:Sinopsis: En un centro de investigación de alto secreto en la
+  década de 1960\, una solitaria conserje entabla una relación…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-forma-
+ del-agua/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-forma-del-agua/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS BRUJAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T183500
+DTSTAMP:20261011T193000Z
+UID:202610111630-Centro-Cultural-Munro-LAS-BRUJAS@lumiton.ar
+DESCRIPTION:Sinopsis: Un niño se encuentra en una convención de brujas e
+  intenta detenerlas\, pero lo convierten en ratón. Reseña: Nicolas…\n\
+ nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/las-
+ brujas/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/las-brujas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRITTERS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261015T203500
+DTSTAMP:20261015T213000Z
+UID:202610151830-Centro-Cultural-Munro-CRITTERS@lumiton.ar
+DESCRIPTION:Sinopsis: Un grupo de pequeñas pero feroces criaturas aliení
+ genas llamadas critters escapan de una nave de transporte de una prisión
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/critters/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/critters/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL ENIGMA DE OTRO MUNDO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T210500
+DTSTAMP:20261016T220000Z
+UID:202610161900-Centro-Cultural-Munro-EL-ENIGMA-DE-OTRO-MU@lumiton.ar
+DESCRIPTION:Sinopsis: En una estación experimental remota de la Antártid
+ a\, un equipo de científicos de investigación estadounidenses ven cómo 
+ en su…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/el-enigma-de-otro-mundo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-enigma-de-otro-mundo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CADÁVER DE LA NOVIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T183500
+DTSTAMP:20261018T193000Z
+UID:202610181630-Centro-Cultural-Munro-EL-CADÁVER-DE-LA-NOV@lumiton.ar
+DESCRIPTION:Sinopsis: Cuando un tímido novio practica sus votos matrimon
+ iales ante la presencia inadvertida de una joven fallecida\, esta se levan
+ ta de…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/el-cadaver-de-la-novia-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-cadaver-de-la-novia-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BASTARDOS SIN GLORIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T203500
+DTSTAMP:20261018T213000Z
+UID:202610181830-Centro-Cultural-Munro-BASTARDOS-SIN-GLORIA@lumiton.ar
+DESCRIPTION:Sinopsis: En la Francia ocupada por los nazis durante la Segun
+ da Guerra Mundial\, un plan para asesinar a los líderes…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/bastardos-sin-gl
+ oria-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bastardos-sin-gloria-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEPREDADOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261022T203500
+DTSTAMP:20261022T213000Z
+UID:202610221830-Centro-Cultural-Munro-DEPREDADOR@lumiton.ar
+DESCRIPTION:Sinopsis: Un equipo de comandos en una misión en la selva cen
+ troamericana es perseguido por un guerrero extraterrestre. Reseña: Un…\
+ n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/de
+ predador/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/depredador/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL EXTRAÑO MUNDO DE JACK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T183500
+DTSTAMP:20261025T193000Z
+UID:202610251630-Centro-Cultural-Munro-EL-EXTRAÑO-MUNDO-DE-@lumiton.ar
+DESCRIPTION:Sinopsis: Jack\, el rey de la noche de brujas descubre la navi
+ dad y queda impresionado a pesar de que no…\n\nVenue: Centro Cultural Mu
+ nro\n\nMore info: https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANZ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T203500
+DTSTAMP:20261025T213000Z
+UID:202610251830-Centro-Cultural-Munro-FRANZ@lumiton.ar
+DESCRIPTION:Sinopsis: Concebida como un mosaico caleidoscópico\, la pelí
+ cula sigue la huella que Franz Kafka dejó en el mundo desde su…\n\nVenu
+ e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/franz/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS LOCOS ADAMS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261101T183500
+DTSTAMP:20261101T193000Z
+UID:202611011630-Centro-Cultural-Munro-LOS-LOCOS-ADAMS@lumiton.ar
+DESCRIPTION:Sinopsis: Morticia y Gómez\, sus hijos Miércoles y Pugsley\,
+  mano y otros viven felices en una terrorífica mansión de Nueva…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/los-loc
+ os-adams/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-locos-adams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÉRASE UNA VEZ EN HOLYWOOD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261101T203500
+DTSTAMP:20261101T213000Z
+UID:202611011830-Centro-Cultural-Munro-ÉRASE-UNA-VEZ-EN-HOL@lumiton.ar
+DESCRIPTION:Sinopsis: Un actor de televisión olvidado y su doble de acci
+ ón se esfuerzan por alcanzar la fama y el éxito…\n\nVenue: Centro Cult
+ ural Munro\n\nMore info: https://lumiton.ar/evento/erase-una-vez-en-holywo
+ od/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/erase-una-vez-en-holywood/
+END:VEVENT
 END:VCALENDAR

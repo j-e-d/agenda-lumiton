@@ -1285,32 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAS ANGUSTIAS DEL DR. MEL BROOKS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260826T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260826T200500
-DTSTAMP:20260826T210000Z
-UID:202608261800-Cine-York-LAS-ANGUSTIAS-DEL-DR@lumiton.ar
-DESCRIPTION:Un psiquiatra con un intenso miedo a las alturas va a trabajar
-  a una institución mental dirigida por médicos que…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/las-angustias-del-dr-mel-brooks/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-angustias-del-dr-mel-brooks/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOCURA EN EL OESTE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260826T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260826T223500
-DTSTAMP:20260826T233000Z
-UID:202608262030-Cine-York-LOCURA-EN-EL-OESTE@lumiton.ar
-DESCRIPTION:Con la intención de arruinar una ciudad occidental\, un polí
- tico corrupto nombra a un sheriff negro que se convierte en…\n\nVenue: C
- ine York\n\nMore info: https://lumiton.ar/evento/locura-en-el-oeste/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/locura-en-el-oeste/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:METROPOLIS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260827T200500
@@ -1960,5 +1934,519 @@ DESCRIPTION:Este corto se proyecta previamente al largometraje Memorias de
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/del-mar-a-la-montana/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MR. NOBODY AGAINST PUTIN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260927T180500
+DTSTAMP:20260927T190000Z
+UID:202609271600-Cine-York-MR.-NOBODY-AGAINST-P@lumiton.ar
+DESCRIPTION:Sinopsis: Un maestro ruso documenta clandestinamente la milita
+ rización y la propaganda que transforman su escuela. Reseña: Un retrato 
+ urgente de…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
+ mr-nobody-against-putin/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mr-nobody-against-putin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNA CANTA\, LA OTRA NO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
+DTSTAMP:20261001T210000Z
+UID:202610011800-Cine-York-UNA-CANTA\,-LA-OTRA-N@lumiton.ar
+DESCRIPTION:Sinopsis: Ambientado en París en 1962. Pauline\, una chica re
+ belde de 17 años\, y Suzanne\, una madre de 22 años\,…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/una-canta-la-otra-no/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/una-canta-la-otra-no/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA SONG
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261001T223500
+DTSTAMP:20261001T233000Z
+UID:202610012030-Cine-York-INDIA-SONG@lumiton.ar
+DESCRIPTION:Sinopsis: Anne-Marie Stretter\, esposa de un diplomático fran
+ cés\, vive en India en los años 30\, donde tiene numerosos amantes. Vari
+ os…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/india-so
+ ng/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/india-song/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CEREMONIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261002T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261002T200500
+DTSTAMP:20261002T210000Z
+UID:202610021800-Cine-York-LA-CEREMONIA@lumiton.ar
+DESCRIPTION:Sinopsis: Una sirvienta recién contratada para una familia ri
+ ca\, se hace amiga de un empleado de la oficina de correos…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/la-ceremonia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-ceremonia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIROSHIMA MON AMOUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261002T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261002T223500
+DTSTAMP:20261002T233000Z
+UID:202610022030-Cine-York-HIROSHIMA-MON-AMOUR@lumiton.ar
+DESCRIPTION:Sinopsis: Después de rodar una película en Hiroshima\, una j
+ oven actriz francesa pasa su última noche en compañía de un…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/hiroshima-mon-amour-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hiroshima-mon-amour-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL BELLO SERGIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261003T200500
+DTSTAMP:20261003T210000Z
+UID:202610031800-Cine-York-EL-BELLO-SERGIO@lumiton.ar
+DESCRIPTION:Sinopsis: François regresa a su pueblo natal en la campiña f
+ rancesa. Allí descubre que su gran amigo de la infancia\,…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/el-bello-sergio/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-bello-sergio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA MUJER DEL RÍO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261003T223500
+DTSTAMP:20261003T233000Z
+UID:202610032030-Cine-York-LA-MUJER-DEL-RÍO@lumiton.ar
+DESCRIPTION:Sinópsis: Érica intenta rehacer su vida junto a su hija Flor
+ . Pero el frágil equilibrio se rompe cuando reaparece Pedro\,…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-del-rio/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-mujer-del-rio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VÁCLAV HAVEL\, CASTILLO DE PRAGA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T180500
+DTSTAMP:20261004T190000Z
+UID:202610041600-Cine-York-VÁCLAV-HAVEL\,-CASTIL@lumiton.ar
+DESCRIPTION:Sinopsis: Václav Havel\, Castillo de Praga (Václav Havel\, P
+ raha - Hrad) narra los primeros y turbulentos días de la presidencia…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/vaclav-havel-ca
+ stillo-de-praga/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vaclav-havel-castillo-de-praga/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUE LA BESTIA MUERA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T200500
+DTSTAMP:20261004T210000Z
+UID:202610041800-Cine-York-QUE-LA-BESTIA-MUERA@lumiton.ar
+DESCRIPTION:Sinopsis: El hijo único de Charles Thenier muere atropellado 
+ por un conductor que se da a la fuga. Decidido a…\n\nVenue: Cine York\n\
+ nMore info: https://lumiton.ar/evento/que-la-bestia-muera/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/que-la-bestia-muera/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA MUJER INFIEL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261004T220500
+DTSTAMP:20261004T230000Z
+UID:202610042000-Cine-York-LA-MUJER-INFIEL@lumiton.ar
+DESCRIPTION:Sinopsis: Un hombre comienza a sospechar que su esposa lo est
+ á engañando y contrata un investigador privado para demostrar que…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-infiel/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-mujer-infiel/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIN AIRE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261008T200500
+DTSTAMP:20261008T210000Z
+UID:202610081800-Cine-York-SIN-AIRE@lumiton.ar
+DESCRIPTION:Sinopsis: En un pequeño pueblo húngaro\, Ana Bauch es una de
+ dicada y progresista profesora de literatura en el sistema público.…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/sin-aire/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sin-aire/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AINDA -  HIMNOS NACIONALES VOL.1
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261008T223500
+DTSTAMP:20261008T233000Z
+UID:202610082030-Cine-York-AINDA-- -HIMNOS-NACI@lumiton.ar
+DESCRIPTION:Sinopsis: Esmeralda Escalante y Yago Escrivá vuelven a las ra
+ íces como intérpretes con 9 clásicos del repertorio nacional. El dúo
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/ainda-himn
+ os-nacionales-vol-1/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ainda-himnos-nacionales-vol-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEACOCK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
+DTSTAMP:20261009T210000Z
+UID:202610091800-Cine-York-PEACOCK@lumiton.ar
+DESCRIPTION:Sinopsis: Matthias dirige una exitosa agencia de alquiler de a
+ migos\, pero en cuanto su novia Sophia rompe con él\, su…\n\nVenue: Cin
+ e York\n\nMore info: https://lumiton.ar/evento/peacock/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/peacock/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUATRO MADRES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261009T223500
+DTSTAMP:20261009T233000Z
+UID:202610092030-Cine-York-CUATRO-MADRES@lumiton.ar
+DESCRIPTION:Sinopsis: Un novelista en apuros se ve obligado a cuidar de tr
+ es mujeres mayores excéntricas\, y de su propia madre\,…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/cuatro-madres/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuatro-madres/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMER CUENTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T190500
+DTSTAMP:20261010T200000Z
+UID:202610101700-Cine-York-COMER-CUENTA@lumiton.ar
+DESCRIPTION:Sinopsis: El cambio del patrón alimenticio\, el entorno obeso
+ génico y el sedentarismo son algunas de las causas que hacen que…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/comer-cuenta/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/comer-cuenta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MISTERIOSO ASESINATO EN LA MONTAÑA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
+DTSTAMP:20261010T210000Z
+UID:202610101800-Cine-York-MISTERIOSO-ASESINATO@lumiton.ar
+DESCRIPTION:Sinopsis: Michel y Cathy\, una pareja agobiada por el tiempo y
+  las dificultades económicas\, apenas se hablan. Hasta que un…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/misterioso-asesinato-e
+ n-la-montana/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/misterioso-asesinato-en-la-montana/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VOCES DE LIBERTAD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T220500
+DTSTAMP:20261010T230000Z
+UID:202610102000-Cine-York-VOCES-DE-LIBERTAD@lumiton.ar
+DESCRIPTION:Sinopsis: Ambientada en los tumultuosos años 60 en la radio c
+ hecoslovaca. La historia se centra en un grupo de periodistas…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/voces-de-libertad/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/voces-de-libertad/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WESER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T180500
+DTSTAMP:20261011T190000Z
+UID:202610111600-Cine-York-WESER@lumiton.ar
+DESCRIPTION:Sinopsis: En un pequeño pueblo costero\, un grupo de personas
+  aisladas durante la cuarentena del COVID busca consuelo y sentido…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/weser/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/weser/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIERRA CITRUS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T200500
+DTSTAMP:20261011T210000Z
+UID:202610111800-Cine-York-TIERRA-CITRUS@lumiton.ar
+DESCRIPTION:Sinopsis: En los campos de limones de Alpachiri\, en el norte 
+ argentino\, los cuerpos explotados de los trabajadores de la…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/tierra-citrus/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tierra-citrus/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STELIOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T213500
+DTSTAMP:20261011T223000Z
+UID:202610111930-Cine-York-STELIOS@lumiton.ar
+DESCRIPTION:Sinopsis: La película Stelios (cuyo título original es Yparh
+ o) narra la vida del legendario cantante griego Stelios Kazantzidis. La hi
+ storia…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/stel
+ ios/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/stelios/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIETE DÍAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200500
+DTSTAMP:20261015T210000Z
+UID:202610151800-Cine-York-SIETE-DÍAS@lumiton.ar
+DESCRIPTION:Sinopsis: Una activista iraní de derechos humanos\, a quien s
+ e le ha concedido un permiso médico de siete días\, debe…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/siete-dias/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/siete-dias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA MEMORIA DEL PERFUME DE LAS COSAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261015T223500
+DTSTAMP:20261015T233000Z
+UID:202610152030-Cine-York-LA-MEMORIA-DEL-PERFU@lumiton.ar
+DESCRIPTION:Sinopsis: Un drama íntimo sobre un veterano de la guerra colo
+ nial que se ve obligado a ingresar en una residencia…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/la-memoria-del-perfume-de-las-co
+ sas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-memoria-del-perfume-de-las-cosas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRAŽEN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T200500
+DTSTAMP:20261016T210000Z
+UID:202610161800-Cine-York-DRAŽEN@lumiton.ar
+DESCRIPTION:Sinopsis: La película narra la vida de Drazen Petrovic\, leye
+ nda del baloncesto croata y europeo. Destacando su vida personal y…\n\nV
+ enue: Cine York\n\nMore info: https://lumiton.ar/evento/drazen/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/drazen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA GIOIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T223500
+DTSTAMP:20261016T233000Z
+UID:202610162030-Cine-York-LA-GIOIA@lumiton.ar
+DESCRIPTION:Sinopsis: Gioia es una profesora de instituto que nunca ha con
+ ocido el amor. Uno de los alumnos de su instituto\,…\n\nVenue: Cine York
+ \n\nMore info: https://lumiton.ar/evento/la-gioia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-gioia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VICENTE LÓPEZ EN PANTALLA: PROGRAMA DE CORTOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T190500
+DTSTAMP:20261018T200000Z
+UID:202610181700-Cine-York-VICENTE-LÓPEZ-EN-PAN@lumiton.ar
+DESCRIPTION:Se proyectarán los cortometrajes:• Los Pantonne (Dir. Flore
+ ncia Momo) | Argentina / 2025 / 21 min / ATPLeonardo\, sumido en…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/vicente-lopez-en-pan
+ talla-programa-de-cortos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vicente-lopez-en-pantalla-programa-de-cortos
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO MATAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T200500
+DTSTAMP:20261018T210000Z
+UID:202610181800-Cine-York-NO-MATAR@lumiton.ar
+DESCRIPTION:Sinopsis: Un ejercicio de memoria crítica sobre la violencia 
+ revolucionaria en Argentina en la década de 1970. Incluye testimonios de
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-matar/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-matar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OCTUBRE 23\, UNA HISTORIA DE ESTUDIANTES SECUNDARIOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261023T200500
+DTSTAMP:20261023T210000Z
+UID:202610231800-Cine-York-OCTUBRE-23\,-UNA-HIST@lumiton.ar
+DESCRIPTION:Sinopsis: Relata el secuestro y desaparición de cinco estudia
+ ntes secundarios del Colegio Nacional de Vicente López durante la última
+  dictadura…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
+ octubre-23-una-historia-de-estudiantes-secundarios/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/octubre-23-una-historia-de-estudiantes-secun
+ darios/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ROCKY HORROR PICTURE SHOW
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261023T223500
+DTSTAMP:20261023T233000Z
+UID:202610232030-Cine-York-THE-ROCKY-HORROR-PIC@lumiton.ar
+DESCRIPTION:Sinopsis: Janet y Brad son una pareja que\, de regreso de la b
+ oda de unos amigos\, acaban por refugiarse en…\n\nVenue: Cine York\n\nMo
+ re info: https://lumiton.ar/evento/the-rocky-horror-picture-show/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-rocky-horror-picture-show/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HORA DEL ESPANTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261024T200500
+DTSTAMP:20261024T210000Z
+UID:202610241800-Cine-York-LA-HORA-DEL-ESPANTO@lumiton.ar
+DESCRIPTION:Sinopsis: Un adolescente descubre que el recién llegado a su 
+ barrio es un vampiro\, por lo que recurre a un…\n\nVenue: Cine York\n\nM
+ ore info: https://lumiton.ar/evento/la-hora-del-espanto/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-hora-del-espanto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PESADILLA EN LO PROFUNDO DE LA NOCHE 3: GUERREROS DEL SUEÑO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261024T223500
+DTSTAMP:20261024T233000Z
+UID:202610242030-Cine-York-PESADILLA-EN-LO-PROF@lumiton.ar
+DESCRIPTION:Sinopsis: Sobrevivientes del asesino serial no muerto Freddy K
+ rueger –quien acecha a sus víctimas en sus sueños– aprenden a tomar
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pesadilla-
+ en-lo-profundo-de-la-noche-3-guerreros-del-sueno/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pesadilla-en-lo-profundo-de-la-noche-3-guerr
+ eros-del-sueno/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VAMPIROS EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T200500
+DTSTAMP:20261025T210000Z
+UID:202610251800-Cine-York-VAMPIROS-EN-35-MM@lumiton.ar
+DESCRIPTION:Sinopsis: Desde que sus padres fueron asesinados por vampiros\
+ , Jack Crow busca venganza. Debe recuperar una antigua reliquia católica 
+ que\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/vampi
+ ros-en-35-mm/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vampiros-en-35-mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRÁCULA\, DE BRAM STOKER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T223500
+DTSTAMP:20261025T233000Z
+UID:202610252030-Cine-York-DRÁCULA\,-DE-BRAM-STO@lumiton.ar
+DESCRIPTION:Sinopsis: Antes de convertirse en un vampiro\, el conde Drácu
+ la era el príncipe Vlad\, que al enterarse de la muerte…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/dracula-de-bram-stoker/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/dracula-de-bram-stoker/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL LLANTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261029T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261029T200500
+DTSTAMP:20261029T210000Z
+UID:202610291800-Cine-York-EL-LLANTO@lumiton.ar
+DESCRIPTION:Sinopsis: Algo acecha a Andrea\, pero nadie sabe lo que es. Ha
+ ce veinte años\, la misma presencia aterrorizaba a Marie.…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/el-llanto/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-llanto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿QUÉ CLASE DE JOVEN LE ABRE LA PUERTA A UN VAMPIRO?
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261029T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261029T223500
+DTSTAMP:20261029T233000Z
+UID:202610292030-Cine-York-¿QUÉ-CLASE-DE-JOVEN-@lumiton.ar
+DESCRIPTION:Sinopsis: Boom Boom Kid y Martiniano Zurita hallan un Super 8 
+ perdido\, Drácula en Campana. Vuelven a su ciudad para…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/que-clase-de-joven-le-abre-la
+ -puerta-a-un-vampiro/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/que-clase-de-joven-le-abre-la-puerta-a-un-va
+ mpiro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUERE\, MONSTRUO\, MUERE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261030T200500
+DTSTAMP:20261030T210000Z
+UID:202610301800-Cine-York-MUERE\,-MONSTRUO\,-MUE@lumiton.ar
+DESCRIPTION:Sinopsis: En una zona un tanto alejada de la Cordillera de los
+  Andes\, encuentran el cuerpo cercenado de una mujer.…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/muere-monstruo-muere/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/muere-monstruo-muere/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOSFERATU MUSICALIZADA POR EL JUEGO INFINITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261030T223500
+DTSTAMP:20261030T233000Z
+UID:202610302030-Cine-York-NOSFERATU-MUSICALIZA@lumiton.ar
+DESCRIPTION:Sinopsis: Este clásico del cine mudo narra la historia de Tho
+ mas Hutter\, un joven que viaja a los Cárpatos para…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/nosferatu-musicalizada-por-el-ju
+ ego-infinito/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nosferatu-musicalizada-por-el-juego-infinito
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL EXORCISTA EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T230500
+DTSTAMP:20261101T000000Z
+UID:202610312100-Cine-York-EL-EXORCISTA-EN-35-M@lumiton.ar
+DESCRIPTION:Sinopsis: Una niña de doce años inesperadamente\, presenta l
+ os síntomas de haber sido poseída por el demonio. Ante este hecho\,…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-exorcista-en
+ -35-mm/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-exorcista-en-35-mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO MATAR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261101T200500
+DTSTAMP:20261101T210000Z
+UID:202611011800-Cine-York-NO-MATAR@lumiton.ar
+DESCRIPTION:Sinopsis: Un ejercicio de memoria crítica sobre la violencia 
+ revolucionaria en Argentina en la década de 1970. Incluye testimonios de
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-matar-2
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-matar-2/
 END:VEVENT
 END:VCALENDAR

@@ -102,21 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TV INFANTIL DE LOS 70 Y 80: MARGARITO Y SUS AMIGOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260826T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260826T210500
-DTSTAMP:20260826T220000Z
-UID:202608261900-Lumiton-LA-TV-INFANTIL-DE-LO@lumiton.ar
-DESCRIPTION:En agosto\, te invitamos a acercarte al maravilloso mundo de l
- os niños en las décadas de los 70s y 80s.…\n\nVenue: Lumiton\n\nMore i
- nfo: https://lumiton.ar/evento/la-tv-infantil-de-los-70-y-80-margarito-y-s
- us-amigos/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-tv-infantil-de-los-70-y-80-margarito-y-su
- s-amigos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 
  Lumiton’
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T170000
@@ -201,5 +186,44 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA TRAMPA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
+DTSTAMP:20261001T210000Z
+UID:202610011800-Lumiton-LA-TRAMPA@lumiton.ar
+DESCRIPTION:Sinopsis: Zully Moreno se entrega a la mano directiva de Chris
+ tensen\, quien en ésta\, su última película para Lumiton\, logra…\n\n
+ Venue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-trampa-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-trampa-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SARA FACIO\, HABER ESTADO AHÍ
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
+DTSTAMP:20261009T210000Z
+UID:202610091800-Lumiton-SARA-FACIO\,-HABER-ES@lumiton.ar
+DESCRIPTION:Sinopsis: A mediados de los 50's\, Sara Facio irrumpe en el mu
+ ndo de la fotografía y descubre que es un…\n\nVenue: Lumiton\n\nMore in
+ fo: https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNA LUZ EN LA VENTANA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
+DTSTAMP:20261010T210000Z
+UID:202610101800-Lumiton-UNA-LUZ-EN-LA-VENTAN@lumiton.ar
+DESCRIPTION:Sinopsis: Una joven enfermera es contratada por una anciana qu
+ e vive en una antigua casona. La joven llega una noche…\n\nVenue: Lumito
+ n\n\nMore info: https://lumiton.ar/evento/una-luz-en-la-ventana-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
 END:VEVENT
 END:VCALENDAR
