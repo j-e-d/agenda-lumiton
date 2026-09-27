@@ -370,20 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL CURA LORENZO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260827T203500
-DTSTAMP:20260827T213000Z
-UID:202608271830-Centro-Cultural-Munro-EL-CURA-LORENZO@lumiton.ar
-DESCRIPTION:La película cuenta la vida del cura Lorenzo Massa (1882-1949)
- \, inspirador del club porteño San Lorenzo de Almagro.  Más que…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-cur
- a-lorenzo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-cura-lorenzo/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL PEQUEÑO NINJA: EL ORÍGEN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T183500

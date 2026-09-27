@@ -1746,46 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:METROPOLIS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260827T200500
-DTSTAMP:20260827T210000Z
-UID:202608271800-Cine-York-METROPOLIS@lumiton.ar
-DESCRIPTION:En una ciudad futurista dividida entre la clase trabajadora y 
- los planificadores de la misma\, el hijo de un magnate…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/metropolis/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/metropolis/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL CURA LORENZO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260827T203500
-DTSTAMP:20260827T213000Z
-UID:202608271830-Centro-Cultural-Munro-EL-CURA-LORENZO@lumiton.ar
-DESCRIPTION:La película cuenta la vida del cura Lorenzo Massa (1882-1949)
- \, inspirador del club porteño San Lorenzo de Almagro.  Más que…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-cur
- a-lorenzo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-cura-lorenzo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE LAST PICTURE SHOW
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260827T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260827T223500
-DTSTAMP:20260827T233000Z
-UID:202608272030-Cine-York-THE-LAST-PICTURE-SHO@lumiton.ar
-DESCRIPTION:En la década de los 50\, en una pequeña ciudad de Texas\, un
-  grupo de jóvenes afronta el paso de…\n\nVenue: Cine York\n\nMore info:
-  https://lumiton.ar/evento/the-last-picture-show/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-last-picture-show/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:M\, EL VAMPIRO NEGRO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260828T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260828T200500
