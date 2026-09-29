@@ -102,22 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VISITA GUIADA | ‘Un recorrido por la historia de las mujeres en 
- Lumiton’
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260829T190500
-DTSTAMP:20260829T200000Z
-UID:202608291700-Lumiton-VISITA-GUIADA-|-‘Un-@lumiton.ar
-DESCRIPTION:A cargo de Candela VeyEn las historias del cine siempre se nos
-  habló de los grandes directores y los grandes…\n\nVenue: Lumiton\n\nMo
- re info: https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-histo
- ria-de-las-mujeres-en-lumiton/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/visita-guiada-un-recorrido-por-la-historia-d
- e-las-mujeres-en-lumiton/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NO SALGAS ESTA NOCHE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
@@ -225,5 +209,19 @@ DESCRIPTION:Sinopsis: Una joven enfermera es contratada por una anciana qu
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNA VELADA CON NARCISO IBÁÑEZ MENTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261030T210500
+DTSTAMP:20261030T220000Z
+UID:202610301900-Lumiton-UNA-VELADA-CON-NARCI@lumiton.ar
+DESCRIPTION:Narciso Ibáñez Menta\, el referente indiscutido del suspenso
+  y el cine de género en la Argentina\, vuelve al lugar que…\n\nVenue: L
+ umiton\n\nMore info: https://lumiton.ar/evento/una-velada-con-narciso-iban
+ ez-menta/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/una-velada-con-narciso-ibanez-menta/
 END:VEVENT
 END:VCALENDAR

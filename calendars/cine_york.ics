@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VELVET GOLDMINE EN 35 MM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260829T190500
-DTSTAMP:20260829T200000Z
-UID:202608291700-Cine-York-VELVET-GOLDMINE-EN-3@lumiton.ar
-DESCRIPTION:En 1984\, el periodista británico Arthur Stuart investiga la 
- carrera de Brian Slade\, la superestrella del glam de la década…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/velvet-goldmine-en-3
- 5-mm/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/velvet-goldmine-en-35-mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL TESTAMENTO DEL DR. MABUSE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260829T223500
-DTSTAMP:20260829T233000Z
-UID:202608292030-Cine-York-EL-TESTAMENTO-DEL-DR@lumiton.ar
-DESCRIPTION:Una nueva ola de crímenes se apodera de la ciudad y todas las
-  pistas parecen conducir al infame Dr. Mabuse\,…\n\nVenue: Cine York\n\n
- More info: https://lumiton.ar/evento/el-testamento-del-dr-mabuse/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-testamento-del-dr-mabuse/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ALPHAVILLE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T200500
@@ -2346,9 +2319,9 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261030T200500
 DTSTAMP:20261030T210000Z
 UID:202610301800-Cine-York-MUERE\,-MONSTRUO\,-MUE@lumiton.ar
-DESCRIPTION:Sinopsis: En una zona un tanto alejada de la Cordillera de los
-  Andes\, encuentran el cuerpo cercenado de una mujer.…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/muere-monstruo-muere/
+DESCRIPTION:Sinopsis: Al pie de los Andes nevados\, Cruz\, oficial de la p
+ olicía rural\, investiga el hallazgo del cuerpo de una…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/muere-monstruo-muere/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muere-monstruo-muere/
@@ -2395,5 +2368,33 @@ DESCRIPTION:Sinopsis: Un ejercicio de memoria crítica sobre la violencia
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/no-matar-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL RITUAL DEL NAHUAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261017T200500
+DTSTAMP:20261017T210000Z
+UID:202610171800-Cine-York-EL-RITUAL-DEL-NAHUAL@lumiton.ar
+DESCRIPTION:Sinopsis: En  San Luis Potosí\, una ola de asesinatos infant
+ iles aterroriza a una aldea aislada. Un agente federal investiga los…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-ritual-del-na
+ hual/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-ritual-del-nahual/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO ME SIGAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261017T223500
+DTSTAMP:20261017T233000Z
+UID:202610172030-Cine-York-NO-ME-SIGAS@lumiton.ar
+DESCRIPTION:Sinopsis: Carla sueña con convertirse en una gran influencer\
+ , para conseguirlo decide fingir un embrujo en su apartamento. Sin embargo
+ \,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-me-si
+ gas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/no-me-sigas/
 END:VEVENT
 END:VCALENDAR
