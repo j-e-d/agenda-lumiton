@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL PEQUEÑO NINJA: EL ORÍGEN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T183500
-DTSTAMP:20260830T193000Z
-UID:202608301630-Centro-Cultural-Munro-EL-PEQUEÑO-NINJA:-EL@lumiton.ar
-DESCRIPTION:Alex solo quiere una vida normal: amigos\, escuela y cero aven
- turas peligrosas. Pero su amigo ninja mágico se siente ignorado.…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-pequ
- eno-ninja-el-origen/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-pequeno-ninja-el-origen/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALPHAVILLE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T200500
-DTSTAMP:20260830T210000Z
-UID:202608301800-Cine-York-ALPHAVILLE@lumiton.ar
-DESCRIPTION:Un agente secreto de los Estados Unidos es enviado a la lejana
-  ciudad espacial de Alphaville\, donde debe encontrar a…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/alphaville-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alphaville-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PERFECT BLUE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T203500
-DTSTAMP:20260830T213000Z
-UID:202608301830-Centro-Cultural-Munro-PERFECT-BLUE@lumiton.ar
-DESCRIPTION:Una ex cantante de pop que ahora es actriz es acosada por un f
- an obsesionado y un fantasma de su…\n\nVenue: Centro Cultural Munro\n\nM
- ore info: https://lumiton.ar/evento/perfect-blue/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/perfect-blue/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL DESPRECIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T223500
-DTSTAMP:20260830T233000Z
-UID:202608302030-Cine-York-EL-DESPRECIO@lumiton.ar
-DESCRIPTION:Paul Javal recibe el encargo de escribir un guión para una nu
- eva adaptación de ‘La Odisea’ de Homero. Pronto queda…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/el-desprecio-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-desprecio-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA I
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500

@@ -370,33 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL PEQUEÑO NINJA: EL ORÍGEN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T183500
-DTSTAMP:20260830T193000Z
-UID:202608301630-Centro-Cultural-Munro-EL-PEQUEÑO-NINJA:-EL@lumiton.ar
-DESCRIPTION:Alex solo quiere una vida normal: amigos\, escuela y cero aven
- turas peligrosas. Pero su amigo ninja mágico se siente ignorado.…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-pequ
- eno-ninja-el-origen/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-pequeno-ninja-el-origen/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PERFECT BLUE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260830T203500
-DTSTAMP:20260830T213000Z
-UID:202608301830-Centro-Cultural-Munro-PERFECT-BLUE@lumiton.ar
-DESCRIPTION:Una ex cantante de pop que ahora es actriz es acosada por un f
- an obsesionado y un fantasma de su…\n\nVenue: Centro Cultural Munro\n\nM
- ore info: https://lumiton.ar/evento/perfect-blue/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/perfect-blue/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MÁS CORAZÓN QUE ODIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260903T203500
