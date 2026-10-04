@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MÁS CORAZÓN QUE ODIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260903T203500
-DTSTAMP:20260903T213000Z
-UID:202609031830-Centro-Cultural-Munro-MÁS-CORAZÓN-QUE-ODIO@lumiton.ar
-DESCRIPTION:Sinopsis: El veterano de guerra\, Ethan Edwards\, se une a un 
- grupo que pretende dar caza a los indios comanches…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/mas-corazon-que-odio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mas-corazon-que-odio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BUTCH CASSIDY
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260910T203500

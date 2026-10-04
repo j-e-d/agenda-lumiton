@@ -1871,46 +1871,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEETLEJUICE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260903T200500
-DTSTAMP:20260903T210000Z
-UID:202609031800-Cine-York-BEETLEJUICE@lumiton.ar
-DESCRIPTION:Sinopsis: Los espíritus de una pareja fallecida son acosados 
- por una familia insoportable que se ha mudado a su hogar…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/beetlejuice/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/beetlejuice/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MÁS CORAZÓN QUE ODIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260903T203500
-DTSTAMP:20260903T213000Z
-UID:202609031830-Centro-Cultural-Munro-MÁS-CORAZÓN-QUE-ODIO@lumiton.ar
-DESCRIPTION:Sinopsis: El veterano de guerra\, Ethan Edwards\, se une a un 
- grupo que pretende dar caza a los indios comanches…\n\nVenue: Centro Cul
- tural Munro\n\nMore info: https://lumiton.ar/evento/mas-corazon-que-odio/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mas-corazon-que-odio/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL JOVEN MANOS DE TIJERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260903T223500
-DTSTAMP:20260903T233000Z
-UID:202609032030-Cine-York-EL-JOVEN-MANOS-DE-TI@lumiton.ar
-DESCRIPTION:Sinopsis: Creado por un inventor que murió antes de completar
- lo\, Edward vive aislado con tijeras en lugar de manos. Su…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/el-joven-manos-de-tijera-2
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-joven-manos-de-tijera-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL GRAN PEZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260904T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260904T223500
