@@ -1871,19 +1871,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL GRAN PEZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260904T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260904T223500
-DTSTAMP:20260904T233000Z
-UID:202609042030-Cine-York-EL-GRAN-PEZ@lumiton.ar
-DESCRIPTION:Sinopsis: Tras regresar a casa para estar al lado de su padre 
- moribundo\, William Bloom se ve forzado a escuchar…\n\nVenue: Cine York\
- n\nMore info: https://lumiton.ar/evento/el-gran-pez-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-gran-pez-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NO SALGAS ESTA NOCHE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
