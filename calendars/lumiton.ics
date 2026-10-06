@@ -102,19 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NO SALGAS ESTA NOCHE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260905T200500
-DTSTAMP:20260905T210000Z
-UID:202609051800-Lumiton-NO-SALGAS-ESTA-NOCHE@lumiton.ar
-DESCRIPTION:Una adolescente de 16 años se instala en la casa de su tía d
- octora. A su vez\, un joven mujeriego…\n\nVenue: Lumiton\n\nMore info: h
- ttps://lumiton.ar/evento/no-salgas-esta-noche/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/no-salgas-esta-noche/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¿POR QUÉ MINTIÓ LA CIGÜEÑA?
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500
