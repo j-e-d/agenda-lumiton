@@ -1410,47 +1410,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FRANKENWEENIE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260906T180500
-DTSTAMP:20260906T190000Z
-UID:202609061600-Cine-York-FRANKENWEENIE@lumiton.ar
-DESCRIPTION:Sinopsis: Cuando el perro de un niño muere repentinamente\, i
- ntenta revivirlo a través de un poderoso experimento científico. Reseña
- : La…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/franke
- nweenie-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/frankenweenie-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MADRES JÓVENES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260906T200500
-DTSTAMP:20260906T210000Z
-UID:202609061800-Cine-York-MADRES-JÓVENES@lumiton.ar
-DESCRIPTION:Sinopsis: Cinco madres jóvenes que viven en un refugio luchan
-  por un mejor futuro para ellas y sus hijos a…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/madres-jovenes/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/madres-jovenes/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE SOUFFLEUR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260906T223500
-DTSTAMP:20260906T233000Z
-UID:202609062030-Cine-York-THE-SOUFFLEUR@lumiton.ar
-DESCRIPTION:Sinopsis: Un gerente hotelero en Viena lucha contra un agente 
- inmobiliario que busca demoler su propiedad\, afectando hasta la receta…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/the-souffleur
- /
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-souffleur/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA NIÑA QUE SALTA EN EL TIEMPO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260910T223500
