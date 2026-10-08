@@ -2264,4 +2264,19 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/no-me-sigas/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VICENTE LÓPEZ EN PANTALLA: PROGRAMA DE CORTOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261101T190500
+DTSTAMP:20261101T200000Z
+UID:202611011700-Cine-York-VICENTE-LÓPEZ-EN-PAN@lumiton.ar
+DESCRIPTION:Se proyectarán los cortometrajes:• Mal trago (Dir. Santino 
+ Taratuto) | Argentina / 2024 / 18 min / +13Ella tiene diez…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/vicente-lopez-en-pantalla-
+ programa-de-cortos-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vicente-lopez-en-pantalla-programa-de-cortos
+ -2/
+END:VEVENT
 END:VCALENDAR
