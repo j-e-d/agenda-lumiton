@@ -1285,20 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA I
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260910T200500
-DTSTAMP:20260910T210000Z
-UID:202609101800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
-DESCRIPTION:Primera jornada dedicada exclusivamente a los cortometrajes se
- leccionados en la Convocatoria Miradas Argentina 2026. La continuidad de l
- os patios (Dir.…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
- ento/convocatoria-de-cortos-programa-i/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-i/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA II
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260911T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260911T200500
@@ -1408,19 +1394,6 @@ DESCRIPTION:Sinopsis: Basada en una historia de Hernán Casciari. "Canelon
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA NIÑA QUE SALTA EN EL TIEMPO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260910T223500
-DTSTAMP:20260910T233000Z
-UID:202609102030-Cine-York-LA-NIÑA-QUE-SALTA-EN@lumiton.ar
-DESCRIPTION:Sinopsis: La época escolar es una de las más entrañables de
-  la adolescencia. Para la joven Makoto y sus amigos…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/la-nina-que-salta-en-el-tiempo/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-nina-que-salta-en-el-tiempo/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESCUELA ENCANTADA 4

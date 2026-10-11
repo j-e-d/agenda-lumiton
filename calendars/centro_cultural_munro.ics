@@ -370,19 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BUTCH CASSIDY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260910T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260910T203500
-DTSTAMP:20260910T213000Z
-UID:202609101830-Centro-Cultural-Munro-BUTCH-CASSIDY@lumiton.ar
-DESCRIPTION:Sinopsis: Principios del siglo veinte\, en Wyoming. Butch Cass
- idy y The Sundance Kid son los líderes de una banda de…\n\nVenue: Centr
- o Cultural Munro\n\nMore info: https://lumiton.ar/evento/butch-cassidy/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/butch-cassidy/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BATMAN: LA MÁSCARA DEL FANTASMA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260913T183500
