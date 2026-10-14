@@ -370,34 +370,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BATMAN: LA MÁSCARA DEL FANTASMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260913T183500
-DTSTAMP:20260913T193000Z
-UID:202609131630-Centro-Cultural-Munro-BATMAN:-LA-MÁSCARA-D@lumiton.ar
-DESCRIPTION:Sinopsis: Batman está implicado erróneamente en una serie de
-  asesinatos de jefes de la mafia cometidos por un nuevo asesino…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/batman-la
- -mascara-del-fantasma/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/batman-la-mascara-del-fantasma/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELVIS: THAT'S THE WAY IT IS!
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260913T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260913T203500
-DTSTAMP:20260913T213000Z
-UID:202609131830-Centro-Cultural-Munro-ELVIS:-THAT'S-THE-WA@lumiton.ar
-DESCRIPTION:Sinopsis: Después de años de hacer películas\, el Rey hizo 
- un regreso triunfal a los escenarios en 1970. El documental…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/elvis-thats-t
- he-way-it-is/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/elvis-thats-the-way-it-is/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WYATT EARP
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
