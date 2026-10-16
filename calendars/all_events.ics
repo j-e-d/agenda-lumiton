@@ -3003,4 +3003,155 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/vicente-lopez-en-pantalla-programa-de-cortos
  -2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 AÑOS DEL FESTIVAL LUZ DEL DESIERTO: EL CINE COMO TERRITORIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T130000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261022T150500
+DTSTAMP:20261022T160000Z
+UID:202610221300-Lumiton-10-AÑOS-DEL-FESTIVAL@lumiton.ar
+DESCRIPTION:El Festival Internacional de Cine Luz del Desierto llega a Vic
+ ente López con una actividad especial en el Museo Lumiton.…\n\nVenue: L
+ umiton\n\nMore info: https://lumiton.ar/evento/10-anos-del-festival-luz-de
+ l-desierto-el-cine-como-territorio/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/10-anos-del-festival-luz-del-desierto-el-cin
+ e-como-territorio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL MIEDO DEL ARQUERO AL TIRO PENAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261105T200500
+DTSTAMP:20261105T210000Z
+UID:202611051800-Cine-York-EL-MIEDO-DEL-ARQUERO@lumiton.ar
+DESCRIPTION:Sinopsis: Tras ser expulsado durante un partido\, un arquero c
+ omienza a vagar sin rumbo. En su recorrido conoce a una…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/el-miedo-del-arquero-al-tiro-
+ penal/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-miedo-del-arquero-al-tiro-penal/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALICIA EN LAS CIUDADES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261105T223500
+DTSTAMP:20261105T233000Z
+UID:202611052030-Cine-York-ALICIA-EN-LAS-CIUDAD@lumiton.ar
+DESCRIPTION:Sinopsis: Un periodista alemán queda inesperadamente a cargo 
+ de Alice\, una niña de nueve años\, y juntos emprenden un viaje…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/alicia-en-las-ciuda
+ des/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alicia-en-las-ciudades/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL ESTADO DE LAS COSAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261106T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261106T200500
+DTSTAMP:20261106T210000Z
+UID:202611061800-Cine-York-EL-ESTADO-DE-LAS-COS@lumiton.ar
+DESCRIPTION:Sinopsis: Una película profundamente personal sobre la realiz
+ ación cinematográfica en Europa y Estados Unidos. Un equipo de filmació
+ n queda varado…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
+ nto/el-estado-de-las-cosas/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-estado-de-las-cosas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUENA VISTA SOCIAL CLUB
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261106T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261106T223500
+DTSTAMP:20261106T233000Z
+UID:202611062030-Cine-York-BUENA-VISTA-SOCIAL-C@lumiton.ar
+DESCRIPTION:Sinopsis: Con un pequeño equipo\, Wim Wenders acompañó a su
+  amigo Ry Cooder a La Habana para grabar el material…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/buena-vista-social-club/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/buena-vista-social-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL AMIGO AMERICANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261107T223500
+DTSTAMP:20261107T233000Z
+UID:202611072030-Cine-York-EL-AMIGO-AMERICANO@lumiton.ar
+DESCRIPTION:Sinopsis: Jonathan Zimmermann\, un fabricante de marcos gravem
+ ente enfermo\, es manipulado por el misterioso Tom Ripley para cometer un 
+ asesinato…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/e
+ l-amigo-americano/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-amigo-americano/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EN EL CURSO DEL TIEMPO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T223500
+DTSTAMP:20261108T233000Z
+UID:202611082030-Cine-York-EN-EL-CURSO-DEL-TIEM@lumiton.ar
+DESCRIPTION:Sinopsis: Un reparador de proyectores y un psicólogo atorment
+ ado viajan a lo largo de la frontera interior de Alemania. Su…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/en-el-curso-del-tiempo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/en-el-curso-del-tiempo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOKYO-GA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T200500
+DTSTAMP:20261112T210000Z
+UID:202611121800-Cine-York-TOKYO-GA@lumiton.ar
+DESCRIPTION:Sinopsis: Wenders viaja a Tokio en busca del legado de Yasujir
+ o Ozu\, el maestro japonés del cine. Fascinado por su…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/tokyo-ga/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tokyo-ga/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS ALAS DEL DESEO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T223500
+DTSTAMP:20261112T233000Z
+UID:202611122030-Cine-York-LAS-ALAS-DEL-DESEO@lumiton.ar
+DESCRIPTION:Sinopsis: Un ángel en Berlín observa la vida humana\, contem
+ plando el sufrimiento y los deseos de las personas. Cuando se…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/las-alas-del-deseo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/las-alas-del-deseo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HASTA EL FIN DEL MUNDO - VERSIÓN DEL DIRECTOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261113T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261113T200500
+DTSTAMP:20261113T210000Z
+UID:202611131800-Cine-York-HASTA-EL-FIN-DEL-MUN@lumiton.ar
+DESCRIPTION:Sinopsis: Sam emprende un viaje alrededor del mundo para regis
+ trar imágenes que permitan ver a su madre ciega\, gracias a…\n\nVenue: 
+ Cine York\n\nMore info: https://lumiton.ar/evento/hasta-el-fin-del-mundo-v
+ ersion-del-director/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hasta-el-fin-del-mundo-version-del-director/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PARIS\, TEXAS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T180500
+DTSTAMP:20261115T190000Z
+UID:202611151600-Cine-York-PARIS\,-TEXAS@lumiton.ar
+DESCRIPTION:Sinopsis: Tras cuatro años desaparecido\, Travis reaparece so
+ lo y desorientado en el desierto de Texas. El reencuentro con su hermano
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/paris-texa
+ s-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/paris-texas-3/
+END:VEVENT
 END:VCALENDAR

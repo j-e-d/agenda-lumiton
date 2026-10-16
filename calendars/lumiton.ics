@@ -198,4 +198,19 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-velada-con-narciso-ibanez-menta/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 AÑOS DEL FESTIVAL LUZ DEL DESIERTO: EL CINE COMO TERRITORIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T130000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261022T150500
+DTSTAMP:20261022T160000Z
+UID:202610221300-Lumiton-10-AÑOS-DEL-FESTIVAL@lumiton.ar
+DESCRIPTION:El Festival Internacional de Cine Luz del Desierto llega a Vic
+ ente López con una actividad especial en el Museo Lumiton.…\n\nVenue: L
+ umiton\n\nMore info: https://lumiton.ar/evento/10-anos-del-festival-luz-de
+ l-desierto-el-cine-como-territorio/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/10-anos-del-festival-luz-del-desierto-el-cin
+ e-como-territorio/
+END:VEVENT
 END:VCALENDAR
