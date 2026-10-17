@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIJO MAYOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260916T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260916T223500
-DTSTAMP:20260916T233000Z
-UID:202609162030-Cine-York-HIJO-MAYOR@lumiton.ar
-DESCRIPTION:Sinopsis: Lila\, una adolescente coreana-argentina aún no ha 
- encontrado su lugar en el mundo. Su padre llega a Latinoamérica 18…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/hijo-mayor/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hijo-mayor/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOY TU MENSAJE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260917T200500
