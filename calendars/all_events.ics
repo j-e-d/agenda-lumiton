@@ -1746,19 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOY TU MENSAJE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T200500
-DTSTAMP:20260917T210000Z
-UID:202609171800-Cine-York-SOY-TU-MENSAJE@lumiton.ar
-DESCRIPTION:Sinopsis: Ana y Lucio inventan una religión y fundan un peque
- ño culto en una comunidad cerrada y adinerada donde cultivan…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/soy-tu-mensaje/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/soy-tu-mensaje/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA NOCHE ESTÁ MARCHÁNDOSE YA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260918T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260918T200500
@@ -1800,63 +1787,6 @@ DESCRIPTION:Sinopsis: Basada en una historia de Hernán Casciari. "Canelon
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WYATT EARP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
-DTSTAMP:20260917T213000Z
-UID:202609171830-Centro-Cultural-Munro-WYATT-EARP@lumiton.ar
-DESCRIPTION:Sinopsis: Una película sobre Wyatt Earp y su familia. El film
- e nos muestra los buenos y malos momentos de una…\n\nVenue: Centro Cultu
- ral Munro\n\nMore info: https://lumiton.ar/evento/wyatt-earp/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/wyatt-earp/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA PANDILLA SALVAJE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T203500
-DTSTAMP:20260917T213000Z
-UID:202609171830-Centro-Cultural-Munro-LA-PANDILLA-SALVAJE@lumiton.ar
-DESCRIPTION:Sinopsis: Un grupo de viejos criminales buscan su último gran
-  crimen mientras el tradicional Viejo Oeste desaparece ante sus ojos. …
- \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/l
- a-pandilla-salvaje/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-pandilla-salvaje/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MICHAEL JACKSON Y LA REVOLUCIÓN DEL VIDEOCLIP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T210500
-DTSTAMP:20260917T220000Z
-UID:202609171900-Lumiton-MICHAEL-JACKSON-Y-LA@lumiton.ar
-DESCRIPTION:En este nuevo encuentro de Lumiclub los invitamos a explorar c
- ómo Michael Jackson fue una figura decisiva en la transformación…\n\nV
- enue: Lumiton\n\nMore info: https://lumiton.ar/evento/michael-jackson-y-la
- -revolucion-del-videoclip/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/michael-jackson-y-la-revolucion-del-videocli
- p/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DURO DE SER HOMBRE: LOS AMORES DE TORA EN OSAKA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T223500
-DTSTAMP:20260917T233000Z
-UID:202609172030-Cine-York-DURO-DE-SER-HOMBRE:-@lumiton.ar
-DESCRIPTION:Sinopsis: Esta película es la obra número 27 de la famosa se
- rie japonesa protagonizada por Tora-san. Mientras recorre una isla…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/duro-de-ser-hombre
- -los-amores-de-tora-en-osaka/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/duro-de-ser-hombre-los-amores-de-tora-en-osa
- ka/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUMO SÍ\, SUMO NO

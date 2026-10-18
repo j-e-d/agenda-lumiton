@@ -102,21 +102,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MICHAEL JACKSON Y LA REVOLUCIÓN DEL VIDEOCLIP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260917T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260917T210500
-DTSTAMP:20260917T220000Z
-UID:202609171900-Lumiton-MICHAEL-JACKSON-Y-LA@lumiton.ar
-DESCRIPTION:En este nuevo encuentro de Lumiclub los invitamos a explorar c
- ómo Michael Jackson fue una figura decisiva en la transformación…\n\nV
- enue: Lumiton\n\nMore info: https://lumiton.ar/evento/michael-jackson-y-la
- -revolucion-del-videoclip/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/michael-jackson-y-la-revolucion-del-videocli
- p/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VISITA GUIADA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260923T183500
