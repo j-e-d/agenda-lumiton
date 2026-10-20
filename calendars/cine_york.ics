@@ -1285,21 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PARA HACER UNA PELÍCULA SOLO HACE FALTA UN ARMA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260919T200500
-DTSTAMP:20260919T210000Z
-UID:202609191800-Cine-York-PARA-HACER-UNA-PELÍC@lumiton.ar
-DESCRIPTION:Sinopsis: A mediados de los 70\, estudiantes de cine de la Uni
- versidad de Córdoba son perseguidos y sus películas destruidas…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/para-hacer-una-pelcu
- la-solo-hace-falta-un-arma/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/para-hacer-una-pelcula-solo-hace-falta-un-ar
- ma/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANELONES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260923T200500
@@ -1312,19 +1297,6 @@ DESCRIPTION:Sinopsis: Basada en una historia de Hernán Casciari. "Canelon
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HACHIKO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T210000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260919T230500
-DTSTAMP:20260920T000000Z
-UID:202609192100-Cine-York-HACHIKO@lumiton.ar
-DESCRIPTION:Sinopsis: Un cachorro nace en la prefectura de Akita y es envi
- ado como regalo al profesor Ueno\, de la Universidad…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/hachiko/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/hachiko/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OS HOMENS QUE EU TIVE
@@ -2223,5 +2195,31 @@ DESCRIPTION:Sinopsis: Tras cuatro años desaparecido\, Travis reaparece so
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/paris-texas-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOKYO-GA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261126T223500
+DTSTAMP:20261126T233000Z
+UID:202611262030-Cine-York-TOKYO-GA@lumiton.ar
+DESCRIPTION:Sinopsis: Wenders viaja a Tokio en busca del legado de Yasujir
+ o Ozu\, el maestro japonés del cine. Fascinado por su…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/tokyo-ga/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tokyo-ga/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS ALAS DEL DESEO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261128T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261128T223500
+DTSTAMP:20261128T233000Z
+UID:202611282030-Cine-York-LAS-ALAS-DEL-DESEO@lumiton.ar
+DESCRIPTION:Sinopsis: Un ángel en Berlín observa la vida humana\, contem
+ plando el sufrimiento y los deseos de las personas. Cuando se…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/las-alas-del-deseo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/las-alas-del-deseo/
 END:VEVENT
 END:VCALENDAR
