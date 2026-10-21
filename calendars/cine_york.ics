@@ -1299,33 +1299,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/canelones/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OS HOMENS QUE EU TIVE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260920T200500
-DTSTAMP:20260920T210000Z
-UID:202609201800-Cine-York-OS-HOMENS-QUE-EU-TIV@lumiton.ar
-DESCRIPTION:Sinopsis: Una mujer casada solo se siente bien cuando está en
- amorada. En busca de un amor arrollador\, tiene muchos amoríos\,…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/os-homens-que-eu-ti
- ve/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/os-homens-que-eu-tive/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXCALIBUR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260920T220500
-DTSTAMP:20260920T230000Z
-UID:202609202000-Cine-York-EXCALIBUR@lumiton.ar
-DESCRIPTION:Sinopsis: Excalibur narra la historia del rey Arturo\, desde l
- a obtención de la legendaria espada hasta su ascenso al trono…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/excalibur/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/excalibur/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MR. NOBODY AGAINST PUTIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260923T223500
