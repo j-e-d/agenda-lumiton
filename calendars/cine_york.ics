@@ -2195,4 +2195,18 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/las-alas-del-deseo/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOTEL TRANSYLVANIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T173000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T193500
+DTSTAMP:20261031T203000Z
+UID:202610311730-Cine-York-HOTEL-TRANSYLVANIA@lumiton.ar
+DESCRIPTION:Sinopsis: Drácula\, que dirige un complejo turístico de alto
+  nivel alejado del mundo humano\, se pone en modo sobreprotector cuando…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hotel-transyl
+ vania/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hotel-transylvania/
+END:VEVENT
 END:VCALENDAR
