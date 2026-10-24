@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANELONES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260923T200500
-DTSTAMP:20260923T210000Z
-UID:202609231800-Cine-York-CANELONES@lumiton.ar
-DESCRIPTION:Sinopsis: Basada en una historia de Hernán Casciari. "Canelon
- es"\, comedia negra inspirada en hechos reales\, sigue el secuestro de Chi
- chita\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/can
- elones/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/canelones/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MR. NOBODY AGAINST PUTIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260923T223500
-DTSTAMP:20260923T233000Z
-UID:202609232030-Cine-York-MR.-NOBODY-AGAINST-P@lumiton.ar
-DESCRIPTION:Sinopsis: Un maestro ruso documenta clandestinamente la milita
- rización y la propaganda que transforman su escuela. Reseña: Un retrato 
- urgente de…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- mr-nobody-against-putin/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mr-nobody-against-putin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MARINA ABRAMOVIĆ: THE ARTIST IS PRESENT
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260924T200500
@@ -1990,19 +1962,6 @@ DESCRIPTION:Sinopsis: Un recorrido por las mujeres pioneras que transforma
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/sisters-with-transistors/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VISITA GUIADA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260923T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260923T183500
-DTSTAMP:20260923T193000Z
-UID:202609231630-Lumiton-VISITA-GUIADA@lumiton.ar
-DESCRIPTION:¡Sábados en el Museo Lumiton! Además\, abrimos las puertas 
- para que conozcan el Museo y puedan asistir a la proyección…\n\nVenue: 
- Lumiton\n\nMore info: https://lumiton.ar/evento/visita-guiada/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/visita-guiada/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
