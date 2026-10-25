@@ -424,19 +424,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/moonage-daydream/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WYATT EARP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260924T203500
-DTSTAMP:20260924T213000Z
-UID:202609241830-Centro-Cultural-Munro-WYATT-EARP@lumiton.ar
-DESCRIPTION:Sinopsis: Una película sobre Wyatt Earp y su familia. El film
- e nos muestra los buenos y malos momentos de una…\n\nVenue: Centro Cultu
- ral Munro\n\nMore info: https://lumiton.ar/evento/wyatt-earp/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/wyatt-earp/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T203500

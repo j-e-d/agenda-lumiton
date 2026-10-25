@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MARINA ABRAMOVIĆ: THE ARTIST IS PRESENT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260924T200500
-DTSTAMP:20260924T210000Z
-UID:202609241800-Cine-York-MARINA-ABRAMOVIĆ:-TH@lumiton.ar
-DESCRIPTION:Sinopsis: Marina Abramović prepara una retrospectiva de su ob
- ra en el MoMA mientras enfrenta los límites físicos y emocionales de…\
- n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/marina-abramov
- ic-the-artist-is-present/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/marina-abramovic-the-artist-is-present/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA SAL DE LA TIERRA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260924T223500
-DTSTAMP:20260924T233000Z
-UID:202609242030-Cine-York-LA-SAL-DE-LA-TIERRA@lumiton.ar
-DESCRIPTION:Sinopsis: Un recorrido por la obra del fotógrafo Sebastião S
- algado\, sus viajes y los territorios que documentó durante décadas. Res
- eña:…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-sa
- l-de-la-tierra-3/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-sal-de-la-tierra-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SISTER WITH TRANSISTORS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
@@ -1908,32 +1880,6 @@ DESCRIPTION:Sinopsis: Una odisea cinematográfica que explora el viaje cre
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/moonage-daydream/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WYATT EARP
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260924T203500
-DTSTAMP:20260924T213000Z
-UID:202609241830-Centro-Cultural-Munro-WYATT-EARP@lumiton.ar
-DESCRIPTION:Sinopsis: Una película sobre Wyatt Earp y su familia. El film
- e nos muestra los buenos y malos momentos de una…\n\nVenue: Centro Cultu
- ral Munro\n\nMore info: https://lumiton.ar/evento/wyatt-earp/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/wyatt-earp/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KUSAMA: INFINITY
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260924T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260924T223500
-DTSTAMP:20260924T233000Z
-UID:202609242030-Cine-York-KUSAMA:-INFINITY@lumiton.ar
-DESCRIPTION:Sinopsis: Una de las artistas más famosas del mundo\, Kusama\
- , logró liberarse de la sociedad en la que se crió…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/kusama-infinity/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/kusama-infinity/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985
