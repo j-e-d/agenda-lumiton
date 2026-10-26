@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SISTER WITH TRANSISTORS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
-DTSTAMP:20260925T210000Z
-UID:202609251800-Cine-York-SISTER-WITH-TRANSIST@lumiton.ar
-DESCRIPTION:Sinopsis: Un recorrido por las mujeres pioneras que transforma
- ron la música electrónica mediante nuevas tecnologías.Reseña: La pelí
- cula recupera las historias…\n\nVenue: Cine York\n\nMore info: https://l
- umiton.ar/evento/sister-with-transistors/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sister-with-transistors/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PULP: ¿QUÉ HARÍAS POR UNA CANCIÓN MÁS?
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260925T223500
-DTSTAMP:20260925T233000Z
-UID:202609252030-Cine-York-PULP:-¿QUÉ-HARÍAS-PO@lumiton.ar
-DESCRIPTION:Sinopsis: Narra la extraordinaria trayectoria de la banda de S
- heffield\, desde el anonimato hasta convertirse en un referente cultural. 
- Combina…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pul
- p-que-harias-por-una-cancion-mas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pulp-que-harias-por-una-cancion-mas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BOWIE: THE FINAL ACT
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260926T200500
@@ -1896,20 +1868,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SISTERS WITH TRANSISTORS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
-DTSTAMP:20260925T210000Z
-UID:202609251800-Cine-York-SISTERS-WITH-TRANSIS@lumiton.ar
-DESCRIPTION:Sinopsis: Un recorrido por las mujeres pioneras que transforma
- ron la música electrónica mediante nuevas tecnologías.Reseña: La pelí
- cula recupera las historias…\n\nVenue: Cine York\n\nMore info: https://l
- umiton.ar/evento/sisters-with-transistors/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sisters-with-transistors/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
  NCIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T150000
@@ -1924,19 +1882,6 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I AM GRETA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260925T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260925T200500
-DTSTAMP:20260925T210000Z
-UID:202609251800-Cine-York-I-AM-GRETA@lumiton.ar
-DESCRIPTION:Sinopsis: La activista climática Greta Thunberg y su travesí
- a alrededor del mundo para que la gente escuche a los científicos…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/i-am-greta/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/i-am-greta/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DEL MAR A LA MONTAÑA
