@@ -1746,33 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BOWIE: THE FINAL ACT
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260926T200500
-DTSTAMP:20260926T210000Z
-UID:202609261800-Cine-York-BOWIE:-THE-FINAL-ACT@lumiton.ar
-DESCRIPTION:Sinopsis: Un recorrido por los últimos años de David Bowie y
-  por la creación de sus últimos trabajos\, incluido Blackstar.…\n\nVen
- ue: Cine York\n\nMore info: https://lumiton.ar/evento/bowie-the-final-act/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/bowie-the-final-act/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARRETERA PERDIDA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260926T223500
-DTSTAMP:20260926T233000Z
-UID:202609262030-Cine-York-CARRETERA-PERDIDA@lumiton.ar
-DESCRIPTION:Sinopsis: Un músico se ve atrapado en un misterio donde ident
- idad\, realidad y percepción comienzan a desintegrarse. Reseña: David Ly
- nch…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/carrete
- ra-perdida-2/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/carretera-perdida-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BATMAN & ROBIN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260927T183500
@@ -2862,5 +2835,45 @@ DESCRIPTION:Sinopsis: Miguel es un joven con el sueño de ser un gran mús
 LOCATION:Torre Ader
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/coco-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIDA ES UN TANGO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261104T200500
+DTSTAMP:20261104T210000Z
+UID:202611041800-Lumiton-LA-VIDA-ES-UN-TANGO@lumiton.ar
+DESCRIPTION:Una joven y un muchacho\, hijos de artistas que buscan triunfa
+ r con el tango viven un  romance\, con sus rupturas…\n\nVenue: Lumiton\
+ n\nMore info: https://lumiton.ar/evento/la-vida-es-un-tango-3/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARNAVAL DE ANTAÑO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T200500
+DTSTAMP:20261121T210000Z
+UID:202611211800-Lumiton-CARNAVAL-DE-ANTAÑO@lumiton.ar
+DESCRIPTION:Sabina Olmos interpreta a Margot\, un personaje emblemático\,
+  que la marcó a lo largo de toda su carrera. Buenos Aires…\n\nVenue: Lu
+ miton\n\nMore info: https://lumiton.ar/evento/carnaval-de-antano-2/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/carnaval-de-antano-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261123T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261123T210500
+DTSTAMP:20261123T220000Z
+UID:202611231900-Lumiton-LO-QUEER-EN-EL-CINE-@lumiton.ar
+DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
+ sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
+ ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
+ queer-en-el-cine-de-oro-argentino/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
 END:VEVENT
 END:VCALENDAR
