@@ -1746,59 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BATMAN & ROBIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T183500
-DTSTAMP:20260927T193000Z
-UID:202609271630-Centro-Cultural-Munro-BATMAN-&-ROBIN@lumiton.ar
-DESCRIPTION:Sinopsis: Batman y Robin trabajan codo a codo para detener a l
- os villanos de Gotham City\, pero hay tensión entre…\n\nVenue: Centro C
- ultural Munro\n\nMore info: https://lumiton.ar/evento/batman-robin/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/batman-robin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEMORIAS DEL BOSQUE OLVIDADO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T200500
-DTSTAMP:20260927T210000Z
-UID:202609271800-Cine-York-MEMORIAS-DEL-BOSQUE-@lumiton.ar
-DESCRIPTION:Este largometraje se proyecta luego del corto Del mar a la mon
- taña (Dir. Milagros Capdevila\, 2025)Sinopsis: En el corazón de…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/memorias-del-bosque
- -olvidado/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/memorias-del-bosque-olvidado/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE DOORS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T203500
-DTSTAMP:20260927T213000Z
-UID:202609271830-Centro-Cultural-Munro-THE-DOORS@lumiton.ar
-DESCRIPTION:Sinopsis: La historia del famoso e influyente grupo de rock de
-  los años 60\, The Doors\, y su cantante y…\n\nVenue: Centro Cultural M
- unro\n\nMore info: https://lumiton.ar/evento/the-doors/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-doors/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUATRO LAGUNAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T223500
-DTSTAMP:20260927T233000Z
-UID:202609272030-Cine-York-CUATRO-LAGUNAS@lumiton.ar
-DESCRIPTION:Sinopsis: Cuatro Lagunas sigue a Nico Pauls en un recorrido í
- ntimo por las lagunas costeras del este de Uruguay. A…\n\nVenue: Cine Yo
- rk\n\nMore info: https://lumiton.ar/evento/cuatro-lagunas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuatro-lagunas/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LEGO BATMAN: LA PELÍCULA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T183500
@@ -1855,34 +1802,6 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEL MAR A LA MONTAÑA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T200500
-DTSTAMP:20260927T210000Z
-UID:202609271800-Cine-York-DEL-MAR-A-LA-MONTAÑA@lumiton.ar
-DESCRIPTION:Este corto se proyecta previamente al largometraje Memorias de
- l bosque olvidado (Dir. Marcelo Viñas\, 2017)Sinopsis: Milagros Capdevila
-  y Luciana Gil…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
- nto/del-mar-a-la-montana/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/del-mar-a-la-montana/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MR. NOBODY AGAINST PUTIN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260927T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260927T180500
-DTSTAMP:20260927T190000Z
-UID:202609271600-Cine-York-MR.-NOBODY-AGAINST-P@lumiton.ar
-DESCRIPTION:Sinopsis: Un maestro ruso documenta clandestinamente la milita
- rización y la propaganda que transforman su escuela. Reseña: Un retrato 
- urgente de…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- mr-nobody-against-putin/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/mr-nobody-against-putin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA TRAMPA
@@ -2875,5 +2794,345 @@ DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAJO TUS PIES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261105T203500
+DTSTAMP:20261105T213000Z
+UID:202611051830-Centro-Cultural-Munro-BAJO-TUS-PIES@lumiton.ar
+DESCRIPTION:Sinopsis: Una madre y sus hijos se mudan a un lujoso edificio 
+ con renta sospechosamente baja. Luego de ser aceptados\,…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/bajo-tus-pies/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bajo-tus-pies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESE MANTO DE MISERICORDIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261107T190500
+DTSTAMP:20261107T200000Z
+UID:202611071700-Cine-York-ESE-MANTO-DE-MISERIC@lumiton.ar
+DESCRIPTION:Sinopsis: Desde su llegada a nuestro país en el año 1630\, N
+ uestra Señora de Luján es venerada por millones de…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/ese-manto-de-misericordia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ese-manto-de-misericordia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261107T200500
+DTSTAMP:20261107T210000Z
+UID:202611071800-Cine-York-MARY-OLIVER:-SAVED-B@lumiton.ar
+DESCRIPTION:Sinopsis: Mary Oliver: Saved by the Beauty of the World es un 
+ documental que recorre la vida y la obra…\n\nVenue: Cine York\n\nMore in
+ fo: https://lumiton.ar/evento/mary-oliver-saved-by-the-beauty-of-the-world
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mary-oliver-saved-by-the-beauty-of-the-world
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T183500
+DTSTAMP:20261108T193000Z
+UID:202611081630-Centro-Cultural-Munro-MI-POBRE-ANGELITO@lumiton.ar
+DESCRIPTION:Sinopsis: Un travieso niño de ocho años debe proteger su cas
+ a de unos ladrones cuando es accidentalmente olvidado en casa…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-an
+ gelito/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOVE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T200500
+DTSTAMP:20261108T210000Z
+UID:202611081800-Cine-York-TOVE@lumiton.ar
+DESCRIPTION:Sinopsis: La película está centrada en la vida de Tove Janss
+ on\, mostrando tanto sus relaciones personales como la creación de…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/tove/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tove/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T203500
+DTSTAMP:20261108T213000Z
+UID:202611081830-Centro-Cultural-Munro-MI-POBRE-ANGELITO-2:@lumiton.ar
+DESCRIPTION:Sinopsis: Kevin vuelve a ser separado de su familia cuando acc
+ identalmente se embarca en un vuelo con destino a la…\n\nVenue: Centro C
+ ultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-
+ perdido-en-nueva-york/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIJO MAYOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T203500
+DTSTAMP:20261112T213000Z
+UID:202611121830-Centro-Cultural-Munro-HIJO-MAYOR@lumiton.ar
+DESCRIPTION:Sinopsis: Lila\, una adolescente coreana-argentina aún no ha 
+ encontrado su lugar en el mundo. Su padre llega a Latinoamérica 18…\n\n
+ Venue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hijo-
+ mayor-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hijo-mayor-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL JUNCO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261114T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261114T200500
+DTSTAMP:20261114T210000Z
+UID:202611141800-Cine-York-EL-JUNCO@lumiton.ar
+DESCRIPTION:Sinopsis: En una pequeña localidad polaca a finales de los 50
+ \, una mujer madura\, casada con un médico local adicto…\n\nVenue: Cine
+  York\n\nMore info: https://lumiton.ar/evento/el-junco/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-junco/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KATYN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261114T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261114T220500
+DTSTAMP:20261114T230000Z
+UID:202611142000-Cine-York-KATYN@lumiton.ar
+DESCRIPTION:Sinopsis: Katyn investiga el asesinato de miles de oficiales p
+ olacos a manos de la policía secreta soviética durante la Segunda…\n\n
+ Venue: Cine York\n\nMore info: https://lumiton.ar/evento/katyn/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/katyn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCUELA DE ROCK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T183500
+DTSTAMP:20261115T193000Z
+UID:202611151630-Centro-Cultural-Munro-ESCUELA-DE-ROCK@lumiton.ar
+DESCRIPTION:Sinopsis: Tras ser expulsado de un grupo de rock\, Dewey Finn 
+ trabaja como profesor substituto en una estricta escuela privada\,…\n\nV
+ enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/escuel
+ a-de-rock-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/escuela-de-rock-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BARDI EL MURALISTA SECRETO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T203500
+DTSTAMP:20261115T213000Z
+UID:202611151830-Cine-York-BARDI-EL-MURALISTA-S@lumiton.ar
+DESCRIPTION:Sinopsis: Rodolfo Julio Bardi creó cerca de 400 murales en Bu
+ enos Aires y Vicente López entre las décadas de 1960…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/bardi-el-muralista-secreto/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/bardi-el-muralista-secreto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALESA\, LA ESPERANZA DE UN PUEBLO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T220500
+DTSTAMP:20261115T230000Z
+UID:202611152000-Cine-York-WALESA\,-LA-ESPERANZA@lumiton.ar
+DESCRIPTION:Sinopsis: Retrato de la vida del ganador del Premio Nobel de l
+ a Paz y fundador del movimiento de Solidaridad de…\n\nVenue: Cine York\n
+ \nMore info: https://lumiton.ar/evento/walesa-la-esperanza-de-un-pueblo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/walesa-la-esperanza-de-un-pueblo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA V
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261125T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261125T200500
+DTSTAMP:20261125T210000Z
+UID:202611251800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Una nueva jornada dedicada exclusivamente a los cortometrajes 
+ seleccionados en la Convocatoria Miradas Argentina 2026. La falta (Dir. Ca
+ rmela Sandberg…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
+ nto/convocatoria-de-cortos-programa-v/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-v/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261125T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261125T210500
+DTSTAMP:20261125T220000Z
+UID:202611251900-Lumiton-LO-QUEER-EN-EL-CINE-@lumiton.ar
+DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
+ sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
+ ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
+ queer-en-el-cine-de-oro-argentino/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLADIMIR EN BUENOS AIRES EN 35 MM
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261125T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261125T223500
+DTSTAMP:20261125T233000Z
+UID:202611252030-Cine-York-VLADIMIR-EN-BUENOS-A@lumiton.ar
+DESCRIPTION:Sinopsis: Tras la caída de la URSS\, un inmigrante ruso inten
+ ta reconstruir su vida en la caótica Buenos Aires de…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/vladimir-en-buenos-aires-en-35-
+ mm/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/vladimir-en-buenos-aires-en-35-mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA VI
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261126T200500
+DTSTAMP:20261126T210000Z
+UID:202611261800-Cine-York-CONVOCATORIA-DE-CORT@lumiton.ar
+DESCRIPTION:Una nueva jornada dedicada exclusivamente a los cortometrajes 
+ seleccionados en la Convocatoria Miradas Argentina 2026.El Borde de las Co
+ sas (Dir.…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/c
+ onvocatoria-de-cortos-programa-vi/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/convocatoria-de-cortos-programa-vi/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPERACIÓN ROSA ROSA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261126T203500
+DTSTAMP:20261126T213000Z
+UID:202611261830-Centro-Cultural-Munro-OPERACIÓN-ROSA-ROSA@lumiton.ar
+DESCRIPTION:Sinopsis: Sandro es requerido por los servicios secretos de su
+  país para desbaratar los planes de la organización criminal "Medusa".
+ …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
+ o/operacion-rosa-rosa/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/operacion-rosa-rosa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA IMAGEN SANTA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261127T200500
+DTSTAMP:20261127T210000Z
+UID:202611271800-Cine-York-LA-IMAGEN-SANTA@lumiton.ar
+DESCRIPTION:Sinopsis: Silvio Fabrykant\, autor de icónicos retratos de la
+  cultura popular argentina intenta escapar de la sombra de su imagen…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-imagen-santa/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-imagen-santa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HELLBENDER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261127T213500
+DTSTAMP:20261127T223000Z
+UID:202611271930-Centro-Cultural-Munro-HELLBENDER@lumiton.ar
+DESCRIPTION:Sinopsis: Víctima de una extraña enfermedad\, una joven inoc
+ ente vive en el medio del bosque con su madre\, lejos de…\n\nVenue: Cent
+ ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hellbender/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hellbender/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OLIVIA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261127T223500
+DTSTAMP:20261127T233000Z
+UID:202611272030-Cine-York-OLIVIA@lumiton.ar
+DESCRIPTION:Sinopsis: Sola en las montañas: Olivia\, su padre y su hogar.
+  Al pie de las colinas\, un matadero\, donde trabaja…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/olivia/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/olivia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALGO HA CAMBIADO: UN VIAJE QUIJOTESCO AL PAPPO'S BLUES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261128T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261128T200500
+DTSTAMP:20261128T210000Z
+UID:202611281800-Cine-York-ALGO-HA-CAMBIADO:-UN@lumiton.ar
+DESCRIPTION:Sinopsis: Documental que rastrea los orígenes del blues en es
+ pañol\, mientras rinde un homenaje a Deacon Jones y celebra su…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/algo-ha-cambiado-un-v
+ iaje-quijotesco-al-pappos-blues/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/algo-ha-cambiado-un-viaje-quijotesco-al-papp
+ os-blues/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COYOTE VS. ACME
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T183500
+DTSTAMP:20261129T193000Z
+UID:202611291630-Centro-Cultural-Munro-COYOTE-VS.-ACME@lumiton.ar
+DESCRIPTION:Sinopsis: Después de décadas fallando en atrapar al Correcam
+ inos\, el Coyote decide hacer lo impensado: demandar a ACME\, la compañí
+ a…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/even
+ to/coyote-vs-acme/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/coyote-vs-acme/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA VIDA ES BELLA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T200500
+DTSTAMP:20261129T210000Z
+UID:202611291800-Cine-York-LA-VIDA-ES-BELLA@lumiton.ar
+DESCRIPTION:Sinopsis: Cuando un camarero judío y su hijo se convierten en
+  víctimas del Holocausto\, utiliza una mezcla perfecta de voluntad\,…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-vida-es-bell
+ a/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-vida-es-bella/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBÍ QUE TE LLEVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T203500
+DTSTAMP:20261129T213000Z
+UID:202611291830-Centro-Cultural-Munro-SUBÍ-QUE-TE-LLEVO@lumiton.ar
+DESCRIPTION:Sinopsis: Un famoso cantante musical se enamora de una chica q
+ ue vive con su anticuado tío. Para disimular y poder…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/subi-que-te-llevo/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/subi-que-te-llevo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUCHACHO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T203500
+DTSTAMP:20261206T213000Z
+UID:202612061830-Centro-Cultural-Munro-MUCHACHO@lumiton.ar
+DESCRIPTION:Sinopsis: Una chica de la alta sociedad se enamora de un isle
+ ño pobre que conoce en una lancha colectiva del…\n\nVenue: Centro Cultu
+ ral Munro\n\nMore info: https://lumiton.ar/evento/muchacho/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/muchacho/
 END:VEVENT
 END:VCALENDAR
