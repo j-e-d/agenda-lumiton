@@ -1285,33 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNA CANTA\, LA OTRA NO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
-DTSTAMP:20261001T210000Z
-UID:202610011800-Cine-York-UNA-CANTA\,-LA-OTRA-N@lumiton.ar
-DESCRIPTION:Sinopsis: Ambientado en París en 1962. Pauline\, una chica re
- belde de 17 años\, y Suzanne\, una madre de 22 años\,…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/una-canta-la-otra-no/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-canta-la-otra-no/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA SONG
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T223500
-DTSTAMP:20261001T233000Z
-UID:202610012030-Cine-York-INDIA-SONG@lumiton.ar
-DESCRIPTION:Sinopsis: Anne-Marie Stretter\, esposa de un diplomático fran
- cés\, vive en India en los años 30\, donde tiene numerosos amantes. Vari
- os…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/india-so
- ng/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/india-song/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA CEREMONIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261002T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261002T200500

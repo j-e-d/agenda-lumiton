@@ -412,20 +412,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA FORMA DEL AGUA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T203500
-DTSTAMP:20261001T213000Z
-UID:202610011830-Centro-Cultural-Munro-LA-FORMA-DEL-AGUA@lumiton.ar
-DESCRIPTION:Sinopsis: En un centro de investigación de alto secreto en la
-  década de 1960\, una solitaria conserje entabla una relación…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-forma-
- del-agua/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-forma-del-agua/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAS BRUJAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T183500

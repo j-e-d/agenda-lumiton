@@ -1804,60 +1804,6 @@ URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TRAMPA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
-DTSTAMP:20261001T210000Z
-UID:202610011800-Lumiton-LA-TRAMPA@lumiton.ar
-DESCRIPTION:Sinopsis: Zully Moreno se entrega a la mano directiva de Chris
- tensen\, quien en ésta\, su última película para Lumiton\, logra…\n\n
- Venue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-trampa-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-trampa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNA CANTA\, LA OTRA NO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
-DTSTAMP:20261001T210000Z
-UID:202610011800-Cine-York-UNA-CANTA\,-LA-OTRA-N@lumiton.ar
-DESCRIPTION:Sinopsis: Ambientado en París en 1962. Pauline\, una chica re
- belde de 17 años\, y Suzanne\, una madre de 22 años\,…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/una-canta-la-otra-no/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-canta-la-otra-no/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA FORMA DEL AGUA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T203500
-DTSTAMP:20261001T213000Z
-UID:202610011830-Centro-Cultural-Munro-LA-FORMA-DEL-AGUA@lumiton.ar
-DESCRIPTION:Sinopsis: En un centro de investigación de alto secreto en la
-  década de 1960\, una solitaria conserje entabla una relación…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/la-forma-
- del-agua/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-forma-del-agua/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA SONG
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T223500
-DTSTAMP:20261001T233000Z
-UID:202610012030-Cine-York-INDIA-SONG@lumiton.ar
-DESCRIPTION:Sinopsis: Anne-Marie Stretter\, esposa de un diplomático fran
- cés\, vive en India en los años 30\, donde tiene numerosos amantes. Vari
- os…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/india-so
- ng/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/india-song/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA CEREMONIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261002T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261002T200500

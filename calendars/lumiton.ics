@@ -118,19 +118,6 @@ URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TRAMPA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261001T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261001T200500
-DTSTAMP:20261001T210000Z
-UID:202610011800-Lumiton-LA-TRAMPA@lumiton.ar
-DESCRIPTION:Sinopsis: Zully Moreno se entrega a la mano directiva de Chris
- tensen\, quien en ésta\, su última película para Lumiton\, logra…\n\n
- Venue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-trampa-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-trampa-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SARA FACIO\, HABER ESTADO AHÍ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
