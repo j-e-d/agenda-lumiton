@@ -1804,32 +1804,6 @@ URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL BELLO SERGIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261003T200500
-DTSTAMP:20261003T210000Z
-UID:202610031800-Cine-York-EL-BELLO-SERGIO@lumiton.ar
-DESCRIPTION:Sinopsis: François regresa a su pueblo natal en la campiña f
- rancesa. Allí descubre que su gran amigo de la infancia\,…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/el-bello-sergio/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-bello-sergio/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUJER DEL RÍO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261003T223500
-DTSTAMP:20261003T233000Z
-UID:202610032030-Cine-York-LA-MUJER-DEL-RÍO@lumiton.ar
-DESCRIPTION:Sinópsis: Érica intenta rehacer su vida junto a su hija Flor
- . Pero el frágil equilibrio se rompe cuando reaparece Pedro\,…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-del-rio/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-mujer-del-rio/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VÁCLAV HAVEL\, CASTILLO DE PRAGA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T180500
