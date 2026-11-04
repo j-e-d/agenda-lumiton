@@ -69,8 +69,9 @@ class LumitonScraper:
     def _fetch_time_from_detail_page(self, url: str) -> Optional[str]:
         """Fetch event detail page and extract time if available
 
-        Returns the time, "" if the page was read but shows no time, or None
-        if the page could not be fetched (so a previously known time is kept).
+        Returns the time, "" if a real event page shows no time, or None if
+        the time is unknown: page unreachable, or a 200 response that isn't
+        an event page (e.g. a challenge page), so a known time is kept.
         """
         if not url:
             return None
@@ -85,9 +86,13 @@ class LumitonScraper:
 
             soup = BeautifulSoup(response.text, "html.parser")
 
+            if not soup.find(class_="g-event-section-evento"):
+                print(f"Warning: {url} doesn't look like an event page; time unknown")
+                return None
+
             hora_elem = soup.find(class_="g-event-hora")
             if hora_elem:
-                time_text = hora_elem.get_text(strip=True)
+                time_text = hora_elem.get_text(" ", strip=True)
                 time_match = re.search(r"(\d{1,2}:\d{2})", time_text)
                 if time_match:
                     return time_match.group(1)
@@ -105,7 +110,7 @@ class LumitonScraper:
 
         title_elem = item.find("h3")
         if title_elem:
-            event["title"] = title_elem.get_text(strip=True)
+            event["title"] = title_elem.get_text(" ", strip=True)
 
         date_attr = item.get("data-date")
         if date_attr:
@@ -116,14 +121,14 @@ class LumitonScraper:
 
         fecha_elem = item.find(class_="g-event-fecha")
         if fecha_elem:
-            fecha_text = fecha_elem.get_text(strip=True)
+            fecha_text = fecha_elem.get_text(" ", strip=True)
             time_match = re.search(r"(\d{1,2}:\d{2})", fecha_text)
             if time_match:
                 event["time"] = time_match.group(1)
 
         venue_elem = item.find("span", class_="font-semibold")
         if venue_elem:
-            venue_text = venue_elem.get_text(strip=True)
+            venue_text = venue_elem.get_text(" ", strip=True)
             event["venue"] = self._normalize_venue(venue_text)
 
         link_elem = item.find("a", href=True)
@@ -132,7 +137,7 @@ class LumitonScraper:
 
         desc_elem = item.find("p", class_="line-clamp-3")
         if desc_elem:
-            event["description"] = desc_elem.get_text(strip=True)
+            event["description"] = re.sub(r"\s+", " ", desc_elem.get_text(" ", strip=True))
 
         if not (event.get("title") and event.get("venue")):
             return None
@@ -261,13 +266,15 @@ class LumitonScraper:
             event["duration"] = known.get("duration", "")
 
     def _enrich_with_imdb(self, event: Dict) -> Dict:
-        """Fill rating and duration from IMDb if either is missing
+        """Fill rating and duration from IMDb if neither is known
 
         Both values are taken from the same match, so a row never mixes the
         rating of one film with the runtime of another. Without a confident
         match, whatever was already known is kept.
         """
-        if event.get("rating") and event.get("duration"):
+        # Only look up rows with neither value: filling one field from a new
+        # match could pair it with a different film's other value
+        if event.get("rating") or event.get("duration"):
             return event
 
         if not event.get("title"):

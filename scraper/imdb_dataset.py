@@ -34,6 +34,8 @@ AKA_REGIONS = {"AR", "ES", "MX", "UY", "CL", "US", "GB", "XWW"}
 # dominates (e.g. Psycho 1960 vs the 1998 remake); otherwise the title is
 # ambiguous (ANIMAL, SABRINA, DRÁCULA) and we'd rather report nothing
 DOMINANCE_RATIO = 10
+# Release year vs. year hint (festival/release dates often differ by one)
+YEAR_TOLERANCE = 1
 # Descriptions announcing a short film rule out feature-length matches
 SHORT_FILM_RE = re.compile(r"\bcortometraje|\bcorto\b", re.IGNORECASE)
 SHORT_FILM_MAX_MINUTES = 45
@@ -167,7 +169,9 @@ class IMDbDataset:
             if not rows:
                 continue
             if year:
-                return min(rows, key=lambda r: (abs((r[0] or 0) - year), -r[3]))
+                # A year hint only accepts titles from about that year
+                near = [r for r in rows if r[0] and abs(r[0] - year) <= YEAR_TOLERANCE]
+                return max(near, key=lambda r: r[3]) if near else None
             rows.sort(key=lambda r: -r[3])
             if len(rows) == 1 or rows[0][3] >= DOMINANCE_RATIO * rows[1][3]:
                 return rows[0]
