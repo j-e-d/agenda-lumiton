@@ -9,8 +9,9 @@ SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
  NCIAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261010T170500
-DTSTAMP:20261010T180000Z
-UID:202610101500-Lumiton-UNA-TARDE-EN-EL-MUSE@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:173a32383edd8d2f392b@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:A cargo de Bea R. Blankenhorst Este taller tiene como objetivo
   generar un espacio de introducción de las infancias a…\n\nVenue: Lumit
  on\n\nMore info: https://lumiton.ar/evento/una-tarde-en-el-museo-stop-moti
@@ -19,39 +20,45 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
+X-LUMITON-HASH:835e49b055f2d88b87c8a26b27c0a36d80cf16d7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SARA FACIO\, HABER ESTADO AHÍ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
-DTSTAMP:20261009T210000Z
-UID:202610091800-Lumiton-SARA-FACIO\,-HABER-ES@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:e86ae2430bb49c10a627@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Sinopsis: A mediados de los 50's\, Sara Facio irrumpe en el mu
  ndo de la fotografía y descubre que es un…\n\nVenue: Lumiton\n\nMore in
  fo: https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
+X-LUMITON-HASH:f6b6e5a35ed649cb5f3fa031f424bb13eccff013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA LUZ EN LA VENTANA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
-DTSTAMP:20261010T210000Z
-UID:202610101800-Lumiton-UNA-LUZ-EN-LA-VENTAN@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:3ed8f1f4233ca08b9835@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Sinopsis: Una joven enfermera es contratada por una anciana qu
  e vive en una antigua casona. La joven llega una noche…\n\nVenue: Lumito
  n\n\nMore info: https://lumiton.ar/evento/una-luz-en-la-ventana-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
+X-LUMITON-HASH:6fee6e21416951276aaeda40f61a2c71b2bec0b0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA VELADA CON NARCISO IBÁÑEZ MENTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261030T210500
-DTSTAMP:20261030T220000Z
-UID:202610301900-Lumiton-UNA-VELADA-CON-NARCI@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:bfcb0fb8ded9321a8f5b@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Narciso Ibáñez Menta\, el referente indiscutido del suspenso
   y el cine de género en la Argentina\, vuelve al lugar que…\n\nVenue: L
  umiton\n\nMore info: https://lumiton.ar/evento/una-velada-con-narciso-iban
@@ -59,13 +66,15 @@ DESCRIPTION:Narciso Ibáñez Menta\, el referente indiscutido del suspenso
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-velada-con-narciso-ibanez-menta/
+X-LUMITON-HASH:3c826b35b9b9ac545f154924bdd6e07f22ca2e26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 AÑOS DEL FESTIVAL LUZ DEL DESIERTO: EL CINE COMO TERRITORIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T130000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261022T150500
-DTSTAMP:20261022T160000Z
-UID:202610221300-Lumiton-10-AÑOS-DEL-FESTIVAL@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:e92b0744046fdbe7d821@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:El Festival Internacional de Cine Luz del Desierto llega a Vic
  ente López con una actividad especial en el Museo Lumiton.…\n\nVenue: L
  umiton\n\nMore info: https://lumiton.ar/evento/10-anos-del-festival-luz-de
@@ -74,39 +83,45 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/10-anos-del-festival-luz-del-desierto-el-cin
  e-como-territorio/
+X-LUMITON-HASH:7ad29dab03d2b7bf3aeb18753545519367c6fca9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261104T200500
-DTSTAMP:20261104T210000Z
-UID:202611041800-Lumiton-LA-VIDA-ES-UN-TANGO@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:65db8460e2e23876b663@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Una joven y un muchacho\, hijos de artistas que buscan triunfa
  r con el tango viven un  romance\, con sus rupturas…\n\nVenue: Lumiton\
  n\nMore info: https://lumiton.ar/evento/la-vida-es-un-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
+X-LUMITON-HASH:7c9da303c09a71909faf17c530e9d47320f85c93
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T200500
-DTSTAMP:20261121T210000Z
-UID:202611211800-Lumiton-CARNAVAL-DE-ANTAÑO@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:65bc792c2b131310fc02@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Sabina Olmos interpreta a Margot\, un personaje emblemático\,
   que la marcó a lo largo de toda su carrera. Buenos Aires…\n\nVenue: Lu
  miton\n\nMore info: https://lumiton.ar/evento/carnaval-de-antano-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/carnaval-de-antano-2/
+X-LUMITON-HASH:11223f087b422983658c9528ddd12f833c5d5155
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261123T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261123T210500
-DTSTAMP:20261123T220000Z
-UID:202611231900-Lumiton-LO-QUEER-EN-EL-CINE-@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:2b6d043cf2402aaf8c7d@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
  sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
  ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
@@ -114,13 +129,15 @@ DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
+X-LUMITON-HASH:f8c94d707bba96ee06d4b47220863aa354104957
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261125T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261125T210500
-DTSTAMP:20261125T220000Z
-UID:202611251900-Lumiton-LO-QUEER-EN-EL-CINE-@lumiton.ar
+DTSTAMP:20261104T111653Z
+UID:bfd8e2580d87f1b043f5@lumiton.ar
+SEQUENCE:1
 DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
  sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
  ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
@@ -128,5 +145,6 @@ DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
+X-LUMITON-HASH:feab0530e6725591c404d05b82269bd4ceec1297
 END:VEVENT
 END:VCALENDAR

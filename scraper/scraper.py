@@ -6,7 +6,6 @@ Extracts film projection events from lumiton.ar/agenda-presencial/
 
 import csv
 import re
-from collections import Counter
 from datetime import datetime
 from pathlib import Path
 from typing import List, Dict, Optional
@@ -15,6 +14,7 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import pytz
 
+from event_keys import keyed_events
 from imdb_helper import IMDbHelper
 
 
@@ -174,43 +174,13 @@ class LumitonScraper:
         print(f"Found {len(self.events)} events")
         return self.events
 
-    def _create_event_id(self, event: Dict) -> str:
-        """Create unique event ID based on URL, date, and venue
-
-        URL is the primary identifier as it's stable even when titles change.
-        Date/venue are included to handle cases where the same film is shown
-        on several days or at different venues. Time is deliberately excluded:
-        it gets filled in or rescheduled, and that must update the existing
-        row instead of creating a duplicate.
-        """
-        url = event.get("url", "")
-        date = event.get("date", "")
-        venue = event.get("venue", "")
-        return f"{url}|{date}|{venue}"
-
-    def _key_events(self, events: List[Dict]) -> Dict[str, Dict]:
-        """Key events by ID; same-day repeats of one URL also get the time
-
-        Normally a URL is one screening, but if the same URL/date/venue
-        appears more than once in a batch they are real separate showings,
-        so the time is appended to keep them apart.
-        """
-        counts = Counter(self._create_event_id(e) for e in events)
-        keyed = {}
-        for event in events:
-            event_id = self._create_event_id(event)
-            if counts[event_id] > 1:
-                event_id = f"{event_id}|{event.get('time', '')}"
-            keyed[event_id] = event
-        return keyed
-
     def _load_existing_csv(self, filepath: Path) -> Dict[str, Dict]:
         """Load existing CSV data into a dictionary keyed by event ID"""
         if not filepath.exists():
             return {}
         try:
             with open(filepath, "r", encoding="utf-8") as f:
-                return self._key_events(list(csv.DictReader(f)))
+                return dict(keyed_events(csv.DictReader(f)))
         except Exception as e:
             print(f"Warning: Could not load existing CSV {filepath}: {e}")
             return {}
@@ -263,13 +233,8 @@ class LumitonScraper:
         combined_file = output_dir / "all_events.csv"
         existing_events = self._load_existing_csv(combined_file)
 
-        for event_id, event in self._key_events(self.events).items():
-            base_id = self._create_event_id(event)
-            existing = existing_events.get(event_id)
-            if existing is None and event_id != base_id:
-                # A screening that is now split into same-day showings
-                existing = existing_events.pop(base_id, None)
-            self._carry_over_fields(event, existing)
+        for event_id, event in keyed_events(self.events):
+            self._carry_over_fields(event, existing_events.get(event_id))
 
             existing_events[event_id] = self._enrich_with_imdb(event)
 
