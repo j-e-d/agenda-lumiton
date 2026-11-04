@@ -6,9 +6,10 @@ Extracts film projection events from lumiton.ar/agenda-presencial/
 
 import csv
 import re
+from collections import Counter
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 import cloudscraper
 from bs4 import BeautifulSoup
@@ -64,8 +65,12 @@ class LumitonScraper:
 
         return events
 
-    def _fetch_time_from_detail_page(self, url: str) -> str:
-        """Fetch event detail page and extract time if available"""
+    def _fetch_time_from_detail_page(self, url: str) -> Optional[str]:
+        """Fetch event detail page and extract time if available
+
+        Returns the time, "" if the page was read but shows no time, or None
+        if the page could not be fetched (so a previously known time is kept).
+        """
         if not url:
             return None
 
@@ -86,6 +91,8 @@ class LumitonScraper:
                 if time_match:
                     return time_match.group(1)
 
+            return ""
+
         except Exception as e:
             print(f"Warning: Could not fetch time from detail page {url}: {e}")
 
@@ -102,10 +109,9 @@ class LumitonScraper:
         date_attr = item.get("data-date")
         if date_attr:
             try:
-                dt = datetime.strptime(date_attr, "%Y-%m-%d")
-                event["date"] = f"{dt.day}/{dt.month}"
-            except:
-                pass
+                event["date"] = datetime.strptime(date_attr, "%Y-%m-%d").date().isoformat()
+            except ValueError:
+                print(f"Warning: Unexpected data-date format: {date_attr!r}")
 
         fecha_elem = item.find(class_="g-event-fecha")
         if fecha_elem:
@@ -127,32 +133,22 @@ class LumitonScraper:
         if desc_elem:
             event["description"] = desc_elem.get_text(strip=True)
 
+        if not (event.get("title") and event.get("venue")):
+            return None
+
+        if not event.get("date"):
+            print(f"Warning: Skipping '{event['title']}': no usable date")
+            return None
+
         if not event.get("time") and event.get("url"):
             detail_time = self._fetch_time_from_detail_page(event["url"])
-            if detail_time:
+            if detail_time is not None:
                 event["time"] = detail_time
 
         event["rating"] = ""
         event["duration"] = ""
 
-        if event.get("title") and event.get("venue"):
-            return event
-
-        return None
-
-    def _parse_datetime(self, text: str) -> Dict:
-        """Parse date and time from text"""
-        result = {}
-
-        date_match = re.search(r"\d{1,2}/\d{1,2}", text)
-        if date_match:
-            result["date"] = date_match.group()
-
-        time_match = re.search(r"\d{1,2}:\d{2}", text)
-        if time_match:
-            result["time"] = time_match.group()
-
-        return result
+        return event
 
     def _normalize_venue(self, venue_text: str) -> str:
         """Normalize venue name to standard format"""
@@ -179,31 +175,60 @@ class LumitonScraper:
         return self.events
 
     def _create_event_id(self, event: Dict) -> str:
-        """Create unique event ID based on URL, date, time, and venue
+        """Create unique event ID based on URL, date, and venue
 
         URL is the primary identifier as it's stable even when titles change.
-        Date/time/venue are included to handle cases where the same film
-        is shown multiple times or at different venues.
+        Date/venue are included to handle cases where the same film is shown
+        on several days or at different venues. Time is deliberately excluded:
+        it gets filled in or rescheduled, and that must update the existing
+        row instead of creating a duplicate.
         """
         url = event.get("url", "")
         date = event.get("date", "")
-        time = event.get("time", "")
         venue = event.get("venue", "")
-        return f"{url}|{date}|{time}|{venue}"
+        return f"{url}|{date}|{venue}"
 
-    def _load_existing_csv(self, filepath: Path, fieldnames: List[str]) -> Dict[str, Dict]:
+    def _key_events(self, events: List[Dict]) -> Dict[str, Dict]:
+        """Key events by ID; same-day repeats of one URL also get the time
+
+        Normally a URL is one screening, but if the same URL/date/venue
+        appears more than once in a batch they are real separate showings,
+        so the time is appended to keep them apart.
+        """
+        counts = Counter(self._create_event_id(e) for e in events)
+        keyed = {}
+        for event in events:
+            event_id = self._create_event_id(event)
+            if counts[event_id] > 1:
+                event_id = f"{event_id}|{event.get('time', '')}"
+            keyed[event_id] = event
+        return keyed
+
+    def _load_existing_csv(self, filepath: Path) -> Dict[str, Dict]:
         """Load existing CSV data into a dictionary keyed by event ID"""
-        existing_events = {}
-        if filepath.exists():
-            try:
-                with open(filepath, "r", encoding="utf-8") as f:
-                    reader = csv.DictReader(f)
-                    for row in reader:
-                        event_id = self._create_event_id(row)
-                        existing_events[event_id] = row
-            except Exception as e:
-                print(f"Warning: Could not load existing CSV {filepath}: {e}")
-        return existing_events
+        if not filepath.exists():
+            return {}
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return self._key_events(list(csv.DictReader(f)))
+        except Exception as e:
+            print(f"Warning: Could not load existing CSV {filepath}: {e}")
+            return {}
+
+    @staticmethod
+    def _carry_over_fields(event: Dict, existing_event: Optional[Dict]):
+        """Keep previously known values the fresh scrape doesn't have
+
+        Time is only carried over when it is unknown (detail page unreachable);
+        an explicit empty time from the site replaces the old one.
+        """
+        if not existing_event:
+            return
+        for field in ("rating", "duration"):
+            if existing_event.get(field) and not event.get(field):
+                event[field] = existing_event[field]
+        if "time" not in event:
+            event["time"] = existing_event.get("time", "")
 
     def _enrich_with_imdb(self, event: Dict) -> Dict:
         """Enrich event with IMDb data if not already present"""
@@ -236,44 +261,29 @@ class LumitonScraper:
         fieldnames = ["title", "date", "time", "venue", "url", "description", "rating", "duration"]
 
         combined_file = output_dir / "all_events.csv"
-        existing_events = self._load_existing_csv(combined_file, fieldnames)
+        existing_events = self._load_existing_csv(combined_file)
 
-        for event in self.events:
-            event_id = self._create_event_id(event)
-            if event_id in existing_events:
-                existing_event = existing_events[event_id]
-                if existing_event.get("rating"):
-                    event["rating"] = existing_event["rating"]
-                if existing_event.get("duration"):
-                    event["duration"] = existing_event["duration"]
+        for event_id, event in self._key_events(self.events).items():
+            base_id = self._create_event_id(event)
+            existing = existing_events.get(event_id)
+            if existing is None and event_id != base_id:
+                # A screening that is now split into same-day showings
+                existing = existing_events.pop(base_id, None)
+            self._carry_over_fields(event, existing)
 
-            event = self._enrich_with_imdb(event)
-            existing_events[event_id] = event
+            existing_events[event_id] = self._enrich_with_imdb(event)
 
         merged_events = list(existing_events.values())
         self._write_csv(combined_file, merged_events, fieldnames)
         print(f"Saved combined events to {combined_file} (total: {len(merged_events)}, new: {len(self.events)})")
 
+        # Venue files are views of the combined file
         for venue in self.VENUES:
             venue_file = output_dir / f"{venue.lower().replace(' ', '_')}.csv"
-            existing_venue_events = self._load_existing_csv(venue_file, fieldnames)
-
-            new_venue_events = [e for e in self.events if e.get("venue") == venue]
-            for event in new_venue_events:
-                event_id = self._create_event_id(event)
-                if event_id in existing_venue_events:
-                    existing_event = existing_venue_events[event_id]
-                    if existing_event.get("rating"):
-                        event["rating"] = existing_event["rating"]
-                    if existing_event.get("duration"):
-                        event["duration"] = existing_event["duration"]
-
-                existing_venue_events[event_id] = event
-
-            merged_venue_events = list(existing_venue_events.values())
-            if merged_venue_events:
-                self._write_csv(venue_file, merged_venue_events, fieldnames)
-                print(f"Saved {venue} events to {venue_file} (total: {len(merged_venue_events)}, new: {len(new_venue_events)})")
+            venue_events = [e for e in merged_events if e.get("venue") == venue]
+            if venue_events:
+                self._write_csv(venue_file, venue_events, fieldnames)
+                print(f"Saved {venue} events to {venue_file} (total: {len(venue_events)})")
 
     def _write_csv(self, filepath: Path, events: List[Dict], fieldnames: List[str]):
         """Write events to CSV file with LF line endings"""

@@ -18,7 +18,6 @@ class CalendarGenerator:
 
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
     VENUES = ["lumiton", "cine_york", "centro_cultural_munro"]
-    CURRENT_YEAR = datetime.now().year
     CALENDAR_RETENTION_DAYS = 30
 
     def __init__(self, data_dir: Path, output_dir: Path):
@@ -54,37 +53,27 @@ class CalendarGenerator:
                 event_dt = self.parse_datetime(date_str, time_str)
                 if event_dt >= cutoff_date:
                     filtered_events.append(event_data)
-            except Exception as e:
-                print(f"Warning: Could not filter event with date '{date_str}': {e}")
-                filtered_events.append(event_data)
+            except ValueError as e:
+                print(f"Warning: Skipping '{event_data.get('title')}' with unparseable date '{date_str}': {e}")
 
         return filtered_events
 
     def parse_datetime(self, date_str: str, time_str: str) -> datetime:
-        """Parse date and time strings into datetime object"""
+        """Parse a YYYY-MM-DD date and HH:MM time into a localized datetime
 
-        try:
-            if date_str.count("/") == 1:
-                day, month = map(int, date_str.split("/"))
-                year = self.CURRENT_YEAR
+        Raises ValueError if the date can't be parsed; callers skip the event
+        rather than guessing a date.
+        """
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
 
-                date_str = f"{day}/{month}/{year}"
+        if time_str:
+            time_str = time_str.strip().replace("hs", "")
+            time_parts = time_str.split(":")
+            if len(time_parts) == 2:
+                hour, minute = map(int, time_parts)
+                dt = dt.replace(hour=hour, minute=minute)
 
-            dt = datetime.strptime(date_str, "%d/%m/%Y")
-
-            if time_str:
-                time_str = time_str.strip().replace("hs", "")
-                time_parts = time_str.split(":")
-                if len(time_parts) == 2:
-                    hour, minute = map(int, time_parts)
-                    dt = dt.replace(hour=hour, minute=minute)
-
-            dt = self.TIMEZONE.localize(dt)
-            return dt
-
-        except Exception as e:
-            print(f"Warning: Failed to parse date '{date_str}' time '{time_str}': {e}")
-            return self.TIMEZONE.localize(datetime.now())
+        return self.TIMEZONE.localize(dt)
 
     def create_event(self, event_data: Dict) -> Event:
         """Create an iCalendar event from event data"""
