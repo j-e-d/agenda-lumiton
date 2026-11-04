@@ -111,7 +111,7 @@ La mayoría de las aplicaciones de calendario modernas soportan suscripciones v�
 
 ## Actualización Automática
 
-El scraper se ejecuta automáticamente todos los días a las 9:00 UTC (6:00 AM hora Argentina) mediante GitHub Actions. Los archivos CSV y los calendarios ICS se actualizan automáticamente en este repositorio.
+El scraper se ejecuta automáticamente todos los días a las 23:42 UTC (20:42 hora Argentina) mediante GitHub Actions. Los archivos CSV y los calendarios ICS se actualizan automáticamente en este repositorio.
 
 ## Datos Disponibles
 

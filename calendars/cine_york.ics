@@ -4,6 +4,15 @@ PRODID:-//Lumiton Agenda//lumiton.ar//
 X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Cine York
 X-WR-CALNAME:Lumiton - Cine York
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:SIN AIRE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T180000

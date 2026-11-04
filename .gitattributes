@@ -3,7 +3,8 @@
 
 # Force LF for generated data files
 *.csv text eol=lf
-*.ics text eol=lf
+# Calendars are stored byte-for-byte: RFC 5545 requires CRLF line endings
+*.ics -text
 
 # Python files should use LF
 *.py text eol=lf

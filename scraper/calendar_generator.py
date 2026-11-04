@@ -7,12 +7,13 @@ Converts CSV event data to ICS calendar files
 import csv
 import hashlib
 import json
+import os
 import re
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Timezone, TimezoneStandard
 import pytz
 
 from event_keys import event_key, keyed_events
@@ -172,6 +173,23 @@ class CalendarGenerator:
         return event
 
     @staticmethod
+    def vtimezone() -> Timezone:
+        """VTIMEZONE for the TZID used by DTSTART/DTEND (RFC 5545 §3.6.5)
+
+        Argentina has stayed on UTC-3 without DST since 2009, so a single
+        STANDARD rule describes every date this calendar contains.
+        """
+        tz = Timezone()
+        tz.add("tzid", "America/Argentina/Buenos_Aires")
+        standard = TimezoneStandard()
+        standard.add("dtstart", datetime(1970, 1, 1))
+        standard.add("tzoffsetfrom", timedelta(hours=-3))
+        standard.add("tzoffsetto", timedelta(hours=-3))
+        standard.add("tzname", "-03")
+        tz.add_component(standard)
+        return tz
+
+    @staticmethod
     def _duration_minutes(event_data: Dict) -> int:
         """Runtime from IMDb (default 120) plus a 5-minute buffer"""
         duration_minutes = 120
@@ -227,6 +245,7 @@ class CalendarGenerator:
         cal.add("x-wr-calname", calendar_name)
         cal.add("x-wr-timezone", "America/Argentina/Buenos_Aires")
         cal.add("x-wr-caldesc", f"Film screenings from Lumiton - {calendar_name}")
+        cal.add_component(self.vtimezone())
 
         for uid_key, event_data in keyed:
             try:
@@ -238,11 +257,14 @@ class CalendarGenerator:
         return cal
 
     def save_calendar(self, calendar: Calendar, filepath: Path):
-        """Save calendar to ICS file with LF line endings"""
-        ical_data = calendar.to_ical()
-        ical_data = ical_data.replace(b'\r\n', b'\n')
-        with open(filepath, "wb") as f:
-            f.write(ical_data)
+        """Save calendar to ICS file with CRLF line endings (RFC 5545 §3.1)
+
+        .gitattributes marks *.ics as -text so git stores and serves the
+        CRLF bytes unchanged.
+        """
+        tmp_path = filepath.with_suffix(filepath.suffix + ".tmp")
+        tmp_path.write_bytes(calendar.to_ical())
+        os.replace(tmp_path, filepath)
         print(f"Saved calendar to {filepath}")
 
     def generate_all(self):
