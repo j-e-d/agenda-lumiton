@@ -350,4 +350,84 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muchacho/
 X-LUMITON-HASH:e7b270a269f8d429f9b9a090d07cd029827ef779
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VOLVER AL FUTURO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261119T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261119T203100
+DTSTAMP:20261104T142637Z
+UID:4944a29bf69c630d7f11@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.5/10 | 116 min\nSinopsis: Marty McFly\, un estudiante 
+ de secundaria de 17 años\, es enviado accidentalmente 30 años al pasado 
+ en un DeLorean…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/volver-al-futuro-5/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/volver-al-futuro-5/
+X-LUMITON-HASH:8189b1eec13bf564a0102a75545d43f1064c75bf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALIEN\, EL OCTAVO PASAJERO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T203200
+DTSTAMP:20261104T142637Z
+UID:ef76d5c6efb7e5db6f76@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.4/10 | 117 min\nSinopsis: De regreso a la Tierra\, la 
+ nave de carga Nostromo despierta a sus siete tripulantes. El ordenador cen
+ tral\, MADRE\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/alien-el-octavo-pasajero-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
+X-LUMITON-HASH:86d5b66fccf351f54e9a79faa0aac9c3db01c9c3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL PADRINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T213000
+DTSTAMP:20261104T142637Z
+UID:b120a01159877f5f2954@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 9.2/10 | 175 min\nSinopsis: El envejecido patriarca de u
+ na dinastía del crimen organizado en la ciudad de Nueva York de la posgue
+ rra transfiere…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/el-padrino/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-padrino/
+X-LUMITON-HASH:afcf1de927b1ce172ab18b9d467aac3e8cf8d347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI VECINO TOTORO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T180100
+DTSTAMP:20261104T142637Z
+UID:d1f760b4fa30218813da@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.1/10 | 86 min\nSinopsis: Una familia japonesa se trasl
+ ada al campo\, en los años 50. El padre es un profesor universitario que 
+ aviva…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/mi-vecino-totoro-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-vecino-totoro-3/
+X-LUMITON-HASH:fcf54a614533e264ac110d35f17505f172c9778f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TERMINATOR 2: EL JUICIO FINAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T205200
+DTSTAMP:20261104T142637Z
+UID:8d8b23cb9fe1fff1e075@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.6/10 | 137 min\nSinopsis: Diez años después de los a
+ contecimientos de la película original\, el androide T-800 es reprogramad
+ o y enviado al pasado…\n\nVenue: Centro Cultural Munro\n\nMore info: htt
+ ps://lumiton.ar/evento/terminator-2-el-juicio-final/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/terminator-2-el-juicio-final/
+X-LUMITON-HASH:569f3a35e9d53aa64c50acf0ef370f1994cf28b2
+END:VEVENT
 END:VCALENDAR

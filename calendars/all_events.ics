@@ -992,17 +992,17 @@ BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261104T142637Z
 UID:65db8460e2e23876b663@lumiton.ar
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:IMDb: 7.3/10 | 87 min\nUna joven y un muchacho\, hijos de arti
- stas que buscan triunfar con el tango viven un  romance\, con sus ruptura
- s…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-
- un-tango-3/
+ stas que buscan triunfar con el tango viven un romance\, con sus rupturas
+ …\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-u
+ n-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
-X-LUMITON-HASH:fed4f3ac1f4dfd2ef16212e27b3e5229f1ad25da
+X-LUMITON-HASH:e9b6cb4a1a6b08aaaebd10d3fc0e1bb47df1df10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
@@ -1432,5 +1432,229 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muchacho/
 X-LUMITON-HASH:e7b270a269f8d429f9b9a090d07cd029827ef779
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLEO DE 5 A 7
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261119T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261119T193500
+DTSTAMP:20261104T142637Z
+UID:ac60e7f1674b87dc10c3@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.8/10 | 90 min\nSinopsis: Cleo\, una joven cantante\, e
+ spera impaciente los resultados de un examen médico. Tratando de ocupar s
+ u tiempo a la…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/even
+ to/cleo-de-5-a-7-7/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cleo-de-5-a-7-7/
+X-LUMITON-HASH:afb63e3299bad2f2a001d8b135a8ee39e157ef07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VOLVER AL FUTURO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261119T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261119T203100
+DTSTAMP:20261104T142637Z
+UID:4944a29bf69c630d7f11@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.5/10 | 116 min\nSinopsis: Marty McFly\, un estudiante 
+ de secundaria de 17 años\, es enviado accidentalmente 30 años al pasado 
+ en un DeLorean…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/volver-al-futuro-5/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/volver-al-futuro-5/
+X-LUMITON-HASH:8189b1eec13bf564a0102a75545d43f1064c75bf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS ABRAZOS ROTOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261119T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261119T224200
+DTSTAMP:20261104T142637Z
+UID:37fb7379c474ea4bb79d@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.2/10 | 127 min\nSinopsis: Harry Caine\, un escritor ci
+ ego\, intenta sanar las heridas abiertas hace 14 años\, cuando aún era M
+ ateo Blanco dirigiendo…\n\nVenue: Cine York\n\nMore info: https://lumito
+ n.ar/evento/los-abrazos-rotos-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-abrazos-rotos-2/
+X-LUMITON-HASH:c00c97be2813230105307bad7941df355467bef9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROSAURA A LAS 10
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T194500
+DTSTAMP:20261104T142637Z
+UID:bfde2970f6635198914d@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.7/10 | 100 min\nSinopsis: De repente\, un viejo y mans
+ o pintor comienza a recibir cartas de amor de Rosaura. Esto intriga a sus
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/rosaura-a-
+ las-10/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/rosaura-a-las-10/
+X-LUMITON-HASH:b5f83a6383bdde8ab5d943159f6685bc7325028a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALIEN\, EL OCTAVO PASAJERO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T203200
+DTSTAMP:20261104T142637Z
+UID:ef76d5c6efb7e5db6f76@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.4/10 | 117 min\nSinopsis: De regreso a la Tierra\, la 
+ nave de carga Nostromo despierta a sus siete tripulantes. El ordenador cen
+ tral\, MADRE\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/alien-el-octavo-pasajero-2/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
+X-LUMITON-HASH:86d5b66fccf351f54e9a79faa0aac9c3db01c9c3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNDERGROUND
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T232200
+DTSTAMP:20261104T142637Z
+UID:7cf0df71d49c13531784@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.0/10 | 167 min\nSinopsis: En Belgrado\, durante los bo
+ mbardeos de la Segunda Guerra Mundial\, dos amigos —Blacky y Marko— se
+  refugian bajo tierra.…\n\nVenue: Cine York\n\nMore info: https://lumito
+ n.ar/evento/underground/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/underground/
+X-LUMITON-HASH:ff6796307b770fc241f0855b313c65f67a0ac7fd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERDIDOS EN TOKIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T194700
+DTSTAMP:20261104T142637Z
+UID:0eaffc5e57108ad89f4e@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.7/10 | 102 min\nSinopsis: Un actor norteamericano en d
+ ecadencia acepta una oferta para hacer un anuncio de whisky japonés en To
+ kio\, donde conoce…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar
+ /evento/perdidos-en-tokio/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/perdidos-en-tokio/
+X-LUMITON-HASH:1e4e26ecdaf46db34aa90f020dd756964964434c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL PADRINO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T213000
+DTSTAMP:20261104T142637Z
+UID:b120a01159877f5f2954@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 9.2/10 | 175 min\nSinopsis: El envejecido patriarca de u
+ na dinastía del crimen organizado en la ciudad de Nueva York de la posgue
+ rra transfiere…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
+ miton.ar/evento/el-padrino/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-padrino/
+X-LUMITON-HASH:afcf1de927b1ce172ab18b9d467aac3e8cf8d347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETERNO RESPLANDOR DE UNA MENTE SIN RECUERDOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T222300
+DTSTAMP:20261104T142637Z
+UID:ae5844237b9ae5a8e193@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.3/10 | 108 min\nSinopsis: Joel recibe un terrible golp
+ e cuando descubre que su novia Clementine ha hecho que borren de su memori
+ a todos…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/ete
+ rno-resplandor-de-una-mente-sin-recuerdos/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/eterno-resplandor-de-una-mente-sin-recuerdos
+ /
+X-LUMITON-HASH:170a9230aa83f064fe90f696133346ab53eee885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABERINTO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T174600
+DTSTAMP:20261104T142637Z
+UID:4805da96f2f57f854455@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.3/10 | 101 min\nSinopsis: Sarah se queda encargada de 
+ cuidar a su medio hermano Toby. El pequeño no deja de llorar y Sarah…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/laberinto-2-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/laberinto-2-2/
+X-LUMITON-HASH:c276d691d25ded2e6ee0802b89bea96ba0938135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI VECINO TOTORO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T180100
+DTSTAMP:20261104T142637Z
+UID:d1f760b4fa30218813da@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.1/10 | 86 min\nSinopsis: Una familia japonesa se trasl
+ ada al campo\, en los años 50. El padre es un profesor universitario que 
+ aviva…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/mi-vecino-totoro-3/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-vecino-totoro-3/
+X-LUMITON-HASH:fcf54a614533e264ac110d35f17505f172c9778f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CIÉNAGA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T194800
+DTSTAMP:20261104T142637Z
+UID:d1638857afc508e66d9c@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.0/10 | 103 min\nSinopsis: La Mandrágora es el nombre 
+ de la finca donde veranea Mecha\, una cincuentona madre de cuatro hijos ca
+ sada con…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la
+ -cienaga-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-cienaga-4/
+X-LUMITON-HASH:8691be954615f03f0f1c076af9e0f34534b8c6f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TERMINATOR 2: EL JUICIO FINAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T205200
+DTSTAMP:20261104T142637Z
+UID:8d8b23cb9fe1fff1e075@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.6/10 | 137 min\nSinopsis: Diez años después de los a
+ contecimientos de la película original\, el androide T-800 es reprogramad
+ o y enviado al pasado…\n\nVenue: Centro Cultural Munro\n\nMore info: htt
+ ps://lumiton.ar/evento/terminator-2-el-juicio-final/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/terminator-2-el-juicio-final/
+X-LUMITON-HASH:569f3a35e9d53aa64c50acf0ef370f1994cf28b2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: ODISEA EN EL ESPACIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T223300
+DTSTAMP:20261104T142637Z
+UID:f6fcb114f8ecc42e707b@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.7/10 | 118 min\nSinopsis: Tras su descubrimiento en Á
+ frica hace varias generaciones\, los misteriosos monolitos conducen a la h
+ umanidad a un impresionante viaje…\n\nVenue: Cine York\n\nMore info: htt
+ ps://lumiton.ar/evento/2001-odisea-en-el-espacio-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/2001-odisea-en-el-espacio-2/
+X-LUMITON-HASH:cc16cb25ad6f410143372b63e41915a8d2a53dfc
 END:VEVENT
 END:VCALENDAR

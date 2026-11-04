@@ -99,17 +99,17 @@ BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261104T142637Z
 UID:65db8460e2e23876b663@lumiton.ar
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:IMDb: 7.3/10 | 87 min\nUna joven y un muchacho\, hijos de arti
- stas que buscan triunfar con el tango viven un  romance\, con sus ruptura
- s…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-
- un-tango-3/
+ stas que buscan triunfar con el tango viven un romance\, con sus rupturas
+ …\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-u
+ n-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
-X-LUMITON-HASH:fed4f3ac1f4dfd2ef16212e27b3e5229f1ad25da
+X-LUMITON-HASH:e9b6cb4a1a6b08aaaebd10d3fc0e1bb47df1df10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
