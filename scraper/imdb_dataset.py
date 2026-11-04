@@ -175,7 +175,14 @@ class IMDbDataset:
         to the next, more specific candidate.
         """
         names, year = self.candidates(title)
+        # Text after a dash/colon is only a fallback for a full title IMDb
+        # doesn't know: once a fuller name matched something ambiguous, a
+        # fragment ('BEN - HUR' -> 'hur') would just find an unrelated film
+        fragments = {normalize(re.split(r" – | - |: ", title)[-1])} - {normalize(title)}
+        ambiguous = False
         for name in names:
+            if ambiguous and name in fragments:
+                continue
             rows = self.db.execute(
                 "SELECT t.year, t.runtime, t.rating, t.votes FROM names n "
                 "JOIN titles t USING (tconst) WHERE n.name = ?", (name,)).fetchall()
@@ -183,6 +190,7 @@ class IMDbDataset:
                 rows = [r for r in rows if r[1] and r[1] <= SHORT_FILM_MAX_MINUTES]
             if not rows:
                 continue
+            ambiguous = True
             if year:
                 # A year hint only accepts titles from about that year
                 near = [r for r in rows if r[0] and abs(r[0] - year) <= YEAR_TOLERANCE]
