@@ -418,19 +418,25 @@
           try {
             await navigator.clipboard.writeText(url);
 
-            // Visual feedback
-            const originalText = button.textContent;
+            // Visual feedback (restart the timer on repeated clicks)
+            button.dataset.label ??= button.textContent.trim();
             button.textContent = '✓ Copiado';
             button.classList.add('copied');
 
-            setTimeout(() => {
-              button.textContent = originalText;
+            clearTimeout(button._resetTimer);
+            button._resetTimer = setTimeout(() => {
+              button.textContent = button.dataset.label;
               button.classList.remove('copied');
             }, 2000);
 
           } catch (err) {
             console.error('Failed to copy:', err);
-            // Fallback: let user manually select from input
+            // Fallback: select the URL so the user can copy it manually
+            const input = button.parentElement.querySelector('.calendar-url');
+            if (input) {
+              input.focus();
+              input.select();
+            }
             alert('No se pudo copiar automáticamente. Seleccioná y copiá el texto del campo.');
           }
         });
