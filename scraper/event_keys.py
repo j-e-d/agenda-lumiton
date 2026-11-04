@@ -23,14 +23,20 @@ def event_key(event: Dict) -> str:
 def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
     """Pair each event with a unique key
 
-    The first event with a given base key keeps the plain key; any further
-    same-day showings of that URL/venue get the time appended. Keeping the
-    first one plain means an existing screening's key (and UID) doesn't
-    change when a second showing is added later.
+    The earliest showing with a given base key keeps the plain key; any
+    further same-day showings of that URL/venue get the time appended.
+    Ordering by time (not by row order, which the merge and the site can
+    reshuffle) keeps each showing's key stable: past showings stay in the
+    data, so the earliest one doesn't change when a later one is added or
+    an earlier one ends.
     """
+    events = list(events)
+    order = sorted(range(len(events)),
+                   key=lambda i: (event_key(events[i]), events[i].get("time") or "", i))
     seen = set()
-    result = []
-    for event in events:
+    keys: List[str] = [""] * len(events)
+    for i in order:
+        event = events[i]
         base = event_key(event)
         key = base
         if key in seen:
@@ -40,5 +46,5 @@ def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
             key = f"{base}|{event.get('time') or ''}|{n}"
             n += 1
         seen.add(key)
-        result.append((key, event))
-    return result
+        keys[i] = key
+    return list(zip(keys, events))

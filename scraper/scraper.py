@@ -201,8 +201,10 @@ class LumitonScraper:
         listing them. Groups not in the fresh scrape are kept as they are.
 
         Known values are carried over: a time the scrape couldn't determine
-        (detail page unreachable) from the old row with the same time slot
-        left over, and rating/duration from any row with the same URL.
+        (detail page unreachable) from the old row, but only when exactly one
+        old time slot is left over and one fresh showing lacks a time (else
+        it's a guess between showings); rating/duration from any row with the
+        same URL.
         """
         now = datetime.now(self.TIMEZONE)
         known_imdb = {}
@@ -223,9 +225,11 @@ class LumitonScraper:
             fresh_times = {e["time"] for e in group if e.get("time")}
             unmatched_old = [r for r in old_group if r.get("time") not in fresh_times]
 
+            untimed = [e for e in group if "time" not in e]
+            if len(untimed) == 1 and len(unmatched_old) == 1:
+                untimed[0]["time"] = unmatched_old[0].get("time", "")
             for event in group:
-                if "time" not in event and unmatched_old:
-                    event["time"] = unmatched_old.pop(0).get("time", "")
+                event.setdefault("time", "")
                 self._carry_over_fields(event, known_imdb.get(event.get("url")))
                 self._enrich_with_imdb(event)
 

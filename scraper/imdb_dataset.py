@@ -39,7 +39,7 @@ YEAR_TOLERANCE = 1
 # Descriptions announcing a short film rule out feature-length matches
 SHORT_FILM_RE = re.compile(r"\bcortometraje|\bcorto\b", re.IGNORECASE)
 SHORT_FILM_MAX_MINUTES = 45
-
+BATCH_SIZE = 10_000
 
 
 def normalize(title: str) -> str:
@@ -86,21 +86,32 @@ def build(db_path: Path = DEFAULT_DB):
         CREATE TABLE names (name TEXT, tconst TEXT, UNIQUE(name, tconst));
     """)
 
-    titles = {}
+    def insert_names(rows):
+        db.executemany("INSERT OR IGNORE INTO names VALUES (?, ?)", rows)
+
+    titles, batch = {}, []
     for row in _stream_tsv("title.basics"):
         tconst = row["tconst"]
         if row["titleType"] not in TITLE_TYPES or tconst not in ratings:
             continue
         rating, votes = ratings[tconst]
         titles[tconst] = (_nullable_int(row["startYear"]), _nullable_int(row["runtimeMinutes"]), rating, votes)
-        for title in (row["primaryTitle"], row["originalTitle"]):
-            db.execute("INSERT OR IGNORE INTO names VALUES (?, ?)", (normalize(title), tconst))
+        batch += [(normalize(t), tconst) for t in (row["primaryTitle"], row["originalTitle"])]
+        if len(batch) >= BATCH_SIZE:
+            insert_names(batch)
+            batch = []
+    insert_names(batch)
+    batch = []
     db.executemany("INSERT INTO titles VALUES (?, ?, ?, ?, ?)", ((k, *v) for k, v in titles.items()))
     print(f"[IMDb] {len(titles)} titles kept")
 
     for row in _stream_tsv("title.akas"):
         if row["titleId"] in titles and (row["region"] in AKA_REGIONS or row["isOriginalTitle"] == "1"):
-            db.execute("INSERT OR IGNORE INTO names VALUES (?, ?)", (normalize(row["title"]), row["titleId"]))
+            batch.append((normalize(row["title"]), row["titleId"]))
+            if len(batch) >= BATCH_SIZE:
+                insert_names(batch)
+                batch = []
+    insert_names(batch)
 
     db.execute("CREATE INDEX names_name ON names(name)")
     db.commit()
@@ -158,8 +169,10 @@ class IMDbDataset:
     def lookup(self, title: str, is_short: bool = False) -> Optional[tuple]:
         """Best (year, runtime, rating, votes) match, or None if not confident
 
-        With a year hint, the closest year wins. Without one, the most-voted
-        title wins only if it has DOMINANCE_RATIO x the runner-up's votes.
+        With a year hint, the most-voted title within YEAR_TOLERANCE wins.
+        Without one, the most-voted title wins only if it has DOMINANCE_RATIO
+        x the runner-up's votes. A name with no confident match falls through
+        to the next, more specific candidate.
         """
         names, year = self.candidates(title)
         for name in names:
@@ -173,11 +186,12 @@ class IMDbDataset:
             if year:
                 # A year hint only accepts titles from about that year
                 near = [r for r in rows if r[0] and abs(r[0] - year) <= YEAR_TOLERANCE]
-                return max(near, key=lambda r: r[3]) if near else None
+                if near:
+                    return max(near, key=lambda r: r[3])
+                continue
             rows.sort(key=lambda r: -r[3])
             if len(rows) == 1 or rows[0][3] >= DOMINANCE_RATIO * rows[1][3]:
                 return rows[0]
-            return None
         return None
 
     def get_movie_info(self, title: str, description: str = "") -> Dict[str, str]:

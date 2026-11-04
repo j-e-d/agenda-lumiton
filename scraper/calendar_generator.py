@@ -281,7 +281,12 @@ class CalendarGenerator:
             print(f"Warning: {all_events_csv} not found; calendars left unchanged")
             return
 
-        previous = self.load_previous(sorted(self.output_dir.glob("*.ics")))
+        # all_events.ics holds every event; venue files are only a fallback
+        # for when it's missing or unreadable
+        combined = self.output_dir / "all_events.ics"
+        previous = self.load_previous([combined])
+        if not previous:
+            previous = self.load_previous(sorted(self.output_dir.glob("*.ics")))
         all_events = self.read_csv(all_events_csv)
         keyed = self.filter_events_by_date(keyed_events(all_events))
 

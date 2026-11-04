@@ -2,15 +2,18 @@
 
 from typing import Optional
 
-# Canonical venue name -> keyword identifying it in the site's venue text
+# Canonical venue name -> keyword identifying it in the site's venue text.
+# Checked in this order: specific venue names come before "munro", which is
+# also the locality of several venues (e.g. "Lumiton, Munro").
 VENUE_KEYWORDS = {
     "Lumiton": "lumiton",
     "Cine York": "york",
-    "Centro Cultural Munro": "munro",
     "Quinta Trabucco": "trabucco",
     "Torre Ader": "torre ader",
+    "Centro Cultural Munro": "munro",
 }
-VENUES = list(VENUE_KEYWORDS)
+# Display/file order
+VENUES = ["Lumiton", "Cine York", "Centro Cultural Munro", "Quinta Trabucco", "Torre Ader"]
 
 
 def normalize_venue(venue_text: str) -> Optional[str]:

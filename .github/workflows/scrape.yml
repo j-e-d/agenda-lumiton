@@ -76,33 +76,49 @@ jobs:
           key: imdb-index-v1-${{ steps.imdb-key.outputs.period }}
 
       # Track consecutive build failures: a cached marker holds the date of the
-      # first failure in this period. Builds only run while the period has no
-      # cached index, so a marker can't outlive a successful build.
+      # first failure in a streak. The key holds the run_id so each failing
+      # run can save; a successful build writes a "cleared" marker, so a
+      # streak can't outlive it, and it spans 30-day period boundaries.
       - name: Restore IMDb failure marker
         id: imdb-fail-restore
         if: steps.imdb-build.outcome == 'failure'
         uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: .cache/imdb-first-failure
-          key: imdb-fail-${{ steps.imdb-key.outputs.period }}-${{ github.run_id }}
-          restore-keys: imdb-fail-${{ steps.imdb-key.outputs.period }}-
+          key: imdb-fail-${{ github.run_id }}
+          restore-keys: imdb-fail-
 
       - name: Record first IMDb failure
         id: imdb-fail-new
-        if: steps.imdb-build.outcome == 'failure' && steps.imdb-fail-restore.outputs.cache-matched-key == ''
+        if: steps.imdb-build.outcome == 'failure'
         run: |
           mkdir -p .cache
-          date -u +%s > .cache/imdb-first-failure
+          # No marker, or the last one was cleared by a successful build:
+          # this run starts a new streak
+          if ! grep -qE '^[0-9]+$' .cache/imdb-first-failure 2>/dev/null; then
+            date -u +%s > .cache/imdb-first-failure
+            echo "new=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Clear IMDb failure marker
+        id: imdb-fail-clear
+        if: steps.imdb-build.outcome == 'success'
+        run: |
+          mkdir -p .cache
+          echo cleared > .cache/imdb-first-failure
 
       - name: Save IMDb failure marker
-        if: steps.imdb-fail-new.outcome == 'success'
+        if: steps.imdb-fail-new.outputs.new == 'true' || steps.imdb-fail-clear.outcome == 'success'
+        continue-on-error: true
         uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: .cache/imdb-first-failure
-          key: imdb-fail-${{ steps.imdb-key.outputs.period }}-${{ github.run_id }}
+          key: imdb-fail-${{ github.run_id }}
 
       - name: Open issue after 3 days of IMDb failures
         if: steps.imdb-build.outcome == 'failure'
+        # Monitoring only: a failure here must not skip the scrape
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -118,6 +134,7 @@ jobs:
 
       - name: Close IMDb failure issue
         if: steps.imdb-build.outcome == 'success'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -158,7 +175,12 @@ jobs:
           git commit -m "Update agenda data and calendars - $(TZ='America/Argentina/Buenos_Aires' date +'%Y-%m-%d %H:%M')"
           # main may have moved during the run (e.g. a push by the owner)
           for attempt in 1 2 3; do
-            git pull --rebase && git push && exit 0
+            if git pull --rebase; then
+              git push && exit 0
+            else
+              # Leave no half-done rebase behind, or every retry fails at once
+              git rebase --abort 2>/dev/null || true
+            fi
             echo "Push attempt $attempt failed, retrying"
             sleep 10
           done
@@ -169,8 +191,8 @@ jobs:
         run: |
           echo "No changes detected in agenda data"
 
-      # Any failed step (scrape, merge guard, push) opens one issue; the next
-      # successful run closes it
+      # Any failed step (e.g. scrape, unreadable CSV, push) opens one issue;
+      # the next successful run closes it
       - name: Open issue on pipeline failure
         if: failure()
         env:
