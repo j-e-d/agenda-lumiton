@@ -10,9 +10,7 @@ dependencies = [
     { name = "beautifulsoup4" },
     { name = "cloudscraper" },
     { name = "icalendar" },
-    { name = "python-dateutil" },
     { name = "pytz" },
-    { name = "requests" },
 ]
 
 [package.metadata]
@@ -20,9 +18,7 @@ requires-dist = [
     { name = "beautifulsoup4", specifier = "==4.12.3" },
     { name = "cloudscraper", specifier = "==1.2.71" },
     { name = "icalendar", specifier = "==5.0.13" },
-    { name = "python-dateutil", specifier = "==2.9.0" },
     { name = "pytz", specifier = "==2024.1" },
-    { name = "requests", specifier = "==2.31.0" },
 ]
 
 [[package]]

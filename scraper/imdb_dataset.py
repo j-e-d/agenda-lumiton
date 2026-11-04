@@ -40,7 +40,6 @@ YEAR_TOLERANCE = 1
 SHORT_FILM_RE = re.compile(r"\bcortometraje|\bcorto\b", re.IGNORECASE)
 SHORT_FILM_MAX_MINUTES = 45
 
-csv.field_size_limit(sys.maxsize)
 
 
 def normalize(title: str) -> str:
@@ -52,6 +51,9 @@ def normalize(title: str) -> str:
 
 
 def _stream_tsv(name: str) -> Iterator[Dict[str, str]]:
+    # Some IMDb fields exceed csv's default limit; raised here, not at
+    # import, so importing this module doesn't change csv for everyone
+    csv.field_size_limit(sys.maxsize)
     url = DATASET_URL.format(name=name)
     print(f"[IMDb] Streaming {url}")
     request = urllib.request.Request(url, headers={"User-Agent": "agenda-lumiton"})
