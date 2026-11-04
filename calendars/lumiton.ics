@@ -40,17 +40,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA LUZ EN LA VENTANA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T191700
+DTSTAMP:20261104T113445Z
 UID:3ed8f1f4233ca08b9835@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Una joven enfermera es contratada por una anciana qu
- e vive en una antigua casona. La joven llega una noche…\n\nVenue: Lumito
- n\n\nMore info: https://lumiton.ar/evento/una-luz-en-la-ventana-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.2/10 | 72 min\nSinopsis: Una joven enfermera es contra
+ tada por una anciana que vive en una antigua casona. La joven llega una no
+ che…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/una-luz-e
+ n-la-ventana-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
-X-LUMITON-HASH:6fee6e21416951276aaeda40f61a2c71b2bec0b0
+X-LUMITON-HASH:f9b31510c213525fdef7b2f86297c2abb82e904f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA VELADA CON NARCISO IBÁÑEZ MENTA
@@ -88,32 +89,34 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261104T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
+DTSTAMP:20261104T113445Z
 UID:65db8460e2e23876b663@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Una joven y un muchacho\, hijos de artistas que buscan triunfa
- r con el tango viven un  romance\, con sus rupturas…\n\nVenue: Lumiton\
- n\nMore info: https://lumiton.ar/evento/la-vida-es-un-tango-3/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.3/10 | 87 min\nUna joven y un muchacho\, hijos de arti
+ stas que buscan triunfar con el tango viven un  romance\, con sus ruptura
+ s…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-
+ un-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
-X-LUMITON-HASH:7c9da303c09a71909faf17c530e9d47320f85c93
+X-LUMITON-HASH:fed4f3ac1f4dfd2ef16212e27b3e5229f1ad25da
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261121T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T193100
+DTSTAMP:20261104T113445Z
 UID:65bc792c2b131310fc02@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sabina Olmos interpreta a Margot\, un personaje emblemático\,
-  que la marcó a lo largo de toda su carrera. Buenos Aires…\n\nVenue: Lu
- miton\n\nMore info: https://lumiton.ar/evento/carnaval-de-antano-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.5/10 | 86 min\nSabina Olmos interpreta a Margot\, un p
+ ersonaje emblemático\, que la marcó a lo largo de toda su carrera. Bueno
+ s Aires…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/carna
+ val-de-antano-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/carnaval-de-antano-2/
-X-LUMITON-HASH:11223f087b422983658c9528ddd12f833c5d5155
+X-LUMITON-HASH:e07431857327a8e7dad2167ef6a128a09d28e554
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO

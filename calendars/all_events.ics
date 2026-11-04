@@ -7,18 +7,18 @@ X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 SUMMARY:EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261011T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T193000
+DTSTAMP:20261104T113445Z
 UID:902708e2688c048d68ec@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Reconstrucción de la noche en que Patricio Rey y su
- s Redonditos de Ricota presentó Gulp! en Cemento. Con material…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-infier
- no-esta-encantador-gulp-1985/
+SEQUENCE:2
+DESCRIPTION:IMDb: 4.1/10 | 55 min\nSinopsis: Reconstrucción de la noche e
+ n que Patricio Rey y sus Redonditos de Ricota presentó Gulp! en Cemento. 
+ Con material…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumi
+ ton.ar/evento/el-infierno-esta-encantador-gulp-1985/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
-X-LUMITON-HASH:eaac65f5cb8071b8b11ab5a4dfc046a857f6a629
+X-LUMITON-HASH:b731f0ba52507abdce537527ab3b90756412482e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
@@ -42,9 +42,9 @@ BEGIN:VEVENT
 SUMMARY:SIN AIRE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261008T200500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:bddc28d6c58f37e57e30@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: En un pequeño pueblo húngaro\, Ana Bauch es una de
  dicada y progresista profesora de literatura en el sistema público.…\n\
  nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/sin-aire/
@@ -88,9 +88,9 @@ BEGIN:VEVENT
 SUMMARY:PEACOCK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:adb49bcbc09c14987e14@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Matthias dirige una exitosa agencia de alquiler de a
  migos\, pero en cuanto su novia Sophia rompe con él\, su…\n\nVenue: Cin
  e York\n\nMore info: https://lumiton.ar/evento/peacock/
@@ -102,17 +102,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CUATRO MADRES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261009T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261009T220400
+DTSTAMP:20261104T113445Z
 UID:d89bb0674304b262b6ca@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un novelista en apuros se ve obligado a cuidar de tr
- es mujeres mayores excéntricas\, y de su propia madre\,…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/cuatro-madres/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.7/10 | 89 min\nSinopsis: Un novelista en apuros se ve 
+ obligado a cuidar de tres mujeres mayores excéntricas\, y de su propia ma
+ dre\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/cuatr
+ o-madres/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/cuatro-madres/
-X-LUMITON-HASH:c01f96666cfe6d74232b45f450e7637720c5cd7c
+X-LUMITON-HASH:96c842a566782815b0782267f29be57c51423a38
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMER CUENTA
@@ -132,48 +133,50 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA LUZ EN LA VENTANA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T191700
+DTSTAMP:20261104T113445Z
 UID:3ed8f1f4233ca08b9835@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Una joven enfermera es contratada por una anciana qu
- e vive en una antigua casona. La joven llega una noche…\n\nVenue: Lumito
- n\n\nMore info: https://lumiton.ar/evento/una-luz-en-la-ventana-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.2/10 | 72 min\nSinopsis: Una joven enfermera es contra
+ tada por una anciana que vive en una antigua casona. La joven llega una no
+ che…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/una-luz-e
+ n-la-ventana-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
-X-LUMITON-HASH:6fee6e21416951276aaeda40f61a2c71b2bec0b0
+X-LUMITON-HASH:f9b31510c213525fdef7b2f86297c2abb82e904f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MISTERIOSO ASESINATO EN LA MONTAÑA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T195800
+DTSTAMP:20261104T113445Z
 UID:965b5b3e55ab38c5e437@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Michel y Cathy\, una pareja agobiada por el tiempo y
-  las dificultades económicas\, apenas se hablan. Hasta que un…\n\nVenue
- : Cine York\n\nMore info: https://lumiton.ar/evento/misterioso-asesinato-e
- n-la-montana/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.5/10 | 113 min\nSinopsis: Michel y Cathy\, una pareja 
+ agobiada por el tiempo y las dificultades económicas\, apenas se hablan. 
+ Hasta que un…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/event
+ o/misterioso-asesinato-en-la-montana/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/misterioso-asesinato-en-la-montana/
-X-LUMITON-HASH:24b484fd099a9d88ff19589a0c55058d21631df3
+X-LUMITON-HASH:0984b3b24ab61e03ec873c199c3e4fb9abfc4b8c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VOCES DE LIBERTAD
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T220500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T221600
+DTSTAMP:20261104T113445Z
 UID:73dd723aa2f219fe7c82@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Ambientada en los tumultuosos años 60 en la radio c
- hecoslovaca. La historia se centra en un grupo de periodistas…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/voces-de-libertad/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.7/10 | 131 min\nSinopsis: Ambientada en los tumultuoso
+ s años 60 en la radio checoslovaca. La historia se centra en un grupo de 
+ periodistas…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /voces-de-libertad/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/voces-de-libertad/
-X-LUMITON-HASH:7bf291b8c5181352ec8bc708373d803b4380cd37
+X-LUMITON-HASH:373526c69a20266f58c807b3f51bfbba6a5a9dda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WESER
@@ -194,9 +197,9 @@ BEGIN:VEVENT
 SUMMARY:LAS BRUJAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T183500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:4426258257063781f067@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Un niño se encuentra en una convención de brujas e
   intenta detenerlas\, pero lo convierten en ratón. Reseña: Nicolas…\n\
  nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/las-
@@ -224,26 +227,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:STELIOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261011T213500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T214700
+DTSTAMP:20261104T113445Z
 UID:07060af1cbadba23ee18@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: La película Stelios (cuyo título original es Yparh
- o) narra la vida del legendario cantante griego Stelios Kazantzidis. La hi
- storia…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/stel
- ios/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.1/10 | 132 min\nSinopsis: La película Stelios (cuyo t
+ ítulo original es Yparho) narra la vida del legendario cantante griego St
+ elios Kazantzidis. La historia…\n\nVenue: Cine York\n\nMore info: https:
+ //lumiton.ar/evento/stelios/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/stelios/
-X-LUMITON-HASH:5e8fd465f530b0d1d8978452f82f0f9b478c29fd
+X-LUMITON-HASH:118dfa86fcbb4790934fe31ebb9ed3dff7ca9102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIETE DÍAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:66d717612fa02d41e2f3@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Una activista iraní de derechos humanos\, a quien s
  e le ha concedido un permiso médico de siete días\, debe…\n\nVenue: Ci
  ne York\n\nMore info: https://lumiton.ar/evento/siete-dias/
@@ -255,96 +258,97 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CRITTERS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261015T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200100
+DTSTAMP:20261104T113445Z
 UID:9eeec58973721f0c5bfd@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un grupo de pequeñas pero feroces criaturas aliení
- genas llamadas critters escapan de una nave de transporte de una prisión
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/critters/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.1/10 | 86 min\nSinopsis: Un grupo de pequeñas pero fe
+ roces criaturas alienígenas llamadas critters escapan de una nave de tran
+ sporte de una prisión…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
+ tps://lumiton.ar/evento/critters/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/critters/
-X-LUMITON-HASH:8b2c8befc9f4edb9e0b43fa94dbdff42176b0f12
+X-LUMITON-HASH:f9f180f94c9279edc1b468624e4d36b862d3101e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA MEMORIA DEL PERFUME DE LAS COSAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261015T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261015T221100
+DTSTAMP:20261104T113445Z
 UID:935f1c866efb345c8775@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un drama íntimo sobre un veterano de la guerra colo
- nial que se ve obligado a ingresar en una residencia…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/la-memoria-del-perfume-de-las-co
- sas/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.0/10 | 96 min\nSinopsis: Un drama íntimo sobre un vet
+ erano de la guerra colonial que se ve obligado a ingresar en una residenci
+ a…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-memori
+ a-del-perfume-de-las-cosas/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-memoria-del-perfume-de-las-cosas/
-X-LUMITON-HASH:8fcf2a398b1547498cfdf05c46f0da1ac7a111ed
+X-LUMITON-HASH:7b0ce96ed239a289e3d51c798d36e829e7ecca1e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DRAŽEN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T194500
+DTSTAMP:20261104T113445Z
 UID:fbcf85fcc38c0a06292a@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: La película narra la vida de Drazen Petrovic\, leye
- nda del baloncesto croata y europeo. Destacando su vida personal y…\n\nV
- enue: Cine York\n\nMore info: https://lumiton.ar/evento/drazen/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.4/10 | 100 min\nSinopsis: La película narra la vida d
+ e Drazen Petrovic\, leyenda del baloncesto croata y europeo. Destacando su
+  vida personal y…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/e
+ vento/drazen/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/drazen/
-X-LUMITON-HASH:2d3b5a69a65d92aa384b40d3034832522237fd29
+X-LUMITON-HASH:0b2b6b5181715ac369b0791f3156dd2148ebe645
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL ENIGMA DE OTRO MUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T210500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T205400
+DTSTAMP:20261104T113445Z
 UID:e7558a08245503b6d30d@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: En una estación experimental remota de la Antártid
- a\, un equipo de científicos de investigación estadounidenses ven cómo 
- en su…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/el-enigma-de-otro-mundo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.2/10 | 109 min\nSinopsis: En una estación experimenta
+ l remota de la Antártida\, un equipo de científicos de investigación es
+ tadounidenses ven cómo en su…\n\nVenue: Centro Cultural Munro\n\nMore i
+ nfo: https://lumiton.ar/evento/el-enigma-de-otro-mundo/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-enigma-de-otro-mundo/
-X-LUMITON-HASH:8dc5a4f0d2dcf316cd0e1dbc10f1ab0ef570691e
+X-LUMITON-HASH:bf0f6a155e39de2c630268c4928f27a9f55de6c7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA GIOIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261016T222300
+DTSTAMP:20261104T113445Z
 UID:056ff9018ef143d8adfa@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Gioia es una profesora de instituto que nunca ha con
- ocido el amor. Uno de los alumnos de su instituto\,…\n\nVenue: Cine York
- \n\nMore info: https://lumiton.ar/evento/la-gioia/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.1/10 | 108 min\nSinopsis: Gioia es una profesora de in
+ stituto que nunca ha conocido el amor. Uno de los alumnos de su instituto\
+ ,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-gioia/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-gioia/
-X-LUMITON-HASH:7559cf1c73c98538209119ae658e2ac765ea5496
+X-LUMITON-HASH:07198ca466499b032c652f616900950f6ff407e2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL CADÁVER DE LA NOVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261018T183500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T175200
+DTSTAMP:20261104T113445Z
 UID:0169ead6e77cd8008649@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Cuando un tímido novio practica sus votos matrimon
- iales ante la presencia inadvertida de una joven fallecida\, esta se levan
- ta de…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/el-cadaver-de-la-novia-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.4/10 | 77 min\nSinopsis: Cuando un tímido novio prac
+ tica sus votos matrimoniales ante la presencia inadvertida de una joven fa
+ llecida\, esta se levanta de…\n\nVenue: Centro Cultural Munro\n\nMore in
+ fo: https://lumiton.ar/evento/el-cadaver-de-la-novia-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-cadaver-de-la-novia-2/
-X-LUMITON-HASH:d13123861041db16ea3ee0020b35a76c0924d473
+X-LUMITON-HASH:d5a22400df835dc8ef8f097337422b47fd30fc67
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VICENTE LÓPEZ EN PANTALLA: PROGRAMA DE CORTOS
@@ -381,34 +385,34 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BASTARDOS SIN GLORIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261018T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261018T210800
+DTSTAMP:20261104T113445Z
 UID:cf8c47bd2e04c1e80a25@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: En la Francia ocupada por los nazis durante la Segun
- da Guerra Mundial\, un plan para asesinar a los líderes…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/bastardos-sin-gl
- oria-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.4/10 | 153 min\nSinopsis: En la Francia ocupada por lo
+ s nazis durante la Segunda Guerra Mundial\, un plan para asesinar a los l
+ íderes…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.a
+ r/evento/bastardos-sin-gloria-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bastardos-sin-gloria-2/
-X-LUMITON-HASH:97b98e7515c636c544c1127be37aa2f8e4ddf8d5
+X-LUMITON-HASH:fac24a2360320b5fe0e7523e6bfa47f1c22783d6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DEPREDADOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261022T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261022T202200
+DTSTAMP:20261104T113445Z
 UID:b650e9cc5afd08bc5df6@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un equipo de comandos en una misión en la selva cen
- troamericana es perseguido por un guerrero extraterrestre. Reseña: Un…\
- n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/de
- predador/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.8/10 | 107 min\nSinopsis: Un equipo de comandos en una
+  misión en la selva centroamericana es perseguido por un guerrero extrate
+ rrestre. Reseña: Un…\n\nVenue: Centro Cultural Munro\n\nMore info: http
+ s://lumiton.ar/evento/depredador/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/depredador/
-X-LUMITON-HASH:a1933dec9d63100b126f9b618b1ab9d8a728bc38
+X-LUMITON-HASH:0657428ba12225c54ef1bd45ff4c2e3477fd9394
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCTUBRE 23\, UNA HISTORIA DE ESTUDIANTES SECUNDARIOS
@@ -430,64 +434,67 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE ROCKY HORROR PICTURE SHOW
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261023T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261023T221500
+DTSTAMP:20261104T113445Z
 UID:997e700cb0db336ce873@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Janet y Brad son una pareja que\, de regreso de la b
- oda de unos amigos\, acaban por refugiarse en…\n\nVenue: Cine York\n\nMo
- re info: https://lumiton.ar/evento/the-rocky-horror-picture-show/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.4/10 | 100 min\nSinopsis: Janet y Brad son una pareja 
+ que\, de regreso de la boda de unos amigos\, acaban por refugiarse en…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/the-rocky-horro
+ r-picture-show/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/the-rocky-horror-picture-show/
-X-LUMITON-HASH:a06044b2e488ef00d57d597ddf2726f4e1c78673
+X-LUMITON-HASH:c58c82ee895c1aa28ddb8b06db813fb8ab38b1bc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA HORA DEL ESPANTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261024T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261024T195100
+DTSTAMP:20261104T113445Z
 UID:65826fbb1b5e3319bed2@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un adolescente descubre que el recién llegado a su 
- barrio es un vampiro\, por lo que recurre a un…\n\nVenue: Cine York\n\nM
- ore info: https://lumiton.ar/evento/la-hora-del-espanto/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.1/10 | 106 min\nSinopsis: Un adolescente descubre que 
+ el recién llegado a su barrio es un vampiro\, por lo que recurre a un…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-hora-del-es
+ panto/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-hora-del-espanto/
-X-LUMITON-HASH:ccd8e1eb49ada44cfbb9ab289ab2e5200949f50f
+X-LUMITON-HASH:895b39b500156e428638ace691be45832221574c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PESADILLA EN LO PROFUNDO DE LA NOCHE 3: GUERREROS DEL SUEÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261024T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261024T221100
+DTSTAMP:20261104T113445Z
 UID:107e464671c1edc5780e@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Sobrevivientes del asesino serial no muerto Freddy K
- rueger –quien acecha a sus víctimas en sus sueños– aprenden a tomar
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/pesadilla-
- en-lo-profundo-de-la-noche-3-guerreros-del-sueno/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.7/10 | 96 min\nSinopsis: Sobrevivientes del asesino se
+ rial no muerto Freddy Krueger –quien acecha a sus víctimas en sus sueñ
+ os– aprenden a tomar…\n\nVenue: Cine York\n\nMore info: https://lumito
+ n.ar/evento/pesadilla-en-lo-profundo-de-la-noche-3-guerreros-del-sueno/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/pesadilla-en-lo-profundo-de-la-noche-3-guerr
  eros-del-sueno/
-X-LUMITON-HASH:5975062854b23dae7491411e48c2d294f0ee75a1
+X-LUMITON-HASH:fd02064046864416137eac603bce78cc5740c611
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL EXTRAÑO MUNDO DE JACK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261025T183500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T175100
+DTSTAMP:20261104T113445Z
 UID:7e75e56656eeb904c970@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Jack\, el rey de la noche de brujas descubre la navi
- dad y queda impresionado a pesar de que no…\n\nVenue: Centro Cultural Mu
- nro\n\nMore info: https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.9/10 | 76 min\nSinopsis: Jack\, el rey de la noche de 
+ brujas descubre la navidad y queda impresionado a pesar de que no…\n\nVe
+ nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-extr
+ ano-mundo-de-jack-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
-X-LUMITON-HASH:272814bacb5c268f40f03ec8aa906049416f043a
+X-LUMITON-HASH:cd65e6e5635845cdc2040eda93d68e7761062682
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VAMPIROS EN 35 MM
@@ -508,47 +515,50 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FRANZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261025T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T204200
+DTSTAMP:20261104T113445Z
 UID:b27c9490a6ef25b1e08d@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Concebida como un mosaico caleidoscópico\, la pelí
- cula sigue la huella que Franz Kafka dejó en el mundo desde su…\n\nVenu
- e: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/franz/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.2/10 | 127 min\nSinopsis: Concebida como un mosaico ca
+ leidoscópico\, la película sigue la huella que Franz Kafka dejó en el m
+ undo desde su…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lum
+ iton.ar/evento/franz/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/franz/
-X-LUMITON-HASH:d10dc9b01a51f80b42cfacc197d0a6ea68ce0dc3
+X-LUMITON-HASH:be2ed740b1a288089f990401fb367a0eb76b2fe0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DRÁCULA\, DE BRAM STOKER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261025T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261025T224300
+DTSTAMP:20261104T113445Z
 UID:36e4381034482d4be849@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Antes de convertirse en un vampiro\, el conde Drácu
- la era el príncipe Vlad\, que al enterarse de la muerte…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/dracula-de-bram-stoker/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.4/10 | 128 min\nSinopsis: Antes de convertirse en un v
+ ampiro\, el conde Drácula era el príncipe Vlad\, que al enterarse de la 
+ muerte…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/drac
+ ula-de-bram-stoker/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/dracula-de-bram-stoker/
-X-LUMITON-HASH:124fb7bb8da4762ee235fa1e665ca6e76f7c494d
+X-LUMITON-HASH:5e12ee0e9016f2cfb61317d12869afca5e52e3cd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL LLANTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261029T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261029T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261029T195200
+DTSTAMP:20261104T113445Z
 UID:bcc2e9513fa9b2cfc582@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Algo acecha a Andrea\, pero nadie sabe lo que es. Ha
- ce veinte años\, la misma presencia aterrorizaba a Marie.…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/el-llanto/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.0/10 | 107 min\nSinopsis: Algo acecha a Andrea\, pero 
+ nadie sabe lo que es. Hace veinte años\, la misma presencia aterrorizaba 
+ a Marie.…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el
+ -llanto/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-llanto/
-X-LUMITON-HASH:e813210e7ad4de182db0e6168fac9d9c8d320ad2
+X-LUMITON-HASH:f66c19a9a03eb9d71422bdcafa908acbc694e7c8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:¿QUÉ CLASE DE JOVEN LE ABRE LA PUERTA A UN VAMPIRO?
@@ -570,17 +580,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MUERE\, MONSTRUO\, MUERE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261030T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261030T195400
+DTSTAMP:20261104T113445Z
 UID:f0b0f85ae4f125fa8cc5@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Al pie de los Andes nevados\, Cruz\, oficial de la p
- olicía rural\, investiga el hallazgo del cuerpo de una…\n\nVenue: Cine 
- York\n\nMore info: https://lumiton.ar/evento/muere-monstruo-muere/
+SEQUENCE:2
+DESCRIPTION:IMDb: 5.5/10 | 109 min\nSinopsis: Al pie de los Andes nevados\
+ , Cruz\, oficial de la policía rural\, investiga el hallazgo del cuerpo d
+ e una…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/muere
+ -monstruo-muere/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muere-monstruo-muere/
-X-LUMITON-HASH:a94e296f9d8a61332379f90a68763261270f295e
+X-LUMITON-HASH:9110d1996ad7c38f1aeb3b4de889201a38cd0c05
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSFERATU MUSICALIZADA POR EL JUEGO INFINITO
@@ -667,33 +678,33 @@ BEGIN:VEVENT
 SUMMARY:EL RITUAL DEL NAHUAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261017T200500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113445Z
 UID:25231bd7c9d894bdefe7@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: En  San Luis Potosí\, una ola de asesinatos infant
- iles aterroriza a una aldea aislada. Un agente federal investiga los…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el-ritual-del-na
- hual/
+SEQUENCE:2
+DESCRIPTION:IMDb: 5.0/10\nSinopsis: En  San Luis Potosí\, una ola de ase
+ sinatos infantiles aterroriza a una aldea aislada. Un agente federal inves
+ tiga los…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/el
+ -ritual-del-nahual/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-ritual-del-nahual/
-X-LUMITON-HASH:f34e4def958376a3dd0a3e2c7903f6fd342b4d31
+X-LUMITON-HASH:414589288a51d46df497c624d9a4b017e562e10e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NO ME SIGAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261017T220400
+DTSTAMP:20261104T113445Z
 UID:1016d58a97101e4403c5@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Carla sueña con convertirse en una gran influencer\
- , para conseguirlo decide fingir un embrujo en su apartamento. Sin embargo
- \,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/no-me-si
- gas/
+SEQUENCE:2
+DESCRIPTION:IMDb: 5.1/10 | 89 min\nSinopsis: Carla sueña con convertirse 
+ en una gran influencer\, para conseguirlo decide fingir un embrujo en su a
+ partamento. Sin embargo\,…\n\nVenue: Cine York\n\nMore info: https://lum
+ iton.ar/evento/no-me-sigas/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/no-me-sigas/
-X-LUMITON-HASH:cb1eadebab779a6fd75efebfb2f64ef1b14d4441
+X-LUMITON-HASH:b25f470888739531183b304ad0d57eeaef9f60c8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNA VELADA CON NARCISO IBÁÑEZ MENTA
@@ -764,57 +775,58 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALICIA EN LAS CIUDADES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261105T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261105T222800
+DTSTAMP:20261104T113445Z
 UID:bd8182768c8cfa9c2086@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un periodista alemán queda inesperadamente a cargo 
- de Alice\, una niña de nueve años\, y juntos emprenden un viaje…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/alicia-en-las-ciuda
- des/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.8/10 | 113 min\nSinopsis: Un periodista alemán queda 
+ inesperadamente a cargo de Alice\, una niña de nueve años\, y juntos emp
+ renden un viaje…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/ev
+ ento/alicia-en-las-ciudades/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/alicia-en-las-ciudades/
-X-LUMITON-HASH:3742db21e78f07c6e33ad75705b566ba76f3bb73
+X-LUMITON-HASH:46e7841cef48dc5dfea2316abefc90d6ba4a81da
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL ESTADO DE LAS COSAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261106T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261106T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261106T200600
+DTSTAMP:20261104T113445Z
 UID:be89bd956964ccee916f@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Una película profundamente personal sobre la realiz
- ación cinematográfica en Europa y Estados Unidos. Un equipo de filmació
- n queda varado…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
- nto/el-estado-de-las-cosas/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.9/10 | 121 min\nSinopsis: Una película profundamente 
+ personal sobre la realización cinematográfica en Europa y Estados Unidos
+ . Un equipo de filmación queda varado…\n\nVenue: Cine York\n\nMore info
+ : https://lumiton.ar/evento/el-estado-de-las-cosas/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-estado-de-las-cosas/
-X-LUMITON-HASH:d3b8d4b989047bd58ac4e60045a0882d37f9065e
+X-LUMITON-HASH:504b906f450aaa626b0ba9aff2dfbc90d532db4f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BUENA VISTA SOCIAL CLUB
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261106T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261106T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261106T222000
+DTSTAMP:20261104T113445Z
 UID:8cc5f631ea9de523c8df@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Con un pequeño equipo\, Wim Wenders acompañó a su
-  amigo Ry Cooder a La Habana para grabar el material…\n\nVenue: Cine Yor
- k\n\nMore info: https://lumiton.ar/evento/buena-vista-social-club/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.6/10 | 105 min\nSinopsis: Con un pequeño equipo\, Wim
+  Wenders acompañó a su amigo Ry Cooder a La Habana para grabar el materi
+ al…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/buena-vi
+ sta-social-club/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/buena-vista-social-club/
-X-LUMITON-HASH:22eb6f4b5995c2e552bd96d2c848cdd4921f727e
+X-LUMITON-HASH:539db7bf60262595784efb5694a235c367c26ef7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL AMIGO AMERICANO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261107T223500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:a59655cc0284179b3c46@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Jonathan Zimmermann\, un fabricante de marcos gravem
  ente enfermo\, es manipulado por el misterioso Tom Ripley para cometer un 
  asesinato…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/e
@@ -827,55 +839,58 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EN EL CURSO DEL TIEMPO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261108T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T233000
+DTSTAMP:20261104T113445Z
 UID:6eb1ba6069bc2db4f5a0@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un reparador de proyectores y un psicólogo atorment
- ado viajan a lo largo de la frontera interior de Alemania. Su…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/en-el-curso-del-tiempo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.6/10 | 175 min\nSinopsis: Un reparador de proyectores 
+ y un psicólogo atormentado viajan a lo largo de la frontera interior de A
+ lemania. Su…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /en-el-curso-del-tiempo/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/en-el-curso-del-tiempo/
-X-LUMITON-HASH:eeaac17bf46d073686dd1d01a0f561749593800d
+X-LUMITON-HASH:bb1c14de53e23e09ca34bc40f08739b67412da78
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO-GA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261112T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T193700
+DTSTAMP:20261104T113445Z
 UID:555f48255eee2c59e22a@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Wenders viaja a Tokio en busca del legado de Yasujir
- o Ozu\, el maestro japonés del cine. Fascinado por su…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/tokyo-ga/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.3/10 | 92 min\nSinopsis: Wenders viaja a Tokio en busc
+ a del legado de Yasujiro Ozu\, el maestro japonés del cine. Fascinado por
+  su…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/tokyo-g
+ a/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/tokyo-ga/
-X-LUMITON-HASH:83b417a246f924972635a8d5cd8d25b6aefad5cc
+X-LUMITON-HASH:4521cbb1243e8aca32a716c0a4e4864254864a0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAS ALAS DEL DESEO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261112T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T224300
+DTSTAMP:20261104T113445Z
 UID:7855166402b4baab42fc@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un ángel en Berlín observa la vida humana\, contem
- plando el sufrimiento y los deseos de las personas. Cuando se…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/las-alas-del-deseo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.9/10 | 128 min\nSinopsis: Un ángel en Berlín observa
+  la vida humana\, contemplando el sufrimiento y los deseos de las personas
+ . Cuando se…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /las-alas-del-deseo/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/las-alas-del-deseo/
-X-LUMITON-HASH:da884a583a57df6ed99c2e38d8377c3c5fa106b0
+X-LUMITON-HASH:c0c872c0a562426042f215cfa0c5a3cd28dbef62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HASTA EL FIN DEL MUNDO - VERSIÓN DEL DIRECTOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261113T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261113T200500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:2de4ddab19cb69e8ba42@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Sam emprende un viaje alrededor del mundo para regis
  trar imágenes que permitan ver a su madre ciega\, gracias a…\n\nVenue: 
  Cine York\n\nMore info: https://lumiton.ar/evento/hasta-el-fin-del-mundo-v
@@ -888,109 +903,113 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PARIS\, TEXAS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261115T180500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T183000
+DTSTAMP:20261104T113445Z
 UID:c8cd4d39c09d0ebdc336@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Tras cuatro años desaparecido\, Travis reaparece so
- lo y desorientado en el desierto de Texas. El reencuentro con su hermano
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/paris-texa
- s-3/
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.1/10 | 145 min\nSinopsis: Tras cuatro años desapareci
+ do\, Travis reaparece solo y desorientado en el desierto de Texas. El reen
+ cuentro con su hermano…\n\nVenue: Cine York\n\nMore info: https://lumito
+ n.ar/evento/paris-texas-3/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/paris-texas-3/
-X-LUMITON-HASH:0ef152ec06d249714e0c6afc9a809c3c993a4dc1
+X-LUMITON-HASH:6cedaeacd926c342a9b5b67bb0c2c7098ae92f20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO-GA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261126T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261126T220700
+DTSTAMP:20261104T113445Z
 UID:e134be2a8f3991fb6b04@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Wenders viaja a Tokio en busca del legado de Yasujir
- o Ozu\, el maestro japonés del cine. Fascinado por su…\n\nVenue: Cine Y
- ork\n\nMore info: https://lumiton.ar/evento/tokyo-ga/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.3/10 | 92 min\nSinopsis: Wenders viaja a Tokio en busc
+ a del legado de Yasujiro Ozu\, el maestro japonés del cine. Fascinado por
+  su…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/tokyo-g
+ a/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/tokyo-ga/
-X-LUMITON-HASH:47aed0ad7535d232a73458f8ded9ae0461bd3ac1
+X-LUMITON-HASH:36e3fea9a15ec719f52970041d50b1a5c8131e56
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAS ALAS DEL DESEO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261128T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261128T223500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261128T224300
+DTSTAMP:20261104T113445Z
 UID:3fcec9c9091b3971cec7@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un ángel en Berlín observa la vida humana\, contem
- plando el sufrimiento y los deseos de las personas. Cuando se…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/las-alas-del-deseo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.9/10 | 128 min\nSinopsis: Un ángel en Berlín observa
+  la vida humana\, contemplando el sufrimiento y los deseos de las personas
+ . Cuando se…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
+ /las-alas-del-deseo/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/las-alas-del-deseo/
-X-LUMITON-HASH:5f46c787d39a40db842a4e7008540500ffb966d1
+X-LUMITON-HASH:0a7b3b2aef17d74f102ef381e751821f14324958
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOTEL TRANSYLVANIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T173000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261031T193500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T190600
+DTSTAMP:20261104T113445Z
 UID:1a151a37f5595ca7e5a1@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Drácula\, que dirige un complejo turístico de alto
-  nivel alejado del mundo humano\, se pone en modo sobreprotector cuando…
- \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hotel-transyl
- vania/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.1/10 | 91 min\nSinopsis: Drácula\, que dirige un comp
+ lejo turístico de alto nivel alejado del mundo humano\, se pone en modo s
+ obreprotector cuando…\n\nVenue: Cine York\n\nMore info: https://lumiton.
+ ar/evento/hotel-transylvania/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hotel-transylvania/
-X-LUMITON-HASH:11cf957ea2fa8b7938d17def691c31a505979b13
+X-LUMITON-HASH:34fd1bdac6925d9cdca19964d01b88b57658795b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COCO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261031T220500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T215000
+DTSTAMP:20261104T113445Z
 UID:77f4d63c71c3ee784ea4@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Miguel es un joven con el sueño de ser un gran mús
- ico a pesar de la prohibición de su…\n\nVenue: Torre Ader\n\nMore info:
-  https://lumiton.ar/evento/coco-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.4/10 | 105 min\nSinopsis: Miguel es un joven con el su
+ eño de ser un gran músico a pesar de la prohibición de su…\n\nVenue: 
+ Torre Ader\n\nMore info: https://lumiton.ar/evento/coco-2/
 LOCATION:Torre Ader
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/coco-2/
-X-LUMITON-HASH:b8eb8c42cbc2b50fa9d12ec59041e88c72d561bc
+X-LUMITON-HASH:8ff02c78c352d18790f1840b7167fbaf80b5ed04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261104T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
+DTSTAMP:20261104T113445Z
 UID:65db8460e2e23876b663@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Una joven y un muchacho\, hijos de artistas que buscan triunfa
- r con el tango viven un  romance\, con sus rupturas…\n\nVenue: Lumiton\
- n\nMore info: https://lumiton.ar/evento/la-vida-es-un-tango-3/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.3/10 | 87 min\nUna joven y un muchacho\, hijos de arti
+ stas que buscan triunfar con el tango viven un  romance\, con sus ruptura
+ s…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-
+ un-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
-X-LUMITON-HASH:7c9da303c09a71909faf17c530e9d47320f85c93
+X-LUMITON-HASH:fed4f3ac1f4dfd2ef16212e27b3e5229f1ad25da
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261121T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T193100
+DTSTAMP:20261104T113445Z
 UID:65bc792c2b131310fc02@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sabina Olmos interpreta a Margot\, un personaje emblemático\,
-  que la marcó a lo largo de toda su carrera. Buenos Aires…\n\nVenue: Lu
- miton\n\nMore info: https://lumiton.ar/evento/carnaval-de-antano-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.5/10 | 86 min\nSabina Olmos interpreta a Margot\, un p
+ ersonaje emblemático\, que la marcó a lo largo de toda su carrera. Bueno
+ s Aires…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/carna
+ val-de-antano-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/carnaval-de-antano-2/
-X-LUMITON-HASH:11223f087b422983658c9528ddd12f833c5d5155
+X-LUMITON-HASH:e07431857327a8e7dad2167ef6a128a09d28e554
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
@@ -1011,17 +1030,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAJO TUS PIES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261105T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261105T200900
+DTSTAMP:20261104T113445Z
 UID:4806bf1685f1a5bbce17@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Una madre y sus hijos se mudan a un lujoso edificio 
- con renta sospechosamente baja. Luego de ser aceptados\,…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/bajo-tus-pies/
+SEQUENCE:2
+DESCRIPTION:IMDb: 4.1/10 | 94 min\nSinopsis: Una madre y sus hijos se muda
+ n a un lujoso edificio con renta sospechosamente baja. Luego de ser acepta
+ dos\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/bajo-tus-pies/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bajo-tus-pies/
-X-LUMITON-HASH:31b8685afccf7ce0c5608ff41a26f4636739e572
+X-LUMITON-HASH:93ce515ac9096aab0ac8d341d0c204a65d7734bb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESE MANTO DE MISERICORDIA
@@ -1041,82 +1061,83 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261107T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261107T193600
+DTSTAMP:20261104T113445Z
 UID:14b336758a1d62c5c611@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Mary Oliver: Saved by the Beauty of the World es un 
- documental que recorre la vida y la obra…\n\nVenue: Cine York\n\nMore in
- fo: https://lumiton.ar/evento/mary-oliver-saved-by-the-beauty-of-the-world
- /
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.5/10 | 91 min\nSinopsis: Mary Oliver: Saved by the Bea
+ uty of the World es un documental que recorre la vida y la obra…\n\nVenu
+ e: Cine York\n\nMore info: https://lumiton.ar/evento/mary-oliver-saved-by-
+ the-beauty-of-the-world/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mary-oliver-saved-by-the-beauty-of-the-world
  /
-X-LUMITON-HASH:9821565452067bffe5f230d659db47ce5131c2e1
+X-LUMITON-HASH:654b0df74a0444321a4872186d4a4b74d5723071
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI POBRE ANGELITO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261108T183500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T181800
+DTSTAMP:20261104T113445Z
 UID:ea8974c2cbea66c0b0df@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un travieso niño de ocho años debe proteger su cas
- a de unos ladrones cuando es accidentalmente olvidado en casa…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-an
- gelito/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.8/10 | 103 min\nSinopsis: Un travieso niño de ocho a
+ ños debe proteger su casa de unos ladrones cuando es accidentalmente olvi
+ dado en casa…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumi
+ ton.ar/evento/mi-pobre-angelito/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-pobre-angelito/
-X-LUMITON-HASH:0442875b11414cfba5ba171ba4fcbcd1715afb8c
+X-LUMITON-HASH:474b71405ee2e742a898238efe0a1f0711d6c589
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOVE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261108T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261108T194800
+DTSTAMP:20261104T113445Z
 UID:38f4557c4e4d4a49c9c3@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: La película está centrada en la vida de Tove Janss
- on\, mostrando tanto sus relaciones personales como la creación de…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/tove/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.8/10 | 103 min\nSinopsis: La película está centrada 
+ en la vida de Tove Jansson\, mostrando tanto sus relaciones personales com
+ o la creación de…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
+ evento/tove/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/tove/
-X-LUMITON-HASH:fce992b8450163ca0ecabc37a4f26a9b516cb2ed
+X-LUMITON-HASH:70fb4a115c27004268122a371c0a38ce2bd16f61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261108T203500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113445Z
 UID:455e1746f7b7ff0c7b4c@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Kevin vuelve a ser separado de su familia cuando acc
- identalmente se embarca en un vuelo con destino a la…\n\nVenue: Centro C
- ultural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-
- perdido-en-nueva-york/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.9/10 | 120 min\nSinopsis: Kevin vuelve a ser separado 
+ de su familia cuando accidentalmente se embarca en un vuelo con destino a 
+ la…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/eve
+ nto/mi-pobre-angelito-2-perdido-en-nueva-york/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
-X-LUMITON-HASH:791ed9991213807f821cd480c724092541eefbb8
+X-LUMITON-HASH:b26d1c1d4f2ad945b2793ae737b3b1aba252c779
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIJO MAYOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261112T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261112T203300
+DTSTAMP:20261104T113445Z
 UID:3c937bf021d772d1322a@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Lila\, una adolescente coreana-argentina aún no ha 
- encontrado su lugar en el mundo. Su padre llega a Latinoamérica 18…\n\n
- Venue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hijo-
- mayor-2/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.2/10 | 118 min\nSinopsis: Lila\, una adolescente corea
+ na-argentina aún no ha encontrado su lugar en el mundo. Su padre llega a 
+ Latinoamérica 18…\n\nVenue: Centro Cultural Munro\n\nMore info: https:/
+ /lumiton.ar/evento/hijo-mayor-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hijo-mayor-2/
-X-LUMITON-HASH:efd66b4bd76ae6b7e4b09bc0b43f0d4bb2e33b0a
+X-LUMITON-HASH:a531b635d785fa7bca0663b29eebca37c0fce21b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL JUNCO
@@ -1136,33 +1157,34 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KATYN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261114T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261114T220500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261114T220600
+DTSTAMP:20261104T113445Z
 UID:75f24f7074da666f78a7@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Katyn investiga el asesinato de miles de oficiales p
- olacos a manos de la policía secreta soviética durante la Segunda…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/katyn/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.0/10 | 121 min\nSinopsis: Katyn investiga el asesinato
+  de miles de oficiales polacos a manos de la policía secreta soviética d
+ urante la Segunda…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/
+ evento/katyn/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/katyn/
-X-LUMITON-HASH:d609b63733cfb6d01e298a2cfa746c8e271a9e72
+X-LUMITON-HASH:a0d884d30cd714faa523b171f4735c46f6dbbb18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESCUELA DE ROCK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261115T183500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T182400
+DTSTAMP:20261104T113445Z
 UID:f6c6ee420a3588a662ae@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Tras ser expulsado de un grupo de rock\, Dewey Finn 
- trabaja como profesor substituto en una estricta escuela privada\,…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/escuel
- a-de-rock-3/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.2/10 | 109 min\nSinopsis: Tras ser expulsado de un gru
+ po de rock\, Dewey Finn trabaja como profesor substituto en una estricta e
+ scuela privada\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://
+ lumiton.ar/evento/escuela-de-rock-3/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/escuela-de-rock-3/
-X-LUMITON-HASH:6ef646b5e018387cbf0217baf2ab53af1a2d3f81
+X-LUMITON-HASH:2b60ed69aa0b0a430bec8d5e8950eac63682e9c7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BARDI EL MURALISTA SECRETO
@@ -1182,17 +1204,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WALESA\, LA ESPERANZA DE UN PUEBLO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261115T220500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T221200
+DTSTAMP:20261104T113445Z
 UID:ab6c754320c7a8225a67@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Retrato de la vida del ganador del Premio Nobel de l
- a Paz y fundador del movimiento de Solidaridad de…\n\nVenue: Cine York\n
- \nMore info: https://lumiton.ar/evento/walesa-la-esperanza-de-un-pueblo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.5/10 | 127 min\nSinopsis: Retrato de la vida del ganad
+ or del Premio Nobel de la Paz y fundador del movimiento de Solidaridad de
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/walesa-la-
+ esperanza-de-un-pueblo/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/walesa-la-esperanza-de-un-pueblo/
-X-LUMITON-HASH:f9929a7616015b0f7893875cc28604da000e50d1
+X-LUMITON-HASH:5ceff015e16c770aa3af16cfdcfc00b505603ac6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CONVOCATORIA DE CORTOS: PROGRAMA V
@@ -1261,18 +1284,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OPERACIÓN ROSA ROSA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261126T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261126T202000
+DTSTAMP:20261104T113445Z
 UID:846f85b238afe9dac23a@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Sandro es requerido por los servicios secretos de su
-  país para desbaratar los planes de la organización criminal "Medusa".
- …\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/event
- o/operacion-rosa-rosa/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.3/10 | 105 min\nSinopsis: Sandro es requerido por los 
+ servicios secretos de su país para desbaratar los planes de la organizaci
+ ón criminal "Medusa".…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
+ tps://lumiton.ar/evento/operacion-rosa-rosa/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/operacion-rosa-rosa/
-X-LUMITON-HASH:ef1e3bd20df7aab19dda15d6667a770c4977d4f1
+X-LUMITON-HASH:c061cd8dd236989102fb4e5c7b19cf3f12609477
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA IMAGEN SANTA
@@ -1292,25 +1315,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HELLBENDER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261127T213500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261127T205800
+DTSTAMP:20261104T113445Z
 UID:d8fa1845beff5763e18a@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Víctima de una extraña enfermedad\, una joven inoc
- ente vive en el medio del bosque con su madre\, lejos de…\n\nVenue: Cent
- ro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hellbender/
+SEQUENCE:2
+DESCRIPTION:IMDb: 5.8/10 | 83 min\nSinopsis: Víctima de una extraña enfe
+ rmedad\, una joven inocente vive en el medio del bosque con su madre\, lej
+ os de…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
+ evento/hellbender/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hellbender/
-X-LUMITON-HASH:039ca708f2a5faf970ab50072063e334905089b4
+X-LUMITON-HASH:bee83febf9e943f856e39cf643fcbb30b23f8c1c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OLIVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T203000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261127T223500
-DTSTAMP:20261104T111653Z
+DTSTAMP:20261104T113740Z
 UID:145f84a46d1a9d306d16@lumiton.ar
-SEQUENCE:1
+SEQUENCE:3
 DESCRIPTION:Sinopsis: Sola en las montañas: Olivia\, su padre y su hogar.
   Al pie de las colinas\, un matadero\, donde trabaja…\n\nVenue: Cine Yor
  k\n\nMore info: https://lumiton.ar/evento/olivia/
@@ -1339,63 +1363,65 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COYOTE VS. ACME
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261129T183500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T181800
+DTSTAMP:20261104T113445Z
 UID:103c44601aab0d7499e2@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Después de décadas fallando en atrapar al Correcam
- inos\, el Coyote decide hacer lo impensado: demandar a ACME\, la compañí
- a…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/even
- to/coyote-vs-acme/
+SEQUENCE:2
+DESCRIPTION:IMDb: 7.3/10 | 103 min\nSinopsis: Después de décadas falland
+ o en atrapar al Correcaminos\, el Coyote decide hacer lo impensado: demand
+ ar a ACME\, la compañía…\n\nVenue: Centro Cultural Munro\n\nMore info:
+  https://lumiton.ar/evento/coyote-vs-acme/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/coyote-vs-acme/
-X-LUMITON-HASH:0744bddfe4ad2c5ba3805ee581e71d9e2b7f6f16
+X-LUMITON-HASH:72e1570472337210cb4988b72081fbb2dfa52b42
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA VIDA ES BELLA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261129T200500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T200100
+DTSTAMP:20261104T113445Z
 UID:7a8894af4791b20b917e@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Cuando un camarero judío y su hijo se convierten en
-  víctimas del Holocausto\, utiliza una mezcla perfecta de voluntad\,…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la-vida-es-bell
- a/
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.6/10 | 116 min\nSinopsis: Cuando un camarero judío y 
+ su hijo se convierten en víctimas del Holocausto\, utiliza una mezcla per
+ fecta de voluntad\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.a
+ r/evento/la-vida-es-bella/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-bella/
-X-LUMITON-HASH:a76fcd05854cc5cc2d3330717a172bcd7a6feda9
+X-LUMITON-HASH:7d7d6c8b30fd7fb29e757283ef4c8e45ecc69890
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUBÍ QUE TE LLEVO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261129T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T201500
+DTSTAMP:20261104T113445Z
 UID:cef85f76eefb7a014ff5@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Un famoso cantante musical se enamora de una chica q
- ue vive con su anticuado tío. Para disimular y poder…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/subi-que-te-llevo/
+SEQUENCE:2
+DESCRIPTION:IMDb: 5.7/10 | 100 min\nSinopsis: Un famoso cantante musical s
+ e enamora de una chica que vive con su anticuado tío. Para disimular y po
+ der…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/ev
+ ento/subi-que-te-llevo/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/subi-que-te-llevo/
-X-LUMITON-HASH:3131c03b73ec4eb9b411bdceb0a5165f2019da5c
+X-LUMITON-HASH:079058f88290488aba1a8f599a494cd26cf48c0d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MUCHACHO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261206T203500
-DTSTAMP:20261104T111653Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T201500
+DTSTAMP:20261104T113445Z
 UID:8dc04907aff46d67df38@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Una chica de la alta sociedad se enamora de un isle
- ño pobre que conoce en una lancha colectiva del…\n\nVenue: Centro Cultu
- ral Munro\n\nMore info: https://lumiton.ar/evento/muchacho/
+SEQUENCE:2
+DESCRIPTION:IMDb: 6.0/10 | 100 min\nSinopsis: Una chica de la alta socieda
+ d se enamora de un isleño pobre que conoce en una lancha colectiva del…
+ \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/m
+ uchacho/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muchacho/
-X-LUMITON-HASH:a9d32e2fbc49642502552d029997c888af97a3d3
+X-LUMITON-HASH:e7b270a269f8d429f9b9a090d07cd029827ef779
 END:VEVENT
 END:VCALENDAR
