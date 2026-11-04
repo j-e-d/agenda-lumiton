@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import pytz
 
 from event_keys import keyed_events
-from imdb_helper import IMDbHelper
+from imdb_dataset import IMDbDataset
 
 
 class LumitonScraper:
@@ -34,7 +34,7 @@ class LumitonScraper:
                 'mobile': False
             }
         )
-        self.imdb_helper = IMDbHelper()
+        self.imdb = IMDbDataset()
 
     def fetch_page(self) -> str:
         """Fetch the HTML content of the agenda page"""
@@ -201,21 +201,22 @@ class LumitonScraper:
             event["time"] = existing_event.get("time", "")
 
     def _enrich_with_imdb(self, event: Dict) -> Dict:
-        """Enrich event with IMDb data if not already present"""
+        """Fill rating and duration from IMDb if either is missing
+
+        Both values are taken from the same match, so a row never mixes the
+        rating of one film with the runtime of another. Without a confident
+        match, whatever was already known is kept.
+        """
         if event.get("rating") and event.get("duration"):
-            print(f"[IMDb] Using cached data for: {event['title']}")
             return event
 
         if not event.get("title"):
             return event
 
-        print(f"[IMDb] Fetching data for: {event['title']}")
-        imdb_data = self.imdb_helper.get_movie_info(event["title"])
-
-        if not event.get("rating"):
-            event["rating"] = imdb_data.get("rating", "")
-        if not event.get("duration"):
-            event["duration"] = imdb_data.get("duration", "")
+        imdb_data = self.imdb.get_movie_info(event["title"], event.get("description", ""))
+        if imdb_data.get("rating") or imdb_data.get("duration"):
+            event["rating"] = imdb_data["rating"]
+            event["duration"] = imdb_data["duration"]
 
         return event
 

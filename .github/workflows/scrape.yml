@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   scrape-and-update:
@@ -35,6 +36,88 @@ jobs:
       - name: Install dependencies
         run: |
           uv sync
+
+      # IMDb ratings/runtimes come from IMDb's non-commercial datasets,
+      # rebuilt into a slim SQLite index every 30 days and cached between runs
+      - name: Compute IMDb index cache key
+        id: imdb-key
+        run: echo "period=$(( $(date -u +%s) / (30 * 86400) ))" >> "$GITHUB_OUTPUT"
+
+      # restore-keys falls back to last period's index, so a failed rebuild
+      # still leaves a usable (slightly older) index in place
+      - name: Restore IMDb index
+        id: imdb-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/imdb.sqlite
+          key: imdb-index-v1-${{ steps.imdb-key.outputs.period }}
+          restore-keys: imdb-index-v1-
+
+      - name: Build IMDb index
+        id: imdb-build
+        if: steps.imdb-cache.outputs.cache-hit != 'true'
+        # A failed build only means no new ratings this run, not a failed scrape
+        continue-on-error: true
+        run: |
+          uv run scraper/imdb_dataset.py build
+
+      # Save right away, so a later failing step doesn't discard the build
+      - name: Save IMDb index
+        if: steps.imdb-build.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/imdb.sqlite
+          key: imdb-index-v1-${{ steps.imdb-key.outputs.period }}
+
+      # Track consecutive build failures: a cached marker holds the date of the
+      # first failure in this period. Builds only run while the period has no
+      # cached index, so a marker can't outlive a successful build.
+      - name: Restore IMDb failure marker
+        id: imdb-fail-restore
+        if: steps.imdb-build.outcome == 'failure'
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/imdb-first-failure
+          key: imdb-fail-${{ steps.imdb-key.outputs.period }}-${{ github.run_id }}
+          restore-keys: imdb-fail-${{ steps.imdb-key.outputs.period }}-
+
+      - name: Record first IMDb failure
+        id: imdb-fail-new
+        if: steps.imdb-build.outcome == 'failure' && steps.imdb-fail-restore.outputs.cache-matched-key == ''
+        run: |
+          mkdir -p .cache
+          date -u +%s > .cache/imdb-first-failure
+
+      - name: Save IMDb failure marker
+        if: steps.imdb-fail-new.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/imdb-first-failure
+          key: imdb-fail-${{ steps.imdb-key.outputs.period }}-${{ github.run_id }}
+
+      - name: Open issue after 3 days of IMDb failures
+        if: steps.imdb-build.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          first=$(cat .cache/imdb-first-failure)
+          days=$(( ($(date -u +%s) - first) / 86400 ))
+          echo "IMDb index build failing for $days day(s)"
+          if [ "$days" -ge 3 ] && [ -z "$(gh issue list --label imdb-index --state open --json number --jq '.[].number')" ]; then
+            gh label create imdb-index --color B60205 --description "IMDb dataset index build" 2>/dev/null || true
+            gh issue create --label imdb-index \
+              --title "IMDb index build failing for $days days" \
+              --body "The daily scrape couldn't build the IMDb dataset index since $(date -u -d @"$first" +%F). Events are still scraped, but new screenings get no rating/duration. See ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+
+      - name: Close IMDb failure issue
+        if: steps.imdb-build.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --label imdb-index --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "IMDb index built successfully in ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          done
 
       - name: Run scraper
         run: |
