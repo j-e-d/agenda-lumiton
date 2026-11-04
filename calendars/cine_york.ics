@@ -1285,46 +1285,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-quimera-del-oro-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VÁCLAV HAVEL\, CASTILLO DE PRAGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T180500
-DTSTAMP:20261004T190000Z
-UID:202610041600-Cine-York-VÁCLAV-HAVEL\,-CASTIL@lumiton.ar
-DESCRIPTION:Sinopsis: Václav Havel\, Castillo de Praga (Václav Havel\, P
- raha - Hrad) narra los primeros y turbulentos días de la presidencia…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/vaclav-havel-ca
- stillo-de-praga/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/vaclav-havel-castillo-de-praga/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUE LA BESTIA MUERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T200500
-DTSTAMP:20261004T210000Z
-UID:202610041800-Cine-York-QUE-LA-BESTIA-MUERA@lumiton.ar
-DESCRIPTION:Sinopsis: El hijo único de Charles Thenier muere atropellado 
- por un conductor que se da a la fuga. Decidido a…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/que-la-bestia-muera/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/que-la-bestia-muera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUJER INFIEL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T220500
-DTSTAMP:20261004T230000Z
-UID:202610042000-Cine-York-LA-MUJER-INFIEL@lumiton.ar
-DESCRIPTION:Sinopsis: Un hombre comienza a sospechar que su esposa lo est
- á engañando y contrata un investigador privado para demostrar que…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-infiel/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-mujer-infiel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SIN AIRE
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261008T200500

@@ -1746,34 +1746,6 @@ URL:https://lumiton.ar/evento/madres-haxan-con-musica-en-vivo-por-botox-fa
  tal/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LEGO BATMAN: LA PELÍCULA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T183500
-DTSTAMP:20261004T193000Z
-UID:202610041630-Centro-Cultural-Munro-LEGO-BATMAN:-LA-PELÍ@lumiton.ar
-DESCRIPTION:Sinopsis: Bruce Wayne\, debe lidiar con los sospechosos habitu
- ales mientras planean gobernar Gotham City\, mientras descubre que ha adop
- tado accidentalmente…\n\nVenue: Centro Cultural Munro\n\nMore info: http
- s://lumiton.ar/evento/lego-batman-la-pelicula/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lego-batman-la-pelicula/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOONAGE DAYDREAM
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T203500
-DTSTAMP:20261004T213000Z
-UID:202610041830-Centro-Cultural-Munro-MOONAGE-DAYDREAM@lumiton.ar
-DESCRIPTION:Sinopsis: Una odisea cinematográfica que explora el viaje cre
- ativo y musical de David Bowie que rompe los moldes del documental…\n\nV
- enue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/moonag
- e-daydream/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/moonage-daydream/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T203500
@@ -1802,46 +1774,6 @@ LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
  ler-para-infancias/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VÁCLAV HAVEL\, CASTILLO DE PRAGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T180500
-DTSTAMP:20261004T190000Z
-UID:202610041600-Cine-York-VÁCLAV-HAVEL\,-CASTIL@lumiton.ar
-DESCRIPTION:Sinopsis: Václav Havel\, Castillo de Praga (Václav Havel\, P
- raha - Hrad) narra los primeros y turbulentos días de la presidencia…\n
- \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/vaclav-havel-ca
- stillo-de-praga/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/vaclav-havel-castillo-de-praga/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUE LA BESTIA MUERA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T200500
-DTSTAMP:20261004T210000Z
-UID:202610041800-Cine-York-QUE-LA-BESTIA-MUERA@lumiton.ar
-DESCRIPTION:Sinopsis: El hijo único de Charles Thenier muere atropellado 
- por un conductor que se da a la fuga. Decidido a…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/que-la-bestia-muera/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/que-la-bestia-muera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MUJER INFIEL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261004T220500
-DTSTAMP:20261004T230000Z
-UID:202610042000-Cine-York-LA-MUJER-INFIEL@lumiton.ar
-DESCRIPTION:Sinopsis: Un hombre comienza a sospechar que su esposa lo est
- á engañando y contrata un investigador privado para demostrar que…\n\n
- Venue: Cine York\n\nMore info: https://lumiton.ar/evento/la-mujer-infiel/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-mujer-infiel/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIN AIRE
