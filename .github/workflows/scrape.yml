@@ -153,3 +153,33 @@ jobs:
         if: steps.git-check.outputs.changed != 'true'
         run: |
           echo "No changes detected in agenda data"
+
+      # Any failed step (scrape, merge guard, push) opens one issue; the next
+      # successful run closes it
+      - name: Open issue on pipeline failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          if [ -z "$(gh issue list --label scrape-failure --state open --json number --jq '.[].number')" ]; then
+            gh label create scrape-failure --color B60205 --description "Daily scrape pipeline failed" 2>/dev/null || true
+            gh issue create --label scrape-failure \
+              --title "Scrape pipeline failed" \
+              --body "The scrape workflow failed (trigger: $EVENT), so calendars may not be updated. See $RUN_URL"
+          else
+            echo "scrape-failure issue already open"
+          fi
+
+      - name: Close pipeline failure issue
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          for n in $(gh issue list --label scrape-failure --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "Scrape succeeded again in $RUN_URL"
+          done

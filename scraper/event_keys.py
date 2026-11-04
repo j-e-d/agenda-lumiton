@@ -14,7 +14,10 @@ def event_key(event: Dict) -> str:
     venues. Time is deliberately excluded: it gets filled in or rescheduled,
     and that must update the existing screening, not create a new one.
     """
-    return "|".join((event.get(f) or "") for f in ("url", "date", "venue"))
+    # Events without a link fall back to the title, so different films
+    # without URLs on the same day/venue aren't treated as one screening
+    identity = event.get("url") or event.get("title") or ""
+    return "|".join((identity, event.get("date") or "", event.get("venue") or ""))
 
 
 def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
@@ -28,9 +31,14 @@ def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
     seen = set()
     result = []
     for event in events:
-        key = event_key(event)
+        base = event_key(event)
+        key = base
         if key in seen:
-            key = f"{key}|{event.get('time') or ''}"
+            key = f"{base}|{event.get('time') or ''}"
+        n = 2
+        while key in seen:  # identical rows: keep keys unique anyway
+            key = f"{base}|{event.get('time') or ''}|{n}"
+            n += 1
         seen.add(key)
         result.append((key, event))
     return result

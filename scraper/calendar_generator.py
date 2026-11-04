@@ -49,24 +49,22 @@ class CalendarGenerator:
 
         return events
 
-    def filter_events_by_date(self, events: List[Dict]) -> List[Dict]:
-        """Filter events to include only future events and recent past events"""
-        now = self.TIMEZONE.localize(datetime.now())
-        cutoff_date = now - timedelta(days=self.CALENDAR_RETENTION_DAYS)
+    def filter_events_by_date(self, keyed: List[Tuple[str, Dict]]) -> List[Tuple[str, Dict]]:
+        """Keep (key, event) pairs for future events and recent past events"""
+        cutoff_date = datetime.now(self.TIMEZONE) - timedelta(days=self.CALENDAR_RETENTION_DAYS)
 
-        filtered_events = []
-        for event_data in events:
+        filtered = []
+        for key, event_data in keyed:
             date_str = event_data.get("date", "")
             time_str = event_data.get("time") or self.DEFAULT_TIME
 
             try:
-                event_dt = self.parse_datetime(date_str, time_str)
-                if event_dt >= cutoff_date:
-                    filtered_events.append(event_data)
+                if self.parse_datetime(date_str, time_str) >= cutoff_date:
+                    filtered.append((key, event_data))
             except ValueError as e:
                 print(f"Warning: Skipping '{event_data.get('title')}' with unparseable date '{date_str}': {e}")
 
-        return filtered_events
+        return filtered
 
     def parse_datetime(self, date_str: str, time_str: str) -> datetime:
         """Parse a YYYY-MM-DD date and HH:MM time into a localized datetime
@@ -219,9 +217,9 @@ class CalendarGenerator:
                     previous[uid] = entry
         return previous
 
-    def generate_calendar(self, events: List[Dict], calendar_name: str,
+    def generate_calendar(self, keyed: List[Tuple[str, Dict]], calendar_name: str,
                           previous: Dict[str, Tuple[str, datetime, int]] = None) -> Calendar:
-        """Generate a calendar from list of events"""
+        """Generate a calendar from (UID key, event) pairs"""
         cal = Calendar()
 
         cal.add("prodid", "-//Lumiton Agenda//lumiton.ar//")
@@ -230,7 +228,7 @@ class CalendarGenerator:
         cal.add("x-wr-timezone", "America/Argentina/Buenos_Aires")
         cal.add("x-wr-caldesc", f"Film screenings from Lumiton - {calendar_name}")
 
-        for uid_key, event_data in keyed_events(events):
+        for uid_key, event_data in keyed:
             try:
                 event = self.create_event(event_data, uid_key, previous)
                 cal.add_component(event)
@@ -248,32 +246,35 @@ class CalendarGenerator:
         print(f"Saved calendar to {filepath}")
 
     def generate_all(self):
-        """Generate all calendar files"""
-        previous = self.load_previous(sorted(self.output_dir.glob("*.ics")))
+        """Generate all calendar files
 
+        Keys (and so UIDs) are computed once over the full combined dataset,
+        before the date filter, so an event's UID doesn't depend on which
+        other rows happen to be inside the window or in which calendar it is.
+        Venue calendars are views of the combined data, like the venue CSVs.
+        """
         all_events_csv = self.data_dir / "all_events.csv"
-        if all_events_csv.exists():
-            all_events = self.read_csv(all_events_csv)
-            if all_events:
-                filtered_events = self.filter_events_by_date(all_events)
-                ics_file = self.output_dir / "all_events.ics"
-                cal = self.generate_calendar(filtered_events, "Lumiton - All Events", previous)
-                self.save_calendar(cal, ics_file)
-                print(f"Generated combined calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
+        if not all_events_csv.exists():
+            # Don't overwrite published calendars with empty ones
+            print(f"Warning: {all_events_csv} not found; calendars left unchanged")
+            return
 
+        previous = self.load_previous(sorted(self.output_dir.glob("*.ics")))
+        all_events = self.read_csv(all_events_csv)
+        keyed = self.filter_events_by_date(keyed_events(all_events))
+
+        calendars = [("all_events", "Lumiton - All Events", keyed, len(all_events))]
         for venue_name in VENUES:
-            venue_file = venue_slug(venue_name)
-            csv_file = self.data_dir / f"{venue_file}.csv"
-            if csv_file.exists():
-                # Generate even when empty, so a venue with no events
-                # publishes an empty calendar rather than a stale one
-                all_events = self.read_csv(csv_file)
-                filtered_events = self.filter_events_by_date(all_events)
-                ics_file = self.output_dir / f"{venue_file}.ics"
-                cal = self.generate_calendar(filtered_events, f"Lumiton - {venue_name}", previous)
-                self.save_calendar(cal, ics_file)
-                print(f"Generated {venue_name} calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
+            # Always generated, so a venue with no events publishes an empty
+            # calendar rather than a stale one
+            venue_keyed = [(k, e) for k, e in keyed if e.get("venue") == venue_name]
+            venue_total = sum(1 for e in all_events if e.get("venue") == venue_name)
+            calendars.append((venue_slug(venue_name), f"Lumiton - {venue_name}", venue_keyed, venue_total))
 
+        for slug, name, events, total in calendars:
+            cal = self.generate_calendar(events, name, previous)
+            self.save_calendar(cal, self.output_dir / f"{slug}.ics")
+            print(f"Generated {name} calendar with {len(events)} events (filtered from {total} total)")
 
 def main():
     """Main entry point"""

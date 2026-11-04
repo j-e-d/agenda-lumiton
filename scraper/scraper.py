@@ -5,6 +5,7 @@ Extracts film projection events from lumiton.ar/agenda-presencial/
 """
 
 import csv
+import os
 import re
 from datetime import datetime
 from pathlib import Path
@@ -14,7 +15,7 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import pytz
 
-from event_keys import keyed_events
+from event_keys import event_key
 from imdb_dataset import IMDbDataset
 from venues import VENUES, normalize_venue, venue_slug
 
@@ -168,33 +169,96 @@ class LumitonScraper:
         self.events = self.parse_events(html)
 
         print(f"Found {len(self.events)} events")
+        if not self.events:
+            # A redesign or a challenge page parses to nothing; fail the run
+            # instead of silently publishing stale calendars
+            raise RuntimeError(f"No events parsed from {self.BASE_URL}; the page layout may have changed")
         return self.events
 
-    def _load_existing_csv(self, filepath: Path) -> Dict[str, Dict]:
-        """Load existing CSV data into a dictionary keyed by event ID"""
+    def _load_existing_csv(self, filepath: Path) -> List[Dict]:
+        """Load existing CSV rows
+
+        Read errors are fatal: carrying on with an empty history would
+        overwrite the CSV with only the fresh scrape.
+        """
         if not filepath.exists():
-            return {}
+            return []
+        with open(filepath, "r", encoding="utf-8") as f:
+            return list(csv.DictReader(f))
+
+    def _merge(self, existing_rows: List[Dict], fresh_events: List[Dict]) -> List[Dict]:
+        """Merge a fresh scrape into the existing rows
+
+        Rows are grouped by event_key (URL, date, venue). Each group in the
+        fresh scrape replaces that group's upcoming rows, so showings that
+        were removed or retimed disappear instead of lingering as duplicates.
+        Showings that already took place are kept even if the site stopped
+        listing them. Groups not in the fresh scrape are kept as they are.
+
+        Known values are carried over: a time the scrape couldn't determine
+        (detail page unreachable) from the old row with the same time slot
+        left over, and rating/duration from any row with the same URL.
+        """
+        now = datetime.now(self.TIMEZONE)
+        known_imdb = {}
+        for row in existing_rows:
+            if row.get("url") and (row.get("rating") or row.get("duration")):
+                known_imdb.setdefault(row["url"], row)
+
+        fresh_groups: Dict[str, List[Dict]] = {}
+        for event in fresh_events:
+            fresh_groups.setdefault(event_key(event), []).append(event)
+        existing_groups: Dict[str, List[Dict]] = {}
+        for row in existing_rows:
+            existing_groups.setdefault(event_key(row), []).append(row)
+
+        replacements: Dict[str, List[Dict]] = {}
+        for key, group in fresh_groups.items():
+            old_group = existing_groups.get(key, [])
+            fresh_times = {e["time"] for e in group if e.get("time")}
+            unmatched_old = [r for r in old_group if r.get("time") not in fresh_times]
+
+            for event in group:
+                if "time" not in event and unmatched_old:
+                    event["time"] = unmatched_old.pop(0).get("time", "")
+                self._carry_over_fields(event, known_imdb.get(event.get("url")))
+                self._enrich_with_imdb(event)
+
+            # Old showings not in the fresh scrape: keep those that already happened
+            kept_times = {e.get("time") for e in group}
+            past = [r for r in old_group
+                    if r.get("time") not in kept_times and self._has_started(r, now)]
+            replacements[key] = past + group
+
+        # Keep row order stable: a replaced group takes the place of its
+        # first existing row; new groups are appended
+        merged, placed = [], set()
+        for row in existing_rows:
+            key = event_key(row)
+            if key not in replacements:
+                merged.append(row)
+            elif key not in placed:
+                merged.extend(replacements[key])
+                placed.add(key)
+        for key, group in replacements.items():
+            if key not in placed:
+                merged.extend(group)
+        return merged
+
+    def _has_started(self, row: Dict, now: datetime) -> bool:
+        """Whether a stored showing's start time has passed"""
         try:
-            with open(filepath, "r", encoding="utf-8") as f:
-                return dict(keyed_events(csv.DictReader(f)))
-        except Exception as e:
-            print(f"Warning: Could not load existing CSV {filepath}: {e}")
-            return {}
+            start = datetime.strptime(f"{row.get('date')} {row.get('time') or '23:59'}", "%Y-%m-%d %H:%M")
+        except ValueError:
+            return False
+        return self.TIMEZONE.localize(start) <= now
 
     @staticmethod
-    def _carry_over_fields(event: Dict, existing_event: Optional[Dict]):
-        """Keep previously known values the fresh scrape doesn't have
-
-        Time is only carried over when it is unknown (detail page unreachable);
-        an explicit empty time from the site replaces the old one.
-        """
-        if not existing_event:
-            return
-        for field in ("rating", "duration"):
-            if existing_event.get(field) and not event.get(field):
-                event[field] = existing_event[field]
-        if "time" not in event:
-            event["time"] = existing_event.get("time", "")
+    def _carry_over_fields(event: Dict, known: Optional[Dict]):
+        """Reuse rating/duration already stored for the same URL (same film)"""
+        if known and not (event.get("rating") or event.get("duration")):
+            event["rating"] = known.get("rating", "")
+            event["duration"] = known.get("duration", "")
 
     def _enrich_with_imdb(self, event: Dict) -> Dict:
         """Fill rating and duration from IMDb if either is missing
@@ -228,16 +292,11 @@ class LumitonScraper:
         fieldnames = ["title", "date", "time", "venue", "url", "description", "rating", "duration"]
 
         combined_file = output_dir / "all_events.csv"
-        existing_events = self._load_existing_csv(combined_file)
+        existing_rows = self._load_existing_csv(combined_file)
+        merged_events = self._merge(existing_rows, self.events)
 
-        for event_id, event in keyed_events(self.events):
-            self._carry_over_fields(event, existing_events.get(event_id))
-
-            existing_events[event_id] = self._enrich_with_imdb(event)
-
-        merged_events = list(existing_events.values())
         self._write_csv(combined_file, merged_events, fieldnames)
-        print(f"Saved combined events to {combined_file} (total: {len(merged_events)}, new: {len(self.events)})")
+        print(f"Saved combined events to {combined_file} (total: {len(merged_events)}, scraped: {len(self.events)})")
 
         # Venue files are views of the combined file
         for venue in VENUES:
@@ -248,11 +307,13 @@ class LumitonScraper:
             print(f"Saved {venue} events to {venue_file} (total: {len(venue_events)})")
 
     def _write_csv(self, filepath: Path, events: List[Dict], fieldnames: List[str]):
-        """Write events to CSV file with LF line endings"""
-        with open(filepath, "w", newline="\n", encoding="utf-8") as f:
+        """Write events to CSV file with LF line endings, atomically"""
+        tmp_path = filepath.with_suffix(filepath.suffix + ".tmp")
+        with open(tmp_path, "w", newline="\n", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(events)
+        os.replace(tmp_path, filepath)
 
 
 def main():
