@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lumiton Agenda//lumiton.ar//
+X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Quinta Trabucco
+X-WR-CALNAME:Lumiton - Quinta Trabucco
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

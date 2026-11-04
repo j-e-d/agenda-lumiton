@@ -7,6 +7,8 @@ Este proyecto extrae automáticamente la agenda de proyecciones de películas de
 - **Lumiton** - [Sgto. Cabral 2354, Munro](https://www.openstreetmap.org/search?query=Sargento%20Cabral%202354%2C%20Munro%2C%20Buenos%20Aires)
 - **Cine York** - [Juan Bautista Alberdi 895, Olivos](https://www.openstreetmap.org/search?query=Juan%20Bautista%20Alberdi%20895%2C%20Olivos%2C%20Buenos%20Aires)
 - **Centro Cultural Munro** - [Vélez Sarsfield 4650, Munro](https://www.openstreetmap.org/search?query=V%C3%A9lez%20Sarsfield%204650%2C%20Munro%2C%20Buenos%20Aires)
+- **Quinta Trabucco**
+- **Torre Ader**
 
 ## Suscripción a Calendarios
 
@@ -45,14 +47,26 @@ https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/cine_york.
 https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/centro_cultural_munro.ics
 ```
 
+**Quinta Trabucco:**
+```
+https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/quinta_trabucco.ics
+```
+
+**Torre Ader:**
+```
+https://raw.githubusercontent.com/j-e-d/agenda-lumiton/main/calendars/torre_ader.ics
+```
+
 ### Descarga Manual
 
 Si preferís descargar los archivos directamente (no se actualizan automáticamente):
 
-- [Todas las proyecciones](calendars/all_events.ics) - Incluye eventos de los 3 cines
+- [Todas las proyecciones](calendars/all_events.ics) - Incluye eventos de todas las salas
 - [Lumiton](calendars/lumiton.ics)
 - [Cine York](calendars/cine_york.ics)
 - [Centro Cultural Munro](calendars/centro_cultural_munro.ics)
+- [Quinta Trabucco](calendars/quinta_trabucco.ics)
+- [Torre Ader](calendars/torre_ader.ics)
 
 ## Cómo Suscribirse al Calendario
 
@@ -121,6 +135,8 @@ Además de los calendarios ICS, también podés acceder a los datos en formato C
 - [data/lumiton.csv](data/lumiton.csv)
 - [data/cine_york.csv](data/cine_york.csv)
 - [data/centro_cultural_munro.csv](data/centro_cultural_munro.csv)
+- [data/quinta_trabucco.csv](data/quinta_trabucco.csv)
+- [data/torre_ader.csv](data/torre_ader.csv)
 
 Cada evento incluye:
 - Título de la película

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lumiton Agenda//lumiton.ar//
+X-WR-CALDESC:Film screenings from Lumiton - Lumiton - Torre Ader
+X-WR-CALNAME:Lumiton - Torre Ader
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T215000
+DTSTAMP:20261104T113445Z
+UID:77f4d63c71c3ee784ea4@lumiton.ar
+SEQUENCE:2
+DESCRIPTION:IMDb: 8.4/10 | 105 min\nSinopsis: Miguel es un joven con el su
+ eño de ser un gran músico a pesar de la prohibición de su…\n\nVenue: 
+ Torre Ader\n\nMore info: https://lumiton.ar/evento/coco-2/
+LOCATION:Torre Ader
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/coco-2/
+X-LUMITON-HASH:8ff02c78c352d18790f1840b7167fbaf80b5ed04
+END:VEVENT
+END:VCALENDAR

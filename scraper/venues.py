@@ -7,6 +7,8 @@ VENUE_KEYWORDS = {
     "Lumiton": "lumiton",
     "Cine York": "york",
     "Centro Cultural Munro": "munro",
+    "Quinta Trabucco": "trabucco",
+    "Torre Ader": "torre ader",
 }
 VENUES = list(VENUE_KEYWORDS)
 
