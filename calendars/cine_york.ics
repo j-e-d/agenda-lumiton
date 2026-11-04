@@ -1067,17 +1067,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2001: ODISEA EN EL ESPACIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261122T223300
-DTSTAMP:20261104T142637Z
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T230400
+DTSTAMP:20261104T150617Z
 UID:f6fcb114f8ecc42e707b@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 7.7/10 | 118 min\nSinopsis: Tras su descubrimiento en Á
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.3/10 | 149 min\nSinopsis: Tras su descubrimiento en Á
  frica hace varias generaciones\, los misteriosos monolitos conducen a la h
  umanidad a un impresionante viaje…\n\nVenue: Cine York\n\nMore info: htt
  ps://lumiton.ar/evento/2001-odisea-en-el-espacio-2/
 LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/2001-odisea-en-el-espacio-2/
-X-LUMITON-HASH:cc16cb25ad6f410143372b63e41915a8d2a53dfc
+X-LUMITON-HASH:6bc066a2dfe37e5670b6bff57f3c24b24100723a
 END:VEVENT
 END:VCALENDAR

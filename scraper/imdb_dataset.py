@@ -142,6 +142,8 @@ class IMDbDataset:
         'EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985' / 'GULP (1985)' -> year 1985
         'KILL BILL: THE WHOLE BLOODY AFFAIR' -> full title, then the part
             after the colon (never the prefix: 'MADRES: HAXAN...' is not 'Madres')
+        A number before the separator ('2001: ODISEA EN EL ESPACIO') is
+        part of the title, so the text after it isn't tried alone.
         Titles that are or end in a number ('1977', 'BLADE RUNNER 2049')
         are left alone: a year only counts after punctuation or in parens.
         """
@@ -158,6 +160,9 @@ class IMDbDataset:
             names += [title[:paren.start()], paren.group(1)]
         for sep in (" – ", " - ", ": "):
             if sep in title:
+                # '2001: ODISEA...' is one title, not a prefix and a subtitle
+                if normalize(title.split(sep)[0]).isdigit():
+                    continue
                 names.append(title.split(sep)[-1])
 
         seen = []
