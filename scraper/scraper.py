@@ -16,13 +16,13 @@ import pytz
 
 from event_keys import keyed_events
 from imdb_dataset import IMDbDataset
+from venues import VENUES, normalize_venue, venue_slug
 
 
 class LumitonScraper:
     """Scrapes film events from Lumiton's agenda page"""
 
     BASE_URL = "https://lumiton.ar/agenda-presencial/"
-    VENUES = ["Lumiton", "Cine York", "Centro Cultural Munro"]
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
 
     def __init__(self):
@@ -152,16 +152,12 @@ class LumitonScraper:
 
     def _normalize_venue(self, venue_text: str) -> str:
         """Normalize venue name to standard format"""
-        venue_lower = venue_text.lower()
-
-        if "york" in venue_lower:
-            return "Cine York"
-        elif "munro" in venue_lower:
-            return "Centro Cultural Munro"
-        elif "lumiton" in venue_lower:
-            return "Lumiton"
-
-        return venue_text
+        venue = normalize_venue(venue_text)
+        if venue is None:
+            print(f"Warning: Unknown venue '{venue_text}': its events only go to all_events "
+                  f"(add it to scraper/venues.py for a per-venue calendar)")
+            return venue_text
+        return venue
 
     def scrape(self) -> List[Dict]:
         """Main scraping method"""
@@ -244,12 +240,12 @@ class LumitonScraper:
         print(f"Saved combined events to {combined_file} (total: {len(merged_events)}, new: {len(self.events)})")
 
         # Venue files are views of the combined file
-        for venue in self.VENUES:
-            venue_file = output_dir / f"{venue.lower().replace(' ', '_')}.csv"
+        for venue in VENUES:
+            venue_file = output_dir / f"{venue_slug(venue)}.csv"
             venue_events = [e for e in merged_events if e.get("venue") == venue]
-            if venue_events:
-                self._write_csv(venue_file, venue_events, fieldnames)
-                print(f"Saved {venue} events to {venue_file} (total: {len(venue_events)})")
+            # Always rewrite, so a venue whose events are gone doesn't keep stale rows
+            self._write_csv(venue_file, venue_events, fieldnames)
+            print(f"Saved {venue} events to {venue_file} (total: {len(venue_events)})")
 
     def _write_csv(self, filepath: Path, events: List[Dict], fieldnames: List[str]):
         """Write events to CSV file with LF line endings"""

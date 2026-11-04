@@ -16,13 +16,13 @@ from icalendar import Calendar, Event
 import pytz
 
 from event_keys import event_key, keyed_events
+from venues import VENUES, venue_slug
 
 
 class CalendarGenerator:
     """Generates ICS calendar files from CSV event data"""
 
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
-    VENUES = ["lumiton", "cine_york", "centro_cultural_munro"]
     CALENDAR_RETENTION_DAYS = 30
     DEFAULT_TIME = "20:00"  # only used to place untimed events for date filtering
     NO_TIME_NOTE = "(confirmar horario)"
@@ -261,17 +261,18 @@ class CalendarGenerator:
                 self.save_calendar(cal, ics_file)
                 print(f"Generated combined calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
 
-        for venue_file in self.VENUES:
+        for venue_name in VENUES:
+            venue_file = venue_slug(venue_name)
             csv_file = self.data_dir / f"{venue_file}.csv"
             if csv_file.exists():
+                # Generate even when empty, so a venue with no events
+                # publishes an empty calendar rather than a stale one
                 all_events = self.read_csv(csv_file)
-                if all_events:
-                    filtered_events = self.filter_events_by_date(all_events)
-                    venue_name = venue_file.replace("_", " ").title()
-                    ics_file = self.output_dir / f"{venue_file}.ics"
-                    cal = self.generate_calendar(filtered_events, f"Lumiton - {venue_name}", previous)
-                    self.save_calendar(cal, ics_file)
-                    print(f"Generated {venue_name} calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
+                filtered_events = self.filter_events_by_date(all_events)
+                ics_file = self.output_dir / f"{venue_file}.ics"
+                cal = self.generate_calendar(filtered_events, f"Lumiton - {venue_name}", previous)
+                self.save_calendar(cal, ics_file)
+                print(f"Generated {venue_name} calendar with {len(filtered_events)} events (filtered from {len(all_events)} total)")
 
 
 def main():
