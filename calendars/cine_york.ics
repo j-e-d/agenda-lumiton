@@ -1080,4 +1080,36 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/2001-odisea-en-el-espacio-2/
 X-LUMITON-HASH:6bc066a2dfe37e5670b6bff57f3c24b24100723a
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA CIÉNAGA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T221800
+DTSTAMP:20261105T034152Z
+UID:3344cbdcf6232ea3d3f4@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.0/10 | 103 min\nSinopsis: La Mandrágora es el nombre 
+ de la finca donde veranea Mecha\, una cincuentona madre de cuatro hijos ca
+ sada con…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/la
+ -cienaga-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-cienaga-4/
+X-LUMITON-HASH:af2801111de03f732b2663e166398a7d97f79a73
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALIEN\, EL OCTAVO PASAJERO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261122T200200
+DTSTAMP:20261105T034152Z
+UID:881fc3348eb76b8d1dae@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.4/10 | 117 min\nSinopsis: De regreso a la Tierra\, la 
+ nave de carga Nostromo despierta a sus siete tripulantes. El ordenador cen
+ tral\, MADRE\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/eve
+ nto/alien-el-octavo-pasajero-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
+X-LUMITON-HASH:8c1a14581595bb0e29d824547dcfedec4ec5e7ed
+END:VEVENT
 END:VCALENDAR

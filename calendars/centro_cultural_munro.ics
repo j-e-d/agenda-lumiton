@@ -430,4 +430,20 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/terminator-2-el-juicio-final/
 X-LUMITON-HASH:569f3a35e9d53aa64c50acf0ef370f1994cf28b2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNDERGROUND
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261120T212200
+DTSTAMP:20261105T034152Z
+UID:cea17f90ef0e0eb3390c@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.0/10 | 167 min\nSinopsis: En Belgrado\, durante los bo
+ mbardeos de la Segunda Guerra Mundial\, dos amigos —Blacky y Marko— se
+  refugian bajo tierra.…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
+ tps://lumiton.ar/evento/underground/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/underground/
+X-LUMITON-HASH:f66dfe388bfd9e3d63dd08642a5e5d5470895a61
+END:VEVENT
 END:VCALENDAR
