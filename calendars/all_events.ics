@@ -48,37 +48,6 @@ URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
 X-LUMITON-HASH:835e49b055f2d88b87c8a26b27c0a36d80cf16d7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIN AIRE
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261008T200500
-DTSTAMP:20261104T113740Z
-UID:bddc28d6c58f37e57e30@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:Sinopsis: En un pequeño pueblo húngaro\, Ana Bauch es una de
- dicada y progresista profesora de literatura en el sistema público.…\n\
- nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/sin-aire/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sin-aire/
-X-LUMITON-HASH:b07536d654fcc1a0c0075a5b2f8ef157b84b222a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AINDA -  HIMNOS NACIONALES VOL.1
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261008T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261008T223500
-DTSTAMP:20261104T111653Z
-UID:b6412d07356e4ae455d8@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Esmeralda Escalante y Yago Escrivá vuelven a las ra
- íces como intérpretes con 9 clásicos del repertorio nacional. El dúo
- …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/ainda-himn
- os-nacionales-vol-1/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/ainda-himnos-nacionales-vol-1/
-X-LUMITON-HASH:94ba80d821c946ca572694abea79ab3e02384e12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SARA FACIO\, HABER ESTADO AHÍ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
