@@ -14,37 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:PEACOCK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
-DTSTAMP:20261104T113740Z
-UID:adb49bcbc09c14987e14@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:Sinopsis: Matthias dirige una exitosa agencia de alquiler de a
- migos\, pero en cuanto su novia Sophia rompe con él\, su…\n\nVenue: Cin
- e York\n\nMore info: https://lumiton.ar/evento/peacock/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/peacock/
-X-LUMITON-HASH:f288fb17f1c7aeda0229bad21cb52a743078ae99
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CUATRO MADRES
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261009T220400
-DTSTAMP:20261104T113445Z
-UID:d89bb0674304b262b6ca@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.7/10 | 89 min\nSinopsis: Un novelista en apuros se ve 
- obligado a cuidar de tres mujeres mayores excéntricas\, y de su propia ma
- dre\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/cuatr
- o-madres/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/cuatro-madres/
-X-LUMITON-HASH:96c842a566782815b0782267f29be57c51423a38
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COMER CUENTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261010T190500

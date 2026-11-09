@@ -32,21 +32,6 @@ URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
 X-LUMITON-HASH:835e49b055f2d88b87c8a26b27c0a36d80cf16d7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SARA FACIO\, HABER ESTADO AHÍ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261009T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261009T200500
-DTSTAMP:20261104T111653Z
-UID:e86ae2430bb49c10a627@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: A mediados de los 50's\, Sara Facio irrumpe en el mu
- ndo de la fotografía y descubre que es un…\n\nVenue: Lumiton\n\nMore in
- fo: https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/sara-facio-haber-estado-ahi-2/
-X-LUMITON-HASH:f6b6e5a35ed649cb5f3fa031f424bb13eccff013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNA LUZ EN LA VENTANA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261010T191700
