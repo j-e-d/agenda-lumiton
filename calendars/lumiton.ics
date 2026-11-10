@@ -14,40 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:UNA TARDE EN EL MUSEO | STOP MOTION... ¿QUÉ ES? TALLER PARA INFA
- NCIAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T170500
-DTSTAMP:20261104T111653Z
-UID:173a32383edd8d2f392b@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:A cargo de Bea R. Blankenhorst Este taller tiene como objetivo
-  generar un espacio de introducción de las infancias a…\n\nVenue: Lumit
- on\n\nMore info: https://lumiton.ar/evento/una-tarde-en-el-museo-stop-moti
- on-que-es-taller-para-infancias/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-tarde-en-el-museo-stop-motion-que-es-tal
- ler-para-infancias/
-X-LUMITON-HASH:835e49b055f2d88b87c8a26b27c0a36d80cf16d7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNA LUZ EN LA VENTANA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T191700
-DTSTAMP:20261104T113445Z
-UID:3ed8f1f4233ca08b9835@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.2/10 | 72 min\nSinopsis: Una joven enfermera es contra
- tada por una anciana que vive en una antigua casona. La joven llega una no
- che…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/una-luz-e
- n-la-ventana-2/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/una-luz-en-la-ventana-2/
-X-LUMITON-HASH:f9b31510c213525fdef7b2f86297c2abb82e904f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNA VELADA CON NARCISO IBÁÑEZ MENTA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261030T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261030T210500

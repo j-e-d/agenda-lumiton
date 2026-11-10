@@ -14,53 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:COMER CUENTA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T190500
-DTSTAMP:20261104T111653Z
-UID:27aeffff42a6029b216d@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: El cambio del patrón alimenticio\, el entorno obeso
- génico y el sedentarismo son algunas de las causas que hacen que…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/comer-cuenta/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/comer-cuenta/
-X-LUMITON-HASH:e367573afe310fefdeb0cc282dccaf8a1694fd91
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MISTERIOSO ASESINATO EN LA MONTAÑA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T195800
-DTSTAMP:20261104T113445Z
-UID:965b5b3e55ab38c5e437@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.5/10 | 113 min\nSinopsis: Michel y Cathy\, una pareja 
- agobiada por el tiempo y las dificultades económicas\, apenas se hablan. 
- Hasta que un…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/event
- o/misterioso-asesinato-en-la-montana/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/misterioso-asesinato-en-la-montana/
-X-LUMITON-HASH:0984b3b24ab61e03ec873c199c3e4fb9abfc4b8c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VOCES DE LIBERTAD
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261010T221600
-DTSTAMP:20261104T113445Z
-UID:73dd723aa2f219fe7c82@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.7/10 | 131 min\nSinopsis: Ambientada en los tumultuoso
- s años 60 en la radio checoslovaca. La historia se centra en un grupo de 
- periodistas…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento
- /voces-de-libertad/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/voces-de-libertad/
-X-LUMITON-HASH:373526c69a20266f58c807b3f51bfbba6a5a9dda
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WESER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T180500
