@@ -15,38 +15,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:EL INFIERNO ESTÁ ENCANTADOR – GULP. 1985
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261011T193000
-DTSTAMP:20261104T113445Z
-UID:902708e2688c048d68ec@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 4.1/10 | 55 min\nSinopsis: Reconstrucción de la noche e
- n que Patricio Rey y sus Redonditos de Ricota presentó Gulp! en Cemento. 
- Con material…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumi
- ton.ar/evento/el-infierno-esta-encantador-gulp-1985/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-infierno-esta-encantador-gulp-1985/
-X-LUMITON-HASH:b731f0ba52507abdce537527ab3b90756412482e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS BRUJAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261011T183500
-DTSTAMP:20261104T113740Z
-UID:4426258257063781f067@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:Sinopsis: Un niño se encuentra en una convención de brujas e
-  intenta detenerlas\, pero lo convierten en ratón. Reseña: Nicolas…\n\
- nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/las-
- brujas/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/las-brujas/
-X-LUMITON-HASH:b514cfcbf5cf27f6ce5eb4696844be18a2a09fcc
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CRITTERS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200100
