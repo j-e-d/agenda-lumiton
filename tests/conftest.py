@@ -45,12 +45,10 @@ class OfflineScraper(LumitonScraper):
     Records retry waits and sessions instead of sleeping/connecting.
     """
 
-    def __init__(self):  # skips the real session and IMDb index
-        self.events = []
-        self.imdb = cast(IMDbDataset, NoIMDb())
+    def __init__(self):
         self.waits: list[float] = []
         self.sessions: list[NoNetwork] = [NoNetwork()]
-        self.scraper = self.sessions[0]
+        super().__init__(session=self.sessions[0], imdb=cast(IMDbDataset, NoIMDb()))
 
     def _wait(self, seconds: float):
         self.waits.append(seconds)

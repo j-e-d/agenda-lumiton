@@ -151,6 +151,33 @@ jobs:
         run: |
           uv run scraper/run.py
 
+      # A venue missing from scraper/venues.py only reaches all_events; open
+      # one issue per venue, the first time it's seen. The file exists only
+      # when there are unknown venues. Dedupe on a hidden key in the issue
+      # body (case/accent-insensitive, survives renames); closed issues
+      # count, so a venue deliberately left out isn't reported again.
+      - name: Report unknown venues
+        if: hashFiles('.cache/unknown_venues.txt') != ''
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create unknown-venue --color FBCA04 --description "Venue not in scraper/venues.py" 2>/dev/null || true
+          reported=$(gh issue list --label unknown-venue --state all --limit 500 --json body --jq '.[].body')
+          while IFS=$'\t' read -r key venue; do
+            [ -n "$key" ] || continue
+            if printf '%s\n' "$reported" | grep -Fq -- "<!-- venue-key: $key -->"; then
+              echo "Already reported: $venue"
+              continue
+            fi
+            gh issue create --label unknown-venue --title "Unknown venue: $venue" \
+              --body "The agenda lists events at \"$venue\", which isn't in scraper/venues.py, so they only appear in all_events (CSV and calendar), with no venue calendar. Add it to VENUE_KEYWORDS (plus the page card and README links), or close this issue to ignore the venue: closed issues are not reopened. Seen in $RUN_URL
+          <!-- venue-key: $key -->" \
+              || echo "Warning: could not open an issue for $venue"
+          done < .cache/unknown_venues.txt
+
       - name: Check for data changes
         id: git-check
         run: |

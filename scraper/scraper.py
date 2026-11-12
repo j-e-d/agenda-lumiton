@@ -44,10 +44,12 @@ class LumitonScraper:
     # automatic re-run (on a new runner) handles that case.
     RETRY_DELAYS = (60,)
 
-    def __init__(self):
+    def __init__(self, session=None, imdb: IMDbDataset | None = None):
         self.events = []
-        self.scraper = self._new_session()
-        self.imdb = IMDbDataset()
+        # Venue texts not in venues.py (of events kept), for the workflow to report
+        self.unknown_venues: set[str] = set()
+        self.scraper = session or self._new_session()
+        self.imdb = imdb or IMDbDataset()
 
     @staticmethod
     def _new_session():
@@ -183,6 +185,9 @@ class LumitonScraper:
         if not event.get("date"):
             print(f"Warning: Skipping '{event['title']}': no usable date")
             return None
+
+        if event["venue"] not in VENUES:
+            self.unknown_venues.add(event["venue"])
 
         if not event.get("time") and event.get("url"):
             detail_time = self._fetch_time_from_detail_page(event["url"])
