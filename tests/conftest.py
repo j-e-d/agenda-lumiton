@@ -26,14 +26,46 @@ class NoIMDb:
         return {"rating": "", "duration": ""}
 
 
+class NoNetwork:
+    """Session stand-in: any request fails loudly; tests stub the fetch"""
+
+    def __init__(self):
+        self.closed = False
+
+    def get(self, *args, **kwargs):
+        raise AssertionError("tests must not access the network; stub fetch_page")
+
+    def close(self):
+        self.closed = True
+
+
+class OfflineScraper(LumitonScraper):
+    """LumitonScraper without network access or IMDb index
+
+    Records retry waits and sessions instead of sleeping/connecting.
+    """
+
+    def __init__(self):  # skips the real session and IMDb index
+        self.events = []
+        self.imdb = cast(IMDbDataset, NoIMDb())
+        self.waits: list[float] = []
+        self.sessions: list[NoNetwork] = [NoNetwork()]
+        self.scraper = self.sessions[0]
+
+    def _wait(self, seconds: float):
+        self.waits.append(seconds)
+
+    def _new_session(self):
+        self.sessions.append(NoNetwork())
+        return self.sessions[-1]
+
+    def _fetch_time_from_detail_page(self, url: str) -> str | None:
+        return None
+
+
 @pytest.fixture
 def scraper():
-    """A LumitonScraper without network access or IMDb index"""
-    s = LumitonScraper.__new__(LumitonScraper)
-    s.events = []
-    s.imdb = cast(IMDbDataset, NoIMDb())
-    s._fetch_time_from_detail_page = lambda url: None
-    return s
+    return OfflineScraper()
 
 
 def days_from_today(n: int) -> str:

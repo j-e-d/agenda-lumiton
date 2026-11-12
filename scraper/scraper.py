@@ -7,6 +7,7 @@ Extracts film projection events from lumiton.ar/agenda-presencial/
 import csv
 import os
 import re
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -19,27 +20,71 @@ from imdb_dataset import IMDbDataset
 from venues import VENUES, normalize_venue, venue_slug
 
 
+class FetchError(Exception):
+    """The agenda page couldn't be fetched (network error, 4xx/5xx, or a
+    Cloudflare challenge instead of the page)"""
+
+
+# Text only found on Cloudflare challenge pages. Not "challenge-platform":
+# Cloudflare's background bot-check script adds that to every normal page.
+CHALLENGE_MARKERS = ("<title>Just a moment...</title>", "_cf_chl_opt")
+
+
+def is_challenge_page(html: str) -> bool:
+    return any(marker in html for marker in CHALLENGE_MARKERS)
+
+
 class LumitonScraper:
     """Scrapes film events from Lumiton's agenda page"""
 
     BASE_URL = "https://lumiton.ar/agenda-presencial/"
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
+    # Seconds to wait before retrying a failed fetch, one entry per retry.
+    # A block of the runner's IP usually outlasts this; the workflow's
+    # automatic re-run (on a new runner) handles that case.
+    RETRY_DELAYS = (60,)
 
     def __init__(self):
         self.events = []
-        self.scraper = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows", "mobile": False}
-        )
+        self.scraper = self._new_session()
         self.imdb = IMDbDataset()
+
+    @staticmethod
+    def _new_session():
+        return cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows", "mobile": False})
+
+    @staticmethod
+    def _wait(seconds: float):
+        time.sleep(seconds)
 
     def fetch_page(self) -> str:
         """Fetch the HTML content of the agenda page"""
         try:
             response = self.scraper.get(self.BASE_URL, timeout=30)
             response.raise_for_status()
-            return response.text
         except Exception as e:
-            raise Exception(f"Failed to fetch page: {e}") from e
+            raise FetchError(f"Failed to fetch page: {e}") from e
+        if is_challenge_page(response.text):
+            raise FetchError(f"Got a Cloudflare challenge instead of {self.BASE_URL}")
+        return response.text
+
+    def fetch_page_with_retry(self) -> str:
+        """fetch_page, retried with a fresh session after each FetchError
+
+        Only fetch failures are retried; anything else (a bug, a page
+        that parses to nothing) fails at once.
+        """
+        for delay in (*self.RETRY_DELAYS, None):
+            try:
+                return self.fetch_page()
+            except FetchError as e:
+                if delay is None:
+                    raise
+                print(f"Warning: {e}; retrying in {delay}s with a new session")
+                self._wait(delay)
+                self.scraper.close()
+                self.scraper = self._new_session()
+        raise AssertionError("loop always returns or raises")
 
     def parse_events(self, html: str) -> list[dict]:
         """Parse HTML and extract event information"""
@@ -163,15 +208,15 @@ class LumitonScraper:
     def scrape(self) -> list[dict]:
         """Main scraping method"""
         print("Fetching page...")
-        html = self.fetch_page()
+        html = self.fetch_page_with_retry()
 
         print("Parsing events...")
         self.events = self.parse_events(html)
 
         print(f"Found {len(self.events)} events")
         if not self.events:
-            # A redesign or a challenge page parses to nothing; fail the run
-            # instead of silently publishing stale calendars
+            # Not a challenge page (fetch_page checks), so most likely a
+            # redesign: fail the run instead of publishing stale calendars
             raise RuntimeError(f"No events parsed from {self.BASE_URL}; the page layout may have changed")
         return self.events
 
