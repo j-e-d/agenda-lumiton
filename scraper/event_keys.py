@@ -3,10 +3,10 @@ Identity of a screening, shared by the scraper (CSV dedupe) and the
 calendar generator (ICS UIDs) so the two can't drift apart.
 """
 
-from typing import Dict, Iterable, List, Tuple
+from collections.abc import Iterable
 
 
-def event_key(event: Dict) -> str:
+def event_key(event: dict) -> str:
     """Base identity: URL, date and venue
 
     URL is the primary identifier as it's stable even when titles change.
@@ -20,7 +20,7 @@ def event_key(event: Dict) -> str:
     return "|".join((identity, event.get("date") or "", event.get("venue") or ""))
 
 
-def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
+def keyed_events(events: Iterable[dict]) -> list[tuple[str, dict]]:
     """Pair each event with a unique key
 
     The earliest showing with a given base key keeps the plain key; any
@@ -31,10 +31,9 @@ def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
     an earlier one ends.
     """
     events = list(events)
-    order = sorted(range(len(events)),
-                   key=lambda i: (event_key(events[i]), events[i].get("time") or "", i))
+    order = sorted(range(len(events)), key=lambda i: (event_key(events[i]), events[i].get("time") or "", i))
     seen = set()
-    keys: List[str] = [""] * len(events)
+    keys: list[str] = [""] * len(events)
     for i in order:
         event = events[i]
         base = event_key(event)
@@ -47,4 +46,4 @@ def keyed_events(events: Iterable[Dict]) -> List[Tuple[str, Dict]]:
             n += 1
         seen.add(key)
         keys[i] = key
-    return list(zip(keys, events))
+    return list(zip(keys, events, strict=True))

@@ -4,17 +4,17 @@ Calendar Generator
 Converts CSV event data to ICS calendar files
 """
 
+import contextlib
 import csv
 import hashlib
 import json
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
-from typing import List, Dict, Optional, Tuple
 
-from icalendar import Calendar, Event, Timezone, TimezoneStandard
 import pytz
+from icalendar import Calendar, Event, Timezone, TimezoneStandard
 
 from event_keys import event_key, keyed_events
 from venues import VENUES, venue_slug
@@ -34,9 +34,9 @@ class CalendarGenerator:
         self.data_dir = Path(data_dir)
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        self.run_stamp = datetime.now(pytz.UTC).replace(microsecond=0)
+        self.run_stamp = datetime.now(UTC).replace(microsecond=0)
 
-    def read_csv(self, filepath: Path) -> List[Dict]:
+    def read_csv(self, filepath: Path) -> list[dict]:
         """Read events from CSV file"""
         events = []
 
@@ -44,13 +44,13 @@ class CalendarGenerator:
             print(f"Warning: {filepath} does not exist")
             return events
 
-        with open(filepath, "r", encoding="utf-8") as f:
+        with open(filepath, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             events = list(reader)
 
         return events
 
-    def filter_events_by_date(self, keyed: List[Tuple[str, Dict]]) -> List[Tuple[str, Dict]]:
+    def filter_events_by_date(self, keyed: list[tuple[str, dict]]) -> list[tuple[str, dict]]:
         """Keep (key, event) pairs for future events and recent past events"""
         cutoff_date = datetime.now(self.TIMEZONE) - timedelta(days=self.CALENDAR_RETENTION_DAYS)
 
@@ -82,7 +82,7 @@ class CalendarGenerator:
         return self.TIMEZONE.localize(dt)
 
     @staticmethod
-    def parse_time(time_str: Optional[str]) -> Optional[Tuple[int, int]]:
+    def parse_time(time_str: str | None) -> tuple[int, int] | None:
         """Return (hour, minute) for a valid 'HH:MM' / 'HH:MMhs', else None"""
         match = re.fullmatch(r"(\d{1,2}):(\d{2})\s*(hs)?", (time_str or "").strip())
         if not match:
@@ -92,8 +92,9 @@ class CalendarGenerator:
             return None
         return hour, minute
 
-    def create_event(self, event_data: Dict, uid_key: str = None,
-                     previous: Dict[str, Tuple[str, datetime, int]] = None) -> Event:
+    def create_event(
+        self, event_data: dict, uid_key: str | None = None, previous: dict[str, tuple[str, datetime, int]] | None = None
+    ) -> Event:
         """Create an iCalendar event from event data
 
         uid_key: identity used to derive the UID (defaults to event_key)
@@ -190,25 +191,23 @@ class CalendarGenerator:
         return tz
 
     @staticmethod
-    def _duration_minutes(event_data: Dict) -> int:
+    def _duration_minutes(event_data: dict) -> int:
         """Runtime from IMDb (default 120) plus a 5-minute buffer"""
         duration_minutes = 120
         duration_str = event_data.get("duration", "")
         if duration_str:
-            try:
+            with contextlib.suppress(ValueError, TypeError):
                 duration_minutes = int(duration_str)
-            except (ValueError, TypeError):
-                pass
 
         return duration_minutes + 5
 
     @classmethod
-    def content_hash(cls, event_data: Dict) -> str:
+    def content_hash(cls, event_data: dict) -> str:
         """Hash of the source fields that end up in the ICS event"""
         fields = [(event_data.get(f) or "") for f in cls.HASHED_FIELDS]
         return hashlib.sha1(json.dumps(fields).encode("utf-8")).hexdigest()
 
-    def load_previous(self, filepaths: List[Path]) -> Dict[str, Tuple[str, datetime, int]]:
+    def load_previous(self, filepaths: list[Path]) -> dict[str, tuple[str, datetime, int]]:
         """Read UID -> (content hash, DTSTAMP, SEQUENCE) from previously generated files
 
         All files share one map so an event has the same DTSTAMP/SEQUENCE in
@@ -235,8 +234,12 @@ class CalendarGenerator:
                     previous[uid] = entry
         return previous
 
-    def generate_calendar(self, keyed: List[Tuple[str, Dict]], calendar_name: str,
-                          previous: Dict[str, Tuple[str, datetime, int]] = None) -> Calendar:
+    def generate_calendar(
+        self,
+        keyed: list[tuple[str, dict]],
+        calendar_name: str,
+        previous: dict[str, tuple[str, datetime, int]] | None = None,
+    ) -> Calendar:
         """Generate a calendar from (UID key, event) pairs"""
         cal = Calendar()
 
@@ -302,6 +305,7 @@ class CalendarGenerator:
             cal = self.generate_calendar(events, name, previous)
             self.save_calendar(cal, self.output_dir / f"{slug}.ics")
             print(f"Generated {name} calendar with {len(events)} events (filtered from {total} total)")
+
 
 def main():
     """Main entry point"""

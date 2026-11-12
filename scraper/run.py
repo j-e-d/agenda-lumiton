@@ -3,13 +3,13 @@
 Main script to run scraper and calendar generator
 """
 
-from pathlib import Path
 import sys
+from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from scraper import LumitonScraper
 from calendar_generator import CalendarGenerator
+from scraper import LumitonScraper
 
 
 def main():

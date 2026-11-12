@@ -175,6 +175,8 @@ uv run scraper/run.py
 # O ejecutar módulos individuales
 uv run scraper/scraper.py        # Solo scraping
 uv run scraper/calendar_generator.py  # Solo generar calendarios
+uv run pytest                    # Tests (sin red: usan datos de prueba)
+uv run ruff check . && uv run ruff format --check . && uv run ty check  # Lint, formato y tipos
 ```
 
 Los archivos generados estarán en:

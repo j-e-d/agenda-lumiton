@@ -19,8 +19,8 @@ import sqlite3
 import sys
 import unicodedata
 import urllib.request
+from collections.abc import Iterator
 from pathlib import Path
-from typing import Dict, Iterator, List, Optional, Tuple
 
 DATASET_URL = "https://datasets.imdbws.com/{name}.tsv.gz"
 DEFAULT_DB = Path(__file__).parent.parent / ".cache" / "imdb.sqlite"
@@ -50,20 +50,19 @@ def normalize(title: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _stream_tsv(name: str) -> Iterator[Dict[str, str]]:
+def _stream_tsv(name: str) -> Iterator[dict[str, str]]:
     # Some IMDb fields exceed csv's default limit; raised here, not at
     # import, so importing this module doesn't change csv for everyone
     csv.field_size_limit(sys.maxsize)
     url = DATASET_URL.format(name=name)
     print(f"[IMDb] Streaming {url}")
     request = urllib.request.Request(url, headers={"User-Agent": "agenda-lumiton"})
-    with urllib.request.urlopen(request, timeout=120) as response:
-        with gzip.GzipFile(fileobj=response) as gz:
-            text = io.TextIOWrapper(gz, encoding="utf-8", newline="")
-            yield from csv.DictReader(text, delimiter="\t", quoting=csv.QUOTE_NONE)
+    with urllib.request.urlopen(request, timeout=120) as response, gzip.GzipFile(fileobj=response) as gz:
+        text = io.TextIOWrapper(gz, encoding="utf-8", newline="")
+        yield from csv.DictReader(text, delimiter="\t", quoting=csv.QUOTE_NONE)
 
 
-def _nullable_int(value: str) -> Optional[int]:
+def _nullable_int(value: str) -> int | None:
     return None if value == "\\N" else int(value)
 
 
@@ -126,15 +125,17 @@ class IMDbDataset:
 
     def __init__(self, db_path: Path = DEFAULT_DB):
         self.db = None
-        self.cache: Dict[Tuple[str, bool], Dict[str, str]] = {}
+        self.cache: dict[tuple[str, bool], dict[str, str]] = {}
         if Path(db_path).exists():
             self.db = sqlite3.connect(Path(db_path).resolve().as_uri() + "?mode=ro", uri=True)
         else:
-            print(f"Warning: IMDb index {db_path} not found; skipping IMDb lookups "
-                  f"(build it with: uv run scraper/imdb_dataset.py build)")
+            print(
+                f"Warning: IMDb index {db_path} not found; skipping IMDb lookups "
+                f"(build it with: uv run scraper/imdb_dataset.py build)"
+            )
 
     @staticmethod
-    def candidates(title: str) -> Tuple[List[str], Optional[int]]:
+    def candidates(title: str) -> tuple[list[str], int | None]:
         """Search names and an optional year hint from a scraped title
 
         'EL RESPLANDOR (THE SHINING)' -> el resplandor the shining,
@@ -148,16 +149,17 @@ class IMDbDataset:
         are left alone: a year only counts after punctuation or in parens.
         """
         year = None
-        year_match = (re.search(r"\((19\d{2}|20\d{2})\)\s*$", title)
-                      or re.search(r"[.,–-]\s*(19\d{2}|20\d{2})\s*$", title))
-        if year_match and title[:year_match.start()].strip():
+        year_match = re.search(r"\((19\d{2}|20\d{2})\)\s*$", title) or re.search(
+            r"[.,–-]\s*(19\d{2}|20\d{2})\s*$", title
+        )
+        if year_match and title[: year_match.start()].strip():
             year = int(year_match.group(1))
-            title = title[:year_match.start()]
+            title = title[: year_match.start()]
 
         names = [title]
         paren = re.search(r"\(([^)]+)\)", title)
         if paren:
-            names += [title[:paren.start()], paren.group(1)]
+            names += [title[: paren.start()], paren.group(1)]
         for sep in (" – ", " - ", ": "):
             if sep in title:
                 # '2001: ODISEA...' is one title, not a prefix and a subtitle
@@ -171,7 +173,7 @@ class IMDbDataset:
                 seen.append(name)
         return seen, year
 
-    def lookup(self, title: str, is_short: bool = False) -> Optional[tuple]:
+    def lookup(self, title: str, is_short: bool = False) -> tuple | None:
         """Best (year, runtime, rating, votes) match, or None if not confident
 
         With a year hint, the most-voted title within YEAR_TOLERANCE wins.
@@ -179,6 +181,8 @@ class IMDbDataset:
         x the runner-up's votes. A name with no confident match falls through
         to the next, more specific candidate.
         """
+        if self.db is None:
+            return None
         names, year = self.candidates(title)
         # Text after a dash/colon is only a fallback for a full title IMDb
         # doesn't know: once a fuller name matched something ambiguous, a
@@ -190,7 +194,9 @@ class IMDbDataset:
                 continue
             rows = self.db.execute(
                 "SELECT t.year, t.runtime, t.rating, t.votes FROM names n "
-                "JOIN titles t USING (tconst) WHERE n.name = ?", (name,)).fetchall()
+                "JOIN titles t USING (tconst) WHERE n.name = ?",
+                (name,),
+            ).fetchall()
             if is_short:
                 rows = [r for r in rows if r[1] and r[1] <= SHORT_FILM_MAX_MINUTES]
             if not rows:
@@ -207,7 +213,7 @@ class IMDbDataset:
                 return rows[0]
         return None
 
-    def get_movie_info(self, title: str, description: str = "") -> Dict[str, str]:
+    def get_movie_info(self, title: str, description: str = "") -> dict[str, str]:
         """Rating and duration as CSV strings ('' when unknown)"""
         is_short = bool(SHORT_FILM_RE.search(description or ""))
         cache_key = (title, is_short)
@@ -215,15 +221,13 @@ class IMDbDataset:
             return self.cache[cache_key]
 
         info = {"rating": "", "duration": ""}
-        if self.db is not None:
-            match = self.lookup(title, is_short)
-            if match:
-                year, runtime, rating, _votes = match
-                info = {"rating": f"{rating:.1f}" if rating else "",
-                        "duration": str(runtime) if runtime else ""}
-                print(f"[IMDb] '{title}' -> {year}, rating {info['rating']}, {info['duration']} min")
-            else:
-                print(f"[IMDb] No match for '{title}'")
+        match = self.lookup(title, is_short)
+        if match:
+            year, runtime, rating, _votes = match
+            info = {"rating": f"{rating:.1f}" if rating else "", "duration": str(runtime) if runtime else ""}
+            print(f"[IMDb] '{title}' -> {year}, rating {info['rating']}, {info['duration']} min")
+        elif self.db is not None:
+            print(f"[IMDb] No match for '{title}'")
         self.cache[cache_key] = info
         return info
 

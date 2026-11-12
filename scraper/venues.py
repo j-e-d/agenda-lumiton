@@ -1,7 +1,5 @@
 """Venues scraped from Lumiton's agenda, shared by scraper and calendar generator"""
 
-from typing import Optional
-
 # Canonical venue name -> keyword identifying it in the site's venue text.
 # Checked in this order: specific venue names come before "munro", which is
 # also the locality of several venues (e.g. "Lumiton, Munro").
@@ -16,7 +14,7 @@ VENUE_KEYWORDS = {
 VENUES = ["Lumiton", "Cine York", "Centro Cultural Munro", "Quinta Trabucco", "Torre Ader"]
 
 
-def normalize_venue(venue_text: str) -> Optional[str]:
+def normalize_venue(venue_text: str) -> str | None:
     """Canonical venue name for the site's venue text, or None if unknown"""
     venue_lower = venue_text.lower()
     for venue, keyword in VENUE_KEYWORDS.items():

@@ -9,11 +9,10 @@ import os
 import re
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Optional
 
 import cloudscraper
-from bs4 import BeautifulSoup
 import pytz
+from bs4 import BeautifulSoup
 
 from event_keys import event_key
 from imdb_dataset import IMDbDataset
@@ -29,11 +28,7 @@ class LumitonScraper:
     def __init__(self):
         self.events = []
         self.scraper = cloudscraper.create_scraper(
-            browser={
-                'browser': 'chrome',
-                'platform': 'windows',
-                'mobile': False
-            }
+            browser={"browser": "chrome", "platform": "windows", "mobile": False}
         )
         self.imdb = IMDbDataset()
 
@@ -44,16 +39,14 @@ class LumitonScraper:
             response.raise_for_status()
             return response.text
         except Exception as e:
-            raise Exception(f"Failed to fetch page: {e}")
+            raise Exception(f"Failed to fetch page: {e}") from e
 
-    def parse_events(self, html: str) -> List[Dict]:
+    def parse_events(self, html: str) -> list[dict]:
         """Parse HTML and extract event information"""
         soup = BeautifulSoup(html, "html.parser")
         events = []
 
-        event_items = soup.find_all("article") or soup.find_all(
-            "div", class_=re.compile(r"event|film|agenda|post")
-        )
+        event_items = soup.find_all("article") or soup.find_all("div", class_=re.compile(r"event|film|agenda|post"))
 
         for item in event_items:
             try:
@@ -66,7 +59,7 @@ class LumitonScraper:
 
         return events
 
-    def _fetch_time_from_detail_page(self, url: str) -> Optional[str]:
+    def _fetch_time_from_detail_page(self, url: str) -> str | None:
         """Fetch event detail page and extract time if available
 
         Returns the time, "" if a real event page shows no time, or None if
@@ -104,7 +97,7 @@ class LumitonScraper:
 
         return None
 
-    def _extract_event_data(self, item) -> Dict:
+    def _extract_event_data(self, item) -> dict | None:
         """Extract individual event data from HTML element"""
         event = {}
 
@@ -160,12 +153,14 @@ class LumitonScraper:
         """Normalize venue name to standard format"""
         venue = normalize_venue(venue_text)
         if venue is None:
-            print(f"Warning: Unknown venue '{venue_text}': its events only go to all_events "
-                  f"(add it to scraper/venues.py for a per-venue calendar)")
+            print(
+                f"Warning: Unknown venue '{venue_text}': its events only go to all_events "
+                f"(add it to scraper/venues.py for a per-venue calendar)"
+            )
             return venue_text
         return venue
 
-    def scrape(self) -> List[Dict]:
+    def scrape(self) -> list[dict]:
         """Main scraping method"""
         print("Fetching page...")
         html = self.fetch_page()
@@ -180,7 +175,7 @@ class LumitonScraper:
             raise RuntimeError(f"No events parsed from {self.BASE_URL}; the page layout may have changed")
         return self.events
 
-    def _load_existing_csv(self, filepath: Path) -> List[Dict]:
+    def _load_existing_csv(self, filepath: Path) -> list[dict]:
         """Load existing CSV rows
 
         Read errors are fatal: carrying on with an empty history would
@@ -188,10 +183,10 @@ class LumitonScraper:
         """
         if not filepath.exists():
             return []
-        with open(filepath, "r", encoding="utf-8") as f:
+        with open(filepath, encoding="utf-8") as f:
             return list(csv.DictReader(f))
 
-    def _merge(self, existing_rows: List[Dict], fresh_events: List[Dict]) -> List[Dict]:
+    def _merge(self, existing_rows: list[dict], fresh_events: list[dict]) -> list[dict]:
         """Merge a fresh scrape into the existing rows
 
         Rows are grouped by event_key (URL, date, venue). Each group in the
@@ -212,14 +207,14 @@ class LumitonScraper:
             if row.get("url") and (row.get("rating") or row.get("duration")):
                 known_imdb.setdefault(row["url"], row)
 
-        fresh_groups: Dict[str, List[Dict]] = {}
+        fresh_groups: dict[str, list[dict]] = {}
         for event in fresh_events:
             fresh_groups.setdefault(event_key(event), []).append(event)
-        existing_groups: Dict[str, List[Dict]] = {}
+        existing_groups: dict[str, list[dict]] = {}
         for row in existing_rows:
             existing_groups.setdefault(event_key(row), []).append(row)
 
-        replacements: Dict[str, List[Dict]] = {}
+        replacements: dict[str, list[dict]] = {}
         for key, group in fresh_groups.items():
             old_group = existing_groups.get(key, [])
             fresh_times = {e["time"] for e in group if e.get("time")}
@@ -235,8 +230,7 @@ class LumitonScraper:
 
             # Old showings not in the fresh scrape: keep those that already happened
             kept_times = {e.get("time") for e in group}
-            past = [r for r in old_group
-                    if r.get("time") not in kept_times and self._has_started(r, now)]
+            past = [r for r in old_group if r.get("time") not in kept_times and self._has_started(r, now)]
             replacements[key] = past + group
 
         # Keep row order stable: a replaced group takes the place of its
@@ -254,7 +248,7 @@ class LumitonScraper:
                 merged.extend(group)
         return merged
 
-    def _has_started(self, row: Dict, now: datetime) -> bool:
+    def _has_started(self, row: dict, now: datetime) -> bool:
         """Whether a stored showing's start time has passed"""
         try:
             start = datetime.strptime(f"{row.get('date')} {row.get('time') or '23:59'}", "%Y-%m-%d %H:%M")
@@ -263,13 +257,13 @@ class LumitonScraper:
         return self.TIMEZONE.localize(start) <= now
 
     @staticmethod
-    def _carry_over_fields(event: Dict, known: Optional[Dict]):
+    def _carry_over_fields(event: dict, known: dict | None):
         """Reuse rating/duration already stored for the same URL (same film)"""
         if known and not (event.get("rating") or event.get("duration")):
             event["rating"] = known.get("rating", "")
             event["duration"] = known.get("duration", "")
 
-    def _enrich_with_imdb(self, event: Dict) -> Dict:
+    def _enrich_with_imdb(self, event: dict) -> dict:
         """Fill rating and duration from IMDb if neither is known
 
         Both values are taken from the same match, so a row never mixes the
@@ -317,7 +311,7 @@ class LumitonScraper:
             self._write_csv(venue_file, venue_events, fieldnames)
             print(f"Saved {venue} events to {venue_file} (total: {len(venue_events)})")
 
-    def _write_csv(self, filepath: Path, events: List[Dict], fieldnames: List[str]):
+    def _write_csv(self, filepath: Path, events: list[dict], fieldnames: list[str]):
         """Write events to CSV file with LF line endings, atomically"""
         tmp_path = filepath.with_suffix(filepath.suffix + ".tmp")
         with open(tmp_path, "w", newline="\n", encoding="utf-8") as f:

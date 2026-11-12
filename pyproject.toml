@@ -10,3 +10,28 @@ dependencies = [
     "pytz==2024.1",
     "cloudscraper==1.2.71",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.5",
+    "ty>=0.0.101",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM"]
+
+[tool.ruff.lint.isort]
+# Scraper modules import each other as top-level modules (run as scripts)
+known-first-party = ["calendar_generator", "event_keys", "imdb_dataset", "scraper", "venues", "conftest"]
+
+[tool.ty.environment]
+python-version = "3.11"
+extra-paths = ["scraper", "tests"]

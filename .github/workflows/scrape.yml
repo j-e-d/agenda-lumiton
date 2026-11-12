@@ -26,6 +26,11 @@ jobs:
     permissions:
       contents: write
       issues: write
+    env:
+      # Every uv command (sync and each `uv run`) skips the dev tools and
+      # fails rather than re-locks if uv.lock is out of date
+      UV_NO_DEV: "1"
+      UV_LOCKED: "1"
 
     steps:
       - name: Checkout repository
