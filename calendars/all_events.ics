@@ -1484,4 +1484,19 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-noche-de-los-museos-5/
 X-LUMITON-HASH:be9397cab6e1b376cac23f6f0cc18bba9eac8f27
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE CHOSEN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261115T203500
+DTSTAMP:20261112T214714Z
+UID:e504117376a868e92368@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Sinopsis: El primer episodio de la sexta temporada aborda el a
+ rresto de Jesús y el doloroso inicio de su camino…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/the-chosen/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/the-chosen/
+X-LUMITON-HASH:6e0c03e6ed3c7ca3d83d629f8f4191e74043393c
+END:VEVENT
 END:VCALENDAR
