@@ -174,7 +174,7 @@ class IMDbDataset:
         return seen, year
 
     def lookup(self, title: str, is_short: bool = False) -> tuple | None:
-        """Best (year, runtime, rating, votes) match, or None if not confident
+        """Best (year, runtime, rating, votes, tconst) match, or None if not confident
 
         With a year hint, the most-voted title within YEAR_TOLERANCE wins.
         Without one, the most-voted title wins only if it has DOMINANCE_RATIO
@@ -193,7 +193,7 @@ class IMDbDataset:
             if ambiguous and name in fragments:
                 continue
             rows = self.db.execute(
-                "SELECT t.year, t.runtime, t.rating, t.votes FROM names n "
+                "SELECT t.year, t.runtime, t.rating, t.votes, t.tconst FROM names n "
                 "JOIN titles t USING (tconst) WHERE n.name = ?",
                 (name,),
             ).fetchall()
@@ -214,17 +214,21 @@ class IMDbDataset:
         return None
 
     def get_movie_info(self, title: str, description: str = "") -> dict[str, str]:
-        """Rating and duration as CSV strings ('' when unknown)"""
+        """Rating, duration and IMDb ID as CSV strings ('' when unknown)"""
         is_short = bool(SHORT_FILM_RE.search(description or ""))
         cache_key = (title, is_short)
         if cache_key in self.cache:
             return self.cache[cache_key]
 
-        info = {"rating": "", "duration": ""}
+        info = {"rating": "", "duration": "", "imdb_id": ""}
         match = self.lookup(title, is_short)
         if match:
-            year, runtime, rating, _votes = match
-            info = {"rating": f"{rating:.1f}" if rating else "", "duration": str(runtime) if runtime else ""}
+            year, runtime, rating, _votes, tconst = match
+            info = {
+                "rating": f"{rating:.1f}" if rating else "",
+                "duration": str(runtime) if runtime else "",
+                "imdb_id": tconst,
+            }
             print(f"[IMDb] '{title}' -> {year}, rating {info['rating']}, {info['duration']} min")
         elif self.db is not None:
             print(f"[IMDb] No match for '{title}'")

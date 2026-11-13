@@ -109,12 +109,12 @@ def test_short_film_description_restricts_to_shorts(dataset):
     assert year_of(dataset, "LA PESCA") == 1999
     assert year_of(dataset, "LA PESCA", is_short=True) == 2015
     info = dataset.get_movie_info("LA PESCA", "Cortometraje de 14 minutos")
-    assert info == {"rating": "7.0", "duration": "14"}
+    assert info == {"rating": "7.0", "duration": "14", "imdb_id": "tt11"}
 
 
 def test_get_movie_info_formats_csv_strings(dataset):
-    assert dataset.get_movie_info("2001: A SPACE ODYSSEY") == {"rating": "8.3", "duration": "149"}
-    assert dataset.get_movie_info("ANIMAL") == {"rating": "", "duration": ""}
+    assert dataset.get_movie_info("2001: A SPACE ODYSSEY") == {"rating": "8.3", "duration": "149", "imdb_id": "tt1"}
+    assert dataset.get_movie_info("ANIMAL") == {"rating": "", "duration": "", "imdb_id": ""}
 
 
 def test_number_titles_are_not_year_hints():
@@ -124,4 +124,8 @@ def test_number_titles_are_not_year_hints():
 
 
 def test_missing_index_skips_lookups(tmp_path):
-    assert IMDbDataset(tmp_path / "none.sqlite").get_movie_info("PSYCHO") == {"rating": "", "duration": ""}
+    assert IMDbDataset(tmp_path / "none.sqlite").get_movie_info("PSYCHO") == {
+        "rating": "",
+        "duration": "",
+        "imdb_id": "",
+    }

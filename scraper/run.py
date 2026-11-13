@@ -48,7 +48,7 @@ def main():
     scraper.save_to_csv(data_dir)
 
     print("\n[2/2] Generating ICS calendar files...")
-    generator = CalendarGenerator(data_dir, calendars_dir)
+    generator = CalendarGenerator(data_dir, calendars_dir, base_dir / "docs")
     generator.generate_all()
 
     print("\n" + "=" * 60)

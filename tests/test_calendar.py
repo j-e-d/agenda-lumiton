@@ -1,4 +1,5 @@
 import csv
+import json
 
 import pytest
 from icalendar import Calendar
@@ -6,7 +7,7 @@ from icalendar import Calendar
 from calendar_generator import CalendarGenerator
 from conftest import row
 
-FIELDS = ["title", "date", "time", "venue", "url", "description", "rating", "duration"]
+FIELDS = ["title", "date", "time", "venue", "url", "description", "rating", "duration", "imdb_id"]
 
 
 def write_csv(path, rows):
@@ -107,3 +108,49 @@ def test_missing_csv_leaves_calendars_untouched(dirs):
     (out / "all_events.ics").write_bytes(b"keep")
     CalendarGenerator(data, out).generate_all()
     assert (out / "all_events.ics").read_bytes() == b"keep"
+
+
+def test_imdb_link_in_description(dirs):
+    out = generate(dirs, [row("A", rating="8.3", duration="149", imdb_id="tt0062622"), row("B")])
+    found = events(out / "all_events.ics")
+    assert "IMDb: 8.3/10 | 149 min\nhttps://www.imdb.com/title/tt0062622/" in str(found["A"]["description"])
+    assert "imdb.com" not in str(found["B"]["description"])
+
+
+def test_upcoming_json_lists_each_calendars_dates(dirs, tmp_path):
+    data, out = dirs
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    rows = [row("A", day=3, venue="Cine York"), row("B", day=5, venue="Cine York"), row("OLD", day=-40)]
+    write_csv(data / "all_events.csv", rows)
+    CalendarGenerator(data, out, docs).generate_all()
+    dates = json.loads((docs / "upcoming.json").read_text(encoding="utf-8"))
+    assert dates["cine_york"] == [rows[0]["date"], rows[1]["date"]]
+    assert dates["torre_ader"] == []
+    assert set(dates) == {
+        "all_events",
+        "lumiton",
+        "cine_york",
+        "centro_cultural_munro",
+        "quinta_trabucco",
+        "torre_ader",
+    }
+
+
+def test_no_docs_dir_writes_no_json(dirs, tmp_path):
+    generate(dirs, [row("A")])
+    assert not list(tmp_path.rglob("upcoming.json"))
+
+
+def test_events_without_imdb_id_keep_their_hash():
+    event = row("A")
+    without_field = {k: v for k, v in event.items() if k != "imdb_id"}
+    assert CalendarGenerator.content_hash(event) == CalendarGenerator.content_hash(without_field)
+    assert CalendarGenerator.content_hash(event | {"imdb_id": "tt1"}) != CalendarGenerator.content_hash(event)
+
+
+def test_upcoming_json_creates_docs_dir(dirs, tmp_path):
+    data, out = dirs
+    write_csv(data / "all_events.csv", [row("A")])
+    CalendarGenerator(data, out, tmp_path / "missing" / "docs").generate_all()
+    assert (tmp_path / "missing" / "docs" / "upcoming.json").exists()

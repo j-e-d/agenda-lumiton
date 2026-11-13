@@ -29,10 +29,15 @@ class CalendarGenerator:
     NO_TIME_NOTE = "(confirmar horario)"
     HASH_PROP = "X-LUMITON-HASH"
     HASHED_FIELDS = ("title", "date", "time", "venue", "url", "description", "rating", "duration")
+    # Fields added later: hashed only when set, so adding a field doesn't
+    # make every event without it look changed (and bump its SEQUENCE)
+    OPTIONAL_HASHED_FIELDS = ("imdb_id",)
 
-    def __init__(self, data_dir: Path, output_dir: Path):
+    def __init__(self, data_dir: Path, output_dir: Path, docs_dir: Path | None = None):
         self.data_dir = Path(data_dir)
         self.output_dir = Path(output_dir)
+        # Where the GitHub Pages site lives; gets upcoming.json when set
+        self.docs_dir = Path(docs_dir) if docs_dir else None
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.run_stamp = datetime.now(UTC).replace(microsecond=0)
 
@@ -120,6 +125,9 @@ class CalendarGenerator:
             if duration:
                 info_parts.append(f"{duration} min")
             description_parts.append(" | ".join(info_parts))
+        if event_data.get("imdb_id"):
+            # Link to the matched title, so a wrong match is easy to spot
+            description_parts.append(f"https://www.imdb.com/title/{event_data['imdb_id']}/")
 
         if event_data.get("description"):
             description_parts.append(event_data["description"])
@@ -205,6 +213,7 @@ class CalendarGenerator:
     def content_hash(cls, event_data: dict) -> str:
         """Hash of the source fields that end up in the ICS event"""
         fields = [(event_data.get(f) or "") for f in cls.HASHED_FIELDS]
+        fields += [f"{f}={event_data[f]}" for f in cls.OPTIONAL_HASHED_FIELDS if event_data.get(f)]
         return hashlib.sha1(json.dumps(fields).encode("utf-8")).hexdigest()
 
     def load_previous(self, filepaths: list[Path]) -> dict[str, tuple[str, datetime, int]]:
@@ -306,6 +315,24 @@ class CalendarGenerator:
             self.save_calendar(cal, self.output_dir / f"{slug}.ics")
             print(f"Generated {name} calendar with {len(events)} events (filtered from {total} total)")
 
+        if self.docs_dir:
+            self.save_screening_dates({slug: events for slug, _, events, _ in calendars})
+
+    def save_screening_dates(self, calendars: dict[str, list[tuple[str, dict]]]):
+        """Write docs/upcoming.json: each calendar's screening dates
+
+        The page uses it to mark venues with no upcoming screenings. Dates,
+        not counts: the page compares them with today, so the file only
+        changes when the calendars do.
+        """
+        assert self.docs_dir is not None
+        dates = {slug: sorted({e["date"] for _, e in events}) for slug, events in calendars.items()}
+        self.docs_dir.mkdir(parents=True, exist_ok=True)
+        path = self.docs_dir / "upcoming.json"
+        tmp_path = path.with_suffix(".json.tmp")
+        tmp_path.write_text(json.dumps(dates, indent=2) + "\n", encoding="utf-8")
+        os.replace(tmp_path, path)
+
 
 def main():
     """Main entry point"""
@@ -313,7 +340,7 @@ def main():
     data_dir = base_dir / "data"
     calendars_dir = base_dir / "calendars"
 
-    generator = CalendarGenerator(data_dir, calendars_dir)
+    generator = CalendarGenerator(data_dir, calendars_dir, base_dir / "docs")
     generator.generate_all()
 
     print("\nCalendar generation completed!")

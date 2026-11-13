@@ -84,6 +84,12 @@
       margin-bottom: 1rem;
     }
 
+    .no-upcoming {
+      color: #555;
+      font-style: italic;
+      margin-bottom: 1rem;
+    }
+
     .url-container {
       display: flex;
       flex-direction: column;
@@ -244,10 +250,10 @@
     <h2>Calendarios Disponibles</h2>
 
     <section class="calendars">
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="all_events">
         <h3>Todas las Proyecciones</h3>
         <p class="calendar-description">
-          Incluye eventos de los 3 cines
+          Incluye eventos de todas las salas
         </p>
         <div class="url-container">
           <input
@@ -268,7 +274,7 @@
         </div>
       </article>
 
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="cine_york">
         <h3>Cine York</h3>
         <p class="calendar-description">
           Proyecciones en Cine York (Juan Bautista Alberdi 895, Olivos)
@@ -292,7 +298,7 @@
         </div>
       </article>
 
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="centro_cultural_munro">
         <h3>Centro Cultural Munro</h3>
         <p class="calendar-description">
           Proyecciones en Centro Cultural Munro (Vélez Sarsfield 4650, Munro)
@@ -316,7 +322,7 @@
         </div>
       </article>
 
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="quinta_trabucco">
         <h3>Quinta Trabucco</h3>
         <p class="calendar-description">
           Proyecciones en Quinta Trabucco
@@ -340,7 +346,7 @@
         </div>
       </article>
 
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="torre_ader">
         <h3>Torre Ader</h3>
         <p class="calendar-description">
           Proyecciones en Torre Ader
@@ -364,7 +370,7 @@
         </div>
       </article>
 
-      <article class="calendar-item">
+      <article class="calendar-item" data-calendar="lumiton">
         <h3>Lumiton</h3>
         <p class="calendar-description">
           Proyecciones en Lumiton (Sgto. Cabral 2354, Munro)
@@ -456,7 +462,34 @@
   </footer>
 
   <script>
+    // Mark calendars with no upcoming screenings. upcoming.json holds each
+    // calendar's screening dates; compare them with today in Buenos Aires.
+    async function markEmptyCalendars() {
+      try {
+        const response = await fetch('upcoming.json', { cache: 'no-cache' });
+        if (!response.ok) return;
+        const dates = await response.json();
+        const today = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'America/Argentina/Buenos_Aires'
+        }).format(new Date());
+
+        document.querySelectorAll('.calendar-item[data-calendar]').forEach(card => {
+          const calendarDates = dates[card.dataset.calendar];
+          if (!calendarDates || calendarDates.some(date => date >= today)) return;
+          const note = document.createElement('p');
+          note.className = 'no-upcoming';
+          note.textContent = 'Sin funciones próximas por ahora. Si te suscribís, las nuevas funciones aparecen solas.';
+          card.querySelector('.calendar-description').after(note);
+        });
+      } catch (err) {
+        // The note is optional: without it the page works as before
+        console.error('Could not load upcoming.json:', err);
+      }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
+      markEmptyCalendars();
+
       const copyButtons = document.querySelectorAll('.copy-btn');
 
       copyButtons.forEach(button => {

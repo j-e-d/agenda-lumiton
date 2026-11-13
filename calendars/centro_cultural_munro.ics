@@ -18,113 +18,115 @@ BEGIN:VEVENT
 SUMMARY:CRITTERS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200100
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:9eeec58973721f0c5bfd@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.1/10 | 86 min\nSinopsis: Un grupo de pequeñas pero fe
- roces criaturas alienígenas llamadas critters escapan de una nave de tran
- sporte de una prisión…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
- tps://lumiton.ar/evento/critters/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.1/10 | 86 min\nhttps://www.imdb.com/title/tt0090887/\n
+ Sinopsis: Un grupo de pequeñas pero feroces criaturas alienígenas llamad
+ as critters escapan de una nave de transporte de una prisión…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/critters/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/critters/
-X-LUMITON-HASH:f9f180f94c9279edc1b468624e4d36b862d3101e
+X-LUMITON-HASH:fbb5401abd2f0d8ae601145000b6d3c40a08ae49
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL ENIGMA DE OTRO MUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261016T205400
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:e7558a08245503b6d30d@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 8.2/10 | 109 min\nSinopsis: En una estación experimenta
- l remota de la Antártida\, un equipo de científicos de investigación es
- tadounidenses ven cómo en su…\n\nVenue: Centro Cultural Munro\n\nMore i
- nfo: https://lumiton.ar/evento/el-enigma-de-otro-mundo/
+SEQUENCE:3
+DESCRIPTION:IMDb: 8.2/10 | 109 min\nhttps://www.imdb.com/title/tt0084787/\
+ nSinopsis: En una estación experimental remota de la Antártida\, un equi
+ po de científicos de investigación estadounidenses ven cómo en su…\n\
+ nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-e
+ nigma-de-otro-mundo/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-enigma-de-otro-mundo/
-X-LUMITON-HASH:bf0f6a155e39de2c630268c4928f27a9f55de6c7
+X-LUMITON-HASH:5c5260b40012db4196aefad4b46660c0163b4c50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL CADÁVER DE LA NOVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T175200
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:0169ead6e77cd8008649@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.4/10 | 77 min\nSinopsis: Cuando un tímido novio prac
- tica sus votos matrimoniales ante la presencia inadvertida de una joven fa
- llecida\, esta se levanta de…\n\nVenue: Centro Cultural Munro\n\nMore in
- fo: https://lumiton.ar/evento/el-cadaver-de-la-novia-2/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.4/10 | 77 min\nhttps://www.imdb.com/title/tt0121164/\n
+ Sinopsis: Cuando un tímido novio practica sus votos matrimoniales ante l
+ a presencia inadvertida de una joven fallecida\, esta se levanta de…\n\n
+ Venue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-ca
+ daver-de-la-novia-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-cadaver-de-la-novia-2/
-X-LUMITON-HASH:d5a22400df835dc8ef8f097337422b47fd30fc67
+X-LUMITON-HASH:07a5b1fb817147c410708aa6b1a6d21cce1ba5f5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BASTARDOS SIN GLORIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T210800
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:cf8c47bd2e04c1e80a25@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 8.4/10 | 153 min\nSinopsis: En la Francia ocupada por lo
- s nazis durante la Segunda Guerra Mundial\, un plan para asesinar a los l
- íderes…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.a
- r/evento/bastardos-sin-gloria-2/
+SEQUENCE:3
+DESCRIPTION:IMDb: 8.4/10 | 153 min\nhttps://www.imdb.com/title/tt0361748/\
+ nSinopsis: En la Francia ocupada por los nazis durante la Segunda Guerra M
+ undial\, un plan para asesinar a los líderes…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/bastardos-sin-gloria-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bastardos-sin-gloria-2/
-X-LUMITON-HASH:fac24a2360320b5fe0e7523e6bfa47f1c22783d6
+X-LUMITON-HASH:74297bccb5ef093ca3d665959cd69c7b8ccab30e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DEPREDADOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261022T202200
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:b650e9cc5afd08bc5df6@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.8/10 | 107 min\nSinopsis: Un equipo de comandos en una
-  misión en la selva centroamericana es perseguido por un guerrero extrate
- rrestre. Reseña: Un…\n\nVenue: Centro Cultural Munro\n\nMore info: http
- s://lumiton.ar/evento/depredador/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.8/10 | 107 min\nhttps://www.imdb.com/title/tt0093773/\
+ nSinopsis: Un equipo de comandos en una misión en la selva centroamerican
+ a es perseguido por un guerrero extraterrestre. Reseña: Un…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/depredador/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/depredador/
-X-LUMITON-HASH:0657428ba12225c54ef1bd45ff4c2e3477fd9394
+X-LUMITON-HASH:d7ea94a78258f77ed674562fdcdb540bcf591514
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL EXTRAÑO MUNDO DE JACK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T175100
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:7e75e56656eeb904c970@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.9/10 | 76 min\nSinopsis: Jack\, el rey de la noche de 
- brujas descubre la navidad y queda impresionado a pesar de que no…\n\nVe
- nue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-extr
- ano-mundo-de-jack-2/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.9/10 | 76 min\nhttps://www.imdb.com/title/tt0107688/\n
+ Sinopsis: Jack\, el rey de la noche de brujas descubre la navidad y queda 
+ impresionado a pesar de que no…\n\nVenue: Centro Cultural Munro\n\nMore 
+ info: https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
-X-LUMITON-HASH:cd65e6e5635845cdc2040eda93d68e7761062682
+X-LUMITON-HASH:0cc05d758d203002f26cd4b5ed10a19dee8b4843
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FRANZ
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T204200
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:b27c9490a6ef25b1e08d@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.2/10 | 127 min\nSinopsis: Concebida como un mosaico ca
- leidoscópico\, la película sigue la huella que Franz Kafka dejó en el m
- undo desde su…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lum
- iton.ar/evento/franz/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.2/10 | 127 min\nhttps://www.imdb.com/title/tt17070412/
+ \nSinopsis: Concebida como un mosaico caleidoscópico\, la película sigue
+  la huella que Franz Kafka dejó en el mundo desde su…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/franz/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/franz/
-X-LUMITON-HASH:be2ed740b1a288089f990401fb367a0eb76b2fe0
+X-LUMITON-HASH:e2434e2f580b58bbb50477de854e05b36530428a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LOS LOCOS ADAMS
@@ -162,257 +164,264 @@ BEGIN:VEVENT
 SUMMARY:BAJO TUS PIES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261105T200900
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:4806bf1685f1a5bbce17@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 4.1/10 | 94 min\nSinopsis: Una madre y sus hijos se muda
- n a un lujoso edificio con renta sospechosamente baja. Luego de ser acepta
- dos\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/bajo-tus-pies/
+SEQUENCE:3
+DESCRIPTION:IMDb: 4.1/10 | 94 min\nhttps://www.imdb.com/title/tt6215522/\n
+ Sinopsis: Una madre y sus hijos se mudan a un lujoso edificio con renta so
+ spechosamente baja. Luego de ser aceptados\,…\n\nVenue: Centro Cultural 
+ Munro\n\nMore info: https://lumiton.ar/evento/bajo-tus-pies/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/bajo-tus-pies/
-X-LUMITON-HASH:93ce515ac9096aab0ac8d341d0c204a65d7734bb
+X-LUMITON-HASH:dc921345a61d2d759329923e746567760ff639ec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI POBRE ANGELITO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261108T181800
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:ea8974c2cbea66c0b0df@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.8/10 | 103 min\nSinopsis: Un travieso niño de ocho a
- ños debe proteger su casa de unos ladrones cuando es accidentalmente olvi
- dado en casa…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumi
- ton.ar/evento/mi-pobre-angelito/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.8/10 | 103 min\nhttps://www.imdb.com/title/tt0099785/\
+ nSinopsis: Un travieso niño de ocho años debe proteger su casa de unos l
+ adrones cuando es accidentalmente olvidado en casa…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-pobre-angelito/
-X-LUMITON-HASH:474b71405ee2e742a898238efe0a1f0711d6c589
+X-LUMITON-HASH:ee7a0febba0aeb15387082f9794be8d9332b7fbb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI POBRE ANGELITO 2: PERDIDO EN NUEVA YORK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261108T203500
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:455e1746f7b7ff0c7b4c@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.9/10 | 120 min\nSinopsis: Kevin vuelve a ser separado 
- de su familia cuando accidentalmente se embarca en un vuelo con destino a 
- la…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/eve
- nto/mi-pobre-angelito-2-perdido-en-nueva-york/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.9/10 | 120 min\nhttps://www.imdb.com/title/tt0104431/\
+ nSinopsis: Kevin vuelve a ser separado de su familia cuando accidentalment
+ e se embarca en un vuelo con destino a la…\n\nVenue: Centro Cultural Mun
+ ro\n\nMore info: https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-
+ nueva-york/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-pobre-angelito-2-perdido-en-nueva-york/
-X-LUMITON-HASH:b26d1c1d4f2ad945b2793ae737b3b1aba252c779
+X-LUMITON-HASH:9ac15cc860e3c3515910c52d3e7cdf45e4cd3872
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIJO MAYOR
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261112T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261112T203300
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:3c937bf021d772d1322a@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.2/10 | 118 min\nSinopsis: Lila\, una adolescente corea
- na-argentina aún no ha encontrado su lugar en el mundo. Su padre llega a 
- Latinoamérica 18…\n\nVenue: Centro Cultural Munro\n\nMore info: https:/
- /lumiton.ar/evento/hijo-mayor-2/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.2/10 | 118 min\nhttps://www.imdb.com/title/tt37538609/
+ \nSinopsis: Lila\, una adolescente coreana-argentina aún no ha encontrado
+  su lugar en el mundo. Su padre llega a Latinoamérica 18…\n\nVenue: Cen
+ tro Cultural Munro\n\nMore info: https://lumiton.ar/evento/hijo-mayor-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hijo-mayor-2/
-X-LUMITON-HASH:a531b635d785fa7bca0663b29eebca37c0fce21b
+X-LUMITON-HASH:a4f96348712cdb36ba62f8996ca5fbbef1eb6fe9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESCUELA DE ROCK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261115T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261115T182400
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:f6c6ee420a3588a662ae@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.2/10 | 109 min\nSinopsis: Tras ser expulsado de un gru
- po de rock\, Dewey Finn trabaja como profesor substituto en una estricta e
- scuela privada\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://
- lumiton.ar/evento/escuela-de-rock-3/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.2/10 | 109 min\nhttps://www.imdb.com/title/tt0332379/\
+ nSinopsis: Tras ser expulsado de un grupo de rock\, Dewey Finn trabaja com
+ o profesor substituto en una estricta escuela privada\,…\n\nVenue: Centr
+ o Cultural Munro\n\nMore info: https://lumiton.ar/evento/escuela-de-rock-3
+ /
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/escuela-de-rock-3/
-X-LUMITON-HASH:2b60ed69aa0b0a430bec8d5e8950eac63682e9c7
+X-LUMITON-HASH:4ed07d3471ae4010af7c7027902f2168d4af8ad3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OPERACIÓN ROSA ROSA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261126T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261126T202000
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:846f85b238afe9dac23a@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.3/10 | 105 min\nSinopsis: Sandro es requerido por los 
- servicios secretos de su país para desbaratar los planes de la organizaci
- ón criminal "Medusa".…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
- tps://lumiton.ar/evento/operacion-rosa-rosa/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.3/10 | 105 min\nhttps://www.imdb.com/title/tt0188979/\
+ nSinopsis: Sandro es requerido por los servicios secretos de su país para
+  desbaratar los planes de la organización criminal "Medusa".…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/operacion-r
+ osa-rosa/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/operacion-rosa-rosa/
-X-LUMITON-HASH:c061cd8dd236989102fb4e5c7b19cf3f12609477
+X-LUMITON-HASH:f79a14082a5ba2841019e225184e4107eb97dce6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HELLBENDER
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261127T193000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261127T205800
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:d8fa1845beff5763e18a@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 5.8/10 | 83 min\nSinopsis: Víctima de una extraña enfe
- rmedad\, una joven inocente vive en el medio del bosque con su madre\, lej
- os de…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/hellbender/
+SEQUENCE:3
+DESCRIPTION:IMDb: 5.8/10 | 83 min\nhttps://www.imdb.com/title/tt14905650/\
+ nSinopsis: Víctima de una extraña enfermedad\, una joven inocente vive e
+ n el medio del bosque con su madre\, lejos de…\n\nVenue: Centro Cultural
+  Munro\n\nMore info: https://lumiton.ar/evento/hellbender/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/hellbender/
-X-LUMITON-HASH:bee83febf9e943f856e39cf643fcbb30b23f8c1c
+X-LUMITON-HASH:6d85b243f5d8006d064d7fc39e008b211c7323c0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COYOTE VS. ACME
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261129T181800
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:103c44601aab0d7499e2@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 7.3/10 | 103 min\nSinopsis: Después de décadas falland
- o en atrapar al Correcaminos\, el Coyote decide hacer lo impensado: demand
- ar a ACME\, la compañía…\n\nVenue: Centro Cultural Munro\n\nMore info:
-  https://lumiton.ar/evento/coyote-vs-acme/
+SEQUENCE:3
+DESCRIPTION:IMDb: 7.3/10 | 103 min\nhttps://www.imdb.com/title/tt1756855/\
+ nSinopsis: Después de décadas fallando en atrapar al Correcaminos\, el C
+ oyote decide hacer lo impensado: demandar a ACME\, la compañía…\n\nVen
+ ue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/coyote-v
+ s-acme/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/coyote-vs-acme/
-X-LUMITON-HASH:72e1570472337210cb4988b72081fbb2dfa52b42
+X-LUMITON-HASH:b286ff5293891bf81ff6cec8a0936ec2cbfc7a1d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUBÍ QUE TE LLEVO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261129T201500
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:cef85f76eefb7a014ff5@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 5.7/10 | 100 min\nSinopsis: Un famoso cantante musical s
- e enamora de una chica que vive con su anticuado tío. Para disimular y po
- der…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/ev
- ento/subi-que-te-llevo/
+SEQUENCE:3
+DESCRIPTION:IMDb: 5.7/10 | 100 min\nhttps://www.imdb.com/title/tt0190807/\
+ nSinopsis: Un famoso cantante musical se enamora de una chica que vive con
+  su anticuado tío. Para disimular y poder…\n\nVenue: Centro Cultural Mu
+ nro\n\nMore info: https://lumiton.ar/evento/subi-que-te-llevo/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/subi-que-te-llevo/
-X-LUMITON-HASH:079058f88290488aba1a8f599a494cd26cf48c0d
+X-LUMITON-HASH:44e4f1b9079e567fc1636973d1c7d8a901569795
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MUCHACHO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261206T201500
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:8dc04907aff46d67df38@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.0/10 | 100 min\nSinopsis: Una chica de la alta socieda
- d se enamora de un isleño pobre que conoce en una lancha colectiva del…
- \n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/m
- uchacho/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.0/10 | 100 min\nhttps://www.imdb.com/title/tt0188920/\
+ nSinopsis: Una chica de la alta sociedad se enamora de un isleño pobre qu
+ e conoce en una lancha colectiva del…\n\nVenue: Centro Cultural Munro\n\
+ nMore info: https://lumiton.ar/evento/muchacho/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/muchacho/
-X-LUMITON-HASH:e7b270a269f8d429f9b9a090d07cd029827ef779
+X-LUMITON-HASH:33f548e86ba83254d5c42f4945045d0422982778
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VOLVER AL FUTURO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261119T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261119T203100
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:4944a29bf69c630d7f11@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 8.5/10 | 116 min\nSinopsis: Marty McFly\, un estudiante 
- de secundaria de 17 años\, es enviado accidentalmente 30 años al pasado 
- en un DeLorean…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
- miton.ar/evento/volver-al-futuro-5/
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.5/10 | 116 min\nhttps://www.imdb.com/title/tt0088763/\
+ nSinopsis: Marty McFly\, un estudiante de secundaria de 17 años\, es envi
+ ado accidentalmente 30 años al pasado en un DeLorean…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/volver-al-futuro-5/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/volver-al-futuro-5/
-X-LUMITON-HASH:8189b1eec13bf564a0102a75545d43f1064c75bf
+X-LUMITON-HASH:556988fb9c09038fb6b605f3be00e5c826f61ed4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALIEN\, EL OCTAVO PASAJERO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261120T203200
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:ef76d5c6efb7e5db6f76@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 8.4/10 | 117 min\nSinopsis: De regreso a la Tierra\, la 
- nave de carga Nostromo despierta a sus siete tripulantes. El ordenador cen
- tral\, MADRE\,…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
- miton.ar/evento/alien-el-octavo-pasajero-2/
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.4/10 | 117 min\nhttps://www.imdb.com/title/tt0078748/\
+ nSinopsis: De regreso a la Tierra\, la nave de carga Nostromo despierta a 
+ sus siete tripulantes. El ordenador central\, MADRE\,…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/alien-el-octavo-pas
+ ajero-2/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
-X-LUMITON-HASH:86d5b66fccf351f54e9a79faa0aac9c3db01c9c3
+X-LUMITON-HASH:bc88149429ee583ed024f855ad3194a6ef836084
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL PADRINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T213000
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:b120a01159877f5f2954@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 9.2/10 | 175 min\nSinopsis: El envejecido patriarca de u
- na dinastía del crimen organizado en la ciudad de Nueva York de la posgue
- rra transfiere…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lu
- miton.ar/evento/el-padrino/
+SEQUENCE:1
+DESCRIPTION:IMDb: 9.2/10 | 175 min\nhttps://www.imdb.com/title/tt0068646/\
+ nSinopsis: El envejecido patriarca de una dinastía del crimen organizado 
+ en la ciudad de Nueva York de la posguerra transfiere…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-padrino/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/el-padrino/
-X-LUMITON-HASH:afcf1de927b1ce172ab18b9d467aac3e8cf8d347
+X-LUMITON-HASH:263973bf4aca751cfbc0f0546194ac45c8385b33
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MI VECINO TOTORO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261122T180100
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:d1f760b4fa30218813da@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 8.1/10 | 86 min\nSinopsis: Una familia japonesa se trasl
- ada al campo\, en los años 50. El padre es un profesor universitario que 
- aviva…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/
- evento/mi-vecino-totoro-3/
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.1/10 | 86 min\nhttps://www.imdb.com/title/tt0096283/\n
+ Sinopsis: Una familia japonesa se traslada al campo\, en los años 50. El 
+ padre es un profesor universitario que aviva…\n\nVenue: Centro Cultural 
+ Munro\n\nMore info: https://lumiton.ar/evento/mi-vecino-totoro-3/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-vecino-totoro-3/
-X-LUMITON-HASH:fcf54a614533e264ac110d35f17505f172c9778f
+X-LUMITON-HASH:cc3723470f9a64b714edfb4e39ff654f9498e86c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TERMINATOR 2: EL JUICIO FINAL
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261122T205200
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:8d8b23cb9fe1fff1e075@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 8.6/10 | 137 min\nSinopsis: Diez años después de los a
- contecimientos de la película original\, el androide T-800 es reprogramad
- o y enviado al pasado…\n\nVenue: Centro Cultural Munro\n\nMore info: htt
- ps://lumiton.ar/evento/terminator-2-el-juicio-final/
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.6/10 | 137 min\nhttps://www.imdb.com/title/tt0103064/\
+ nSinopsis: Diez años después de los acontecimientos de la película orig
+ inal\, el androide T-800 es reprogramado y enviado al pasado…\n\nVenue: 
+ Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/terminator-2
+ -el-juicio-final/
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/terminator-2-el-juicio-final/
-X-LUMITON-HASH:569f3a35e9d53aa64c50acf0ef370f1994cf28b2
+X-LUMITON-HASH:434a52c3c03b998d76100c187bb893171a23cfe2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNDERGROUND
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261120T212200
-DTSTAMP:20261105T034152Z
+DTSTAMP:20261112T234331Z
 UID:cea17f90ef0e0eb3390c@lumiton.ar
-SEQUENCE:0
-DESCRIPTION:IMDb: 8.0/10 | 167 min\nSinopsis: En Belgrado\, durante los bo
- mbardeos de la Segunda Guerra Mundial\, dos amigos —Blacky y Marko— se
-  refugian bajo tierra.…\n\nVenue: Centro Cultural Munro\n\nMore info: ht
- tps://lumiton.ar/evento/underground/
+SEQUENCE:1
+DESCRIPTION:IMDb: 8.0/10 | 167 min\nhttps://www.imdb.com/title/tt0114787/\
+ nSinopsis: En Belgrado\, durante los bombardeos de la Segunda Guerra Mundi
+ al\, dos amigos —Blacky y Marko— se refugian bajo tierra.…\n\nVenue:
+  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/underground
+ /
 LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/underground/
-X-LUMITON-HASH:f66dfe388bfd9e3d63dd08642a5e5d5470895a61
+X-LUMITON-HASH:d72851a21638f8b0fbd8d98ceabbca662c7c8d5d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE CHOSEN

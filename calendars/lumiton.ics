@@ -50,33 +50,33 @@ BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
-DTSTAMP:20261104T142637Z
+DTSTAMP:20261112T234331Z
 UID:65db8460e2e23876b663@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.3/10 | 87 min\nUna joven y un muchacho\, hijos de arti
- stas que buscan triunfar con el tango viven un romance\, con sus rupturas
- …\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/la-vida-es-u
- n-tango-3/
+SEQUENCE:4
+DESCRIPTION:IMDb: 7.3/10 | 87 min\nhttps://www.imdb.com/title/tt0032099/\n
+ Una joven y un muchacho\, hijos de artistas que buscan triunfar con el tan
+ go viven un romance\, con sus rupturas…\n\nVenue: Lumiton\n\nMore info: 
+ https://lumiton.ar/evento/la-vida-es-un-tango-3/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-vida-es-un-tango-3/
-X-LUMITON-HASH:e9b6cb4a1a6b08aaaebd10d3fc0e1bb47df1df10
+X-LUMITON-HASH:0eb63e226473efdb4efdc0795df9fa556c71ae6a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CARNAVAL DE ANTAÑO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T193100
-DTSTAMP:20261104T113445Z
+DTSTAMP:20261112T234331Z
 UID:65bc792c2b131310fc02@lumiton.ar
-SEQUENCE:2
-DESCRIPTION:IMDb: 6.5/10 | 86 min\nSabina Olmos interpreta a Margot\, un p
- ersonaje emblemático\, que la marcó a lo largo de toda su carrera. Bueno
- s Aires…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/carna
- val-de-antano-2/
+SEQUENCE:3
+DESCRIPTION:IMDb: 6.5/10 | 86 min\nhttps://www.imdb.com/title/tt0032309/\n
+ Sabina Olmos interpreta a Margot\, un personaje emblemático\, que la marc
+ ó a lo largo de toda su carrera. Buenos Aires…\n\nVenue: Lumiton\n\nMor
+ e info: https://lumiton.ar/evento/carnaval-de-antano-2/
 LOCATION:Lumiton
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/carnaval-de-antano-2/
-X-LUMITON-HASH:e07431857327a8e7dad2167ef6a128a09d28e554
+X-LUMITON-HASH:c3b35937bbc761073362f298abfed36bdb6361f7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO

@@ -54,9 +54,9 @@ def test_unknown_time_is_not_guessed_when_ambiguous(scraper):
 
 
 def test_rating_carried_over_by_url_without_lookup(scraper):
-    old = [row(day=-40, rating="8.1", duration="99")]
+    old = [row(day=-40, rating="8.1", duration="99", imdb_id="tt42")]
     merged = merge(scraper, old, [row(day=10)])
-    assert (merged[-1]["rating"], merged[-1]["duration"]) == ("8.1", "99")
+    assert (merged[-1]["rating"], merged[-1]["duration"], merged[-1]["imdb_id"]) == ("8.1", "99", "tt42")
     assert scraper.imdb.calls == []
 
 
@@ -82,3 +82,9 @@ def test_save_writes_combined_and_venue_views(scraper, tmp_path):
         york = list(csv.DictReader(f))
     assert [r["title"] for r in york] == ["A"]
     assert (tmp_path / "torre_ader.csv").exists()
+
+
+def test_carry_over_prefers_row_with_imdb_id(scraper):
+    old = [row(day=-40, rating="6.5"), row(day=-30, rating="6.5", imdb_id="tt123")]
+    merged = merge(scraper, old, [row(day=10)])
+    assert merged[-1]["imdb_id"] == "tt123"

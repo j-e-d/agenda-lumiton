@@ -23,7 +23,7 @@ class NoIMDb:
 
     def get_movie_info(self, title, description=""):
         self.calls.append(title)
-        return {"rating": "", "duration": ""}
+        return {"rating": "", "duration": "", "imdb_id": ""}
 
 
 class NoNetwork:
@@ -83,6 +83,7 @@ def row(title="FILM", day=10, time="20:30", venue="Cine York", url=None, **extra
         "description": "",
         "rating": "",
         "duration": "",
+        "imdb_id": "",
     }
     r.update(extra)
     return r

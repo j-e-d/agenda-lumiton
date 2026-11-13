@@ -196,6 +196,7 @@ class LumitonScraper:
 
         event["rating"] = ""
         event["duration"] = ""
+        event["imdb_id"] = ""
 
         return event
 
@@ -255,7 +256,10 @@ class LumitonScraper:
         known_imdb = {}
         for row in existing_rows:
             if row.get("url") and (row.get("rating") or row.get("duration")):
-                known_imdb.setdefault(row["url"], row)
+                # Prefer a row that also has the IMDb ID (older rows may not)
+                current = known_imdb.get(row["url"])
+                if current is None or (row.get("imdb_id") and not current.get("imdb_id")):
+                    known_imdb[row["url"]] = row
 
         fresh_groups: dict[str, list[dict]] = {}
         for event in fresh_events:
@@ -312,6 +316,7 @@ class LumitonScraper:
         if known and not (event.get("rating") or event.get("duration")):
             event["rating"] = known.get("rating", "")
             event["duration"] = known.get("duration", "")
+            event["imdb_id"] = known.get("imdb_id", "")
 
     def _enrich_with_imdb(self, event: dict) -> dict:
         """Fill rating and duration from IMDb if neither is known
@@ -332,6 +337,7 @@ class LumitonScraper:
         if imdb_data.get("rating") or imdb_data.get("duration"):
             event["rating"] = imdb_data["rating"]
             event["duration"] = imdb_data["duration"]
+            event["imdb_id"] = imdb_data["imdb_id"]
 
         return event
 
@@ -344,7 +350,7 @@ class LumitonScraper:
             print("No events to save")
             return
 
-        fieldnames = ["title", "date", "time", "venue", "url", "description", "rating", "duration"]
+        fieldnames = ["title", "date", "time", "venue", "url", "description", "rating", "duration", "imdb_id"]
 
         combined_file = output_dir / "all_events.csv"
         existing_rows = self._load_existing_csv(combined_file)
