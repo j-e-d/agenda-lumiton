@@ -14,37 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SIETE DÍAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200500
-DTSTAMP:20261104T113740Z
-UID:66d717612fa02d41e2f3@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:Sinopsis: Una activista iraní de derechos humanos\, a quien s
- e le ha concedido un permiso médico de siete días\, debe…\n\nVenue: Ci
- ne York\n\nMore info: https://lumiton.ar/evento/siete-dias/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/siete-dias/
-X-LUMITON-HASH:1c24177177f130b59ba2af32ae90d489031458e0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA MEMORIA DEL PERFUME DE LAS COSAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261015T221100
-DTSTAMP:20261112T234331Z
-UID:935f1c866efb345c8775@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.0/10 | 96 min\nhttps://www.imdb.com/title/tt32430402/\
- nSinopsis: Un drama íntimo sobre un veterano de la guerra colonial que se
-  ve obligado a ingresar en una residencia…\n\nVenue: Cine York\n\nMore i
- nfo: https://lumiton.ar/evento/la-memoria-del-perfume-de-las-cosas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-memoria-del-perfume-de-las-cosas/
-X-LUMITON-HASH:0a88f292e7d64bc7d3794765952fce871e3f775c
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DRAŽEN
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261016T194500

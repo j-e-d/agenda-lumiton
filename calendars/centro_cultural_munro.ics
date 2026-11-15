@@ -15,22 +15,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CRITTERS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261015T200100
-DTSTAMP:20261112T234331Z
-UID:9eeec58973721f0c5bfd@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 6.1/10 | 86 min\nhttps://www.imdb.com/title/tt0090887/\n
- Sinopsis: Un grupo de pequeñas pero feroces criaturas alienígenas llamad
- as critters escapan de una nave de transporte de una prisión…\n\nVenue:
-  Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/critters/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/critters/
-X-LUMITON-HASH:fbb5401abd2f0d8ae601145000b6d3c40a08ae49
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL ENIGMA DE OTRO MUNDO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261016T205400
