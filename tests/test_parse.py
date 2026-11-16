@@ -45,7 +45,7 @@ def test_page_without_events_fails_at_once(scraper):
     scraper.fetch_page = lambda: "<html><body><p>Agenda renovada</p></body></html>"
     with pytest.raises(RuntimeError, match="No events parsed"):
         scraper.scrape()
-    assert scraper.waits == []
+    assert len(scraper.sessions) == 1
 
 
 def fetches(*results):
@@ -61,30 +61,28 @@ def fetches(*results):
     return fetch
 
 
-def test_blocked_fetch_is_retried_with_a_new_session(scraper):
+def test_blocked_fetch_is_retried_with_a_browser(scraper):
     page = (FIXTURES / "agenda.html").read_text(encoding="utf-8")
     scraper.fetch_page = fetches(FetchError("403 Client Error: Forbidden"), page)
     assert len(scraper.scrape()) == 4
-    assert scraper.waits == list(scraper.RETRY_DELAYS)
     assert len(scraper.sessions) == 2
     assert scraper.sessions[0].closed
+    # Detail pages then go through the browser too
     assert scraper.scraper is scraper.sessions[1]
 
 
-def test_persistent_block_raises_after_retries(scraper):
-    blocked = [FetchError("403 Client Error: Forbidden")] * (len(scraper.RETRY_DELAYS) + 1)
-    scraper.fetch_page = fetches(*blocked)
-    with pytest.raises(FetchError, match="403"):
+def test_block_that_beats_the_browser_raises(scraper):
+    scraper.fetch_page = fetches(FetchError("403 Client Error: Forbidden"), FetchError("challenge"))
+    with pytest.raises(FetchError, match="challenge"):
         scraper.scrape()
-    assert scraper.waits == list(scraper.RETRY_DELAYS)
-    assert len(scraper.sessions) == len(scraper.RETRY_DELAYS) + 1
+    assert len(scraper.sessions) == 2
 
 
 def test_other_errors_are_not_retried(scraper):
     scraper.fetch_page = fetches(TypeError("bug"))
     with pytest.raises(TypeError):
         scraper.scrape()
-    assert scraper.waits == []
+    assert len(scraper.sessions) == 1
 
 
 class Response:

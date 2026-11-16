@@ -43,7 +43,10 @@ def main():
 
     print("\n[1/2] Scraping events from lumiton.ar...")
     scraper = LumitonScraper()
-    scraper.scrape()
+    try:
+        scraper.scrape()
+    finally:
+        scraper.close()
     write_unknown_venues(scraper.unknown_venues, base_dir / ".cache" / "unknown_venues.txt")
     scraper.save_to_csv(data_dir)
 

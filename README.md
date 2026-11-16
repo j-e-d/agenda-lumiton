@@ -179,6 +179,8 @@ uv run pytest                    # Tests (sin red: usan datos de prueba)
 uv run ruff check . && uv run ruff format --check . && uv run ty check  # Lint, formato y tipos
 ```
 
+Si Cloudflare bloquea el pedido (403, común desde servidores), el scraper reintenta con un Chromium visible (patchright), que se descarga la primera vez (~120 MB). En una máquina sin pantalla, correlo con `xvfb-run -a uv run scraper/run.py`.
+
 Los archivos generados estarán en:
 - `data/` - Archivos CSV
 - `calendars/` - Archivos ICS

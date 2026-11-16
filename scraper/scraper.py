@@ -7,7 +7,6 @@ Extracts film projection events from lumiton.ar/agenda-presencial/
 import csv
 import os
 import re
-import time
 from datetime import datetime
 from pathlib import Path
 
@@ -39,10 +38,6 @@ class LumitonScraper:
 
     BASE_URL = "https://lumiton.ar/agenda-presencial/"
     TIMEZONE = pytz.timezone("America/Argentina/Buenos_Aires")
-    # Seconds to wait before retrying a failed fetch, one entry per retry.
-    # A block of the runner's IP usually outlasts this; the workflow's
-    # automatic re-run (on a new runner) handles that case.
-    RETRY_DELAYS = (60,)
 
     def __init__(self, session=None, imdb: IMDbDataset | None = None):
         self.events = []
@@ -56,8 +51,14 @@ class LumitonScraper:
         return cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows", "mobile": False})
 
     @staticmethod
-    def _wait(seconds: float):
-        time.sleep(seconds)
+    def _browser_session():
+        from browser_session import BrowserSession
+
+        return BrowserSession()
+
+    def close(self):
+        """Close the HTTP session (or browser, after a fallback)"""
+        self.scraper.close()
 
     def fetch_page(self) -> str:
         """Fetch the HTML content of the agenda page"""
@@ -71,22 +72,20 @@ class LumitonScraper:
         return response.text
 
     def fetch_page_with_retry(self) -> str:
-        """fetch_page, retried with a fresh session after each FetchError
+        """fetch_page, retried once with a headed browser after a FetchError
 
+        Cloudflare blocks cloudscraper from datacenter IPs (403); a headed
+        browser gets through. The browser then also fetches detail pages.
         Only fetch failures are retried; anything else (a bug, a page
         that parses to nothing) fails at once.
         """
-        for delay in (*self.RETRY_DELAYS, None):
-            try:
-                return self.fetch_page()
-            except FetchError as e:
-                if delay is None:
-                    raise
-                print(f"Warning: {e}; retrying in {delay}s with a new session")
-                self._wait(delay)
-                self.scraper.close()
-                self.scraper = self._new_session()
-        raise AssertionError("loop always returns or raises")
+        try:
+            return self.fetch_page()
+        except FetchError as e:
+            print(f"Warning: {e}; retrying with a browser")
+        self.scraper.close()
+        self.scraper = self._browser_session()
+        return self.fetch_page()
 
     def parse_events(self, html: str) -> list[dict]:
         """Parse HTML and extract event information"""

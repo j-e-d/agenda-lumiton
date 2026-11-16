@@ -42,18 +42,14 @@ class NoNetwork:
 class OfflineScraper(LumitonScraper):
     """LumitonScraper without network access or IMDb index
 
-    Records retry waits and sessions instead of sleeping/connecting.
+    Records sessions instead of connecting or opening a browser.
     """
 
     def __init__(self):
-        self.waits: list[float] = []
         self.sessions: list[NoNetwork] = [NoNetwork()]
         super().__init__(session=self.sessions[0], imdb=cast(IMDbDataset, NoIMDb()))
 
-    def _wait(self, seconds: float):
-        self.waits.append(seconds)
-
-    def _new_session(self):
+    def _browser_session(self):
         self.sessions.append(NoNetwork())
         return self.sessions[-1]
 

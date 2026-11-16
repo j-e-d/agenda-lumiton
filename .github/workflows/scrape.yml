@@ -147,9 +147,34 @@ jobs:
             gh issue close "$n" --comment "IMDb index built successfully in ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           done
 
+      # Cloudflare blocks cloudscraper from runner IPs at times; the scraper
+      # then fetches with a headed Chromium (downloaded on first use, cached
+      # per uv.lock), which needs a display: xvfb-run provides one
+      - name: Restore browser
+        id: browser-cache
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: patchright-chromium-${{ hashFiles('uv.lock') }}
+
       - name: Run scraper
         run: |
-          uv run scraper/run.py
+          xvfb-run -a uv run scraper/run.py
+
+      # Only after a successful scrape, so a broken download isn't cached
+      - name: Check for downloaded browser
+        id: browser-check
+        if: steps.browser-cache.outputs.cache-hit != 'true'
+        run: |
+          if [ -d ~/.cache/ms-playwright ]; then echo "found=true" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Save browser
+        if: steps.browser-check.outputs.found == 'true'
+        continue-on-error: true
+        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: patchright-chromium-${{ hashFiles('uv.lock') }}
 
       # A venue missing from scraper/venues.py only reaches all_events; open
       # one issue per venue, the first time it's seen. The file exists only

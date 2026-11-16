@@ -9,6 +9,7 @@ dependencies = [
     "icalendar==5.0.13",
     "pytz==2024.1",
     "cloudscraper==1.2.71",
+    "patchright==1.64.4",
 ]
 
 [dependency-groups]
@@ -30,7 +31,7 @@ select = ["E", "F", "W", "I", "B", "UP", "SIM"]
 
 [tool.ruff.lint.isort]
 # Scraper modules import each other as top-level modules (run as scripts)
-known-first-party = ["calendar_generator", "event_keys", "imdb_dataset", "scraper", "venues", "conftest"]
+known-first-party = ["browser_session", "calendar_generator", "event_keys", "imdb_dataset", "scraper", "venues", "conftest"]
 
 [tool.ty.environment]
 python-version = "3.11"
