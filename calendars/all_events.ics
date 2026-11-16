@@ -14,55 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:DRAŽEN
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T194500
-DTSTAMP:20261112T234331Z
-UID:fbcf85fcc38c0a06292a@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 6.4/10 | 100 min\nhttps://www.imdb.com/title/tt29585679/
- \nSinopsis: La película narra la vida de Drazen Petrovic\, leyenda del ba
- loncesto croata y europeo. Destacando su vida personal y…\n\nVenue: Cine
-  York\n\nMore info: https://lumiton.ar/evento/drazen/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/drazen/
-X-LUMITON-HASH:7688e092bc5e0d5f0b0bfbfdd553784b3167b5ae
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EL ENIGMA DE OTRO MUNDO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T205400
-DTSTAMP:20261112T234331Z
-UID:e7558a08245503b6d30d@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 8.2/10 | 109 min\nhttps://www.imdb.com/title/tt0084787/\
- nSinopsis: En una estación experimental remota de la Antártida\, un equi
- po de científicos de investigación estadounidenses ven cómo en su…\n\
- nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-e
- nigma-de-otro-mundo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-enigma-de-otro-mundo/
-X-LUMITON-HASH:5c5260b40012db4196aefad4b46660c0163b4c50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA GIOIA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T222300
-DTSTAMP:20261112T234331Z
-UID:056ff9018ef143d8adfa@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 6.1/10 | 108 min\nhttps://www.imdb.com/title/tt35093403/
- \nSinopsis: Gioia es una profesora de instituto que nunca ha conocido el a
- mor. Uno de los alumnos de su instituto\,…\n\nVenue: Cine York\n\nMore i
- nfo: https://lumiton.ar/evento/la-gioia/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-gioia/
-X-LUMITON-HASH:fe32c60773d0a6966fdeacdad459ba7cb92fc0a9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL CADÁVER DE LA NOVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T175200
@@ -1467,5 +1418,37 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/the-chosen/
 X-LUMITON-HASH:6e0c03e6ed3c7ca3d83d629f8f4191e74043393c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEREMONIA DE APERTURA + PROYECCIÓN 'EL DEPENDIENTE'
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261118T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261118T213500
+DTSTAMP:20261116T190906Z
+UID:f85d0a75d39932a18665@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Del 18 al 22 de noviembre\, el Festival Vicente López - Ciuda
+ d del Cine nace con una premisa que busca…\n\nVenue: Cine York\n\nMore i
+ nfo: https://lumiton.ar/evento/ceremonia-de-apertura-proyeccion-el-dependi
+ ente/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/ceremonia-de-apertura-proyeccion-el-dependie
+ nte/
+X-LUMITON-HASH:48d3effed10a510e9a85f4186b984fda8ae170d4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRÁCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261129T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261129T223500
+DTSTAMP:20261116T190906Z
+UID:ee85a997d187a0d154c3@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisEl conde Drácula llega a Londres y comienza a seducir
+  y atacar a jóvenes mujeres. El profesor Van Helsing intentará…\n\nVen
+ ue: Cine York\n\nMore info: https://lumiton.ar/evento/dracula-2-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/dracula-2-2/
+X-LUMITON-HASH:849e71dbdaebb3b22ed31d505d3658a7e5eb75fa
 END:VEVENT
 END:VCALENDAR

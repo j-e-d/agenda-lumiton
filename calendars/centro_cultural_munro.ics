@@ -15,23 +15,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:EL ENIGMA DE OTRO MUNDO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261016T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261016T205400
-DTSTAMP:20261112T234331Z
-UID:e7558a08245503b6d30d@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 8.2/10 | 109 min\nhttps://www.imdb.com/title/tt0084787/\
- nSinopsis: En una estación experimental remota de la Antártida\, un equi
- po de científicos de investigación estadounidenses ven cómo en su…\n\
- nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/evento/el-e
- nigma-de-otro-mundo/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-enigma-de-otro-mundo/
-X-LUMITON-HASH:5c5260b40012db4196aefad4b46660c0163b4c50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL CADÁVER DE LA NOVIA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T175200
