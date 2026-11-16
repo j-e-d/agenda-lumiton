@@ -44,8 +44,12 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5
         with:
-          # Cache downloaded packages (patchright is ~46 MB), keyed on uv.lock
+          # Cache downloaded packages (patchright is ~46 MB), keyed on uv.lock.
+          # Unpruned: pruning drops downloaded wheels, leaving an empty cache.
+          # Own suffix: the Checks workflow's (pruned) cache has the same key.
           enable-cache: true
+          prune-cache: false
+          cache-suffix: scrape
 
       - name: Install dependencies
         run: |
