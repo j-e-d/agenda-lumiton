@@ -243,38 +243,6 @@ URL:https://lumiton.ar/evento/no-matar-2/
 X-LUMITON-HASH:06e476c94cb5b622d571fcfc71a161730c53f5df
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL RITUAL DEL NAHUAL
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T200500
-DTSTAMP:20261112T234331Z
-UID:25231bd7c9d894bdefe7@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 5.0/10\nhttps://www.imdb.com/title/tt36840674/\nSinopsis
- : En  San Luis Potosí\, una ola de asesinatos infantiles aterroriza a un
- a aldea aislada. Un agente federal investiga los…\n\nVenue: Cine York\n\
- nMore info: https://lumiton.ar/evento/el-ritual-del-nahual/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-ritual-del-nahual/
-X-LUMITON-HASH:e9a581091fd5d1814fab6f407e049fc88e1c1694
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NO ME SIGAS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261017T220400
-DTSTAMP:20261112T234331Z
-UID:1016d58a97101e4403c5@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 5.1/10 | 89 min\nhttps://www.imdb.com/title/tt11344566/\
- nSinopsis: Carla sueña con convertirse en una gran influencer\, para cons
- eguirlo decide fingir un embrujo en su apartamento. Sin embargo\,…\n\nVe
- nue: Cine York\n\nMore info: https://lumiton.ar/evento/no-me-sigas/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/no-me-sigas/
-X-LUMITON-HASH:f86138b8111744578fe031757d65043c66302c2c
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VICENTE LÓPEZ EN PANTALLA: PROGRAMA DE CORTOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261101T190500
