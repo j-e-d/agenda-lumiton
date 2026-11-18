@@ -23,6 +23,56 @@ def test_groups_missing_from_scrape_are_kept(scraper):
     assert [r["title"] for r in merged] == ["A", "B"]
 
 
+def showings(rows):
+    return sorted((r["title"], r["date"], r["venue"], r["time"]) for r in rows)
+
+
+def test_showing_moved_to_another_venue_or_date_is_dropped(scraper):
+    old = [row("ALIEN", day=2, venue="Centro Cultural Munro"), row("CIENAGA", day=4)]
+    fresh = [row("ALIEN", day=4), row("CIENAGA", day=2)]
+    assert showings(merge(scraper, old, fresh)) == showings(fresh)
+
+
+def test_unlisted_showing_without_a_new_one_is_kept(scraper):
+    # Listed at two venues; the Munro one failed to parse: no new showing
+    old = [row("X", day=2, venue="Centro Cultural Munro"), row("X", day=4)]
+    assert showings(merge(scraper, old, [row("X", day=4)])) == showings(old)
+
+
+def test_moves_pair_one_to_one_nearest_date_first(scraper):
+    # Two unlisted showings, one new: only the nearest one moved
+    old = [row("X", day=2), row("X", day=9), row("X", day=12)]
+    fresh = [row("X", day=3), row("X", day=12)]
+    merged = {r["date"] for r in merge(scraper, old, fresh)}
+    assert merged == {row("X", day=d)["date"] for d in (3, 9, 12)}
+
+
+def test_no_moves_when_the_scrape_skipped_events(scraper):
+    scraper.parse_failures = 1
+    old = [row("ALIEN", day=2, venue="Centro Cultural Munro")]
+    fresh = [row("ALIEN", day=4)]
+    assert len(merge(scraper, old, fresh)) == 2
+
+
+def test_moved_showing_that_already_happened_is_kept(scraper):
+    old = [row("ALIEN", day=-1)]
+    assert len(merge(scraper, old, [row("ALIEN", day=3)])) == 2
+
+
+def test_row_with_unreadable_date_is_not_treated_as_moved(scraper):
+    old = [row("ALIEN", time="18hs", day=2)]
+    old[0]["date"] = "sometime"
+    assert len(merge(scraper, old, [row("ALIEN", day=3)])) == 2
+
+
+def test_moved_showing_keeps_its_time_when_the_new_one_has_none(scraper):
+    old = [row("ALIEN", day=2, venue="Centro Cultural Munro", time="18:30")]
+    fresh = [row("ALIEN", day=4)]
+    del fresh[0]["time"]
+    merged = merge(scraper, old, fresh)
+    assert showings(merged) == [("ALIEN", row(day=4)["date"], "Cine York", "18:30")]
+
+
 def test_retimed_showing_replaces_old_time(scraper):
     merged = merge(scraper, [row(time="18:00")], [row(time="19:30")])
     assert times(merged) == ["19:30"]

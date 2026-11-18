@@ -598,22 +598,6 @@ URL:https://lumiton.ar/evento/carnaval-de-antano-2/
 X-LUMITON-HASH:c3b35937bbc761073362f298abfed36bdb6361f7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261123T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261123T210500
-DTSTAMP:20261104T111653Z
-UID:2b6d043cf2402aaf8c7d@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
- sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
- ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
- queer-en-el-cine-de-oro-argentino/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
-X-LUMITON-HASH:f8c94d707bba96ee06d4b47220863aa354104957
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BAJO TUS PIES
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261105T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261105T200900
@@ -1079,39 +1063,6 @@ URL:https://lumiton.ar/evento/rosaura-a-las-10/
 X-LUMITON-HASH:8108094ce5097331619129ddfa1f848cbdb0af9d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALIEN\, EL OCTAVO PASAJERO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261120T203200
-DTSTAMP:20261112T234331Z
-UID:ef76d5c6efb7e5db6f76@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 8.4/10 | 117 min\nhttps://www.imdb.com/title/tt0078748/\
- nSinopsis: De regreso a la Tierra\, la nave de carga Nostromo despierta a 
- sus siete tripulantes. El ordenador central\, MADRE\,…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/alien-el-octavo-pas
- ajero-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
-X-LUMITON-HASH:bc88149429ee583ed024f855ad3194a6ef836084
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNDERGROUND
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261120T232200
-DTSTAMP:20261112T234331Z
-UID:7cf0df71d49c13531784@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 8.0/10 | 167 min\nhttps://www.imdb.com/title/tt0114787/\
- nSinopsis: En Belgrado\, durante los bombardeos de la Segunda Guerra Mundi
- al\, dos amigos —Blacky y Marko— se refugian bajo tierra.…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/underground/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/underground/
-X-LUMITON-HASH:95cff17e73f9ac694d87fb84eb0ea5d3e96f02c7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PERDIDOS EN TOKIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T194700
@@ -1192,22 +1143,6 @@ LOCATION:Centro Cultural Munro
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/mi-vecino-totoro-3/
 X-LUMITON-HASH:cc3723470f9a64b714edfb4e39ff654f9498e86c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA CIÉNAGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261122T194800
-DTSTAMP:20261112T234331Z
-UID:d1638857afc508e66d9c@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 7.0/10 | 103 min\nhttps://www.imdb.com/title/tt0240419/\
- nSinopsis: La Mandrágora es el nombre de la finca donde veranea Mecha\, u
- na cincuentona madre de cuatro hijos casada con…\n\nVenue: Cine York\n\n
- More info: https://lumiton.ar/evento/la-cienaga-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-cienaga-4/
-X-LUMITON-HASH:92856f6d9b6978d8e760dfe4f09b00945ced58b7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TERMINATOR 2: EL JUICIO FINAL

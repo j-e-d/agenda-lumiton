@@ -80,22 +80,6 @@ X-LUMITON-HASH:c3b35937bbc761073362f298abfed36bdb6361f7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261123T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261123T210500
-DTSTAMP:20261104T111653Z
-UID:2b6d043cf2402aaf8c7d@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Desde los inicios del cine sonoro nacional\, las diversidades 
- sexuales aparecieron en la pantalla\, muchas veces escondidas detrás de p
- ersonajes…\n\nVenue: Lumiton\n\nMore info: https://lumiton.ar/evento/lo-
- queer-en-el-cine-de-oro-argentino/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/lo-queer-en-el-cine-de-oro-argentino/
-X-LUMITON-HASH:f8c94d707bba96ee06d4b47220863aa354104957
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LO QUEER EN EL CINE DE ORO ARGENTINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261125T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261125T210500
 DTSTAMP:20261104T111653Z

@@ -43,6 +43,9 @@ class LumitonScraper:
         self.events = []
         # Venue texts not in venues.py (of events kept), for the workflow to report
         self.unknown_venues: set[str] = set()
+        # Events seen but skipped (unparseable); while any, _merge doesn't
+        # treat unlisted showings as moved, since they may just be these
+        self.parse_failures = 0
         self.scraper = session or self._new_session()
         self.imdb = imdb or IMDbDataset()
 
@@ -101,6 +104,7 @@ class LumitonScraper:
                     events.append(event)
             except Exception as e:
                 print(f"Warning: Failed to parse event: {e}")
+                self.parse_failures += 1
                 continue
 
         return events
@@ -183,6 +187,7 @@ class LumitonScraper:
 
         if not event.get("date"):
             print(f"Warning: Skipping '{event['title']}': no usable date")
+            self.parse_failures += 1
             return None
 
         if event["venue"] not in VENUES:
@@ -243,13 +248,15 @@ class LumitonScraper:
         fresh scrape replaces that group's upcoming rows, so showings that
         were removed or retimed disappear instead of lingering as duplicates.
         Showings that already took place are kept even if the site stopped
-        listing them. Groups not in the fresh scrape are kept as they are.
+        listing them. Groups not in the fresh scrape are kept as they are,
+        except moved showings (see _moved_groups), whose upcoming rows are
+        dropped.
 
         Known values are carried over: a time the scrape couldn't determine
         (detail page unreachable) from the old row, but only when exactly one
         old time slot is left over and one fresh showing lacks a time (else
-        it's a guess between showings); rating/duration from any row with the
-        same URL.
+        it's a guess between showings), the old rows of a moved showing
+        included; rating/duration from any row with the same URL.
         """
         now = datetime.now(self.TIMEZONE)
         known_imdb = {}
@@ -267,9 +274,14 @@ class LumitonScraper:
         for row in existing_rows:
             existing_groups.setdefault(event_key(row), []).append(row)
 
+        moved_from = self._moved_groups(existing_groups, fresh_groups, now)
+        moved_rows = {id(r) for old_key in moved_from.values() for r in self._upcoming(existing_groups[old_key], now)}
+
         replacements: dict[str, list[dict]] = {}
         for key, group in fresh_groups.items():
             old_group = existing_groups.get(key, [])
+            if key in moved_from:
+                old_group = self._upcoming(existing_groups[moved_from[key]], now)
             fresh_times = {e["time"] for e in group if e.get("time")}
             unmatched_old = [r for r in old_group if r.get("time") not in fresh_times]
 
@@ -292,7 +304,8 @@ class LumitonScraper:
         for row in existing_rows:
             key = event_key(row)
             if key not in replacements:
-                merged.append(row)
+                if id(row) not in moved_rows:
+                    merged.append(row)
             elif key not in placed:
                 merged.extend(replacements[key])
                 placed.add(key)
@@ -301,13 +314,61 @@ class LumitonScraper:
                 merged.extend(group)
         return merged
 
-    def _has_started(self, row: dict, now: datetime) -> bool:
-        """Whether a stored showing's start time has passed"""
+    def _moved_groups(
+        self, existing_groups: dict[str, list[dict]], fresh_groups: dict[str, list[dict]], now: datetime
+    ) -> dict[str, str]:
+        """Pair each new showing (date/venue not stored before) with the stored
+        upcoming showing of the same URL that the scrape no longer lists:
+        that's a showing the site moved. Returns {new key: old key}.
+
+        Only real moves pair up: an unlisted showing with no new showing of
+        its URL (e.g. one that failed to parse) is kept. Nearest dates pair
+        first. Nothing pairs if the scrape skipped unparseable events.
+        """
+        if self.parse_failures:
+            return {}
+        new_by_url: dict[str, list[str]] = {}
+        for key, group in fresh_groups.items():
+            url = group[0].get("url")
+            if url and key not in existing_groups:
+                new_by_url.setdefault(url, []).append(key)
+        orphans_by_url: dict[str, list[str]] = {}
+        for key, rows in existing_groups.items():
+            url = rows[0].get("url")
+            if url in new_by_url and key not in fresh_groups and self._upcoming(rows, now):
+                orphans_by_url.setdefault(url, []).append(key)
+
+        def day(group: list[dict]) -> datetime:
+            return datetime.strptime(group[0]["date"], "%Y-%m-%d")
+
+        pairs: dict[str, str] = {}
+        for url, orphans in orphans_by_url.items():
+            candidates = sorted(
+                (abs((day(fresh_groups[new]) - day(existing_groups[old])).days), new, old)
+                for new in new_by_url[url]
+                for old in orphans
+            )
+            for _, new, old in candidates:
+                if new not in pairs and old not in pairs.values():
+                    pairs[new] = old
+        return pairs
+
+    def _upcoming(self, rows: list[dict], now: datetime) -> list[dict]:
+        """Rows with a readable start that hasn't passed (unreadable ones are
+        never treated as upcoming, so never dropped as moved)"""
+        return [r for r in rows if (start := self._start(r)) is not None and start > now]
+
+    def _start(self, row: dict) -> datetime | None:
         try:
             start = datetime.strptime(f"{row.get('date')} {row.get('time') or '23:59'}", "%Y-%m-%d %H:%M")
         except ValueError:
-            return False
-        return self.TIMEZONE.localize(start) <= now
+            return None
+        return self.TIMEZONE.localize(start)
+
+    def _has_started(self, row: dict, now: datetime) -> bool:
+        """Whether a stored showing's start time has passed"""
+        start = self._start(row)
+        return start is not None and start <= now
 
     @staticmethod
     def _carry_over_fields(event: dict, known: dict | None):

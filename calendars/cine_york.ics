@@ -706,22 +706,6 @@ URL:https://lumiton.ar/evento/rosaura-a-las-10/
 X-LUMITON-HASH:8108094ce5097331619129ddfa1f848cbdb0af9d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNDERGROUND
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261120T232200
-DTSTAMP:20261112T234331Z
-UID:7cf0df71d49c13531784@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 8.0/10 | 167 min\nhttps://www.imdb.com/title/tt0114787/\
- nSinopsis: En Belgrado\, durante los bombardeos de la Segunda Guerra Mundi
- al\, dos amigos —Blacky y Marko— se refugian bajo tierra.…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/underground/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/underground/
-X-LUMITON-HASH:95cff17e73f9ac694d87fb84eb0ea5d3e96f02c7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PERDIDOS EN TOKIO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T194700
@@ -770,22 +754,6 @@ LOCATION:Cine York
 STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/laberinto-2-2/
 X-LUMITON-HASH:724905ec83e86f98d4f8174b8dc24c8747aa6445
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA CIÉNAGA
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261122T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261122T194800
-DTSTAMP:20261112T234331Z
-UID:d1638857afc508e66d9c@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 7.0/10 | 103 min\nhttps://www.imdb.com/title/tt0240419/\
- nSinopsis: La Mandrágora es el nombre de la finca donde veranea Mecha\, u
- na cincuentona madre de cuatro hijos casada con…\n\nVenue: Cine York\n\n
- More info: https://lumiton.ar/evento/la-cienaga-4/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-cienaga-4/
-X-LUMITON-HASH:92856f6d9b6978d8e760dfe4f09b00945ced58b7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2001: ODISEA EN EL ESPACIO

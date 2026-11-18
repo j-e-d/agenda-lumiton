@@ -275,23 +275,6 @@ URL:https://lumiton.ar/evento/volver-al-futuro-5/
 X-LUMITON-HASH:556988fb9c09038fb6b605f3be00e5c826f61ed4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALIEN\, EL OCTAVO PASAJERO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261120T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261120T203200
-DTSTAMP:20261112T234331Z
-UID:ef76d5c6efb7e5db6f76@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:IMDb: 8.4/10 | 117 min\nhttps://www.imdb.com/title/tt0078748/\
- nSinopsis: De regreso a la Tierra\, la nave de carga Nostromo despierta a 
- sus siete tripulantes. El ordenador central\, MADRE\,…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/alien-el-octavo-pas
- ajero-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/alien-el-octavo-pasajero-2/
-X-LUMITON-HASH:bc88149429ee583ed024f855ad3194a6ef836084
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL PADRINO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261121T213000
