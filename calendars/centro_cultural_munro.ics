@@ -15,22 +15,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:DEPREDADOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261022T202200
-DTSTAMP:20261112T234331Z
-UID:b650e9cc5afd08bc5df6@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.8/10 | 107 min\nhttps://www.imdb.com/title/tt0093773/\
- nSinopsis: Un equipo de comandos en una misión en la selva centroamerican
- a es perseguido por un guerrero extraterrestre. Reseña: Un…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/depredador/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/depredador/
-X-LUMITON-HASH:d7ea94a78258f77ed674562fdcdb540bcf591514
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL EXTRAÑO MUNDO DE JACK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T175100

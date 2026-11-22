@@ -14,22 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:DEPREDADOR
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261022T202200
-DTSTAMP:20261112T234331Z
-UID:b650e9cc5afd08bc5df6@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.8/10 | 107 min\nhttps://www.imdb.com/title/tt0093773/\
- nSinopsis: Un equipo de comandos en una misión en la selva centroamerican
- a es perseguido por un guerrero extraterrestre. Reseña: Un…\n\nVenue: C
- entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/depredador/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/depredador/
-X-LUMITON-HASH:d7ea94a78258f77ed674562fdcdb540bcf591514
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OCTUBRE 23\, UNA HISTORIA DE ESTUDIANTES SECUNDARIOS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261023T200500
@@ -322,23 +306,6 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/vicente-lopez-en-pantalla-programa-de-cortos
  -2/
 X-LUMITON-HASH:c61f73a1e52731c163662647581b654ce3e5db69
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10 AÑOS DEL FESTIVAL LUZ DEL DESIERTO: EL CINE COMO TERRITORIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T130000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261022T150500
-DTSTAMP:20261104T111653Z
-UID:e92b0744046fdbe7d821@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:El Festival Internacional de Cine Luz del Desierto llega a Vic
- ente López con una actividad especial en el Museo Lumiton.…\n\nVenue: L
- umiton\n\nMore info: https://lumiton.ar/evento/10-anos-del-festival-luz-de
- l-desierto-el-cine-como-territorio/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/10-anos-del-festival-luz-del-desierto-el-cin
- e-como-territorio/
-X-LUMITON-HASH:7ad29dab03d2b7bf3aeb18753545519367c6fca9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EL MIEDO DEL ARQUERO AL TIRO PENAL

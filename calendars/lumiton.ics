@@ -30,23 +30,6 @@ URL:https://lumiton.ar/evento/una-velada-con-narciso-ibanez-menta/
 X-LUMITON-HASH:3c826b35b9b9ac545f154924bdd6e07f22ca2e26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:10 AÑOS DEL FESTIVAL LUZ DEL DESIERTO: EL CINE COMO TERRITORIO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261022T130000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261022T150500
-DTSTAMP:20261104T111653Z
-UID:e92b0744046fdbe7d821@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:El Festival Internacional de Cine Luz del Desierto llega a Vic
- ente López con una actividad especial en el Museo Lumiton.…\n\nVenue: L
- umiton\n\nMore info: https://lumiton.ar/evento/10-anos-del-festival-luz-de
- l-desierto-el-cine-como-territorio/
-LOCATION:Lumiton
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/10-anos-del-festival-luz-del-desierto-el-cin
- e-como-territorio/
-X-LUMITON-HASH:7ad29dab03d2b7bf3aeb18753545519367c6fca9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA VIDA ES UN TANGO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261104T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261104T193200
