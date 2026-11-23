@@ -14,39 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:OCTUBRE 23\, UNA HISTORIA DE ESTUDIANTES SECUNDARIOS
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261023T200500
-DTSTAMP:20261104T111653Z
-UID:f84a480c76fe80d646f6@lumiton.ar
-SEQUENCE:1
-DESCRIPTION:Sinopsis: Relata el secuestro y desaparición de cinco estudia
- ntes secundarios del Colegio Nacional de Vicente López durante la última
-  dictadura…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
- octubre-23-una-historia-de-estudiantes-secundarios/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/octubre-23-una-historia-de-estudiantes-secun
- darios/
-X-LUMITON-HASH:ffae61cd878421b26d766ab4aa096cc3f37e548b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ROCKY HORROR PICTURE SHOW
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261023T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261023T221500
-DTSTAMP:20261112T234331Z
-UID:997e700cb0db336ce873@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.4/10 | 100 min\nhttps://www.imdb.com/title/tt0073629/\
- nSinopsis: Janet y Brad son una pareja que\, de regreso de la boda de unos
-  amigos\, acaban por refugiarse en…\n\nVenue: Cine York\n\nMore info: ht
- tps://lumiton.ar/evento/the-rocky-horror-picture-show/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/the-rocky-horror-picture-show/
-X-LUMITON-HASH:95b8fa5caf4213bf08e13bbd338dc159eea08eb5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LA HORA DEL ESPANTO
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261024T195100
