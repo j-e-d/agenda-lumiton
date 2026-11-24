@@ -14,40 +14,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:LA HORA DEL ESPANTO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261024T195100
-DTSTAMP:20261112T234331Z
-UID:65826fbb1b5e3319bed2@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.1/10 | 106 min\nhttps://www.imdb.com/title/tt0089175/\
- nSinopsis: Un adolescente descubre que el recién llegado a su barrio es u
- n vampiro\, por lo que recurre a un…\n\nVenue: Cine York\n\nMore info: h
- ttps://lumiton.ar/evento/la-hora-del-espanto/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/la-hora-del-espanto/
-X-LUMITON-HASH:6023d9d427e2e133f959fdef212e332220f673f2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PESADILLA EN LO PROFUNDO DE LA NOCHE 3: GUERREROS DEL SUEÑO
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T203000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261024T221100
-DTSTAMP:20261112T234331Z
-UID:107e464671c1edc5780e@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 6.7/10 | 96 min\nhttps://www.imdb.com/title/tt0093629/\n
- Sinopsis: Sobrevivientes del asesino serial no muerto Freddy Krueger –qu
- ien acecha a sus víctimas en sus sueños– aprenden a tomar…\n\nVenue:
-  Cine York\n\nMore info: https://lumiton.ar/evento/pesadilla-en-lo-profund
- o-de-la-noche-3-guerreros-del-sueno/
-LOCATION:Cine York
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/pesadilla-en-lo-profundo-de-la-noche-3-guerr
- eros-del-sueno/
-X-LUMITON-HASH:752effa564813d833f7dddf1d875584b307d5fa9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EL EXTRAÑO MUNDO DE JACK
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T175100
