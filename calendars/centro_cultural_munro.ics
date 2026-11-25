@@ -15,38 +15,6 @@ TZOFFSETTO:-0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:EL EXTRAÑO MUNDO DE JACK
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261025T175100
-DTSTAMP:20261112T234331Z
-UID:7e75e56656eeb904c970@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 7.9/10 | 76 min\nhttps://www.imdb.com/title/tt0107688/\n
- Sinopsis: Jack\, el rey de la noche de brujas descubre la navidad y queda 
- impresionado a pesar de que no…\n\nVenue: Centro Cultural Munro\n\nMore 
- info: https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/el-extrano-mundo-de-jack-2/
-X-LUMITON-HASH:0cc05d758d203002f26cd4b5ed10a19dee8b4843
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRANZ
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T183000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261025T204200
-DTSTAMP:20261112T234331Z
-UID:b27c9490a6ef25b1e08d@lumiton.ar
-SEQUENCE:3
-DESCRIPTION:IMDb: 6.2/10 | 127 min\nhttps://www.imdb.com/title/tt17070412/
- \nSinopsis: Concebida como un mosaico caleidoscópico\, la película sigue
-  la huella que Franz Kafka dejó en el mundo desde su…\n\nVenue: Centro 
- Cultural Munro\n\nMore info: https://lumiton.ar/evento/franz/
-LOCATION:Centro Cultural Munro
-STATUS:CONFIRMED
-URL:https://lumiton.ar/evento/franz/
-X-LUMITON-HASH:e2434e2f580b58bbb50477de854e05b36530428a
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS LOCOS ADAMS
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261101T183500
