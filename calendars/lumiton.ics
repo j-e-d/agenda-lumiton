@@ -92,4 +92,36 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/la-noche-de-los-museos-5/
 X-LUMITON-HASH:be9397cab6e1b376cac23f6f0cc18bba9eac8f27
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCHES DE BUENOS AIRES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261205T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261205T192000
+DTSTAMP:20261126T052428Z
+UID:c3147e68b577063a82ad@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 2.8/10 | 75 min\nhttps://www.imdb.com/title/tt0166737/\n
+ Diversas historias de amor y de crimen se suceden en el contexto de un tea
+ tro\, entre cantantes de tango\, músicos…\n\nVenue: Lumiton\n\nMore inf
+ o: https://lumiton.ar/evento/noches-de-buenos-aires/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/noches-de-buenos-aires/
+X-LUMITON-HASH:2244abdca98285e544722c8abac6db202fc4b2b9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JANE AUSTEN EN EL CINE: SEGUNDAS IMPRESIONES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261216T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261216T210500
+DTSTAMP:20261126T052428Z
+UID:1f5e7c4d919d5c717bfa@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:El 16 de diciembre de 1775 nació Jane Austen en Steventon\, I
+ nglaterra. 251 años después\, el Lumiclub nos reúne para …\n\nVenue: 
+ Lumiton\n\nMore info: https://lumiton.ar/evento/jane-austen-en-el-cine-seg
+ undas-impresiones/
+LOCATION:Lumiton
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/jane-austen-en-el-cine-segundas-impresiones/
+X-LUMITON-HASH:9840f74f2487903c1ba57c3392c0d6e0a5e161b7
+END:VEVENT
 END:VCALENDAR

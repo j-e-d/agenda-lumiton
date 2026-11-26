@@ -307,4 +307,136 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/the-chosen/
 X-LUMITON-HASH:6e0c03e6ed3c7ca3d83d629f8f4191e74043393c
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ONE PIECE: LA PELÍCULA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261203T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261203T192600
+DTSTAMP:20261126T052428Z
+UID:25103611e151ccfb4a79@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.8/10 | 51 min\nhttps://www.imdb.com/title/tt0814243/\n
+ SinopsisLa tripulación original (Luffy\, Zoro\, Nami y Usopp) conoce a To
+ bio\, un niño que sueña con encontrar el tesoro de…\n\nVenue: Centro C
+ ultural Munro\n\nMore info: https://lumiton.ar/evento/one-piece-la-pelicul
+ a/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/one-piece-la-pelicula/
+X-LUMITON-HASH:01232bdb2e687eee0c53766215357c40daaec8ae
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIKI ENTREGAS A DOMICILIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T181800
+DTSTAMP:20261126T052428Z
+UID:549e0adcccaf4d2c3dfb@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.8/10 | 103 min\nhttps://www.imdb.com/title/tt0097814/\
+ nSinopsisUn retrato luminoso del paso a la adolescencia\, donde Kiki descu
+ bre su lugar en el mundo al ritmo de su…\n\nVenue: Centro Cultural Munro
+ \n\nMore info: https://lumiton.ar/evento/kiki-entregas-a-domicilio-5/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/kiki-entregas-a-domicilio-5/
+X-LUMITON-HASH:478abbfafeb0457fa543799bae684b52a51d4580
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERFUME\, UNA PELÍCULA DE MARÍA GABRIELA EPUMER
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261210T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261210T203500
+DTSTAMP:20261126T052428Z
+UID:5937b4e52387e65280e9@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisMaría Gabriela Epumer fue una mujer que con un talent
+ o innovador creaba y tocaba rock en los ‘80 y ’90…\n\nVenue: Centro 
+ Cultural Munro\n\nMore info: https://lumiton.ar/evento/perfume-una-pelicul
+ a-de-maria-gabriela-epumer/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/perfume-una-pelicula-de-maria-gabriela-epume
+ r/
+X-LUMITON-HASH:e4430d5510c78f8fce4fc9d89fd984cbd05aa794
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL CASTILLO AMBULANTE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261213T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261213T183400
+DTSTAMP:20261126T052428Z
+UID:bb199c1be18247e793e3@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.2/10 | 119 min\nhttps://www.imdb.com/title/tt0347149/\
+ nSinopsisNarra la historia de Sophie\, una joven sobre la que pesa una hor
+ rible maldición que le confiere el aspecto de…\n\nVenue: Centro Cultura
+ l Munro\n\nMore info: https://lumiton.ar/evento/el-castillo-ambulante/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-castillo-ambulante/
+X-LUMITON-HASH:c60fa643a03752880b4e72e26a2726cfa3db495a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESTACIÓN ZOMBIE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261213T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261213T203300
+DTSTAMP:20261126T052428Z
+UID:e705bcf1765056eeb4c2@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.6/10 | 118 min\nhttps://www.imdb.com/title/tt5700672/\
+ nSinopsisCuando un virus zombi brota en Corea del Sur\, los pasajeros de u
+ n tren que va de Seúl a Busan…\n\nVenue: Centro Cultural Munro\n\nMore 
+ info: https://lumiton.ar/evento/estacion-zombie/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/estacion-zombie/
+X-LUMITON-HASH:49fbae68eb5b832195ef266717ded7d0dbf90d64
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ORGULLO Y PREJUICIO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261217T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261217T204400
+DTSTAMP:20261126T052428Z
+UID:94643f3badc2fc895126@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.8/10 | 129 min\nhttps://www.imdb.com/title/tt0414387/\
+ nSinopsisEn la Inglaterra rural de comienzos del siglo XIX\, Elizabeth Ben
+ net conoce a Fitzwilliam Darcy\, un hombre rico y reservado…\n\nVenue: C
+ entro Cultural Munro\n\nMore info: https://lumiton.ar/evento/orgullo-y-pre
+ juicio/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/orgullo-y-prejuicio/
+X-LUMITON-HASH:72147488bc41812db42c2b4806caf1753f765df9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOY STORY 5
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261220T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261220T181700
+DTSTAMP:20261126T052428Z
+UID:8e2015e14ff688835f15@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.3/10 | 102 min\nhttps://www.imdb.com/title/tt29355505/
+ \nSinopsisLos juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woody
+ \, Jessie y el resto de la pandilla se enfrentan a…\n\nVenue: Centro Cul
+ tural Munro\n\nMore info: https://lumiton.ar/evento/toy-story-5/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/toy-story-5/
+X-LUMITON-HASH:8e239ab1f1a66e5ec5af3117a9de9eb9ab66b21b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GODZILLA MINUS ZERO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261220T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261220T205000
+DTSTAMP:20261126T052428Z
+UID:81c006ca281c30837e67@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 8.0/10 | 135 min\nhttps://www.imdb.com/title/tt34384661/
+ \nSinopsisAmbientada en 1949\, dos años después de los turbulentos acont
+ ecimientos de Godzilla Minus One\, la familia Shikishima enfrenta una nuev
+ a…\n\nVenue: Centro Cultural Munro\n\nMore info: https://lumiton.ar/even
+ to/godzilla-minus-zero/
+LOCATION:Centro Cultural Munro
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/godzilla-minus-zero/
+X-LUMITON-HASH:32ab584c8ea0e741ef1c8e768b6c694b61720c33
+END:VEVENT
 END:VCALENDAR

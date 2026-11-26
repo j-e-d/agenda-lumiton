@@ -737,4 +737,516 @@ STATUS:CONFIRMED
 URL:https://lumiton.ar/evento/dracula-2-2/
 X-LUMITON-HASH:849e71dbdaebb3b22ed31d505d3658a7e5eb75fa
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HACER UN LIBRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261203T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261203T200500
+DTSTAMP:20261126T052428Z
+UID:8d05a321bf397cd13896@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisDurante 2025\, Ediciones Hora Mágica y el Centro de D
+ ía Senderos del Sembrador llevaron adelante un laboratorio editorial para
+  responder…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/
+ hacer-un-libro/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hacer-un-libro/
+X-LUMITON-HASH:e6191b9e3fc73d0db6aa70cf43edaa279c08bb49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MI MEJOR ENEMIGO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261203T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261203T221500
+DTSTAMP:20261126T052428Z
+UID:ad56887afbb5b18f2a2d@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.2/10 | 100 min\nhttps://www.imdb.com/title/tt0410316/\
+ nSinopsis El film documenta la historia de amor y odio que unió a Kinski 
+ y Herzog desde la mirada del…\n\nVenue: Cine York\n\nMore info: https://
+ lumiton.ar/evento/mi-mejor-enemigo/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/mi-mejor-enemigo/
+X-LUMITON-HASH:4e468e05a0f9aaf25094d592ffded69adf474cc9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COBRA VERDE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261204T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261204T195600
+DTSTAMP:20261126T052428Z
+UID:fd32d17685e880b106f8@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.9/10 | 111 min\nhttps://www.imdb.com/title/tt0094888/\
+ nSinopsisEl brasileño Francisco Manoel Da Silva fue el más pobre entre l
+ os pobres\, un aventurero que empezó buscando oro y…\n\nVenue: Cine Yor
+ k\n\nMore info: https://lumiton.ar/evento/cobra-verde-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cobra-verde-4/
+X-LUMITON-HASH:593dd35216ac9ddd07c377afcd4cde77f8212dac
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FITZCARRALDO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261204T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261204T231300
+DTSTAMP:20261126T052428Z
+UID:4f590a00514bca45f51e@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.9/10 | 158 min\nhttps://www.imdb.com/title/tt0083946/\
+ nSinopsisBrian Fitzgerald "Fitzcarraldo"\, un excéntrico y megalómano ho
+ mbre de negocios obsesionado con la ópera\, ha ido perdiendo su prestigio
+  y…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/fitzcarr
+ aldo-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/fitzcarraldo-4/
+X-LUMITON-HASH:08659c7b0a0dff13f0205000b1c15b6e91f0101a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOYZECK
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261205T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261205T192700
+DTSTAMP:20261126T052428Z
+UID:bd64df92a3dc17d4614d@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.9/10 | 82 min\nhttps://www.imdb.com/title/tt0080149/\n
+ SinopsisAdaptación de la obra de Georg Büchner. Franz Woyzeck es un sold
+ ado de clase baja y de mente frágil que…\n\nVenue: Cine York\n\nMore in
+ fo: https://lumiton.ar/evento/woyzeck/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/woyzeck/
+X-LUMITON-HASH:313a4b48dacf4b057f9c1ee81b0d1582737866d7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOSFERATU\, EL VAMPIRO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261205T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261205T221100
+DTSTAMP:20261126T052428Z
+UID:d3a579d19de5252a39ff@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.3/10 | 96 min\nhttps://www.imdb.com/title/tt0079641/\n
+ SinopsisEn esta nueva adaptación del clásico de Bram Stoker\, Herzog tom
+ a como punto de referencia la insuperable versión muda de…\n\nVenue: Ci
+ ne York\n\nMore info: https://lumiton.ar/evento/nosferatu-el-vampiro/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/nosferatu-el-vampiro/
+X-LUMITON-HASH:3a39037fd49444fb0d910a07f5e5469a6391dfb0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROGRAMA DE CORTOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T190500
+DTSTAMP:20261126T052428Z
+UID:81fab36c9ae7d0841e12@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:La producción audiovisual de Vicente López tiene múltiples 
+ voces\, historias y formas de mirar. Una invitación a descubrir lo que…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/programa-de-c
+ ortos-i/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/programa-de-cortos-i/
+X-LUMITON-HASH:012496881b967c7dcd33bf1814236f72d89254c7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HECHIZO DE LUNA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T194700
+DTSTAMP:20261126T052428Z
+UID:cf4be2f7e0b33919d827@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.2/10 | 102 min\nhttps://www.imdb.com/title/tt0093565/\
+ nSinopsisLoretta Castorini\, una contadora de Brooklyn\, Nueva York\, se e
+ ncuentra en una situación difícil cuando se enamora del hermano del…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/hechizo-de-luna
+ /
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/hechizo-de-luna/
+X-LUMITON-HASH:66bd014ad72ca731c314374837ec314c2aaca5f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGUIRRE\, LA IRA DE DIOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261206T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261206T221000
+DTSTAMP:20261126T052428Z
+UID:386389f1b7cfa3490e1c@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.7/10 | 95 min\nhttps://www.imdb.com/title/tt0068182/\n
+ SinopsisEn 1560\, poco después de la destrucción del imperio inca\, una 
+ expedición española parte de las montañas de Perú rumbo…\n\nVenue: C
+ ine York\n\nMore info: https://lumiton.ar/evento/aguirre-la-ira-de-dios/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/aguirre-la-ira-de-dios/
+X-LUMITON-HASH:e4d6c57c00cf96770fee5e1c712f2b91327d8fbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UN CUENTO LATINOAMERICANO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261209T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261209T200500
+DTSTAMP:20261126T052428Z
+UID:c1910d594c34a15ce323@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisDurante el primer gobierno de Perón\, un experimento 
+ social que usó prostitutas para mantener el equilibrio en un pueblo ideal
+ …\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/un-cuento-
+ latinoamericano/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/un-cuento-latinoamericano/
+X-LUMITON-HASH:98bc2a53c3ba0487064c1ee41f7f0763bc68b134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESPABILATE AMOR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261209T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261209T221300
+DTSTAMP:20261126T052428Z
+UID:fc9219c3d0e9f15681bb@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.7/10 | 98 min\nhttps://www.imdb.com/title/tt0116086/\n
+ Proyección en fílmico 35 mmSinopsisTras 25 años sin verlos\, un cuarent
+ ón se empeña en reunir a los viejos amigos del…\n\nVenue: Cine York\n\
+ nMore info: https://lumiton.ar/evento/despabilate-amor/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/despabilate-amor/
+X-LUMITON-HASH:0d519d0d9e0c5f3ba7d90b3c0e218946605b6c4f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA HORA DE LOS HORNOS: NOTAS Y TESTIMONIOS SOBRE EL NEOCOLONIALISM
+ O\, LA VIOLENCIA Y LA LIBERACIÓN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261210T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261210T222500
+DTSTAMP:20261126T052428Z
+UID:53e0ec2b5b9c21481205@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.6/10 | 260 min\nhttps://www.imdb.com/title/tt0063084/\
+ nSinopsisLa hora de Los Hornos es una de las obras más largas del cine la
+ tinoamericano. Una trilogía compuesta por películas…\n\nVenue: Cine Yo
+ rk\n\nMore info: https://lumiton.ar/evento/la-hora-de-los-hornos-notas-y-t
+ estimonios-sobre-el-neocolonialismo-la-violencia-y-la-liberacion/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-hora-de-los-hornos-notas-y-testimonios-so
+ bre-el-neocolonialismo-la-violencia-y-la-liberacion/
+X-LUMITON-HASH:5df760c7b73bf8172cd833bda2f2b75a62b716ea
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NUBE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261211T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261211T194600
+DTSTAMP:20261126T052428Z
+UID:528be9da0e84e95ea98e@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 5.3/10 | 101 min\nhttps://www.imdb.com/title/tt10675724/
+ \nProyección en 35 mmSinopsisLlueve hace más de 1600 días en la ciudad 
+ de Buenos Aires\, donde la vida transcurre normalmente…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/la-nube/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/la-nube/
+X-LUMITON-HASH:1dbc8722513282069135eb6f1c68d886908ed4de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUR
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261211T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261211T223500
+DTSTAMP:20261126T052428Z
+UID:4d384b66be36eff62b73@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisArgentina\, 1983\, fin de la dictadura militar. Florea
+ l sale\, por fin\, de la cárcel. Durante cinco años su mujer ha…\n\nVe
+ nue: Cine York\n\nMore info: https://lumiton.ar/evento/sur-7/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/sur-7/
+X-LUMITON-HASH:f14b15a0e6f835e3ff3a92e1b16aa2e299d31861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRES EN LA DERIVA DEL ACTO CREATIVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261212T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261212T194100
+DTSTAMP:20261126T052428Z
+UID:d8a4a1aeeb314119068f@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.3/10 | 96 min\nhttps://www.imdb.com/title/tt12070656/\
+ nSinopsisEste film nació de un encuentro de tres viejos amigos que son re
+ ferentes de la cultura latinoamericana: el pintor Luis…\n\nVenue: Cine Y
+ ork\n\nMore info: https://lumiton.ar/evento/tres-en-la-deriva-del-acto-cre
+ ativo-6/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/tres-en-la-deriva-del-acto-creativo-6/
+X-LUMITON-HASH:10b9ef40d54d924db2a6cd4a68ce48b5ad0acce4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL VIAJE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261212T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261212T223500
+DTSTAMP:20261126T052428Z
+UID:a77a4914bd188f0234c0@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisMartín vive en Tierra del Fuego con su madre y con su
+  padrastro. Un día decide emprender un viaje por…\n\nVenue: Cine York\n
+ \nMore info: https://lumiton.ar/evento/el-viaje-4/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-viaje-4/
+X-LUMITON-HASH:031557a1ba6d6324fedd201d33106561d79ea2b2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROGRAMA DE CORTOS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261213T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261213T190500
+DTSTAMP:20261126T052428Z
+UID:92342a6f174f327d6066@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:La producción audiovisual de Vicente López tiene múltiples 
+ voces\, historias y formas de mirar. Una invitación a descubrir lo que…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/programa-de-c
+ ortos-ii/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/programa-de-cortos-ii/
+X-LUMITON-HASH:39028de2330b85dbf0c86ce2a27c8a2e05a5767b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUATRO BODAS Y UN FUNERAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261213T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261213T200200
+DTSTAMP:20261126T052428Z
+UID:3d5d9fd38555f9c7e337@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.1/10 | 117 min\nhttps://www.imdb.com/title/tt0109831/\
+ nSinopsisCharles (Hugh Grant) y sus amigos\, todos ellos solteros y sin co
+ mpromiso\, han llegado a una edad en la que…\n\nVenue: Cine York\n\nMore
+  info: https://lumiton.ar/evento/cuatro-bodas-y-un-funeral/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuatro-bodas-y-un-funeral/
+X-LUMITON-HASH:9778f179e3efa108f3d0ecda08c3fa5ee05b473b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEASTIE BOYS
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261213T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261213T223800
+DTSTAMP:20261126T052428Z
+UID:3986f7791705d3e9505d@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 5.6/10 | 123 min\nhttps://www.imdb.com/title/tt1233464/\
+ nMike D (Michael Diamond)\, Ad-Rock (Adam Horovitz) y MCA (Adam Yauch) hic
+ ieron de Beastie Boys una banda difícil de encasillar.…\n\nVenue: Cine 
+ York\n\nMore info: https://lumiton.ar/evento/beastie-boys/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/beastie-boys/
+X-LUMITON-HASH:c3d693305ab515ba20462d76754d3f94cb538b75
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SI YO FUERA EL INVIERNO MISMO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261216T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261216T200500
+DTSTAMP:20261126T052428Z
+UID:66d13f3401ca6d512465@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este film se proyectará luego del corto Juego vivo (Dir. Jazm
+ ín López)SinopsisCuatro amigos se encuentran en una casa campo remota…
+ \n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/si-yo-fuera-e
+ l-invierno-mismo-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/si-yo-fuera-el-invierno-mismo-2/
+X-LUMITON-HASH:d1dd0c9d0c39174edcf9dc3659f1b60e1221354c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JUEGO VIVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261216T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261216T200500
+DTSTAMP:20261126T052428Z
+UID:e1b3fb58e5fdc4611236@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este corto se proyectará previamente al largometraje Si yo fu
+ era el invierno mismo (Dir. Jazmín López)SinopsisFilmado en 35 mm en…\
+ n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/juego-vivo-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/juego-vivo-2/
+X-LUMITON-HASH:f7f38209b1c9b1c72684cbc48de4960573c94f8c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JUEGO VIVO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261216T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261216T223500
+DTSTAMP:20261126T052428Z
+UID:83f476da13f6384e6dd9@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este corto se proyectará previamente al largometraje Leones (
+ Dir. Jazmín López)SinopsisFilmado en 35 mm en dos tomas de encuadre simp
+ le\,…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/juego-
+ vivo-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/juego-vivo-3/
+X-LUMITON-HASH:700144a1e2fffc123599089684ca642d624c4b56
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEONES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261216T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261216T223500
+DTSTAMP:20261126T052428Z
+UID:8bcc45f94d122a90148a@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este film se proyectará luego del corto Juego vivo (Dir. Jazm
+ ín López)SinopsisUn grupo de cinco amigos deambulan por un bosque\,…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/leones/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/leones/
+X-LUMITON-HASH:bebe0e4ba6ef55d6b3fd3a74ce8b1af9647afce7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EN EL ANDÉN
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261217T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261217T200500
+DTSTAMP:20261126T052428Z
+UID:ba15ed48f5fc71c966ed@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este corto se proyectará previamente al largometraje Memoria 
+ fotográfica (Dir. Pablo Pintor)SinopsisDaniel\, un introvertido y cautelo
+ so fotógrafo que convive con…\n\nVenue: Cine York\n\nMore info: https:/
+ /lumiton.ar/evento/en-el-anden/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/en-el-anden/
+X-LUMITON-HASH:7f92ece45b1a57f5c566efde473b99c60df0a0de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEMORIA FOTOGRÁFICA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261217T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261217T200500
+DTSTAMP:20261126T052428Z
+UID:046d5695f270b9ea15ed@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este film se proyectará luego del corto En el andén (Dir. Ma
+ teo Garimberti)SinopsisPablo intenta recuperar la pasión por la fotograf
+ ía…\n\nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/memoria
+ -fotografica-3/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/memoria-fotografica-3/
+X-LUMITON-HASH:422d295f8fb963e6c8fd9ff6919b0715955f09f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACHADO
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261217T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261217T223500
+DTSTAMP:20261126T052428Z
+UID:d51464dfd6fd3c0d729a@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:SinopsisJulián graba a sus parientes por parte de madre —ac
+ tores de cine y televisión en la década de 1990— mientras…\n\nVenue:
+  Cine York\n\nMore info: https://lumiton.ar/evento/machado/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/machado/
+X-LUMITON-HASH:afd02550761e39e74d11737907c5ee31817761d9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOS VENCEDORES
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261218T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261218T210000
+DTSTAMP:20261126T052428Z
+UID:8b8142b25371ec51a2af@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.9/10 | 175 min\nhttps://www.imdb.com/title/tt0057652/\
+ nSinopsisUn director argentino viaja a Malvinas para explorar las huellas 
+ de la guerra del 82. Lo que parecía un retrato…\n\nVenue: Cine York\n\n
+ More info: https://lumiton.ar/evento/los-vencedores/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/los-vencedores/
+X-LUMITON-HASH:10645be8b811bee18634bda06891cd835d2fc7f0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MODELO 73
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261218T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261218T223500
+DTSTAMP:20261126T052428Z
+UID:acca31432945d1e858ce@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este film se proyectará luego del corto Leo 16 (Dir. Rodrigo 
+ Moscoso)SinopsisEn la búsqueda de un verano divertido y sobre…\n\nVenue
+ : Cine York\n\nMore info: https://lumiton.ar/evento/modelo-73/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/modelo-73/
+X-LUMITON-HASH:ec2d4baa5fd31c70736485eff5a5cb7521da6ca5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEO 16
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261218T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261218T223500
+DTSTAMP:20261126T052428Z
+UID:2df90a004a88c13fddc9@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:Este corto se proyectará previamente al largometraje Modelo 7
+ 3 (Dir. Rodrigo Moscoso )SinopsisCuatro días en la vida de Leo\, de…\n\
+ nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/leo-16/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/leo-16/
+X-LUMITON-HASH:27f67020d88fad99fade0022a106d90d5b4550c4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PIN DE FARTIE
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261219T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261219T195100
+DTSTAMP:20261126T052428Z
+UID:8bdb5f94aab8abbe0ecc@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.3/10 | 106 min\nhttps://www.imdb.com/title/tt37660507/
+ \nSinopsisUna niña y un ciego frente a un lago. Dos actores que se juntan
+  como amantes a ensayar una vieja…\n\nVenue: Cine York\n\nMore info: htt
+ ps://lumiton.ar/evento/pin-de-fartie/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/pin-de-fartie/
+X-LUMITON-HASH:4e9d39b506e2dabe2cfa3a844237e24cbf5bb1cc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL TREN FLUVIAL
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261219T203000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261219T215000
+DTSTAMP:20261126T052428Z
+UID:d2d65a9241d1c10c1227@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 6.3/10 | 75 min\nhttps://www.imdb.com/title/tt39381628/\
+ nSinopsisMilo\, de 9 años\, vive en un pueblo remoto de Argentina\, donde
+  se entrena como bailarín de malambo. Pero sus…\n\nVenue: Cine York\n\n
+ More info: https://lumiton.ar/evento/el-tren-fluvial/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/el-tren-fluvial/
+X-LUMITON-HASH:506013b260a6d29c44c7cd24a78585a06c3ff5b9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUANDO HARRY CONOCIÓ A SALLY
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261220T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261220T194000
+DTSTAMP:20261126T052428Z
+UID:057e286161922f399ff5@lumiton.ar
+SEQUENCE:0
+DESCRIPTION:IMDb: 7.7/10 | 95 min\nhttps://www.imdb.com/title/tt0098635/\n
+ SinopsisHarry y Sally se conocen desde hace años y son buenos amigos\, pe
+ ro temen que acostarse arruinaría su relación.ReseñaLa maravillosa…\n
+ \nVenue: Cine York\n\nMore info: https://lumiton.ar/evento/cuando-harry-co
+ nocio-a-sally-2/
+LOCATION:Cine York
+STATUS:CONFIRMED
+URL:https://lumiton.ar/evento/cuando-harry-conocio-a-sally-2/
+X-LUMITON-HASH:e15d547d42bffd851cbe6e7b6bd6ddc036b85a67
+END:VEVENT
 END:VCALENDAR
